@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041774606659579931",
+    "created_at": "2026-04-08T12:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041857662783254891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041857662783254891",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041774606659579931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed 原形毕露🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2041774597461438465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXXLbka8AEo9mR.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041774606659579931",
+        "created_at": "2026-04-08T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041857662783254891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041857662783254891",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041774606659579931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 原形毕露🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041774597461438465"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2041774606659579931",
+        "created_at": "2026-04-08T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041774606659579931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYdXmBSoic",
+              "end": 28,
+              "expanded_url": "https://x.com/axzamyzed/status/2041774606659579931/photo/1",
+              "media_key": "3_2041774597461438465",
+              "start": 5,
+              "url": "https://t.co/AYdXmBSoic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041774606659579931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 25038,
+          "like_count": 886,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "好耳熟啊 https://t.co/AYdXmBSoic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 300,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 927,
+          "like_count": 8565,
+          "listed_count": 4,
+          "media_count": 656,
+          "tweet_count": 5173
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

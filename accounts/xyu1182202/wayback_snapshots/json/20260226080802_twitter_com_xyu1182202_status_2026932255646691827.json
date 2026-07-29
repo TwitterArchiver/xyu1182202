@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2026853496541290949",
+    "created_at": "2026-02-26T08:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026932255646691827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753653408895270912",
+          "start": 0,
+          "username": "samshanw33650"
+        },
+        {
+          "end": 30,
+          "id": "1940568158517235712",
+          "start": 15,
+          "username": "shaoxianduipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026932255646691827",
+    "in_reply_to_user_id": "1753653408895270912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026885012096954860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samshanw33650 @shaoxianduipai 赢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2026853496541290949",
+        "created_at": "2026-02-26T08:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026932255646691827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753653408895270912",
+              "start": 0,
+              "username": "samshanw33650"
+            },
+            {
+              "end": 30,
+              "id": "1940568158517235712",
+              "start": 15,
+              "username": "shaoxianduipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026932255646691827",
+        "in_reply_to_user_id": "1753653408895270912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026885012096954860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samshanw33650 @shaoxianduipai 赢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753653408895270912",
+        "conversation_id": "2026853496541290949",
+        "created_at": "2026-02-26T05:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026885012096954860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940568158517235712",
+              "start": 0,
+              "username": "shaoxianduipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026885012096954860",
+        "in_reply_to_user_id": "1940568158517235712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20332,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026853496541290949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxianduipai 一个杀人如麻的头号恶魔，一个二号小矬子刽子手，一个闷声大发财的贪污犯，还有一个平庸的恶人，再加一头200斤猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022525776487399424/YtJik23m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T05:35:59.000Z",
+        "description": "Container  inspector",
+        "id": "1753653408895270912",
+        "location": "China",
+        "name": "SAM samshanw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753653539984089088/HUZKOy8-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 61,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1191
+        },
+        "username": "samshanw33650",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T00:29:15.000Z",
+        "description": "北京智库关系网/北京红三代关系网/政治经济评论/高层人事观察/爱国主义/团结史观/台海和平/中美共处/技术官僚主义/开明威权/贤能政治/",
+        "id": "1940568158517235712",
+        "name": "京圈儿政经评论",
+        "pinned_tweet_id": "1999748681659195666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951524085089120256/KZCsNGl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13369,
+          "following_count": 511,
+          "like_count": 4246,
+          "listed_count": 57,
+          "media_count": 22,
+          "tweet_count": 759
+        },
+        "username": "shaoxianduipai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060045191587983717",
+    "created_at": "2026-05-29T06:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060249540792651946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060249540792651946",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060045191587983717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 跌的粉碎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2060045186668113920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbALsSbMAA7L5u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060045191587983717",
+        "created_at": "2026-05-29T06:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060249540792651946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249540792651946",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060045191587983717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 跌的粉碎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045186668113920"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2060045191587983717",
+        "created_at": "2026-05-28T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060045191587983717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMXolPfu6E",
+              "end": 39,
+              "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+              "media_key": "3_2060045186668113920",
+              "start": 16,
+              "url": "https://t.co/KMXolPfu6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060045191587983717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 969,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1016,
+          "like_count": 5301,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5987
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 216,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 664
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

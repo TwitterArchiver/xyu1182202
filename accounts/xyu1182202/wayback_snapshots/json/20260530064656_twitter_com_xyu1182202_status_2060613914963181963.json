@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060480877361348760",
+    "created_at": "2026-05-30T06:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060613914963181963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44186175",
+          "start": 0,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060613914963181963",
+    "in_reply_to_user_id": "44186175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060480877361348760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingcanxue 害人不浅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_2060479701085532160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhLXwobMAAK2Ph.jpg",
+        "width": 1112
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2060479729921392640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhLZcDbgAAwwAE.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2060479753925365760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhLa1ebEAAP9Ez.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1728,
+        "media_key": "3_2060479772946538496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhLb8VbIAAdfcR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060480877361348760",
+        "created_at": "2026-05-30T06:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060613914963181963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060613914963181963",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060480877361348760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 害人不浅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060479701085532160",
+            "3_2060479729921392640",
+            "3_2060479753925365760",
+            "3_2060479772946538496"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2060480877361348760",
+        "created_at": "2026-05-29T21:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060480877361348760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxexzJNWS8",
+              "end": 162,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2060480877361348760/photo/1",
+              "media_key": "3_2060479701085532160",
+              "start": 139,
+              "url": "https://t.co/QxexzJNWS8"
+            },
+            {
+              "display_url": "pic.x.com/QxexzJNWS8",
+              "end": 162,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2060480877361348760/photo/1",
+              "media_key": "3_2060479729921392640",
+              "start": 139,
+              "url": "https://t.co/QxexzJNWS8"
+            },
+            {
+              "display_url": "pic.x.com/QxexzJNWS8",
+              "end": 162,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2060480877361348760/photo/1",
+              "media_key": "3_2060479753925365760",
+              "start": 139,
+              "url": "https://t.co/QxexzJNWS8"
+            },
+            {
+              "display_url": "pic.x.com/QxexzJNWS8",
+              "end": 162,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2060480877361348760/photo/1",
+              "media_key": "3_2060479772946538496",
+              "start": 139,
+              "url": "https://t.co/QxexzJNWS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060480877361348760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 66677,
+          "like_count": 424,
+          "quote_count": 12,
+          "reply_count": 99,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "网瘾学校新闻看多了，这么奇葩的头一次见。\n\n博主家庭不好，妈弱智，爹聋子+轻度弱智，弟残疾+弱智。博主是家里顶梁柱，一养三累惨了得了轻度抑郁。\n\n爹得知儿子抑郁，心急如焚，上网搜索，发现一网瘾学校号称能治抑郁。随即打电话。\n\n网瘾学校上门“收治”，把博主打残废，弟弟打瘫痪了。 https://t.co/QxexzJNWS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5329,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6033
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号，内容均可去掉id随意转载。错漏、传谣处欢迎指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表认同。请怀抱乐子人心态，太较真则可能严重抑郁。认知失调时请先反思自己是否3D人士。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237773,
+          "following_count": 1858,
+          "like_count": 190,
+          "listed_count": 1275,
+          "media_count": 29031,
+          "tweet_count": 37131
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059655846439653517",
+    "created_at": "2026-05-30T07:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060629116114915755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2854214132",
+          "start": 0,
+          "username": "QuixiAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060629116114915755",
+    "in_reply_to_user_id": "2854214132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059655846439653517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuixiAI qwen3.7已经发布"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059655846439653517",
+        "created_at": "2026-05-30T07:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060629116114915755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2854214132",
+              "start": 0,
+              "username": "QuixiAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060629116114915755",
+        "in_reply_to_user_id": "2854214132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059655846439653517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuixiAI qwen3.7已经发布"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2854214132",
+        "conversation_id": "2059655846439653517",
+        "created_at": "2026-05-27T15:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059655846439653517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059655846439653517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I created a training pipeline to remove propaganda and gaslighting from Chinese models!  \n\nI'm thrilled to announce LazarusAI's ReAligned-Qwen3.5 series of models, finetuned to reduce Chinese ideological bias and censorship, refusal behavior, and state-narrative framing\n\nI use SFT + GRPO pipeline with a dataset crafted to target the taxonomy of chinese censorship and bias, along with my ReAligned classifier model as a GRPO reward signal."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 261866,
+          "like_count": 160,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "I created a training pipeline to remove propaganda and gaslighting from Chinese models!  \n\nI'm thrilled to announce LazarusAI's ReAligned-Qwen3.5 series of models, finetuned to reduce Chinese ideological bias and censorship, refusal behavior, and state-narrative framing\n\nI use"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5349,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-13T10:22:51.000Z",
+        "description": "We make AI models Dolphin and Samantha\nBTC 3ENBV6zdwyqieAXzZP2i3EjeZtVwEmAuo4\nhttps://t.co/3ri2GbXrQB\nhttps://t.co/zH0F3pTjjY @dphnAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 126,
+                "username": "dphnAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/erichartford",
+                "end": 101,
+                "expanded_url": "https://ko-fi.com/erichartford",
+                "start": 78,
+                "url": "https://t.co/3ri2GbXrQB"
+              },
+              {
+                "display_url": "dphn.ai",
+                "end": 125,
+                "expanded_url": "https://dphn.ai",
+                "start": 102,
+                "url": "https://t.co/zH0F3pTjjY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "erichartford.com",
+                "end": 23,
+                "expanded_url": "https://erichartford.com",
+                "start": 0,
+                "url": "https://t.co/KB7sk0Y3vw"
+              }
+            ]
+          }
+        },
+        "id": "2854214132",
+        "location": "Charlotte, NC",
+        "name": "Eric Hartford",
+        "pinned_tweet_id": "1806354667821019308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801288587377319936/b3kFl6F-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19537,
+          "following_count": 736,
+          "like_count": 19156,
+          "listed_count": 442,
+          "media_count": 1249,
+          "tweet_count": 12019
+        },
+        "url": "https://t.co/KB7sk0Y3vw",
+        "username": "QuixiAI",
+        "verified": true
+      }
+    ]
+  }
+}

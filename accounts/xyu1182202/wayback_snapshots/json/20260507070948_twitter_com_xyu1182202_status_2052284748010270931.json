@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052231677477597436",
+    "created_at": "2026-05-07T07:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052284748010270931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052284748010270931",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052231677477597436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2052231669625839616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr91JDa4AAy8Un.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052231677477597436",
+        "created_at": "2026-05-07T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052284748010270931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052284748010270931",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052231677477597436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052231669625839616"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2052231677477597436",
+        "created_at": "2026-05-07T03:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052231677477597436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vzGTJXUwM",
+              "end": 41,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2052231677477597436/photo/1",
+              "media_key": "3_2052231669625839616",
+              "start": 18,
+              "url": "https://t.co/2vzGTJXUwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052231677477597436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1240,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还能这么玩？咱要不要也试一下。。。 https://t.co/2vzGTJXUwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 973,
+          "like_count": 4750,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5301
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 3341,
+          "like_count": 1267,
+          "listed_count": 17,
+          "media_count": 239,
+          "tweet_count": 1637
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

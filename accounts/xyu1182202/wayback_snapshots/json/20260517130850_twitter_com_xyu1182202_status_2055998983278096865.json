@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2055998983278096865",
+    "created_at": "2026-05-17T13:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055998983278096865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039298306309062657",
+          "start": 3,
+          "username": "Yunofd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055998983278096865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055450522170372212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yunofd6: 我od三年现在验血还要去儿科 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2055998983278096865",
+        "created_at": "2026-05-17T13:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055998983278096865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039298306309062657",
+              "start": 3,
+              "username": "Yunofd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998983278096865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055450522170372212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yunofd6: 我od三年现在验血还要去儿科 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039298306309062657",
+        "conversation_id": "2055450522170372212",
+        "created_at": "2026-05-16T00:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055450522170372212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055450522170372212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7546,
+          "like_count": 103,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我od三年现在验血还要去儿科 好好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 1006,
+          "like_count": 5123,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5706
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:07:45.000Z",
+        "description": "11年｜od｜自伤｜双向｜LGBT友好\n欢迎同类互fo喵",
+        "id": "2039298306309062657",
+        "name": "yun",
+        "pinned_tweet_id": "2054160346659926215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049783838252113920/vCrsO79g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 224,
+          "like_count": 1778,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 417
+        },
+        "username": "Yunofd6",
+        "verified": false
+      }
+    ]
+  }
+}

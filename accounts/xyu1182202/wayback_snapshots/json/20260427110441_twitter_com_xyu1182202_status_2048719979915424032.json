@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048719979915424032",
+    "created_at": "2026-04-27T11:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048719979915424032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684572167860801536",
+          "start": 3,
+          "username": "kukmoon97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048719979915424032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048705747496968365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukmoon97: 转发扩散"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048719979915424032",
+        "created_at": "2026-04-27T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048719979915424032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684572167860801536",
+              "start": 3,
+              "username": "kukmoon97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048719979915424032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048705747496968365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukmoon97: 转发扩散"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "conversation_id": "2048705747496968365",
+        "created_at": "2026-04-27T10:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048705747496968365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiramyao/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kiramyao/status/2048661429277032751",
+              "start": 5,
+              "url": "https://t.co/x88gJMnRIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048705747496968365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048661429277032751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转发扩散 https://t.co/x88gJMnRIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 881,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4587
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 生活在斩杀线之下｜前 #伪娘｜现 #跨性别 女 🌸 Live under kill line ｜ Fmr #crossdresser #CD｜Curr #MtF #transgender #TS 🌸 殺戮ラインの下で生きる｜元 #女装子｜今や #ニューハーフ 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "伪娘"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "跨性别"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "CD"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "MtF"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "transgender"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "TS"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "女装子"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047990963084431798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 4292,
+          "like_count": 88460,
+          "listed_count": 4,
+          "media_count": 1690,
+          "tweet_count": 12976
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      }
+    ]
+  }
+}

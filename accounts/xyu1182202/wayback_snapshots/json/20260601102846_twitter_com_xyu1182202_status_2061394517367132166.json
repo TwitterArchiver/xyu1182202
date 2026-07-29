@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2061267564941209707",
+    "created_at": "2026-06-01T10:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061394517367132166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061394517367132166",
+    "in_reply_to_user_id": "289298525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061267564941209707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 神人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061267561522810880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsX7ReaUAABSNv.jpg",
+        "width": 946
+      },
+      {
+        "height": 1832,
+        "media_key": "3_2061267562391023616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsX7UtaMAAwViK.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2061267564941209707",
+        "created_at": "2026-06-01T10:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061394517367132166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061394517367132166",
+        "in_reply_to_user_id": "289298525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061267564941209707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 神人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061267561522810880",
+            "3_2061267562391023616"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061267564941209707",
+        "created_at": "2026-06-01T02:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061267564941209707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6lFk5QxiH",
+              "end": 38,
+              "expanded_url": "https://x.com/jiandu23333/status/2061267564941209707/photo/1",
+              "media_key": "3_2061267561522810880",
+              "start": 15,
+              "url": "https://t.co/z6lFk5QxiH"
+            },
+            {
+              "display_url": "pic.x.com/z6lFk5QxiH",
+              "end": 38,
+              "expanded_url": "https://x.com/jiandu23333/status/2061267564941209707/photo/1",
+              "media_key": "3_2061267562391023616",
+              "start": 15,
+              "url": "https://t.co/z6lFk5QxiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061267564941209707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3916,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补一张图\n29号\n三角洲跑刀 https://t.co/z6lFk5QxiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1016,
+          "like_count": 5351,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6072
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 301,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051296598832091434",
+    "created_at": "2026-05-05T12:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051638204307304875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744679108737712128",
+          "start": 0,
+          "username": "xingbai2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051638204307304875",
+    "in_reply_to_user_id": "1744679108737712128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051296598832091434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingbai2333 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051296588518273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHerYQeaMAA87Ii.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051296598832091434",
+        "created_at": "2026-05-05T12:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051638204307304875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051638204307304875",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051296598832091434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051296588518273024"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051296598832091434",
+        "created_at": "2026-05-04T13:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051296598832091434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/vue5…",
+              "end": 37,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/vue5te2v",
+              "start": 14,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/vue5te2v",
+              "url": "https://t.co/Kl6fZgI7Yk"
+            },
+            {
+              "display_url": "pic.x.com/qmdD28Yicp",
+              "end": 79,
+              "expanded_url": "https://x.com/xingbai2333/status/2051296598832091434/photo/1",
+              "media_key": "3_2051296588518273024",
+              "start": 56,
+              "url": "https://t.co/qmdD28Yicp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051296598832091434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈!\n快速寻找自己 https://t.co/Kl6fZgI7Yk\n使用 NekoCircle 创建! https://t.co/qmdD28Yicp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 957,
+          "like_count": 4497,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 665,
+          "like_count": 9941,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 2774
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

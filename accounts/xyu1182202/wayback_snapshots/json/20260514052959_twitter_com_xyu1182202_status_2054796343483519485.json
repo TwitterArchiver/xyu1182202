@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054721849171624280",
+    "created_at": "2026-05-14T05:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054796343483519485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054796343483519485",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054721849171624280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 没有重要性🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2054721846545883136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPWog-aIAA9ZOQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054721849171624280",
+        "created_at": "2026-05-14T05:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054796343483519485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054796343483519485",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054721849171624280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 没有重要性🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054721846545883136"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2054721849171624280",
+        "created_at": "2026-05-14T00:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054721849171624280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muS3vzZKtZ",
+              "end": 43,
+              "expanded_url": "https://x.com/jianlvup/status/2054721849171624280/photo/1",
+              "media_key": "3_2054721846545883136",
+              "start": 20,
+              "url": "https://t.co/muS3vzZKtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054721849171624280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 875,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的年轻人真的知道征信的重要性\n吗? https://t.co/muS3vzZKtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1001,
+          "like_count": 5069,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5661
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2054345988559757495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17986,
+          "following_count": 1526,
+          "like_count": 80114,
+          "listed_count": 64,
+          "media_count": 3209,
+          "tweet_count": 6564
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

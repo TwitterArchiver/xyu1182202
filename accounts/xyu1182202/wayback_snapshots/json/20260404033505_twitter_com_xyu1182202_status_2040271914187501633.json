@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040091553235140852",
+    "created_at": "2026-04-04T03:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040271914187501633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040271914187501633",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040091553235140852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 永远凝视着我们🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040091553235140852",
+        "created_at": "2026-04-04T03:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040271914187501633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040271914187501633",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040091553235140852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 永远凝视着我们🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040091553235140852",
+        "created_at": "2026-04-03T15:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040091553235140852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/2040088236496711823",
+              "start": 25,
+              "url": "https://t.co/t7usNckSuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040091553235140852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040088236496711823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咴咴，你怎么先走了\n后天复活节，你会复活的，对吗 https://t.co/t7usNckSuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 104,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6705,
+          "following_count": 2029,
+          "like_count": 23884,
+          "listed_count": 27,
+          "media_count": 539,
+          "tweet_count": 2908
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

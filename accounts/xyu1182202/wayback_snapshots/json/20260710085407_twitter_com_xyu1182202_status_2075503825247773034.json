@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075050603198443530",
+    "created_at": "2026-07-10T08:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075503825247773034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075503825247773034",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075050603198443530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 这种人给中国抹黑。不如创造点贡献。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2075050595027968000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwPhaea4AAy-it.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075050603198443530",
+        "created_at": "2026-07-10T08:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075503825247773034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075503825247773034",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075050603198443530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 这种人给中国抹黑。不如创造点贡献。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075050595027968000"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2075050603198443530",
+        "created_at": "2026-07-09T02:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075050603198443530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACfZxcNwBO",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2075050603198443530/photo/1",
+              "media_key": "3_2075050595027968000",
+              "start": 8,
+              "url": "https://t.co/ACfZxcNwBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075050603198443530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 774399,
+          "like_count": 7548,
+          "quote_count": 34,
+          "reply_count": 761,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "世界上有三种人 https://t.co/ACfZxcNwBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1056,
+          "like_count": 5334,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6430
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12657,
+          "following_count": 4399,
+          "like_count": 50804,
+          "listed_count": 29,
+          "media_count": 3207,
+          "tweet_count": 17466
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

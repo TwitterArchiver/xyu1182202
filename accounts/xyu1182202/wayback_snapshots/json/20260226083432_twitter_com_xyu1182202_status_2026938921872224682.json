@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2026679607953600691",
+    "created_at": "2026-02-26T08:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026938921872224682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1629422599376896000",
+          "start": 0,
+          "username": "shithole6699881"
+        },
+        {
+          "end": 29,
+          "id": "967793587835547650",
+          "start": 17,
+          "username": "1dunchi5wan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026938921872224682",
+    "in_reply_to_user_id": "1629422599376896000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026819567822188834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shithole6699881 @1dunchi5wan 赢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2026679607953600691",
+        "created_at": "2026-02-26T08:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026938921872224682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1629422599376896000",
+              "start": 0,
+              "username": "shithole6699881"
+            },
+            {
+              "end": 29,
+              "id": "967793587835547650",
+              "start": 17,
+              "username": "1dunchi5wan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026938921872224682",
+        "in_reply_to_user_id": "1629422599376896000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026819567822188834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shithole6699881 @1dunchi5wan 赢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629422599376896000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2026679607953600691",
+        "created_at": "2026-02-26T00:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026819567822188834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "967793587835547650",
+              "start": 0,
+              "username": "1dunchi5wan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026819567822188834",
+        "in_reply_to_user_id": "967793587835547650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6177,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026679607953600691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1dunchi5wan 无聊，用这话现在说习近平，也有人支持的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T10:06:40.000Z",
+        "description": "追寻自由，传播爱，用快乐点亮人生✝️🧡",
+        "id": "1629422599376896000",
+        "name": "追寻自由，传播爱，用快乐点亮人生✝️🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681578313733771264/SOVVLZVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 764,
+          "like_count": 4019,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 2542
+        },
+        "username": "shithole6699881",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-25T16:09:06.000Z",
+        "description": "温家宝的粉丝/称呼全名是为了清扫广场，希望有千万分之一的可能性他来推特，看到的是爱他，想他的人/粉红 支黑 网左勿扰",
+        "id": "967793587835547650",
+        "location": "Tokyo ",
+        "name": "一顿吃五碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/968293671698354176/-YoCwisA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 48,
+          "like_count": 1700,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 208
+        },
+        "username": "1dunchi5wan",
+        "verified": false
+      }
+    ]
+  }
+}

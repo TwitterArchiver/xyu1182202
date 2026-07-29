@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2039600651869761642",
+    "created_at": "2026-04-02T15:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039728721029157017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484231561784737792",
+          "start": 0,
+          "username": "AirdropAlchemis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039728721029157017",
+    "in_reply_to_user_id": "1484231561784737792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039600651869761642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirdropAlchemis adb卸载oppo手机管家即可"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2039600288722763776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4dqAUawAA8m90.jpg",
+        "width": 2248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2039600651869761642",
+        "created_at": "2026-04-02T15:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039728721029157017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484231561784737792",
+              "start": 0,
+              "username": "AirdropAlchemis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039728721029157017",
+        "in_reply_to_user_id": "1484231561784737792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039600651869761642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirdropAlchemis adb卸载oppo手机管家即可"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039600288722763776"
+          ]
+        },
+        "author_id": "1484231561784737792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039600651869761642",
+        "created_at": "2026-04-02T07:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039600651869761642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqzrgsAAcn",
+              "end": 37,
+              "expanded_url": "https://x.com/AirdropAlchemis/status/2039600651869761642/photo/1",
+              "media_key": "3_2039600288722763776",
+              "start": 14,
+              "url": "https://t.co/MqzrgsAAcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039600651869761642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 42371,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "国产安卓只适合用来打王者。 https://t.co/MqzrgsAAcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 60,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 355
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T18:29:24.000Z",
+        "description": "纯玩抽象的不构成任何投资建议\n🟣Solar member @solana_zh\n🟠炼金弟弟 @lianjinshushu\n👉https://t.co/28LJt8RXUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "solana_zh"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "lianjinshushu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 85,
+                "expanded_url": "http://web3.okx.com",
+                "start": 62,
+                "url": "https://t.co/28LJt8RXUv"
+              }
+            ]
+          }
+        },
+        "id": "1484231561784737792",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "炼金叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56509,
+          "following_count": 2965,
+          "like_count": 72186,
+          "listed_count": 911,
+          "media_count": 7824,
+          "tweet_count": 55169
+        },
+        "username": "AirdropAlchemis",
+        "verified": true
+      }
+    ]
+  }
+}

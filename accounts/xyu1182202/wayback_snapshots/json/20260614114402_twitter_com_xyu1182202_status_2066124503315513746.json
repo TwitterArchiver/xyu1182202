@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066061577145680335",
+    "created_at": "2026-06-14T11:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066124503315513746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066124503315513746",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066061577145680335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 一个急刹车撒一车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065971151629942784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvN0QEbgAApSQO.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066061577145680335",
+        "created_at": "2026-06-14T11:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066124503315513746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066124503315513746",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066061577145680335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 一个急刹车撒一车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065971151629942784"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2066061577145680335",
+        "created_at": "2026-06-14T07:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066061577145680335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrxIhdYMXb",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2066061577145680335/photo/1",
+              "media_key": "3_2065971151629942784",
+              "start": 5,
+              "url": "https://t.co/QrxIhdYMXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066061577145680335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太优雅了 https://t.co/QrxIhdYMXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1019,
+          "like_count": 5364,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6200
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7239,
+          "following_count": 549,
+          "like_count": 19758,
+          "listed_count": 16,
+          "media_count": 2497,
+          "tweet_count": 5987
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

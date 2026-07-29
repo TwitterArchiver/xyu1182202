@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2049996482011705421",
+    "created_at": "2026-04-30T23:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049996482011705421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049996482011705421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049826924818825278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 千fo纪念：\n47×1\n13.2×2\n7.5×2\n转贴、点赞并评论（没有想说的可以不评论）下面引用这个帖子，随机抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2049996482011705421",
+        "created_at": "2026-04-30T23:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049996482011705421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049996482011705421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049826924818825278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 千fo纪念：\n47×1\n13.2×2\n7.5×2\n转贴、点赞并评论（没有想说的可以不评论）下面引用这个帖子，随机抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049826924818825278",
+        "created_at": "2026-04-30T12:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049826924818825278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2049707812314583203",
+              "start": 58,
+              "url": "https://t.co/8idBMmB6Le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049826924818825278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 889,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049707812314583203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千fo纪念：\n47×1\n13.2×2\n7.5×2\n转贴、点赞并评论（没有想说的可以不评论）下面引用这个帖子，随机抽 https://t.co/8idBMmB6Le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 922,
+          "like_count": 4117,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4852
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049826924818825278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 3449,
+          "like_count": 30746,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8205
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

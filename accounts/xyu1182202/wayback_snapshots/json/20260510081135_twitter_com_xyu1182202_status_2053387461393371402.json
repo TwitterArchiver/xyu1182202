@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053056016196259974",
+    "created_at": "2026-05-10T08:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053387461393371402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1295167822973173760",
+          "start": 0,
+          "username": "Kyrg1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053387461393371402",
+    "in_reply_to_user_id": "1295167822973173760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053056016196259974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyrg1989 安卓国家🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053056016196259974",
+        "created_at": "2026-05-10T08:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053387461393371402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1295167822973173760",
+              "start": 0,
+              "username": "Kyrg1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053387461393371402",
+        "in_reply_to_user_id": "1295167822973173760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053056016196259974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyrg1989 安卓国家🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295167822973173760",
+        "conversation_id": "2053056016196259974",
+        "created_at": "2026-05-09T10:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053056016196259974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dw_chinese/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/dw_chinese/status/2052671606867083448",
+              "start": 13,
+              "url": "https://t.co/EmY5x8pLgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053056016196259974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 87883,
+          "like_count": 717,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052671606867083448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只鞭男学生？什么垃圾国家 https://t.co/EmY5x8pLgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 989,
+          "like_count": 4940,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5507
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T01:20:57.000Z",
+        "description": "#blacklivesmatter #Pride2022 #Metoo 性别男",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "blacklivesmatter"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "Pride2022"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "Metoo"
+              }
+            ]
+          }
+        },
+        "id": "1295167822973173760",
+        "location": "妙蛙底",
+        "name": "一个兴趣使然的黑人留学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598085086318333953/j5yEKoD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 576,
+          "like_count": 122456,
+          "listed_count": 31,
+          "media_count": 1579,
+          "tweet_count": 61688
+        },
+        "username": "Kyrg1989",
+        "verified": false
+      }
+    ]
+  }
+}

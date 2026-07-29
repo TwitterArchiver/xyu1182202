@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043497896000307200"
+      ],
+      "media_source_tweet_id": [
+        "2043497905546526770"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044028675398742222",
+    "created_at": "2026-04-14T12:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044028675398742222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ct6OQbdrN",
+          "end": 39,
+          "expanded_url": "https://x.com/__fanqie__/status/2043497905546526770/photo/1",
+          "media_key": "3_2043497896000307200",
+          "start": 16,
+          "url": "https://t.co/7ct6OQbdrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044028675398742222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043497905546526770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: https://t.co/7ct6OQbdrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2043497896000307200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv2gm5bQAAE8MA.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043497896000307200"
+          ],
+          "media_source_tweet_id": [
+            "2043497905546526770"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044028675398742222",
+        "created_at": "2026-04-14T12:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044028675398742222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ct6OQbdrN",
+              "end": 39,
+              "expanded_url": "https://x.com/__fanqie__/status/2043497905546526770/photo/1",
+              "media_key": "3_2043497896000307200",
+              "start": 16,
+              "url": "https://t.co/7ct6OQbdrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044028675398742222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043497905546526770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: https://t.co/7ct6OQbdrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043497896000307200"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043497905546526770",
+        "created_at": "2026-04-13T01:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043497905546526770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ct6OQbdrN",
+              "end": 23,
+              "expanded_url": "https://x.com/__fanqie__/status/2043497905546526770/photo/1",
+              "media_key": "3_2043497896000307200",
+              "start": 0,
+              "url": "https://t.co/7ct6OQbdrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043497905546526770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 262317,
+          "like_count": 3074,
+          "quote_count": 1,
+          "reply_count": 86,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7ct6OQbdrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝@xiey57828\n你是爱，是温暖，你是人间的四月天！\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "xiey57828"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 571,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2040733914613137731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4437,
+          "following_count": 2967,
+          "like_count": 1497,
+          "listed_count": 6,
+          "media_count": 908,
+          "tweet_count": 8660
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

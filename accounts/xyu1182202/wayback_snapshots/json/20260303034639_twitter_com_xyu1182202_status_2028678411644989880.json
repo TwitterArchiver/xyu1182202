@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2028350561540772273",
+    "created_at": "2026-03-03T03:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028678411644989880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1941079522490953728",
+          "start": 0,
+          "username": "xvliowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028678411644989880",
+    "in_reply_to_user_id": "1941079522490953728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028350561540772273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvliowo 不可以😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2028350558806179840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYmFimbgAA8fIb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2028350561540772273",
+        "created_at": "2026-03-03T03:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028678411644989880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028678411644989880",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028350561540772273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo 不可以😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028350558806179840"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2028350561540772273",
+        "created_at": "2026-03-02T06:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028350561540772273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JybeLlvn15",
+              "end": 41,
+              "expanded_url": "https://x.com/xvliowo/status/2028350561540772273/photo/1",
+              "media_key": "3_2028350558806179840",
+              "start": 18,
+              "url": "https://t.co/JybeLlvn15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028350561540772273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 44581,
+          "like_count": 120,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么...\n自己还是死掉比较好吧 https://t.co/JybeLlvn15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 619,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060370671499456690",
+    "created_at": "2026-05-30T07:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060622843549995344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060622843549995344",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060370671499456690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 这下看懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060370671499456690",
+        "created_at": "2026-05-30T07:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060622843549995344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060622843549995344",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060370671499456690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 这下看懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2060370671499456690",
+        "created_at": "2026-05-29T14:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060370671499456690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/2060215219377553640",
+              "start": 18,
+              "url": "https://t.co/8fFD4byCtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060370671499456690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1713,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060215219377553640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你可以理解为我被某个东西给创死了（ https://t.co/8fFD4byCtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5346,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6052
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10370,
+          "following_count": 964,
+          "like_count": 91027,
+          "listed_count": 24,
+          "media_count": 1809,
+          "tweet_count": 12673
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

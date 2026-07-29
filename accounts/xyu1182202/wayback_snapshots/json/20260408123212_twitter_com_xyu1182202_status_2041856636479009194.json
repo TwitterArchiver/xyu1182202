@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041809413573632467",
+    "created_at": "2026-04-08T12:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041856636479009194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "469933928",
+          "start": 0,
+          "username": "N552AA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041856636479009194",
+    "in_reply_to_user_id": "469933928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041809413573632467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA7 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041809413573632467",
+        "created_at": "2026-04-08T12:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041856636479009194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "469933928",
+              "start": 0,
+              "username": "N552AA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041856636479009194",
+        "in_reply_to_user_id": "469933928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041809413573632467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA7 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "469933928",
+        "conversation_id": "2041809413573632467",
+        "created_at": "2026-04-08T09:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041809413573632467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041809413573632467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药圈没有活着的传奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 299,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-21T04:35:27.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/ASD（？/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群前群主现群管/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/NrRSmyWC6K"
+              }
+            ]
+          }
+        },
+        "id": "469933928",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（七代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797825961586692/wc9PBx2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 35,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/NrRSmyWC6K",
+        "username": "N552AA7",
+        "verified": false
+      }
+    ]
+  }
+}

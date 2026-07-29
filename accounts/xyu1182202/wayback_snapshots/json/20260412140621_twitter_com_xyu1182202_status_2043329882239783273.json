@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2043329882239783273",
+    "created_at": "2026-04-12T14:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043329882239783273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486958940948770817",
+          "start": 3,
+          "username": "antihelium4"
+        },
+        {
+          "end": 24,
+          "id": "1613079089879076864",
+          "start": 17,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043329882239783273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043290753703764016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @antihelium4: @Cldeop 不论你是在哪里看到的这条信息，这都是我们最后一次尝试了\n你陷入了昏迷，我们是你的治疗团队，正在尝试把你从昏迷中唤醒，你的家人都在等你回来\n请醒过来\n\n（doge）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2043329882239783273",
+        "created_at": "2026-04-12T14:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043329882239783273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486958940948770817",
+              "start": 3,
+              "username": "antihelium4"
+            },
+            {
+              "end": 24,
+              "id": "1613079089879076864",
+              "start": 17,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043329882239783273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043290753703764016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @antihelium4: @Cldeop 不论你是在哪里看到的这条信息，这都是我们最后一次尝试了\n你陷入了昏迷，我们是你的治疗团队，正在尝试把你从昏迷中唤醒，你的家人都在等你回来\n请醒过来\n\n（doge）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486958940948770817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2043192389289026011",
+        "created_at": "2026-04-12T11:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043290753703764016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043290753703764016",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043192389289026011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 不论你是在哪里看到的这条信息，这都是我们最后一次尝试了\n你陷入了昏迷，我们是你的治疗团队，正在尝试把你从昏迷中唤醒，你的家人都在等你回来\n请醒过来\n\n（doge）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxFQt9"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 508,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/uLGrCxFQt9",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T07:09:35.000Z",
+        "description": "强行鉴证是一种疾病\n不聊政治大伙没准还能友好聊聊\n顺便那些没有键政之外的生活的loser欢迎对转发的梗图涩图啥的哈气\n吱吱叫的自己吊死去陪精神母国",
+        "id": "1486958940948770817",
+        "location": "ε Eri,Reach,New Alexandria",
+        "name": "chief",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954908153499594752/W2srhMUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 177,
+          "like_count": 34662,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 6712
+        },
+        "username": "antihelium4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100995,
+          "following_count": 758,
+          "like_count": 36073,
+          "listed_count": 282,
+          "media_count": 17553,
+          "tweet_count": 25245
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

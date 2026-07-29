@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078680791756963856",
+    "created_at": "2026-07-19T03:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078680791756963856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 34,
+          "id": "2801561021",
+          "start": 21,
+          "username": "QimoHK300311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078680791756963856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078518018708222169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @QimoHK300311 难以相信，前几天还刷到ta的帖子😭😭😭\n晚安😇…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078680791756963856",
+        "created_at": "2026-07-19T03:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078680791756963856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 34,
+              "id": "2801561021",
+              "start": 21,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078680791756963856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078518018708222169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @QimoHK300311 难以相信，前几天还刷到ta的帖子😭😭😭\n晚安😇…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2078259899457253737",
+        "created_at": "2026-07-18T16:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078518018708222169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2801561021",
+              "start": 0,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078518018708222169",
+        "in_reply_to_user_id": "2801561021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078259899457253737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QimoHK300311 难以相信，前几天还刷到ta的帖子😭😭😭\n晚安😇…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1055,
+          "like_count": 5362,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6556
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1325,
+          "like_count": 5720,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "一生中永远最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 103,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044705885306671466",
+    "created_at": "2026-04-16T09:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044705885306671466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044705885306671466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 805
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044362275218489629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: 好模糊。我说的是视力，前途，我的人生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044705885306671466",
+        "created_at": "2026-04-16T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044705885306671466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044705885306671466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 805
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044362275218489629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: 好模糊。我说的是视力，前途，我的人生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2044362275218489629",
+        "created_at": "2026-04-15T10:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044362275218489629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044362275218489629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 79390,
+          "like_count": 3792,
+          "quote_count": 37,
+          "reply_count": 133,
+          "retweet_count": 805
+        },
+        "reply_settings": "everyone",
+        "text": "好模糊。我说的是视力，前途，我的人生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 611,
+          "like_count": 2275,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6467,
+          "following_count": 296,
+          "like_count": 6278,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

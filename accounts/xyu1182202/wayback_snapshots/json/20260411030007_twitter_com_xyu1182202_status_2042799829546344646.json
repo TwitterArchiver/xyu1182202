@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042799829546344646",
+    "created_at": "2026-04-11T03:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042799829546344646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1492808050461196288",
+          "start": 3,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042799829546344646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042569164389519469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Breaking_Lead_G: 我小时候以为抑郁症离我们都很远很远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042799829546344646",
+        "created_at": "2026-04-11T03:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042799829546344646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1492808050461196288",
+              "start": 3,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042799829546344646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042569164389519469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Breaking_Lead_G: 我小时候以为抑郁症离我们都很远很远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2042569164389519469",
+        "created_at": "2026-04-10T11:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042569164389519469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042569164389519469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 242,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候以为抑郁症离我们都很远很远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 431,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "高中生，喜欢函数式编程，古典音乐，中古汉语与神秘感。\n\n喜欢 @10lulu2 老师的音乐。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0x0.st",
+                "end": 23,
+                "expanded_url": "http://0x0.st",
+                "start": 0,
+                "url": "https://t.co/GGoZDg5x7N"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036567342726221824/X6anslr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 700,
+          "like_count": 1753,
+          "listed_count": 7,
+          "media_count": 748,
+          "tweet_count": 7897
+        },
+        "url": "https://t.co/GGoZDg5x7N",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

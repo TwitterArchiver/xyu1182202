@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059839220600987922",
+    "created_at": "2026-05-28T15:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060016951725015391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942905765976748032",
+          "start": 0,
+          "username": "zishu2696544661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060016951725015391",
+    "in_reply_to_user_id": "1942905765976748032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059839220600987922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zishu2696544661 抱抱哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059839075750678533",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYEudSWkAUmgH-.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059839220600987922",
+        "created_at": "2026-05-28T15:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060016951725015391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942905765976748032",
+              "start": 0,
+              "username": "zishu2696544661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060016951725015391",
+        "in_reply_to_user_id": "1942905765976748032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059839220600987922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zishu2696544661 抱抱哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059839075750678533"
+          ]
+        },
+        "author_id": "1942905765976748032",
+        "conversation_id": "2059839220600987922",
+        "created_at": "2026-05-28T03:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059839220600987922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfTqVrfdP1",
+              "end": 41,
+              "expanded_url": "https://x.com/zishu2696544661/status/2059839220600987922/photo/1",
+              "media_key": "3_2059839075750678533",
+              "start": 18,
+              "url": "https://t.co/EfTqVrfdP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059839220600987922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 694,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的服了，又被晶了，到底是谁干的 https://t.co/EfTqVrfdP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1013,
+          "like_count": 5295,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5972
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T11:17:00.000Z",
+        "description": "19岁/无证含糖/有对象咯/会od自残/有抑郁症/躁狂症/天天想着怎么死/受虐狂/喜欢有人找我玩",
+        "id": "1942905765976748032",
+        "name": "崽崽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1959450145067802944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053851745839722496/cmRIn3wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 257,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 66
+        },
+        "username": "zishu2696544661",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046977225694851090",
+    "created_at": "2026-04-22T15:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046979792176816271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521553831775158273",
+          "start": 0,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046979792176816271",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046977225694851090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww123qwq 估计遥遥无期...唉大家都要好好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046977225694851090",
+        "created_at": "2026-04-22T15:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046979792176816271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046979792176816271",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046977225694851090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 估计遥遥无期...唉大家都要好好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2046977225694851090",
+        "created_at": "2026-04-22T15:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046977225694851090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bghtnya/status/2046866119039082806",
+              "start": 12,
+              "url": "https://t.co/Z7FQopKfkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046977225694851090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046866119039082806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晶哥还没把手机还给你吗 https://t.co/Z7FQopKfkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046887449239134423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 793,
+          "like_count": 3253,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 276,
+          "like_count": 42188,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 12640
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

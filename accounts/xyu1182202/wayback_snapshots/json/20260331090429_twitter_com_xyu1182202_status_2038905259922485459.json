@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038804603064705024",
+    "created_at": "2026-03-31T09:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038905259922485459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1196460589",
+          "start": 0,
+          "username": "ygkkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038905259922485459",
+    "in_reply_to_user_id": "1196460589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038804603064705024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygkkkg 一看就是吹牛逼。有这技术也不至于诈骗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2038803565012221952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtJClNagAANVsn.png",
+        "width": 1346
+      },
+      {
+        "height": 736,
+        "media_key": "3_2038803569844068352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtJC3NaoAAP1kY.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038804603064705024",
+        "created_at": "2026-03-31T09:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038905259922485459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1196460589",
+              "start": 0,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038905259922485459",
+        "in_reply_to_user_id": "1196460589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038804603064705024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygkkkg 一看就是吹牛逼。有这技术也不至于诈骗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038803565012221952",
+            "3_2038803569844068352"
+          ]
+        },
+        "author_id": "1196460589",
+        "conversation_id": "2038804603064705024",
+        "created_at": "2026-03-31T02:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038804603064705024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93G2RCX6iB",
+              "end": 206,
+              "expanded_url": "https://x.com/ygkkkg/status/2038804603064705024/photo/1",
+              "media_key": "3_2038803565012221952",
+              "start": 183,
+              "url": "https://t.co/93G2RCX6iB"
+            },
+            {
+              "display_url": "pic.x.com/93G2RCX6iB",
+              "end": 206,
+              "expanded_url": "https://x.com/ygkkkg/status/2038804603064705024/photo/1",
+              "media_key": "3_2038803569844068352",
+              "start": 183,
+              "url": "https://t.co/93G2RCX6iB"
+            },
+            {
+              "display_url": "x.com/jichangtj/stat…",
+              "end": 230,
+              "expanded_url": "https://twitter.com/jichangtj/status/2038215910910316779",
+              "start": 207,
+              "url": "https://t.co/Lxq7UqbcbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038804603064705024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到傲盾官网的跨境VPN监控系统，就问你慌不慌？🤔\n\n精准识别Shadowsocks、ShadowsocksR、Vmess、Vless、Trojan、Hysteria、MTProto、WireGuard、OpenVPN等新型加密代理协议， 同时全面覆盖GRE、PPTP、L2TP/IPSec、HTTP Proxy、SOCKS等传统VPN协议，实现全协议栈深度检测。\n应用机器学习算法，针对旁路镜像/分光流量，通过特征分类、模型训练等方式，提供可行的混淆加密VPN检测与识别方案， 解决不解密进行加密流量检测的问题，具备高效率、高精度的特点，可精确识别Clash、shadowrocket、V2ray、Surfboard等加密 代理工具请求的流量。\n傲盾安全专家利用深度威胁分析技术，实时追踪跨境VPN代理节点，建立了包含IP、域名和端口等多维度数据的高精度威胁情报库。目前情报库已超20万条， 每日自动更新，准确率达99.99%。该库为跨境VPN监控提供精准数据支持，并支持本地部署或在线调用，便于高效分析跨境行为。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 83437,
+          "like_count": 238,
+          "quote_count": 4,
+          "reply_count": 47,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038215910910316779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到傲盾官网的跨境VPN监控系统，就问你慌不慌？🤔\n\n精准识别Shadowsocks、ShadowsocksR、Vmess、Vless、Trojan、Hysteria、MTProto、WireGuard、OpenVPN等新型加密代理协议， 同时全面覆盖GRE、PPTP、L2TP/IPSec、HTTP Proxy、SOCKS等传统VPN协议，实现全协议栈深度检测。 https://t.co/93G2RCX6iB https://t.co/Lxq7UqbcbU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥被网友称为“翻墙教程露脸第一人”。\n💥聊聊网络IT心得、热点评论。\n🔴月底《侃侃墙》YouTube/X同步视频直播。\nGithub地址：https://t.co/fvh2bcfF9v\n博客地址：https://t.co/VtOzLvv3oT\n电报群组：https://t.co/ztwvyks4xg\n电报频道：https://t.co/Cf47V3IQeI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yonggekkk",
+                "end": 92,
+                "expanded_url": "http://github.com/yonggekkk",
+                "start": 69,
+                "url": "https://t.co/fvh2bcfF9v"
+              },
+              {
+                "display_url": "ygkkk.blogspot.com",
+                "end": 121,
+                "expanded_url": "http://ygkkk.blogspot.com",
+                "start": 98,
+                "url": "https://t.co/VtOzLvv3oT"
+              },
+              {
+                "display_url": "t.me/ygkkktg",
+                "end": 150,
+                "expanded_url": "http://t.me/ygkkktg",
+                "start": 127,
+                "url": "https://t.co/ztwvyks4xg"
+              },
+              {
+                "display_url": "t.me/ygkkktgpd",
+                "end": 179,
+                "expanded_url": "http://t.me/ygkkktgpd",
+                "start": 156,
+                "url": "https://t.co/Cf47V3IQeI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKSV8"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "location": "YouTube频道👉",
+        "name": "甬哥侃侃侃ygkkk",
+        "pinned_tweet_id": "2037816673139666956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610259832803831816/avGSnA5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5126,
+          "following_count": 782,
+          "like_count": 850,
+          "listed_count": 20,
+          "media_count": 444,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/SjVMlzKSV8",
+        "username": "ygkkkg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2065987700633813403",
+    "created_at": "2026-06-14T11:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066123879773598051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066123879773598051",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065987700633813403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 傻B的没边了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2065987700633813403",
+        "created_at": "2026-06-14T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066123879773598051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066123879773598051",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065987700633813403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 傻B的没边了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2065987700633813403",
+        "created_at": "2026-06-14T02:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065987700633813403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065987700633813403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3140,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘哭话第八十六则：拳！拳！拳！\n\n药娘向顺女请教：我每次去网上发言，别人都把我默认成男的，我该怎样让自己的语言更加女性化？\n\n顺女：你只要多使用国男，金针菇，3cm，力工，田力……这些词，别人看完肯定会觉得你是女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1019,
+          "like_count": 5364,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6198
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4780,
+          "following_count": 3613,
+          "like_count": 1434,
+          "listed_count": 16,
+          "media_count": 272,
+          "tweet_count": 1852
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

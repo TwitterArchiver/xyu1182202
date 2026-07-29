@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039357808458727931",
+    "created_at": "2026-04-02T09:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039636964853665980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891562958842626049",
+          "start": 0,
+          "username": "chunrihuijin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039636964853665980",
+    "in_reply_to_user_id": "1891562958842626049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039357808458727931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunrihuijin 坏也是真的坏。好也是真的好🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039357808458727931",
+        "created_at": "2026-04-02T09:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039636964853665980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891562958842626049",
+              "start": 0,
+              "username": "chunrihuijin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039636964853665980",
+        "in_reply_to_user_id": "1891562958842626049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039357808458727931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunrihuijin 坏也是真的坏。好也是真的好🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891562958842626049",
+        "conversation_id": "2039357808458727931",
+        "created_at": "2026-04-01T15:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039357808458727931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039357808458727931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 76302,
+          "like_count": 544,
+          "quote_count": 3,
+          "reply_count": 227,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "感觉很多推上的人比墙内的还友好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 51,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 300
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T18:58:56.000Z",
+        "description": "上推为看腹肌男",
+        "id": "1891562958842626049",
+        "location": "https://ngl.link/xiaozhu39883",
+        "name": "当小猪坏了",
+        "pinned_tweet_id": "1900566746156933432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015133696966492160/T2jCHHEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 221,
+          "like_count": 6751,
+          "listed_count": 7,
+          "media_count": 188,
+          "tweet_count": 3566
+        },
+        "username": "chunrihuijin",
+        "verified": false
+      }
+    ]
+  }
+}

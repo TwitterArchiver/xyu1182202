@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050029691860623742",
+    "created_at": "2026-05-01T11:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050178835661181156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "837992628964605952",
+          "start": 0,
+          "username": "kid4wang"
+        },
+        {
+          "end": 21,
+          "id": "1684788633797287936",
+          "start": 10,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050178835661181156",
+    "in_reply_to_user_id": "837992628964605952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050125997073432652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kid4wang @Moningmeng 别逗我笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050029691860623742",
+        "created_at": "2026-05-01T11:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050178835661181156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "837992628964605952",
+              "start": 0,
+              "username": "kid4wang"
+            },
+            {
+              "end": 21,
+              "id": "1684788633797287936",
+              "start": 10,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050178835661181156",
+        "in_reply_to_user_id": "837992628964605952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050125997073432652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kid4wang @Moningmeng 别逗我笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "837992628964605952",
+        "conversation_id": "2050029691860623742",
+        "created_at": "2026-05-01T08:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050125997073432652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050125997073432652",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050029691860623742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 床都没有，往哪躺？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 927,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-04T11:46:26.000Z",
+        "description": "",
+        "id": "837992628964605952",
+        "name": "kid_wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523481866812071936/jPChT9_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 12,
+          "like_count": 20648,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 3412
+        },
+        "username": "kid4wang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27363,
+          "following_count": 11036,
+          "like_count": 87596,
+          "listed_count": 102,
+          "media_count": 5046,
+          "tweet_count": 16978
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

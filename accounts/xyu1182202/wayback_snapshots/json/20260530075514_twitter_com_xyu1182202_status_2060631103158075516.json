@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060037784866570241"
+      ],
+      "media_source_tweet_id": [
+        "2060037791745229136"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060631103158075516",
+    "created_at": "2026-05-30T07:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060631103158075516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554692587151593472",
+          "start": 3,
+          "username": "kukukumik0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbywQEUH56",
+          "end": 44,
+          "expanded_url": "https://x.com/kukukumik0/status/2060037791745229136/photo/1",
+          "media_key": "3_2060037784866570241",
+          "start": 21,
+          "url": "https://t.co/gbywQEUH56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060631103158075516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060037791745229136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukukumik0: 笑死我了 https://t.co/gbywQEUH56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2060037784866570241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa5c2bawAEiP8y.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060037784866570241"
+          ],
+          "media_source_tweet_id": [
+            "2060037791745229136"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060631103158075516",
+        "created_at": "2026-05-30T07:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060631103158075516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554692587151593472",
+              "start": 3,
+              "username": "kukukumik0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbywQEUH56",
+              "end": 44,
+              "expanded_url": "https://x.com/kukukumik0/status/2060037791745229136/photo/1",
+              "media_key": "3_2060037784866570241",
+              "start": 21,
+              "url": "https://t.co/gbywQEUH56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060631103158075516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060037791745229136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukukumik0: 笑死我了 https://t.co/gbywQEUH56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060037784866570241"
+          ]
+        },
+        "author_id": "1554692587151593472",
+        "conversation_id": "2060037791745229136",
+        "created_at": "2026-05-28T16:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060037791745229136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbywQEUH56",
+              "end": 28,
+              "expanded_url": "https://x.com/kukukumik0/status/2060037791745229136/photo/1",
+              "media_key": "3_2060037784866570241",
+              "start": 5,
+              "url": "https://t.co/gbywQEUH56"
+            },
+            {
+              "display_url": "x.com/rumc_zzz/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/rumc_zzz/status/2060007997494251994",
+              "start": 29,
+              "url": "https://t.co/YMSq32UT3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037791745229136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 394699,
+          "like_count": 2884,
+          "quote_count": 12,
+          "reply_count": 129,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060007997494251994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/gbywQEUH56 https://t.co/YMSq32UT3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5351,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6064
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2015122127389950277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 1484,
+          "like_count": 54367,
+          "listed_count": 11,
+          "media_count": 532,
+          "tweet_count": 18793
+        },
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

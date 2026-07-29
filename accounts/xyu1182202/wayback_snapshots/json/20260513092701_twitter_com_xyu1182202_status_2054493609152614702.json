@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054443859674042369"
+      ],
+      "media_source_tweet_id": [
+        "2054444182476058964"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054493609152614702",
+    "created_at": "2026-05-13T09:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054493609152614702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682395404976156672",
+          "start": 3,
+          "username": "yanghs84"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ndxUVAmwSP",
+          "end": 92,
+          "expanded_url": "https://x.com/yanghs84/status/2054444182476058964/photo/1",
+          "media_key": "3_2054443859674042369",
+          "start": 69,
+          "url": "https://t.co/ndxUVAmwSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054493609152614702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054444182476058964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanghs84: 抽奖贴，来自门哥的赞助，欢迎大家参与本次抽奖，开奖时间为明天下午两点，送出两杯咖啡，点赞/评论/转贴都可参与 https://t.co/ndxUVAmwSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 423,
+        "media_key": "3_2054443859674042369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILZzjLakAEq3sI.png",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054443859674042369"
+          ],
+          "media_source_tweet_id": [
+            "2054444182476058964"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054493609152614702",
+        "created_at": "2026-05-13T09:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054493609152614702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682395404976156672",
+              "start": 3,
+              "username": "yanghs84"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndxUVAmwSP",
+              "end": 92,
+              "expanded_url": "https://x.com/yanghs84/status/2054444182476058964/photo/1",
+              "media_key": "3_2054443859674042369",
+              "start": 69,
+              "url": "https://t.co/ndxUVAmwSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054493609152614702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054444182476058964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanghs84: 抽奖贴，来自门哥的赞助，欢迎大家参与本次抽奖，开奖时间为明天下午两点，送出两杯咖啡，点赞/评论/转贴都可参与 https://t.co/ndxUVAmwSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054443859674042369"
+          ]
+        },
+        "author_id": "1682395404976156672",
+        "conversation_id": "2054444182476058964",
+        "created_at": "2026-05-13T06:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054444182476058964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndxUVAmwSP",
+              "end": 78,
+              "expanded_url": "https://x.com/yanghs84/status/2054444182476058964/photo/1",
+              "media_key": "3_2054443859674042369",
+              "start": 55,
+              "url": "https://t.co/ndxUVAmwSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054444182476058964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴，来自门哥的赞助，欢迎大家参与本次抽奖，开奖时间为明天下午两点，送出两杯咖啡，点赞/评论/转贴都可参与 https://t.co/ndxUVAmwSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 996,
+          "like_count": 5008,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5593
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "普通人，喜欢美女是正常的",
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 12,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 248
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

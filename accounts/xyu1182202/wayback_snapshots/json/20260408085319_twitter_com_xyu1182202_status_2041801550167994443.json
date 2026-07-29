@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041529536786124828",
+    "created_at": "2026-04-08T08:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041801550167994443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041801550167994443",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041529536786124828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 抱抱喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2041529534521171968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT4S4-aYAAKcxm.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041529536786124828",
+        "created_at": "2026-04-08T08:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041801550167994443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041801550167994443",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041529536786124828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 抱抱喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041529534521171968"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2041529536786124828",
+        "created_at": "2026-04-07T14:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041529536786124828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcWNe6GmBr",
+              "end": 33,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2041529536786124828/photo/1",
+              "media_key": "3_2041529534521171968",
+              "start": 10,
+              "url": "https://t.co/vcWNe6GmBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041529536786124828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1684,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么被屏蔽了呜呜呜 https://t.co/vcWNe6GmBr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 293,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "INFP-T｜MtF🏳️‍⚧️｜深柜｜无证无糖｜生日2009.10｜176cm｜中焦｜社恐｜二次元（番/漫/术/音游 百合向）｜横幅与头像侵删｜不od｜不割手（至少现在不了）｜不见证｜同类互fo 拒见证和黄",
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "pinned_tweet_id": "2041213953406316556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 283,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 98
+        },
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      }
+    ]
+  }
+}

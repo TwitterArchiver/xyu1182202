@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2053345747026788811",
+    "created_at": "2026-05-10T05:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053345747026788811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942218528100134912",
+          "start": 3,
+          "username": "youling_qaq"
+        },
+        {
+          "end": 45,
+          "id": "1768252813363314688",
+          "start": 30,
+          "username": "LinKuoTianKong"
+        },
+        {
+          "end": 88,
+          "id": "1983042229720735744",
+          "start": 77,
+          "username": "mchchc5216"
+        },
+        {
+          "end": 100,
+          "id": "2031715041196875776",
+          "start": 90,
+          "username": "YiJin_0v0"
+        },
+        {
+          "end": 135,
+          "id": "2034584162246799361",
+          "start": 126,
+          "username": "NDcatbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053345747026788811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053339833364541662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youling_qaq: 获奖名单：一等奖（1名）：@LinKuoTianKong\n\n奖励：10局舞萌！（本地物价折现30r）\n\n二等奖（2名）：@mchchc5216\n、@YiJin_0v0\n\n奖励：一盒绿普（折现15r）\n\n三等奖（6名）：@NDcatbot\n、@R…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2053345747026788811",
+        "created_at": "2026-05-10T05:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053345747026788811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942218528100134912",
+              "start": 3,
+              "username": "youling_qaq"
+            },
+            {
+              "end": 45,
+              "id": "1768252813363314688",
+              "start": 30,
+              "username": "LinKuoTianKong"
+            },
+            {
+              "end": 88,
+              "id": "1983042229720735744",
+              "start": 77,
+              "username": "mchchc5216"
+            },
+            {
+              "end": 100,
+              "id": "2031715041196875776",
+              "start": 90,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 135,
+              "id": "2034584162246799361",
+              "start": 126,
+              "username": "NDcatbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053345747026788811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053339833364541662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youling_qaq: 获奖名单：一等奖（1名）：@LinKuoTianKong\n\n奖励：10局舞萌！（本地物价折现30r）\n\n二等奖（2名）：@mchchc5216\n、@YiJin_0v0\n\n奖励：一盒绿普（折现15r）\n\n三等奖（6名）：@NDcatbot\n、@R…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2053339833364541662",
+        "created_at": "2026-05-10T05:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053339833364541662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1768252813363314688",
+              "start": 13,
+              "username": "LinKuoTianKong"
+            },
+            {
+              "end": 71,
+              "id": "1983042229720735744",
+              "start": 60,
+              "username": "mchchc5216"
+            },
+            {
+              "end": 83,
+              "id": "2031715041196875776",
+              "start": 73,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 118,
+              "id": "2034584162246799361",
+              "start": 109,
+              "username": "NDcatbot"
+            },
+            {
+              "end": 128,
+              "id": "1546104577161760768",
+              "start": 120,
+              "username": "R0y0o0u"
+            },
+            {
+              "end": 146,
+              "id": "1464862562164506624",
+              "start": 130,
+              "username": "Sullivansuolian"
+            },
+            {
+              "end": 160,
+              "id": "1928504693585842176",
+              "start": 148,
+              "username": "siangel0911"
+            },
+            {
+              "end": 173,
+              "id": "1780605457725542400",
+              "start": 162,
+              "username": "qwq0721nya"
+            },
+            {
+              "end": 190,
+              "id": "1882563916632666112",
+              "start": 175,
+              "username": "hhjnjkoguyunmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/youling_qaq/st…",
+              "end": 230,
+              "expanded_url": "https://twitter.com/youling_qaq/status/2052070039034224795",
+              "start": 207,
+              "url": "https://t.co/JvtZPI9YT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053339833364541662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 28,
+                "id": "1768252813363314688",
+                "start": 13,
+                "username": "LinKuoTianKong"
+              },
+              {
+                "end": 71,
+                "id": "1983042229720735744",
+                "start": 60,
+                "username": "mchchc5216"
+              },
+              {
+                "end": 83,
+                "id": "2031715041196875776",
+                "start": 73,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 118,
+                "id": "2034584162246799361",
+                "start": 109,
+                "username": "NDcatbot"
+              },
+              {
+                "end": 128,
+                "id": "1546104577161760768",
+                "start": 120,
+                "username": "R0y0o0u"
+              },
+              {
+                "end": 146,
+                "id": "1464862562164506624",
+                "start": 130,
+                "username": "Sullivansuolian"
+              },
+              {
+                "end": 160,
+                "id": "1928504693585842176",
+                "start": 148,
+                "username": "siangel0911"
+              },
+              {
+                "end": 173,
+                "id": "1780605457725542400",
+                "start": 162,
+                "username": "qwq0721nya"
+              },
+              {
+                "end": 190,
+                "id": "1882563916632666112",
+                "start": 175,
+                "username": "hhjnjkoguyunmo"
+              }
+            ]
+          },
+          "text": "获奖名单：一等奖（1名）：@LinKuoTianKong\n\n奖励：10局舞萌！（本地物价折现30r）\n\n二等奖（2名）：@mchchc5216\n、@YiJin_0v0\n\n奖励：一盒绿普（折现15r）\n\n三等奖（6名）：@NDcatbot\n、@R0y0o0u\n、@Sullivansuolian\n、@siangel0911\n、@qwq0721nya\n、@hhjnjkoguyunmo\n\n奖励：2r（或换成2t愈美）\n\n中奖的人私信哦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052070039034224795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "获奖名单：一等奖（1名）：@LinKuoTianKong\n\n奖励：10局舞萌！（本地物价折现30r）\n\n二等奖（2名）：@mchchc5216\n、@YiJin_0v0\n\n奖励：一盒绿普（折现15r）\n\n三等奖（6名）：@NDcatbot\n、@R0y0o0u\n、@Sullivansuolian\n、@siangel0911\n、@qwq0721nya\n、@hhjnjkoguyunmo\n\n奖励：2r（或换成2t愈美） https://t.co/JvtZPI9YT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 990,
+          "like_count": 4932,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5502
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "14岁初二生 低龄傻福推u  2*/2/2012\nmtf🍥hrt:26.3.30\n平时想发啥发啥\n家暴党 年龄党\n不谈论政治\n成分复杂，部分帖子带有玩梗性质（求求你们别骂了😭😭😭）\n随机互fo（私信也行）\n坐标hncs\n（taffy唐笑.mp3）\n私信慢回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basibatuoooooo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basibatuoooooo",
+                "start": 0,
+                "url": "https://t.co/4lMrqR4lwO"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "关注塔菲喵，关注塔菲谢谢喵",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 933,
+          "like_count": 1533,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/4lMrqR4lwO",
+        "username": "youling_qaq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-14T12:28:33.000Z",
+        "description": "不友跨了。自己也不知道什么时候翻，有点受虐倾向，有时候脑子不太灵光，脾气比较暴躁，经常被人挂，还总遭人讨厌。所发的帖子经常贴脸开大，发言很逆天，且可能出现负能量内容，请谨慎关注。想被捆，想被关进笼子……嗯很好不知道写什么",
+        "id": "1768252813363314688",
+        "location": "现居住于 广西省南宁市 兴宁区长兴路8号 同和华彩美地",
+        "name": "水中月-林阔天空",
+        "pinned_tweet_id": "1912524604129825042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005662168407281664/dUUtcxPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 245,
+          "like_count": 50985,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 6166
+        },
+        "username": "LinKuoTianKong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 生产日期：2011.3.29 // 坐标：山东济南 Ⅱ 优香单推人// 互fo Ⅱ b站小up ll ba国服新玩家 Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "千禧年第一优香厨📮 | 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 316,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n春风@ace31ch\n^✟❀永远纪念@wu_si787878❀@iirin_0917❀随时附体@Melody_0v0_❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 84,
+                "username": "ace31ch"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "wu_si787878"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "iirin_0917"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Melody_0v0_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/BEawMTYyNs"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "你看看你身后",
+        "name": "3.霖（完全病娇邪恶中二）",
+        "pinned_tweet_id": "2053020128930156785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 692,
+          "like_count": 6463,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 3658
+        },
+        "url": "https://t.co/BEawMTYyNs",
+        "username": "YiJin_0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 112,
+          "like_count": 2375,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      }
+    ]
+  }
+}

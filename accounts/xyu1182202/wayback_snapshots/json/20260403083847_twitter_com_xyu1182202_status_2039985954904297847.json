@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039985954904297847",
+    "created_at": "2026-04-03T08:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039985954904297847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2039331012325392384",
+          "start": 5,
+          "username": "xiyu1167103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039985954904297847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请关注新号@xiyu1167103\n这个号因为错误的设置年龄不能查看某些帖子了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039985954904297847",
+        "created_at": "2026-04-03T08:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039985954904297847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2039331012325392384",
+              "start": 5,
+              "username": "xiyu1167103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039985954904297847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请关注新号@xiyu1167103\n这个号因为错误的设置年龄不能查看某些帖子了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 84,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 524
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T13:16:36.000Z",
+        "description": "",
+        "id": "2039331012325392384",
+        "name": "曦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039331425133133824/0PSLeFV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "xiyu1167103",
+        "verified": false
+      }
+    ]
+  }
+}

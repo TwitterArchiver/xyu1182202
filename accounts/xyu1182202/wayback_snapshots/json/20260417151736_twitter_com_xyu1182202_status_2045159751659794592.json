@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045004681152278712",
+    "created_at": "2026-04-17T15:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045159751659794592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        },
+        {
+          "end": 28,
+          "id": "1424779836938022913",
+          "start": 15,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 36,
+          "id": "818567620509237248",
+          "start": 29,
+          "username": "nyuu03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045159751659794592",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045041398437614022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline @amber_toffee @nyuu03 那完了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2045040976708722688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFx7ufXYAA4Xw2.png",
+        "width": 409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045004681152278712",
+        "created_at": "2026-04-17T15:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045159751659794592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            },
+            {
+              "end": 28,
+              "id": "1424779836938022913",
+              "start": 15,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 36,
+              "id": "818567620509237248",
+              "start": 29,
+              "username": "nyuu03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045159751659794592",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045041398437614022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline @amber_toffee @nyuu03 那完了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045040976708722688"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "conversation_id": "2045004681152278712",
+        "created_at": "2026-04-17T07:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045041398437614022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 21,
+              "id": "818567620509237248",
+              "start": 14,
+              "username": "nyuu03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bvs1moSuUH",
+              "end": 90,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2045041398437614022/photo/1",
+              "media_key": "3_2045040976708722688",
+              "start": 67,
+              "url": "https://t.co/Bvs1moSuUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045041398437614022",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1314,
+          "like_count": 36,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045013468462326197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @nyuu03 《政审要求本人及家庭成员(父母、配偶、子女、兄弟姐妹）性取向正常，同性恋和双性恋不合格》 https://t.co/Bvs1moSuUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 657,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 241,
+          "like_count": 2438,
+          "listed_count": 10,
+          "media_count": 3825,
+          "tweet_count": 13026
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25593,
+          "following_count": 2754,
+          "like_count": 41011,
+          "listed_count": 13,
+          "media_count": 622,
+          "tweet_count": 21859
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-09T21:18:23.000Z",
+        "description": "Feminista Marxista/Anti-Imperialist/Free Palestine🍉/LGBTQIA+🏳️‍🌈/ Communist🚩/ Fashion Designer/ Bisexual woman.\n🏳️‍⚧️앨라이입니다. 한국의 퀴어/앨라이들과 친해지고 싶어요",
+        "id": "818567620509237248",
+        "location": "Brasil",
+        "name": "Lunamoon☭🇧🇷",
+        "pinned_tweet_id": "2044945424516079855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044511988428988416/3LjQwxLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 542,
+          "like_count": 28902,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 15835
+        },
+        "username": "nyuu03",
+        "verified": false
+      }
+    ]
+  }
+}

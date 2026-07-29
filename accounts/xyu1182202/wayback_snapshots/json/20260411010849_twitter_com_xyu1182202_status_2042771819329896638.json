@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042771819329896638",
+    "created_at": "2026-04-11T01:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042771819329896638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042771819329896638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042660162079723887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 中国人也太他妈多了，曼彻斯特人口竟然和中国随便一个小县城人口差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042771819329896638",
+        "created_at": "2026-04-11T01:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042771819329896638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042771819329896638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042660162079723887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 中国人也太他妈多了，曼彻斯特人口竟然和中国随便一个小县城人口差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2042660162079723887",
+        "created_at": "2026-04-10T17:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042660162079723887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042660162079723887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 918,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国人也太他妈多了，曼彻斯特人口竟然和中国随便一个小县城人口差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 427,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "完美无缺",
+        "id": "2010357366466990080",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2042297346260860972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 333,
+          "like_count": 438,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 1317
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

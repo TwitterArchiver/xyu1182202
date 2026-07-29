@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053802694343811532",
+    "created_at": "2026-05-12T02:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054030703151779955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2023887772801736704",
+          "start": 0,
+          "username": "lyyouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054030703151779955",
+    "in_reply_to_user_id": "2023887772801736704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053802694343811532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyyouo 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053802685347119104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICSqSrbwAAXmwH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053802694343811532",
+        "created_at": "2026-05-12T02:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054030703151779955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2023887772801736704",
+              "start": 0,
+              "username": "lyyouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054030703151779955",
+        "in_reply_to_user_id": "2023887772801736704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053802694343811532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyyouo 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053802685347119104"
+          ]
+        },
+        "author_id": "2023887772801736704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053802694343811532",
+        "created_at": "2026-05-11T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053802694343811532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwRDHCb61F",
+              "end": 27,
+              "expanded_url": "https://x.com/lyyouo/status/2053802694343811532/photo/1",
+              "media_key": "3_2053802685347119104",
+              "start": 4,
+              "url": "https://t.co/BwRDHCb61F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053802694343811532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8931,
+          "like_count": 1001,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "最后的 https://t.co/BwRDHCb61F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 994,
+          "like_count": 4994,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5571
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T22:30:32.000Z",
+        "description": "前世@o3olyy｜18 ↑｜od 自伤🩹餐券女｜双向｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "o3olyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/6FKFe0QKii"
+              }
+            ]
+          }
+        },
+        "id": "2023887772801736704",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理（寻回互fo版）",
+        "pinned_tweet_id": "2053586183427649665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 86,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/6FKFe0QKii",
+        "username": "lyyouo",
+        "verified": false
+      }
+    ]
+  }
+}

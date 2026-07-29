@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2062412477330334149",
+    "created_at": "2026-06-05T10:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062850891443757518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062850891443757518",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062412477330334149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Yukikaze 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2062412477330334149",
+        "created_at": "2026-06-05T10:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062850891443757518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062850891443757518",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062412477330334149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2062412477330334149",
+        "created_at": "2026-06-04T05:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062412477330334149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagura_yukikaz…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/kagura_yukikaze/status/2062168480670240906",
+              "start": 60,
+              "url": "https://t.co/unapDf9arD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062412477330334149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4937,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062168480670240906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唐毓文任成轩这种必b\nn55 unk冰棍这种双取\n其他不那么神的一般不会双取的哦\n天天和神人在一起自己也迟早成神人了吧 https://t.co/unapDf9arD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1017,
+          "like_count": 5348,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6101
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 3021,
+          "like_count": 110460,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 13459
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

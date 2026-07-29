@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2045348391345893377"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045423812221767959",
+    "created_at": "2026-04-18T08:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045423812221767959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041898123061030912",
+          "start": 3,
+          "username": "inlineint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045423812221767959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045348392771998199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inlineint: 小药娘可以活到几岁🤔"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2026-04-20T03:47:11.000Z",
+        "id": "2045348391345893377",
+        "options": [
+          {
+            "label": "20以下",
+            "position": 1,
+            "votes": 17
+          },
+          {
+            "label": "20～30",
+            "position": 2,
+            "votes": 20
+          },
+          {
+            "label": "30～40",
+            "position": 3,
+            "votes": 15
+          },
+          {
+            "label": "40以上",
+            "position": 4,
+            "votes": 57
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2045348391345893377"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045423812221767959",
+        "created_at": "2026-04-18T08:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045423812221767959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041898123061030912",
+              "start": 3,
+              "username": "inlineint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045423812221767959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045348392771998199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inlineint: 小药娘可以活到几岁🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2045348391345893377"
+          ]
+        },
+        "author_id": "2041898123061030912",
+        "conversation_id": "2045348392771998199",
+        "created_at": "2026-04-18T03:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045348392771998199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045348392771998199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘可以活到几岁🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 670,
+          "like_count": 2476,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3221
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T15:23:12.000Z",
+        "description": "HRT2026.3.9🍥/INTP/已炸柜/家长党/轻抑中焦/强迫症/中度人际关系敏感/OD/高中生/OIer/彩笔音游人rks15.46/计算机狂热爱好者/不键政/看成分互关/原名Register Int/是猫娘喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/7YyxI014l1"
+              }
+            ]
+          }
+        },
+        "id": "2041898123061030912",
+        "location": "天堂",
+        "name": "int喵🍥",
+        "pinned_tweet_id": "2044558583531024627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045177768829243392/ZFqV5Z5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 312,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/7YyxI014l1",
+        "username": "inlineint",
+        "verified": true
+      }
+    ]
+  }
+}

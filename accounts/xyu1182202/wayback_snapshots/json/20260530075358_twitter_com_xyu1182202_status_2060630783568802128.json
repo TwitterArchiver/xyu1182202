@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060625470706929997",
+    "created_at": "2026-05-30T07:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060630783568802128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012841769105567744",
+          "start": 0,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060630783568802128",
+    "in_reply_to_user_id": "2012841769105567744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060625470706929997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18nuun 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_2060625460393025537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjP8EXaIAEGM_T.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060625470706929997",
+        "created_at": "2026-05-30T07:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060630783568802128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012841769105567744",
+              "start": 0,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060630783568802128",
+        "in_reply_to_user_id": "2012841769105567744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060625470706929997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18nuun 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060625460393025537"
+          ]
+        },
+        "author_id": "2012841769105567744",
+        "conversation_id": "2060625470706929997",
+        "created_at": "2026-05-30T07:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060625470706929997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfeAO4YOTp",
+              "end": 47,
+              "expanded_url": "https://x.com/18nuun/status/2060625470706929997/photo/1",
+              "media_key": "3_2060625460393025537",
+              "start": 24,
+              "url": "https://t.co/LfeAO4YOTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060625470706929997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一，我倒是真想知道哪里可以直播给大家看的 https://t.co/LfeAO4YOTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5351,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6063
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜永远的爱人@dnshu135734｜大号是@aureliax17qwq｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "aureliax17qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBShHX"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051431775319281664/S0BXOQH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 44,
+          "like_count": 354,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/zuGwDBShHX",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

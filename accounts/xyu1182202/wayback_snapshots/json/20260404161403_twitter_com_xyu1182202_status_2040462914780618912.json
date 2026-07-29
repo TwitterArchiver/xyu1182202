@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040227234972422601",
+    "created_at": "2026-04-04T16:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040462914780618912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949994452845789184",
+          "start": 0,
+          "username": "mike95271314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040462914780618912",
+    "in_reply_to_user_id": "1949994452845789184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040227234972422601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mike95271314 推特就这样🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040227234972422601",
+        "created_at": "2026-04-04T16:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040462914780618912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949994452845789184",
+              "start": 0,
+              "username": "mike95271314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040462914780618912",
+        "in_reply_to_user_id": "1949994452845789184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040227234972422601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mike95271314 推特就这样🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949994452845789184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2040227234972422601",
+        "created_at": "2026-04-04T00:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040227234972422601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mike95271314/s…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/mike95271314/status/2039884851390922776",
+              "start": 87,
+              "url": "https://t.co/hKACbNYVxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040227234972422601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15374,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039884851390922776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "见鬼，随意发了这么一帖，一堆人来骂，有骂小学学历，有骂智商，有骂做题区，有骂老中的教育方式，学渣大概以为每个人读书都像他们一样便秘，等你们这群废物十岁不到学完微积分再来喷吧 https://t.co/hKACbNYVxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 159,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T00:44:54.000Z",
+        "description": "比烂学大师",
+        "id": "1949994452845789184",
+        "location": "中南海",
+        "name": "麦克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956540401420275712/sshL3tqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3499,
+          "following_count": 554,
+          "like_count": 17345,
+          "listed_count": 32,
+          "media_count": 726,
+          "tweet_count": 8539
+        },
+        "username": "mike95271314",
+        "verified": false
+      }
+    ]
+  }
+}

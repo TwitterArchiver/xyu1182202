@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2063456235480109136",
+    "created_at": "2026-06-07T13:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063612061922591208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968300138222215168",
+          "start": 0,
+          "username": "wafuunai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063612061922591208",
+    "in_reply_to_user_id": "1968300138222215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063456235480109136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wafuunai 厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2063456227548626944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLegZyagAAq8x3.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2063456235480109136",
+        "created_at": "2026-06-07T13:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063612061922591208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968300138222215168",
+              "start": 0,
+              "username": "wafuunai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063612061922591208",
+        "in_reply_to_user_id": "1968300138222215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063456235480109136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wafuunai 厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063456227548626944"
+          ]
+        },
+        "author_id": "1968300138222215168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063456235480109136",
+        "created_at": "2026-06-07T03:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063456235480109136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNGvnq2toq",
+              "end": 38,
+              "expanded_url": "https://x.com/wafuunai/status/2063456235480109136/photo/1",
+              "media_key": "3_2063456227548626944",
+              "start": 15,
+              "url": "https://t.co/FNGvnq2toq"
+            },
+            {
+              "display_url": "x.com/kevinyang0803/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kevinyang0803/status/2063177127009321058",
+              "start": 39,
+              "url": "https://t.co/HCrmogf8zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063456235480109136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8959,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063177127009321058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂我收到短信时多想笑….. https://t.co/FNGvnq2toq https://t.co/HCrmogf8zD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1020,
+          "like_count": 5353,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6137
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T13:05:04.000Z",
+        "description": "UTC +8｜the invisible at @UMichECE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "UMichECE"
+              }
+            ]
+          }
+        },
+        "id": "1968300138222215168",
+        "name": "水无清奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968300496143220736/_PytA9lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 103,
+          "like_count": 10087,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1272
+        },
+        "username": "wafuunai",
+        "verified": false
+      }
+    ]
+  }
+}

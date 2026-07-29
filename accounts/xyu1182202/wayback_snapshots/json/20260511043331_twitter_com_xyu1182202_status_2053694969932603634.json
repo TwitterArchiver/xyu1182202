@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053694969932603634",
+    "created_at": "2026-05-11T04:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053694969932603634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HacchiTheMaid/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/HacchiTheMaid/status/2053557227932598649",
+          "start": 3,
+          "url": "https://t.co/ytyv80zSND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053694969932603634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053557227932598649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心碎 https://t.co/ytyv80zSND"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053694969932603634",
+        "created_at": "2026-05-11T04:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053694969932603634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HacchiTheMaid/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/HacchiTheMaid/status/2053557227932598649",
+              "start": 3,
+              "url": "https://t.co/ytyv80zSND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053694969932603634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053557227932598649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心碎 https://t.co/ytyv80zSND"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "2053557227932598649",
+        "created_at": "2026-05-10T19:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053557227932598649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053557227932598649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 584,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷了十分钟不到的推至少看到了5条讣告，感觉今年的频率和数量都比以前要高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 988,
+          "like_count": 4965,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5538
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10810,
+          "following_count": 2020,
+          "like_count": 52977,
+          "listed_count": 39,
+          "media_count": 1371,
+          "tweet_count": 37095
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

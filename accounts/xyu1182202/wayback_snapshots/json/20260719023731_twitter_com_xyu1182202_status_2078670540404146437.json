@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078165494742556673"
+      ],
+      "media_source_tweet_id": [
+        "2078165508369846517"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078670540404146437",
+    "created_at": "2026-07-19T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078670540404146437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSZNQ4PAIt",
+          "end": 53,
+          "expanded_url": "https://x.com/smiroyama/status/2078165508369846517/photo/1",
+          "media_key": "3_2078165494742556673",
+          "start": 30,
+          "url": "https://t.co/ZSZNQ4PAIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078670540404146437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078165508369846517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @smiroyama: 很多人的素质还不如一个机器人 https://t.co/ZSZNQ4PAIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_2078165494742556673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcggcKaoAEoNmP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078165494742556673"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2078165508369846517",
+        "created_at": "2026-07-17T17:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078165508369846517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSZNQ4PAIt",
+              "end": 38,
+              "expanded_url": "https://x.com/smiroyama/status/2078165508369846517/photo/1",
+              "media_key": "3_2078165494742556673",
+              "start": 15,
+              "url": "https://t.co/ZSZNQ4PAIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078165508369846517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14346,
+          "like_count": 312,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "following",
+        "text": "很多人的素质还不如一个机器人 https://t.co/ZSZNQ4PAIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078165494742556673"
+          ],
+          "media_source_tweet_id": [
+            "2078165508369846517"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078670540404146437",
+        "created_at": "2026-07-19T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078670540404146437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSZNQ4PAIt",
+              "end": 53,
+              "expanded_url": "https://x.com/smiroyama/status/2078165508369846517/photo/1",
+              "media_key": "3_2078165494742556673",
+              "start": 30,
+              "url": "https://t.co/ZSZNQ4PAIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078670540404146437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078165508369846517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @smiroyama: 很多人的素质还不如一个机器人 https://t.co/ZSZNQ4PAIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1054,
+          "like_count": 5358,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6541
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 78,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 55,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7143,
+          "following_count": 2568,
+          "like_count": 13830,
+          "listed_count": 14,
+          "media_count": 2355,
+          "tweet_count": 8602
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

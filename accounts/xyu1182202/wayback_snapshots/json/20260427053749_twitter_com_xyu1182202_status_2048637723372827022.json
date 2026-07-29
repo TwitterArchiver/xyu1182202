@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048440276520431646",
+    "created_at": "2026-04-27T05:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048637723372827022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048637723372827022",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048440276520431646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048440197067804672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2FgZHbkAAgVcI.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048440276520431646",
+        "created_at": "2026-04-27T05:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048637723372827022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048637723372827022",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048440276520431646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048440197067804672"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2048440276520431646",
+        "created_at": "2026-04-26T16:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048440276520431646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIVELR4tKc",
+              "end": 27,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2048440276520431646/photo/1",
+              "media_key": "3_2048440197067804672",
+              "start": 4,
+              "url": "https://t.co/iIVELR4tKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048440276520431646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多血 https://t.co/iIVELR4tKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048064640190730306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 880,
+          "like_count": 3758,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4529
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜oder｜自残过一段时间但已戒｜双相｜日语学习中｜喜欢猫｜互fo请私信喵｜提问箱：https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 112,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 89,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 428,
+          "like_count": 54633,
+          "listed_count": 3,
+          "media_count": 1602,
+          "tweet_count": 9956
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

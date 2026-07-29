@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2062567234237817006",
+    "created_at": "2026-06-05T10:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062851034025009228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062851034025009228",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062567234237817006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@smiroyama 😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2062567222816747520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-19hFbMAA4TAH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2062567234237817006",
+        "created_at": "2026-06-05T10:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062851034025009228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062851034025009228",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062567234237817006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@smiroyama 😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062567222816747520"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2062567234237817006",
+        "created_at": "2026-06-04T16:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062567234237817006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSbYzWThGo",
+              "end": 23,
+              "expanded_url": "https://x.com/smiroyama/status/2062567234237817006/photo/1",
+              "media_key": "3_2062567222816747520",
+              "start": 0,
+              "url": "https://t.co/qSbYzWThGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062567234237817006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 23885,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/qSbYzWThGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1017,
+          "like_count": 5350,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6104
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | 好姐姐 🥰: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060621621879353344/jRdB1QDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6391,
+          "following_count": 2360,
+          "like_count": 12732,
+          "listed_count": 21,
+          "media_count": 1962,
+          "tweet_count": 7468
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045049625262821503",
+    "created_at": "2026-04-17T12:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045123070768328750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1455077668538355712",
+          "start": 0,
+          "username": "unepomme05"
+        },
+        {
+          "end": 19,
+          "id": "1685784710285266944",
+          "start": 12,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045123070768328750",
+    "in_reply_to_user_id": "1455077668538355712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045108393783009719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unepomme05 @mhtqwq 还有现身说法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045049625262821503",
+        "created_at": "2026-04-17T12:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045123070768328750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1455077668538355712",
+              "start": 0,
+              "username": "unepomme05"
+            },
+            {
+              "end": 19,
+              "id": "1685784710285266944",
+              "start": 12,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045123070768328750",
+        "in_reply_to_user_id": "1455077668538355712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045108393783009719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unepomme05 @mhtqwq 还有现身说法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455077668538355712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2045049625262821503",
+        "created_at": "2026-04-17T11:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045108393783009719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045108393783009719",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1338,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045049625262821503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 我同学：豆包，千问，元宝\n我：chatgpt，claude，gemini\n就很😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 642,
+          "like_count": 2386,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T07:42:22.000Z",
+        "description": "",
+        "id": "1455077668538355712",
+        "location": "河北省 唐山地区 唐山都会区 古冶矿业市",
+        "name": "阁蛇訇Gow Shuh Hoong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996182000328159232/FWHSpOF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 245,
+          "like_count": 3814,
+          "listed_count": 6,
+          "media_count": 109,
+          "tweet_count": 2123
+        },
+        "username": "unepomme05",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5528,
+          "following_count": 411,
+          "like_count": 9343,
+          "listed_count": 13,
+          "media_count": 2433,
+          "tweet_count": 10375
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

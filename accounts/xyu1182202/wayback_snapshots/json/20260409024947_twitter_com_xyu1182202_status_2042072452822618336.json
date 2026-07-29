@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042072450490626049"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041877745685426473",
+    "created_at": "2026-04-09T02:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042072452822618336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sPZxRKkmWB",
+          "end": 66,
+          "expanded_url": "https://x.com/xyu1182202/status/2042072452822618336/photo/1",
+          "media_key": "3_2042072450490626049",
+          "start": 43,
+          "url": "https://t.co/sPZxRKkmWB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042072452822618336",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041877745685426473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen app不支持空白字符但是支持零宽，说明是真输出为空了 https://t.co/sPZxRKkmWB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2042072450490626049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbmEwka8AES9W4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 689,
+        "media_key": "3_2041877600134688771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY02-ba8AMHPWW.png",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042072450490626049"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041877745685426473",
+        "created_at": "2026-04-09T02:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042072452822618336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPZxRKkmWB",
+              "end": 66,
+              "expanded_url": "https://x.com/xyu1182202/status/2042072452822618336/photo/1",
+              "media_key": "3_2042072450490626049",
+              "start": 43,
+              "url": "https://t.co/sPZxRKkmWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042072452822618336",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041877745685426473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen app不支持空白字符但是支持零宽，说明是真输出为空了 https://t.co/sPZxRKkmWB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041877600134688771"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2041877745685426473",
+        "created_at": "2026-04-08T13:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041877745685426473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKMUChzwPq",
+              "end": 54,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2041877745685426473/photo/1",
+              "media_key": "3_2041877600134688771",
+              "start": 31,
+              "url": "https://t.co/lKMUChzwPq"
+            },
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Cldeop/status/2041782529456533900",
+              "start": 55,
+              "url": "https://t.co/Q6QKcVe8nJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041877745685426473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2464,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041782529456533900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ChatGPT 才是真正过关了好吧 \n「真正的」没有任何输出 https://t.co/lKMUChzwPq https://t.co/Q6QKcVe8nJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 329,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1619
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 宝宝@HoroyoiBerry | CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 110,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 87,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 140,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 117,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 385,
+          "like_count": 11459,
+          "listed_count": 4,
+          "media_count": 782,
+          "tweet_count": 4087
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

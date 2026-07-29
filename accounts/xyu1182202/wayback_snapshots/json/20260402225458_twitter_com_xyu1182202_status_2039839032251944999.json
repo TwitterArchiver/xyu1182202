@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039752187782574087",
+    "created_at": "2026-04-02T22:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039839032251944999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "baimengmeng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039839032251944999",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039752187782574087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimengmeng233 抱抱你🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039752185207283712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6nzi0bYAAP4kb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039752187782574087",
+        "created_at": "2026-04-02T22:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039839032251944999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "baimengmeng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039839032251944999",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039752187782574087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimengmeng233 抱抱你🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039752185207283712"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2039752187782574087",
+        "created_at": "2026-04-02T17:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039752187782574087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "男娘"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "伪娘"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "药娘"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "mtf"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "jk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oRxHIegBK",
+              "end": 121,
+              "expanded_url": "https://x.com/baimengmeng233/status/2039752187782574087/photo/1",
+              "media_key": "3_2039752185207283712",
+              "start": 98,
+              "url": "https://t.co/5oRxHIegBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039752187782574087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再可爱也做不了什么，帮不了别人，也救不了自己。只能天天卖萌发呆？不，我也没那么可爱，心理作用挺大的。但是我好想希望能够有意义的帮助别人。 ＃男娘 ＃伪娘 ＃药娘 ＃可爱的男孩子 ＃mtf #jk https://t.co/5oRxHIegBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 70,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 414
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子（失业状态）",
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025079308826607616/RHqNbAWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3103,
+          "following_count": 723,
+          "like_count": 10611,
+          "listed_count": 2,
+          "media_count": 712,
+          "tweet_count": 7043
+        },
+        "username": "baimengmeng233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2069008874464858597",
+    "created_at": "2026-06-23T03:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069267808261915024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        },
+        {
+          "end": 18,
+          "id": "2055095022425722880",
+          "start": 11,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069267808261915024",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069266335922901082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@xiey57828 @UnkMtX 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2069008874464858597",
+        "created_at": "2026-06-23T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069267808261915024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 18,
+              "id": "2055095022425722880",
+              "start": 11,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069267808261915024",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069266335922901082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xiey57828 @UnkMtX 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2069008874464858597",
+        "created_at": "2026-06-23T03:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069266335922901082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069266335922901082",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069008874464858597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 你爹是对的，外网害了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 1037,
+          "like_count": 5409,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6359
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 480,
+          "like_count": 9242,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3583
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMtX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii6VxE"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1106,
+          "like_count": 2734,
+          "listed_count": 14,
+          "media_count": 88,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/AjAoii6VxE",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

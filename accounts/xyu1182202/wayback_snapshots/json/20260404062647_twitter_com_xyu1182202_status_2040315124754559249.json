@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040312126263239067",
+    "created_at": "2026-04-04T06:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040315124754559249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040315124754559249",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040312126263239067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040312126263239067",
+        "created_at": "2026-04-04T06:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040315124754559249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040315124754559249",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040312126263239067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "2040312126263239067",
+        "created_at": "2026-04-04T06:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040312126263239067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siuuuuneo/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/siuuuuneo/status/2040168150260748482",
+              "start": 8,
+              "url": "https://t.co/ZAVt3QmuVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040312126263239067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040168150260748482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦想是一睡不醒 https://t.co/ZAVt3QmuVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 122,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | 碎碎念or日常 @syyann2026 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1839,
+          "like_count": 24266,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 6954
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

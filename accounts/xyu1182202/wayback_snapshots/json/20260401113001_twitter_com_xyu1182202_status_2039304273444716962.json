@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039016319249777087",
+    "created_at": "2026-04-01T11:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039304273444716962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443444056701370371",
+          "start": 0,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039304273444716962",
+    "in_reply_to_user_id": "1443444056701370371",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039016319249777087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tina63991073 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039016319249777087",
+        "created_at": "2026-04-01T11:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039304273444716962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039304273444716962",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039016319249777087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443444056701370371",
+        "conversation_id": "2039016319249777087",
+        "created_at": "2026-03-31T16:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039016319249777087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039016319249777087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14580,
+          "like_count": 114,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有些话我真不想说，我在推上这么多年和我吵架的，喜欢怼我的看不顺眼我的，90%都是mtf，或者沾点跨的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 214
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 上海/男娘",
+        "id": "1443444056701370371",
+        "location": "188（好友位  接接接",
+        "name": "富江江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039015617462931456/FxjVpjsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87524,
+          "following_count": 573,
+          "like_count": 9903,
+          "listed_count": 257,
+          "media_count": 898,
+          "tweet_count": 7984
+        },
+        "username": "tina63991073",
+        "verified": false
+      }
+    ]
+  }
+}

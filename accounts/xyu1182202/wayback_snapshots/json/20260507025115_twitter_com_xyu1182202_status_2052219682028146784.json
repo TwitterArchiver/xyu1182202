@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052219682028146784",
+    "created_at": "2026-05-07T02:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052219682028146784"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "自杀干预"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946799807366082560",
+          "start": 3,
+          "username": "LeavesMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052219682028146784",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052216015782883542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeavesMao: #自杀干预"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052219682028146784",
+        "created_at": "2026-05-07T02:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052219682028146784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "自杀干预"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946799807366082560",
+              "start": 3,
+              "username": "LeavesMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052219682028146784",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052216015782883542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeavesMao: #自杀干预"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946799807366082560",
+        "conversation_id": "2052216015782883542",
+        "created_at": "2026-05-07T02:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052216015782883542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀干预"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xxz10110116791…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xxz10110116791/status/2052186034570760446",
+              "start": 6,
+              "url": "https://t.co/m394C5Ruaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052216015782883542",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052186034570760446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#自杀干预 https://t.co/m394C5Ruaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 975,
+          "like_count": 4730,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5289
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "🍥🏳️‍⚧️ she / 猫猫叶！\n2009.05.23 | 独居中… | 浙江 杭州 | INFP | #Minecraft | 最好的姐姐 @xiey57828 | 胆小爱哭想被爱… | 喜欢可爱的人事物  | 同类互fo喵 | 希望大家都可以开开心心的 /ᐠ ｡‸ ｡ᐟ\\\n猫猫叶… @DontLeaveMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 53,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xiey57828"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "DontLeaveMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/NjDnH88ZFU",
+                "end": 23,
+                "expanded_url": "https://discord.gg/NjDnH88ZFU",
+                "start": 0,
+                "url": "https://t.co/5i4SvYQUTT"
+              }
+            ]
+          }
+        },
+        "id": "1946799807366082560",
+        "location": "猫窝",
+        "name": "🍼猫猫叶TheCat🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041053742745985429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031592264678649856/zRvlBMu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 310,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/5i4SvYQUTT",
+        "username": "LeavesMao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038854535477870651",
+    "created_at": "2026-03-31T10:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038924478378643671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038924478378643671",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038854535477870651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 刚关注也可以抄吗🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038854531115843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEt3ZMvbAAARFl8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038854535477870651",
+        "created_at": "2026-03-31T10:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038924478378643671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038924478378643671",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038854535477870651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 刚关注也可以抄吗🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038854531115843584"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2038854535477870651",
+        "created_at": "2026-03-31T05:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038854535477870651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qy5p7gsAGL",
+              "end": 38,
+              "expanded_url": "https://x.com/aaarjkk/status/2038854535477870651/photo/1",
+              "media_key": "3_2038854531115843584",
+              "start": 15,
+              "url": "https://t.co/Qy5p7gsAGL"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2038489749963645129",
+              "start": 39,
+              "url": "https://t.co/dwzUTTx2T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038854535477870651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 263,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038489749963645129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😲这一页竟然抄了我40分钟+ https://t.co/Qy5p7gsAGL https://t.co/dwzUTTx2T6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038924432920739840/aZf8PsEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 113
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 475,
+          "like_count": 7208,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

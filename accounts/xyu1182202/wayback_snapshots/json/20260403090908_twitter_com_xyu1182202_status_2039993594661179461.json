@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039934611405627701",
+    "created_at": "2026-04-03T09:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039993594661179461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1664696385277665281",
+          "start": 0,
+          "username": "Hoshino_CNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039993594661179461",
+    "in_reply_to_user_id": "1664696385277665281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039934611405627701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_CNA 🤣攻击力这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039934611405627701",
+        "created_at": "2026-04-03T09:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039993594661179461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1664696385277665281",
+              "start": 0,
+              "username": "Hoshino_CNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039993594661179461",
+        "in_reply_to_user_id": "1664696385277665281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039934611405627701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_CNA 🤣攻击力这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664696385277665281",
+        "conversation_id": "2039934611405627701",
+        "created_at": "2026-04-03T05:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039934611405627701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kntk036/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kntk036/status/2039928604520587679",
+              "start": 34,
+              "url": "https://t.co/AUJsKagLpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039934611405627701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12507,
+          "like_count": 208,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039928604520587679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本人除了天安门就没其他话术了吗\n真的会有粉红因为天安门破防？？？ https://t.co/AUJsKagLpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 85,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 529
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T18:12:55.000Z",
+        "description": "既然你把反对的标准定的那么宽泛那么低，那我为什么不当你所说的那个反对者呢呢",
+        "id": "1664696385277665281",
+        "name": "小鸟游ホシノ👊🏴‍☠️🇵🇸🇪🇭🔥",
+        "pinned_tweet_id": "1774770163663204620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823948319867199492/6rRYxJOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 768,
+          "like_count": 71238,
+          "listed_count": 7,
+          "media_count": 749,
+          "tweet_count": 13177
+        },
+        "username": "Hoshino_CNA",
+        "verified": false
+      }
+    ]
+  }
+}

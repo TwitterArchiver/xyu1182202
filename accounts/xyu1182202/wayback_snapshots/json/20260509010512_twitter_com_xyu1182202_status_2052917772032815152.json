@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052917772032815152",
+    "created_at": "2026-05-09T01:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052917772032815152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682793693630304260",
+          "start": 3,
+          "username": "gpSillyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052917772032815152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052753566927143366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gpSillyB: 突然发现自己80fo了，大家都在抽奖我也随便抽一个吧!\n随便回复一下就行，我发三个20。\n最近太穷了没办法😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052917772032815152",
+        "created_at": "2026-05-09T01:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052917772032815152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682793693630304260",
+              "start": 3,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052917772032815152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052753566927143366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gpSillyB: 突然发现自己80fo了，大家都在抽奖我也随便抽一个吧!\n随便回复一下就行，我发三个20。\n最近太穷了没办法😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2052753566927143366",
+        "created_at": "2026-05-08T14:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052753566927143366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052753566927143366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现自己80fo了，大家都在抽奖我也随便抽一个吧!\n随便回复一下就行，我发三个20。\n最近太穷了没办法😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 983,
+          "like_count": 4892,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5447
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 137,
+          "like_count": 3647,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 789
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

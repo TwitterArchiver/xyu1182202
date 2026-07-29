@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051470342422700499",
+    "created_at": "2026-05-05T04:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051522184900948095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051522184900948095",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051470342422700499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 就当是一场梦🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051470342422700499",
+        "created_at": "2026-05-05T04:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051522184900948095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051522184900948095",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051470342422700499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 就当是一场梦🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2051470342422700499",
+        "created_at": "2026-05-05T01:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051470342422700499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051470342422700499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1382,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "全都没有了，一分钱都没有了…\n\n这几天准备进厂包吃包住，愿赌服输"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 946,
+          "like_count": 4432,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5082
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "伴侣@CyberKanjousen🐱/老师@Aoim33｜20岁｜专科大一｜日语、心理学、自杀干预、记录生活｜ACGN爱好者｜VTuber/游戏主播｜不是跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5XUGTKL",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5XUGTKL",
+                "start": 0,
+                "url": "https://t.co/o0VzlkAATx"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "花漫阳春Official",
+        "pinned_tweet_id": "2051467887832125491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 698,
+          "like_count": 3769,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/o0VzlkAATx",
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

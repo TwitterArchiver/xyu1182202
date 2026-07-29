@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052323751052865649",
+    "created_at": "2026-05-07T10:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329367729295460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329367729295460",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052327989724266793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052323751052865649",
+        "created_at": "2026-05-07T10:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052329367729295460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329367729295460",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052327989724266793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2052323751052865649",
+        "created_at": "2026-05-07T10:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052327989724266793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052327989724266793",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052323751052865649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 硫酸宝宝奶凶奶凶呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 974,
+          "like_count": 4772,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 5333
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我是谁？我也不清楚。\n但是最好的妹妹 @LeavesMao 丨另一个？我@xyu1182202不要喂负面情绪😡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "xyu1182202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "猫窝",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2048948188070150603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051554729109737472/u8eZbhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 308,
+          "like_count": 5272,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

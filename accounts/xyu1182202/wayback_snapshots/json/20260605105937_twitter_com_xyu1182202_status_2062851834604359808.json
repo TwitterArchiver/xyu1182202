@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2062511535562641755",
+    "created_at": "2026-06-05T10:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062851834604359808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062851834604359808",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062511535562641755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 😡赔我眼睛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2062511532349730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-DT57aMAAQgMz.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2062511535562641755",
+        "created_at": "2026-06-05T10:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062851834604359808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062851834604359808",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062511535562641755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 😡赔我眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062511532349730816"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062511535562641755",
+        "created_at": "2026-06-04T12:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062511535562641755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAGh5cwVis",
+              "end": 32,
+              "expanded_url": "https://x.com/NL8526/status/2062511535562641755/photo/1",
+              "media_key": "3_2062511532349730816",
+              "start": 9,
+              "url": "https://t.co/lAGh5cwVis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511535562641755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9048,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 64,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🦟身上开始痒了🦟 https://t.co/lAGh5cwVis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1017,
+          "like_count": 5352,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6111
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 711,
+          "like_count": 14549,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

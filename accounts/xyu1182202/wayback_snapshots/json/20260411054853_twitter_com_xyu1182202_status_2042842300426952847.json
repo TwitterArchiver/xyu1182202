@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042842300426952847",
+    "created_at": "2026-04-11T05:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042842300426952847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        },
+        {
+          "end": 24,
+          "id": "1535701819812462600",
+          "start": 13,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042842300426952847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042453046551003258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: @Kenntnis22 旧闻：“济南，一女子因故意不继承父母遗留房产，被法院认定为恶意逃债，并被判处8个月有期徒刑。”\n法院说这是恶意不继承，逃避债务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042842300426952847",
+        "created_at": "2026-04-11T05:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042842300426952847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "961832160377282560",
+              "start": 3,
+              "username": "iMoeAya"
+            },
+            {
+              "end": 24,
+              "id": "1535701819812462600",
+              "start": 13,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042842300426952847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042453046551003258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iMoeAya: @Kenntnis22 旧闻：“济南，一女子因故意不继承父母遗留房产，被法院认定为恶意逃债，并被判处8个月有期徒刑。”\n法院说这是恶意不继承，逃避债务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "2042382753107214840",
+        "created_at": "2026-04-10T04:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042453046551003258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042453046551003258",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13412,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042382753107214840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 旧闻：“济南，一女子因故意不继承父母遗留房产，被法院认定为恶意逃债，并被判处8个月有期徒刑。”\n法院说这是恶意不继承，逃避债务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 447,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40687,
+          "following_count": 4846,
+          "like_count": 182036,
+          "listed_count": 153,
+          "media_count": 1176,
+          "tweet_count": 35834
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2042811456064807135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51417,
+          "following_count": 428,
+          "like_count": 54162,
+          "listed_count": 252,
+          "media_count": 11306,
+          "tweet_count": 17385
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

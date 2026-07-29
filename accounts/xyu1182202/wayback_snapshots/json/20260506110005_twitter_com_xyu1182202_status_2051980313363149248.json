@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051683615956783237",
+    "created_at": "2026-05-06T11:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051980313363149248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816508247651860480",
+          "start": 0,
+          "username": "DIC_EWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051980313363149248",
+    "in_reply_to_user_id": "1816508247651860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051683615956783237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIC_EWE 好好吃饭喵😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051683611330379778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkLX8zWgAIalI4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051683615956783237",
+        "created_at": "2026-05-06T11:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051980313363149248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DIC_EWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980313363149248",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051683615956783237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIC_EWE 好好吃饭喵😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051683611330379778"
+          ]
+        },
+        "author_id": "1816508247651860480",
+        "conversation_id": "2051683615956783237",
+        "created_at": "2026-05-05T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051683615956783237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaitxFwDLx",
+              "end": 52,
+              "expanded_url": "https://x.com/DIC_EWE/status/2051683615956783237/photo/1",
+              "media_key": "3_2051683611330379778",
+              "start": 29,
+              "url": "https://t.co/kaitxFwDLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051683615956783237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 784,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这一周的饭钱也是发下来了好吧\n有人想学我的吃饭省钱技巧吗 https://t.co/kaitxFwDLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 973,
+          "like_count": 4646,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5206
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "出厂年份2010        期待很多东西\n                                \n杀杀杀杀杀杀杀    🚪67/167/6767无区别纯绿 176/60kg/15岁 @123mp27 温良的喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "123mp27"
+              }
+            ]
+          }
+        },
+        "id": "1816508247651860480",
+        "location": "家",
+        "name": "大骰目",
+        "pinned_tweet_id": "2051300515569688952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 307,
+          "like_count": 10210,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 2445
+        },
+        "username": "DIC_EWE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060447899058872372",
+    "created_at": "2026-05-30T07:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060619764188487897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859913912898191361",
+          "start": 0,
+          "username": "socieiy2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060619764188487897",
+    "in_reply_to_user_id": "1859913912898191361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060447899058872372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@socieiy2008 棍木"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_2060447878892695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgubdubMAAdBFg.jpg",
+        "width": 1298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060447899058872372",
+        "created_at": "2026-05-30T07:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060619764188487897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859913912898191361",
+              "start": 0,
+              "username": "socieiy2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060619764188487897",
+        "in_reply_to_user_id": "1859913912898191361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060447899058872372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@socieiy2008 棍木"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060447878892695552"
+          ]
+        },
+        "author_id": "1859913912898191361",
+        "conversation_id": "2060447899058872372",
+        "created_at": "2026-05-29T19:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060447899058872372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqDNnPBA44",
+              "end": 23,
+              "expanded_url": "https://x.com/socieiy2008/status/2060447899058872372/photo/1",
+              "media_key": "3_2060447878892695552",
+              "start": 0,
+              "url": "https://t.co/UqDNnPBA44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060447899058872372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7654,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UqDNnPBA44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5340,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6048
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T10:57:04.000Z",
+        "description": "接纳二次元爱好者|本人立场：团结中左派一致对资。反帝反修|反对粉红反贼|霍查派革命|自由左派路线|支持无产阶级自由民主体制和人民自由（工农自由）|联合全世界人民群众与左派、温和与务实右派|支持议会和宪政的社会主义制度|转贴|导师：@qjbJaTPk8u26S0a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "qjbJaTPk8u26S0a"
+              }
+            ]
+          }
+        },
+        "id": "1859913912898191361",
+        "location": "工农人民国",
+        "name": "人民的山鹰者🚩🇺🇳🇪🇺🇨🇳🇦🇱🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041538848069722112/4oRbxaxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 7502,
+          "like_count": 5340,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 14600
+        },
+        "username": "socieiy2008",
+        "verified": false
+      }
+    ]
+  }
+}

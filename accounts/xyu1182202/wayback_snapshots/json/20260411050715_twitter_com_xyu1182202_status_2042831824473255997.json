@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042824226391101881",
+    "created_at": "2026-04-11T05:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042831824473255997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843325725694476288",
+          "start": 0,
+          "username": "Ba1L0veU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042831824473255997",
+    "in_reply_to_user_id": "1843325725694476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042831714968539639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ba1L0veU 请核对信息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042824226391101881",
+        "created_at": "2026-04-11T05:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042831824473255997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843325725694476288",
+              "start": 0,
+              "username": "Ba1L0veU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042831824473255997",
+        "in_reply_to_user_id": "1843325725694476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042831714968539639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ba1L0veU 请核对信息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843325725694476288",
+        "conversation_id": "2042824226391101881",
+        "created_at": "2026-04-11T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042831714968539639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042831714968539639",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042830876854178296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 无需补充立即开方！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 438,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T16:21:30.000Z",
+        "description": "梦里会遇见在码头吃薯条的海鸥吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ba1loveu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ba1loveu",
+                "start": 0,
+                "url": "https://t.co/62hAfvNLRx"
+              }
+            ]
+          }
+        },
+        "id": "1843325725694476288",
+        "location": "❤️",
+        "name": "白白🍀",
+        "pinned_tweet_id": "2040738512937652488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 587,
+          "like_count": 3348,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/62hAfvNLRx",
+        "username": "Ba1L0veU",
+        "verified": false
+      }
+    ]
+  }
+}

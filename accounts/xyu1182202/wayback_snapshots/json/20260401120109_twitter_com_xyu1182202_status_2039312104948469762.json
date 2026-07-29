@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039064334975000605",
+    "created_at": "2026-04-01T12:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039312104948469762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647815138450505730",
+          "start": 0,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039312104948469762",
+    "in_reply_to_user_id": "1647815138450505730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039064334975000605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaming00742313 振作起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039064334975000605",
+        "created_at": "2026-04-01T12:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039312104948469762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647815138450505730",
+              "start": 0,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039312104948469762",
+        "in_reply_to_user_id": "1647815138450505730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039064334975000605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaming00742313 振作起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647815138450505730",
+        "conversation_id": "2039064334975000605",
+        "created_at": "2026-03-31T19:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039064334975000605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039064334975000605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4121,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会自杀也不会怎么样，我没有那么脆弱，我在和店长沟通，将会妥善处理此事，不用担心，谢谢，我不会成为下一个穗也猫猫头……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 224
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "INFJ，一名便利店上班的普通女孩。爱人牧鸢：@LwrDHYyuxR22499",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          }
+        },
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（便利店打工记）",
+        "pinned_tweet_id": "2039214612214931952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12196,
+          "following_count": 1570,
+          "like_count": 8444,
+          "listed_count": 32,
+          "media_count": 398,
+          "tweet_count": 2879
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

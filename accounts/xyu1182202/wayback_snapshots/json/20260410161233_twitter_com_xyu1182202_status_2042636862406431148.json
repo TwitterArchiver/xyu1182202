@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042429454249836687",
+    "created_at": "2026-04-10T16:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042636862406431148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 23,
+          "id": "1868562193484251136",
+          "start": 8,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042636862406431148",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042636769393545419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @LengChamSayBye 啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-10T16:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042636862406431148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1868562193484251136",
+              "start": 8,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042636862406431148",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042636769393545419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @LengChamSayBye 啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-10T16:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042636769393545419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            },
+            {
+              "end": 27,
+              "id": "1868562193484251136",
+              "start": 12,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042636769393545419",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042471426654159043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 @LengChamSayBye 当应声虫怎么比原帖曝光高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 422,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 286,
+          "like_count": 18711,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3560
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "霉粉"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 203,
+          "like_count": 5466,
+          "listed_count": 2,
+          "media_count": 777,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

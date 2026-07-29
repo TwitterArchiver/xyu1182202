@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2032475324873883725",
+    "created_at": "2026-03-15T06:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033073800137551917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 20,
+          "id": "1975500696427581440",
+          "start": 10,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033073800137551917",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032513434596815098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 @TReverie_ 这玩意就没封锁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2032475324873883725",
+        "created_at": "2026-03-15T06:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033073800137551917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 20,
+              "id": "1975500696427581440",
+              "start": 10,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033073800137551917",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032513434596815098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 @TReverie_ 这玩意就没封锁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2032475324873883725",
+        "created_at": "2026-03-13T17:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032513434596815098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032513434596815098",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15663,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032475324873883725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 理论上国产安卓能不能用adb shell settings put global always_on_vpn_lockdown 1\n命令强制开启被隐藏了的“封锁未使用的VPN连接”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12664,
+          "following_count": 151,
+          "like_count": 384,
+          "listed_count": 27,
+          "media_count": 686,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "I will be the one to strike the final blow against the CCP.",
+        "id": "1975500696427581440",
+        "location": "Ohio, USA",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023995101543104512/aX_mx8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6626,
+          "following_count": 1495,
+          "like_count": 19358,
+          "listed_count": 62,
+          "media_count": 1248,
+          "tweet_count": 4029
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

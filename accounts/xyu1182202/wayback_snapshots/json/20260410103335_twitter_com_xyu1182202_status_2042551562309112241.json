@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042209936202174752",
+    "created_at": "2026-04-10T10:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042551562309112241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039504366755790848",
+          "start": 0,
+          "username": "AsumiBloom"
+        },
+        {
+          "end": 22,
+          "id": "2417140680",
+          "start": 12,
+          "username": "Air__Pods"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042551562309112241",
+    "in_reply_to_user_id": "2039504366755790848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042502408820178979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsumiBloom @Air__Pods 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042209936202174752",
+        "created_at": "2026-04-10T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042551562309112241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039504366755790848",
+              "start": 0,
+              "username": "AsumiBloom"
+            },
+            {
+              "end": 22,
+              "id": "2417140680",
+              "start": 12,
+              "username": "Air__Pods"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042551562309112241",
+        "in_reply_to_user_id": "2039504366755790848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042502408820178979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsumiBloom @Air__Pods 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039504366755790848",
+        "conversation_id": "2042209936202174752",
+        "created_at": "2026-04-10T07:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042502408820178979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2417140680",
+              "start": 0,
+              "username": "Air__Pods"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042502408820178979",
+        "in_reply_to_user_id": "2417140680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042209936202174752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air__Pods 这样啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 409,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2005
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "MTF粉毛小公主澄花在线营业中丨现役转生中～喜欢可爱的东西和可爱的人丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 102,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 154
+        },
+        "username": "AsumiBloom",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-29T08:15:34.000Z",
+        "description": "私域职业玩家，专业收割信息差。\n致力于在红海中挖掘蓝海，在存量中创造爆发。\n看透底层逻辑，带你先人一步入场。\n不荐股，不卖课，不割韭菜",
+        "id": "2417140680",
+        "location": "香港",
+        "name": "打工人的羊毛日记",
+        "pinned_tweet_id": "2009823415948194228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009664868920754177/cK1JhrMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 2784,
+          "like_count": 1557,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 4987
+        },
+        "username": "Air__Pods",
+        "verified": true
+      }
+    ]
+  }
+}

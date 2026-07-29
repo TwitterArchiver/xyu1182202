@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038655991311655178",
+    "created_at": "2026-03-31T11:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038944183210426774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038944183210426774",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038940110226681928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038655991311655178",
+        "created_at": "2026-03-31T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038944183210426774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038944183210426774",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038940110226681928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2038655991311655178",
+        "created_at": "2026-03-31T11:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038940110226681928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038940110226681928",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038925249853735263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 你猜错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 132
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向🍥",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9324,
+          "following_count": 881,
+          "like_count": 67224,
+          "listed_count": 17,
+          "media_count": 1414,
+          "tweet_count": 9864
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

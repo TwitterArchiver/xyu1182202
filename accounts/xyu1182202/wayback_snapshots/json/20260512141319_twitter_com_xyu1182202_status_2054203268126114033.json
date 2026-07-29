@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054027082234024068",
+    "created_at": "2026-05-12T14:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054203268126114033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054203268126114033",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054027082234024068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054027082234024068",
+        "created_at": "2026-05-12T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054203268126114033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054203268126114033",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054027082234024068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2054027082234024068",
+        "created_at": "2026-05-12T02:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054027082234024068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054027082234024068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5805,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我买药：\n右美沙芬 自杀用\n普瑞巴林 自杀用\n阿普唑仑 自杀用\n氯硝西泮 自杀用\n酒精 自杀用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 993,
+          "like_count": 5005,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5585
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "我死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekuv",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekuv",
+                "start": 0,
+                "url": "https://t.co/N9ufw9zoWZ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "提问箱：",
+        "name": "达利莱生",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054022831483068416/h3_pEcBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 341,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/N9ufw9zoWZ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

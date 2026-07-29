@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040236660286275916",
+    "created_at": "2026-04-04T03:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040269535115374686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040269535115374686",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040236660286275916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 串的不像🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2040152075343130624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFATgNqacAADcNj.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040236660286275916",
+        "created_at": "2026-04-04T03:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040269535115374686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040269535115374686",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040236660286275916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 串的不像🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040152075343130624"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2040236660286275916",
+        "created_at": "2026-04-04T01:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040236660286275916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aiS4WpvqfW",
+              "end": 38,
+              "expanded_url": "https://x.com/satireorcry1/status/2040236660286275916/photo/1",
+              "media_key": "3_2040152075343130624",
+              "start": 15,
+              "url": "https://t.co/aiS4WpvqfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040236660286275916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四川人居然想移民北朝鲜？？？ https://t.co/aiS4WpvqfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 103,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 634
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18489,
+          "following_count": 1449,
+          "like_count": 10247,
+          "listed_count": 39,
+          "media_count": 1862,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

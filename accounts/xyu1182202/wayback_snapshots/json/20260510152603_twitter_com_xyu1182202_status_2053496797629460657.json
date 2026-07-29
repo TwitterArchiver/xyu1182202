@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053469514369761645",
+    "created_at": "2026-05-10T15:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053496797629460657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243491753019101184",
+          "start": 0,
+          "username": "fanduizhongxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053496797629460657",
+    "in_reply_to_user_id": "1243491753019101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053469514369761645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduizhongxiu 厉害，有文化"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2053469439765721089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9jk2JbMAEXWNN.png",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053469514369761645",
+        "created_at": "2026-05-10T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053496797629460657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243491753019101184",
+              "start": 0,
+              "username": "fanduizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053496797629460657",
+        "in_reply_to_user_id": "1243491753019101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053469514369761645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduizhongxiu 厉害，有文化"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053469439765721089"
+          ]
+        },
+        "author_id": "1243491753019101184",
+        "conversation_id": "2053469514369761645",
+        "created_at": "2026-05-10T13:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053469514369761645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfSy8IxayL",
+              "end": 42,
+              "expanded_url": "https://x.com/fanduizhongxiu/status/2053469514369761645/photo/1",
+              "media_key": "3_2053469439765721089",
+              "start": 19,
+              "url": "https://t.co/yfSy8IxayL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053469514369761645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，bot又进化了，开始放洋屁了 https://t.co/yfSy8IxayL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 991,
+          "like_count": 4964,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5528
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "反一切压迫剥削｜民主社会主义｜视为兼顾生产力和个人权力的手段，最终目标是以此跨入民主的共产主义高级阶段｜友跨性别｜欢迎不同看法 但要理性讨论 ｜制度应当以人为本，实现每个人的解放和自由才能实现集体的自由｜反对废除死刑｜支持严肃处刑毒贩｜顺直",
+        "id": "1243491753019101184",
+        "location": "在学习的路上",
+        "name": "天宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052406743586816000/d9-V81Vi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 91,
+          "like_count": 4202,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1947
+        },
+        "username": "fanduizhongxiu",
+        "verified": true
+      }
+    ]
+  }
+}

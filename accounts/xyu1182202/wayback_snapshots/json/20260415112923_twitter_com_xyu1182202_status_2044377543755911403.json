@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044377543755911403",
+    "created_at": "2026-04-15T11:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044377543755911403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682793693630304260",
+          "start": 3,
+          "username": "gpSillyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044377543755911403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044351524244246988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gpSillyB: 我怎么不被情绪影响，在绝对理智的情况下决定自己的生死呢?\n但是我想到要做这个决定就会有情绪啊不管什么时候!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044377543755911403",
+        "created_at": "2026-04-15T11:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044377543755911403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682793693630304260",
+              "start": 3,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044377543755911403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044351524244246988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gpSillyB: 我怎么不被情绪影响，在绝对理智的情况下决定自己的生死呢?\n但是我想到要做这个决定就会有情绪啊不管什么时候!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044351524244246988",
+        "created_at": "2026-04-15T09:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044351524244246988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044351524244246988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么不被情绪影响，在绝对理智的情况下决定自己的生死呢?\n但是我想到要做这个决定就会有情绪啊不管什么时候!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 604,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2894
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 76,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 288
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

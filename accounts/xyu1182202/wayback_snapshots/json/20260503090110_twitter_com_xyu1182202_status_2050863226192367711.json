@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050863226192367711",
+    "created_at": "2026-05-03T09:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050863226192367711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/anblk984/status/2050809434021171372",
+          "start": 6,
+          "url": "https://t.co/XEWqAROpdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050863226192367711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050809434021171372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈神棍 https://t.co/XEWqAROpdZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2050809431051714561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXwT9fbwAEDSpb.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050863226192367711",
+        "created_at": "2026-05-03T09:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050863226192367711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/anblk984/status/2050809434021171372",
+              "start": 6,
+              "url": "https://t.co/XEWqAROpdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050863226192367711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050809434021171372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈神棍 https://t.co/XEWqAROpdZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050809431051714561"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2050809434021171372",
+        "created_at": "2026-05-03T05:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050809434021171372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZVijEbk65",
+              "end": 30,
+              "expanded_url": "https://x.com/anblk984/status/2050809434021171372/photo/1",
+              "media_key": "3_2050809431051714561",
+              "start": 7,
+              "url": "https://t.co/nZVijEbk65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050809434021171372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17095,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "这辈子有了😁 https://t.co/nZVijEbk65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 933,
+          "like_count": 4219,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 4968
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13371,
+          "following_count": 987,
+          "like_count": 116078,
+          "listed_count": 68,
+          "media_count": 2655,
+          "tweet_count": 28177
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040235826978898002",
+    "created_at": "2026-04-04T06:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040321572385509674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040321572385509674",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040235826978898002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10843,
+        "height": 1280,
+        "media_key": "7_2040235801825697792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040235801825697792/pu/img/dD9Wo_G796yysG7d.jpg",
+        "public_metrics": {
+          "view_count": 1055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040235801825697792/pu/vid/avc1/320x696/CB7jx6iQt4HTNK0k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040235801825697792/pu/vid/avc1/480x1044/JRCWnw4tdqF1Spbc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040235801825697792/pu/vid/avc1/588x1280/00cTvCArGnNF3KOX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040235801825697792/pu/pl/Prr5DYkvt9RoAEMo.m3u8?v=cfc"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040235826978898002",
+        "created_at": "2026-04-04T06:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040321572385509674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040321572385509674",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040235826978898002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040235801825697792"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2040235826978898002",
+        "created_at": "2026-04-04T01:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040235826978898002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcAOWIiSvp",
+              "end": 35,
+              "expanded_url": "https://x.com/jlxc2001/status/2040235826978898002/video/1",
+              "media_key": "7_2040235801825697792",
+              "start": 12,
+              "url": "https://t.co/jcAOWIiSvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040235826978898002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2119,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿B你在干什么啊😨😨😨 https://t.co/jcAOWIiSvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 123,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵（已于26年年初搬到江西萍乡老家了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13952,
+          "following_count": 189,
+          "like_count": 448,
+          "listed_count": 27,
+          "media_count": 816,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

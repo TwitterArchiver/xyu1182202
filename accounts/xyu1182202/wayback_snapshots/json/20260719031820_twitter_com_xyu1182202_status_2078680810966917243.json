@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078680810966917243",
+    "created_at": "2026-07-19T03:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078680810966917243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1443439089710092288",
+          "start": 3,
+          "username": "XiaYiGongHeQiu"
+        },
+        {
+          "end": 33,
+          "id": "2801561021",
+          "start": 20,
+          "username": "QimoHK300311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078680810966917243",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078317039392068089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaYiGongHeQiu: @QimoHK300311 🕯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078680810966917243",
+        "created_at": "2026-07-19T03:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078680810966917243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1443439089710092288",
+              "start": 3,
+              "username": "XiaYiGongHeQiu"
+            },
+            {
+              "end": 33,
+              "id": "2801561021",
+              "start": 20,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078680810966917243",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078317039392068089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaYiGongHeQiu: @QimoHK300311 🕯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "conversation_id": "2078259899457253737",
+        "created_at": "2026-07-18T03:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078317039392068089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2801561021",
+              "start": 0,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078317039392068089",
+        "in_reply_to_user_id": "2801561021",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078259899457253737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QimoHK300311 🕯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1055,
+          "like_count": 5362,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6556
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "某生於21世紀初的MtF🏳️‍⚧️｜初級會計士📜｜公認會計士證書取得努力中📚｜語言愛好者💚｜戀@maplemarate❤｜サブ垢@XiaYGHQiu🍥｜全网同名（簡稱「虾球」）🌐｜選擇性回fo😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "maplemarate"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾夷共和球🍥",
+        "pinned_tweet_id": "2064950601444982819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 732,
+          "like_count": 22237,
+          "listed_count": 6,
+          "media_count": 183,
+          "tweet_count": 4011
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "一生中永远最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 103,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      }
+    ]
+  }
+}

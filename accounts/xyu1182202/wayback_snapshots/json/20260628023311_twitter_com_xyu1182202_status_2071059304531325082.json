@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2071059304531325082",
+    "created_at": "2026-06-28T02:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071059304531325082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070438672844079482",
+          "start": 10,
+          "url": "https://t.co/BixP5nuPFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071059304531325082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070438672844079482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警惕境外势力😡😡😡 https://t.co/BixP5nuPFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070438669278978049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLutAAObIAEcF19.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2071059304531325082",
+        "created_at": "2026-06-28T02:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071059304531325082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070438672844079482",
+              "start": 10,
+              "url": "https://t.co/BixP5nuPFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071059304531325082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070438672844079482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警惕境外势力😡😡😡 https://t.co/BixP5nuPFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070438669278978049"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2070438672844079482",
+        "created_at": "2026-06-26T09:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070438672844079482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CLmXwWxOM",
+              "end": 124,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070438672844079482/photo/1",
+              "media_key": "3_2070438669278978049",
+              "start": 101,
+              "url": "https://t.co/1CLmXwWxOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070438672844079482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 47345,
+          "like_count": 521,
+          "quote_count": 8,
+          "reply_count": 45,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "之前被我们查处过被BBC报道过的护航体系已经把账号注销\nIP地址显示位于澳大利亚了。\n是谁一边迫害中国孩子，一边消费中国家长的焦虑消耗公众公信力，诈骗千万元后卷款撤离？\n谁是境外势力，不用我多说了吧。 https://t.co/1CLmXwWxOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 1035,
+          "like_count": 5387,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6358
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6106,
+          "following_count": 3275,
+          "like_count": 3553,
+          "listed_count": 19,
+          "media_count": 476,
+          "tweet_count": 3193
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

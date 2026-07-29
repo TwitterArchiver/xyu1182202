@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2080235549617439065",
+    "created_at": "2026-07-26T03:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081215515364847869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "QinYueLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081215515364847869",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080235549617439065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QinYueLe 很傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2080235521171681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN57L1iWcAAZ4Eq.jpg",
+        "width": 577
+      },
+      {
+        "height": 809,
+        "media_key": "3_2080235521398202369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN57L2YW4AEWUMh.jpg",
+        "width": 428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2080235549617439065",
+        "created_at": "2026-07-26T03:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081215515364847869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081215515364847869",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080235549617439065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QinYueLe 很傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080235521171681280",
+            "3_2080235521398202369"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2080235549617439065",
+        "created_at": "2026-07-23T10:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080235549617439065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Xl2yPNLFd",
+              "end": 46,
+              "expanded_url": "https://x.com/QinYueLe/status/2080235549617439065/photo/1",
+              "media_key": "3_2080235521171681280",
+              "start": 23,
+              "url": "https://t.co/8Xl2yPNLFd"
+            },
+            {
+              "display_url": "pic.x.com/8Xl2yPNLFd",
+              "end": 46,
+              "expanded_url": "https://x.com/QinYueLe/status/2080235549617439065/photo/1",
+              "media_key": "3_2080235521398202369",
+              "start": 23,
+              "url": "https://t.co/8Xl2yPNLFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080235549617439065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 22303,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "湖南人连公共WiFi用VPN翻墙，被警察抓了 https://t.co/8Xl2yPNLFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1055,
+          "like_count": 5362,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6599
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28072,
+          "following_count": 370,
+          "like_count": 2652,
+          "listed_count": 81,
+          "media_count": 2125,
+          "tweet_count": 2651
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

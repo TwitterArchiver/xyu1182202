@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2068538147676316155",
+    "created_at": "2026-06-21T17:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068743079524524278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1036039971272970240",
+          "start": 0,
+          "username": "idatte2018"
+        },
+        {
+          "end": 19,
+          "id": "1580767946179194882",
+          "start": 12,
+          "username": "kfk_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068743079524524278",
+    "in_reply_to_user_id": "1036039971272970240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068639902485651718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idatte2018 @kfk_ai 🤣😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2068538147676316155",
+        "created_at": "2026-06-21T17:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068743079524524278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1036039971272970240",
+              "start": 0,
+              "username": "idatte2018"
+            },
+            {
+              "end": 19,
+              "id": "1580767946179194882",
+              "start": 12,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068743079524524278",
+        "in_reply_to_user_id": "1036039971272970240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068639902485651718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idatte2018 @kfk_ai 🤣😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036039971272970240",
+        "conversation_id": "2068538147676316155",
+        "created_at": "2026-06-21T10:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068639902485651718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580767946179194882",
+              "start": 0,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068639902485651718",
+        "in_reply_to_user_id": "1580767946179194882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068538147676316155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfk_ai 端午节在屈原出生之前就存在了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1028,
+          "like_count": 5400,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6328
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-01T23:55:52.000Z",
+        "description": "岛生浮记",
+        "id": "1036039971272970240",
+        "location": "东京",
+        "name": "伊達",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038766117481750528/fZYfHjXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 128,
+          "like_count": 8223,
+          "listed_count": 5,
+          "media_count": 658,
+          "tweet_count": 10607
+        },
+        "url": "",
+        "username": "idatte2018",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "AI builder | Polymarket trader | CS bg | Lush\nScience · Technology · Society\n多学习多思考 祝你渐入佳境\n你所有的成长来源于你的思考",
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2068564406485893187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065869468929282048/R96WO3vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10071,
+          "following_count": 423,
+          "like_count": 12889,
+          "listed_count": 46,
+          "media_count": 397,
+          "tweet_count": 6282
+        },
+        "url": "",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

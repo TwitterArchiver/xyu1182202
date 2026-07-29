@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051604627955802570",
+    "created_at": "2026-05-05T10:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051604627955802570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        },
+        {
+          "end": 34,
+          "id": "1611246341728120835",
+          "start": 20,
+          "username": "Aureliax17QwQ"
+        },
+        {
+          "end": 47,
+          "id": "1972363680198361088",
+          "start": 35,
+          "username": "dnshu135734"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051604627955802570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051587334139937085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: @Aureliax17QwQ @dnshu135734 人已经走了有一会儿了\n说是在抢救\n还能听见按压声音\n我有点想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051604627955802570",
+        "created_at": "2026-05-05T10:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051604627955802570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            },
+            {
+              "end": 34,
+              "id": "1611246341728120835",
+              "start": 20,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 47,
+              "id": "1972363680198361088",
+              "start": 35,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051604627955802570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051587334139937085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: @Aureliax17QwQ @dnshu135734 人已经走了有一会儿了\n说是在抢救\n还能听见按压声音\n我有点想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2051577215687835860",
+        "created_at": "2026-05-05T08:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051587334139937085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 27,
+              "id": "1972363680198361088",
+              "start": 15,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051587334139937085",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051577215687835860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ @dnshu135734 人已经走了有一会儿了\n说是在抢救\n还能听见按压声音\n我有点想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 955,
+          "like_count": 4467,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5113
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "intp紫色章鱼（叫我章鱼），mtx\n主业达人拍剪，常驻杭州的阴湿长发男m，\n懂点商业和心理学和哲学，希望能帮助你（\n欢迎xnn和4i爸比来踩我，目前在化茧\n永远的姐姐：@liki24003   可爱鱼鱼：@siuuuuneo\n\np站https://t.co/BCEf9rY5o6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "liki24003"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "siuuuuneo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103103881",
+                "end": 140,
+                "expanded_url": "https://www.pixiv.net/users/103103881",
+                "start": 117,
+                "url": "https://t.co/BCEf9rY5o6"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "1989603644577386680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 484,
+          "like_count": 3006,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 3050
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2050197049195594047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 677,
+          "like_count": 6568,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n超级可爱的恋人喵@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 2,
+          "like_count": 5860,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1946
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050727670993023482",
+    "created_at": "2026-05-03T09:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050863294471348596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946799807366082560",
+          "start": 0,
+          "username": "LeavesMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050863294471348596",
+    "in_reply_to_user_id": "1946799807366082560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050727670993023482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeavesMao 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2050727668346441728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWl8vra0AAL5mj.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050727670993023482",
+        "created_at": "2026-05-03T09:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050863294471348596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946799807366082560",
+              "start": 0,
+              "username": "LeavesMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050863294471348596",
+        "in_reply_to_user_id": "1946799807366082560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050727670993023482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeavesMao 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050727668346441728"
+          ]
+        },
+        "author_id": "1946799807366082560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2050727670993023482",
+        "created_at": "2026-05-03T00:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050727670993023482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1946799807366082560",
+              "start": 16,
+              "username": "LeavesMao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/meYYp6B5fY",
+              "end": 177,
+              "expanded_url": "https://x.com/LeavesMao/status/2050727670993023482/photo/1",
+              "media_key": "3_2050727668346441728",
+              "start": 154,
+              "url": "https://t.co/meYYp6B5fY"
+            },
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/xiey57828/status/2050679897258139977",
+              "start": 178,
+              "url": "https://t.co/MkZmIN84np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050727670993023482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050679897258139977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据你对我的长期印象，与我X账号@LeavesMao 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定。请自行完成角色的全部设计，包括外貌、神态发型穿搭、色彩氛围配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/meYYp6B5fY https://t.co/MkZmIN84np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 933,
+          "like_count": 4221,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 4969
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "🍥🏳️‍⚧️ she / 猫猫叶！\n2009.05.23 | 独居中… | 浙江 杭州 | INFP | #Minecraft | 最好的姐姐 @xiey57828 | 胆小爱哭想被爱… | 喜欢可爱的人事物  | 同类互fo喵 | 希望大家都可以开开心心的 /ᐠ ｡‸ ｡ᐟ\\\n猫猫叶… @DontLeaveMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 53,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xiey57828"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "DontLeaveMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovablemaomao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovablemaomao",
+                "start": 0,
+                "url": "https://t.co/NwxeoRYLbZ"
+              }
+            ]
+          }
+        },
+        "id": "1946799807366082560",
+        "location": "杭州 浙江",
+        "name": "🍼猫猫叶TheCat🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041053742745985429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031592264678649856/zRvlBMu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 298,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/NwxeoRYLbZ",
+        "username": "LeavesMao",
+        "verified": true
+      }
+    ]
+  }
+}

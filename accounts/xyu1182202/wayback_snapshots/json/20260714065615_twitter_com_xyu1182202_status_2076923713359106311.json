@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2076226967146516680",
+    "created_at": "2026-07-14T06:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076923713359106311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1343151486432399360",
+          "start": 0,
+          "username": "StarryNocts"
+        },
+        {
+          "end": 22,
+          "id": "2031270533359349761",
+          "start": 13,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076923713359106311",
+    "in_reply_to_user_id": "1343151486432399360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076603969703436724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryNocts @senzhiwu 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2076226967146516680",
+        "created_at": "2026-07-14T06:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076923713359106311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 22,
+              "id": "2031270533359349761",
+              "start": 13,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076923713359106311",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076603969703436724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @senzhiwu 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2076226967146516680",
+        "created_at": "2026-07-13T09:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076603969703436724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            },
+            {
+              "end": 21,
+              "id": "2017878602164088832",
+              "start": 10,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076603969703436724",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076581165511958842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu @xyu1182202 😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1056,
+          "like_count": 5349,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6522
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 813,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 8498
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜心归所至：@hai74025 愿为你的天使，化作你的羽翼，与你共赴天堂｜可爱树树子@GlowingTree880｜生产日期2008｜mtx🏳️‍⚧️｜hrt3.29｜小证偷吃｜家长党｜entp-t ｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hai74025"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "username": "GlowingTree880"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 418,
+          "like_count": 2992,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 2397
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042116689115148646",
+    "created_at": "2026-04-09T08:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042152772012011779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042152772012011779",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042116689115148646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 啊不是这个意思啊😱是让你暂时删除一些隐私的贴"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042116689115148646].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042116689115148646",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042116689115148646"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042116689115148646",
+        "created_at": "2026-04-09T08:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042152772012011779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042152772012011779",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042116689115148646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 啊不是这个意思啊😱是让你暂时删除一些隐私的贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 345,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥（互fo寻回ing）",
+        "pinned_tweet_id": "2041169063330889949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 545,
+          "like_count": 1032,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2334
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

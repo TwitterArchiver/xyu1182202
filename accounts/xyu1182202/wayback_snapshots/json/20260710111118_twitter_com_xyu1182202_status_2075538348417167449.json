@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075436495809212416",
+        "3_2075436495834406912"
+      ],
+      "media_source_tweet_id": [
+        "2075436514117398670",
+        "2075436514117398670"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075538348417167449",
+    "created_at": "2026-07-10T11:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075538348417167449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1519649212736049152",
+          "start": 3,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VN8971cud",
+          "end": 67,
+          "expanded_url": "https://x.com/Mark67358226/status/2075436514117398670/photo/1",
+          "media_key": "3_2075436495809212416",
+          "start": 44,
+          "url": "https://t.co/4VN8971cud"
+        },
+        {
+          "display_url": "pic.x.com/4VN8971cud",
+          "end": 67,
+          "expanded_url": "https://x.com/Mark67358226/status/2075436514117398670/photo/1",
+          "media_key": "3_2075436495834406912",
+          "start": 44,
+          "url": "https://t.co/4VN8971cud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075538348417167449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075436514117398670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mark67358226: 看到P1這個家譜樹，在下第一時間想到的是這個……😋 https://t.co/4VN8971cud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_2075436495809212416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1ufy6W8AAM5uC.jpg",
+        "width": 1903
+      },
+      {
+        "height": 606,
+        "media_key": "3_2075436495834406912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1ufzAXYAAvwrt.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075436495809212416",
+            "3_2075436495834406912"
+          ],
+          "media_source_tweet_id": [
+            "2075436514117398670",
+            "2075436514117398670"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075538348417167449",
+        "created_at": "2026-07-10T11:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075538348417167449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1519649212736049152",
+              "start": 3,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VN8971cud",
+              "end": 67,
+              "expanded_url": "https://x.com/Mark67358226/status/2075436514117398670/photo/1",
+              "media_key": "3_2075436495809212416",
+              "start": 44,
+              "url": "https://t.co/4VN8971cud"
+            },
+            {
+              "display_url": "pic.x.com/4VN8971cud",
+              "end": 67,
+              "expanded_url": "https://x.com/Mark67358226/status/2075436514117398670/photo/1",
+              "media_key": "3_2075436495834406912",
+              "start": 44,
+              "url": "https://t.co/4VN8971cud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075538348417167449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075436514117398670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mark67358226: 看到P1這個家譜樹，在下第一時間想到的是這個……😋 https://t.co/4VN8971cud"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075436495809212416",
+            "3_2075436495834406912"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075436514117398670",
+        "created_at": "2026-07-10T04:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075436514117398670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VN8971cud",
+              "end": 49,
+              "expanded_url": "https://x.com/Mark67358226/status/2075436514117398670/photo/1",
+              "media_key": "3_2075436495809212416",
+              "start": 26,
+              "url": "https://t.co/4VN8971cud"
+            },
+            {
+              "display_url": "pic.x.com/4VN8971cud",
+              "end": 49,
+              "expanded_url": "https://x.com/Mark67358226/status/2075436514117398670/photo/1",
+              "media_key": "3_2075436495834406912",
+              "start": 26,
+              "url": "https://t.co/4VN8971cud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075436514117398670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 467,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到P1這個家譜樹，在下第一時間想到的是這個……😋 https://t.co/4VN8971cud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1056,
+          "like_count": 5339,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 6454
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵w |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 1539,
+          "like_count": 27787,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 6207
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

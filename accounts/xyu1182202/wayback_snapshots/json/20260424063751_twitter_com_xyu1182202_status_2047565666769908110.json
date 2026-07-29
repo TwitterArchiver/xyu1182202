@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047528767619579988",
+    "created_at": "2026-04-24T06:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047565666769908110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047565666769908110",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047528767619579988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 是移民还是改性别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047528759780356096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpIjwoasAA_S4s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047528767619579988",
+        "created_at": "2026-04-24T06:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047565666769908110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047565666769908110",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047528767619579988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 是移民还是改性别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047528759780356096"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "conversation_id": "2047528767619579988",
+        "created_at": "2026-04-24T04:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047528767619579988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75Nk1USEj8",
+              "end": 26,
+              "expanded_url": "https://x.com/bubblepipe42/status/2047528767619579988/photo/1",
+              "media_key": "3_2047528759780356096",
+              "start": 3,
+              "url": "https://t.co/75Nk1USEj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047528767619579988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4368,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪角 https://t.co/75Nk1USEj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 802,
+          "like_count": 3336,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4111
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 895,
+          "like_count": 8111,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 2038
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

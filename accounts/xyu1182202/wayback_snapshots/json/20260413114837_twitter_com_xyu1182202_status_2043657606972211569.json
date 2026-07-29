@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2043657606972211569",
+    "created_at": "2026-04-13T11:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043657606972211569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902297181157257218",
+          "start": 3,
+          "username": "aoya_toboso_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043657606972211569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043491904000839843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoya_toboso_01: 你留起长发穿上女装的时候会不会想起小时候和家人说要一个男子汉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2043657606972211569",
+        "created_at": "2026-04-13T11:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043657606972211569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902297181157257218",
+              "start": 3,
+              "username": "aoya_toboso_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043657606972211569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043491904000839843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoya_toboso_01: 你留起长发穿上女装的时候会不会想起小时候和家人说要一个男子汉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "2043491904000839843",
+        "created_at": "2026-04-13T00:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043491904000839843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043491904000839843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5354,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你留起长发穿上女装的时候会不会想起小时候和家人说要一个男子汉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxFQt9"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 525,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/uLGrCxFQt9",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "都来喜欢葵矢枢",
+        "id": "1902297181157257218",
+        "location": "南方县城的穷蛆",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "1983554091793182792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 160,
+          "like_count": 10834,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 903
+        },
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

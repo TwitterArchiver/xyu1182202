@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051951379326124312",
+    "created_at": "2026-05-06T10:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051979493758361730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051979493758361730",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051951379326124312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 早已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051951379326124312",
+        "created_at": "2026-05-06T10:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051979493758361730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051979493758361730",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051951379326124312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 早已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2051951379326124312",
+        "created_at": "2026-05-06T09:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051951379326124312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051951379326124312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2948,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「嘉豪」这个词是不是已被滥用了？\n\n这个词本义是对热衷于展示自己的小众爱好并对他人造成不便的人的贬称，但是目前「对他人造成不便」这个前提正在消失，任何有小众爱好的人，现在都有可能被打成「嘉豪」……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 973,
+          "like_count": 4641,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 801,
+          "like_count": 18245,
+          "listed_count": 9,
+          "media_count": 982,
+          "tweet_count": 5411
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

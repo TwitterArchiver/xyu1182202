@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2042816609694171397",
+    "created_at": "2026-04-11T04:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042816609694171397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986452594206838785",
+          "start": 3,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042816609694171397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042718727607591422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idontselldrug: 拒绝药物不当使用！未来的你会感谢此刻清醒的自己，健康的身体才会带来无限的可能！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042816609694171397",
+        "created_at": "2026-04-11T04:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042816609694171397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986452594206838785",
+              "start": 3,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042816609694171397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042718727607591422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idontselldrug: 拒绝药物不当使用！未来的你会感谢此刻清醒的自己，健康的身体才会带来无限的可能！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042718727607591422",
+        "created_at": "2026-04-10T21:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042718727607591422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042718727607591422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝药物不当使用！未来的你会感谢此刻清醒的自己，健康的身体才会带来无限的可能！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 435,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 244,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

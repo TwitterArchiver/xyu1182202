@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042771226792522215",
+    "created_at": "2026-04-11T08:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042884437063454795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042884437063454795",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042771226792522215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 无药可救"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042771224330407936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlhmv-akAAlwcS.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042771226792522215",
+        "created_at": "2026-04-11T08:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042884437063454795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042884437063454795",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042771226792522215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 无药可救"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042771224330407936"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2042771226792522215",
+        "created_at": "2026-04-11T01:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042771226792522215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSupKq2toq",
+              "end": 91,
+              "expanded_url": "https://x.com/gdioiui/status/2042771226792522215/photo/1",
+              "media_key": "3_2042771224330407936",
+              "start": 68,
+              "url": "https://t.co/MSupKq2toq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042771226792522215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 447,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气笑了 cloudflare让你翻个墙成侵略了...\n网络主权是为了自己的审查目的进行dns污染 证书渗透破坏整个国际网络安全的专权吗 https://t.co/MSupKq2toq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 459,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 380,
+          "like_count": 3532,
+          "listed_count": 2,
+          "media_count": 1030,
+          "tweet_count": 5884
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

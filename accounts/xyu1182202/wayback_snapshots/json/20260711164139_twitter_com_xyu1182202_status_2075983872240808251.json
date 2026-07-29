@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075582944954204544",
+    "created_at": "2026-07-11T16:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075983872240808251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075983872240808251",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075582944954204544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 派出所有乐队🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_2075582942651527168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3zsH6asAAkr-0.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075582944954204544",
+        "created_at": "2026-07-11T16:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075983872240808251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075983872240808251",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075582944954204544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 派出所有乐队🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075582942651527168"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2075582944954204544",
+        "created_at": "2026-07-10T14:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075582944954204544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knrjQIWsUn",
+              "end": 30,
+              "expanded_url": "https://x.com/NL8526/status/2075582944954204544/photo/1",
+              "media_key": "3_2075582942651527168",
+              "start": 7,
+              "url": "https://t.co/knrjQIWsUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075582944954204544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 78554,
+          "like_count": 606,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "派出所有乐队 https://t.co/knrjQIWsUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1054,
+          "like_count": 5343,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 6467
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3492,
+          "following_count": 919,
+          "like_count": 21283,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 934
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

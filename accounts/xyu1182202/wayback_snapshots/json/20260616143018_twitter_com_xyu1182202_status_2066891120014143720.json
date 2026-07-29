@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066736641449062883",
+    "created_at": "2026-06-16T14:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066891120014143720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066891120014143720",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066736641449062883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 开心最重要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1930,
+        "media_key": "3_2066736632515190784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6GBGla4AAyoZB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066736641449062883",
+        "created_at": "2026-06-16T14:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066891120014143720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066891120014143720",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066736641449062883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 开心最重要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066736632515190784"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2066736641449062883",
+        "created_at": "2026-06-16T04:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066736641449062883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTmCPC31pc",
+              "end": 45,
+              "expanded_url": "https://x.com/__summer__sea__/status/2066736641449062883/photo/1",
+              "media_key": "3_2066736632515190784",
+              "start": 22,
+              "url": "https://t.co/tTmCPC31pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066736641449062883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1158,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要是得了精\n神病\n最后的结果只\n有一个？ https://t.co/tTmCPC31pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1026,
+          "like_count": 5373,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6232
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜https://t.co/p1HdmUrBuO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "sklmm_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yanshatang",
+                "end": 80,
+                "expanded_url": "http://t.me/yanshatang",
+                "start": 57,
+                "url": "https://t.co/p1HdmUrBuO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 1037,
+          "like_count": 8902,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045115059383197769",
+    "created_at": "2026-04-17T15:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045160068136714656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045160068136714656",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045115059383197769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 就是一个账号控制另一个账号，可以理解为大号控制小号发的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_2045115047798788096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG1TOzaUAA1CYb.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045115059383197769",
+        "created_at": "2026-04-17T15:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045160068136714656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045160068136714656",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045115059383197769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 就是一个账号控制另一个账号，可以理解为大号控制小号发的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045115047798788096"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2045115059383197769",
+        "created_at": "2026-04-17T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045115059383197769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMZJi8lq9c",
+              "end": 59,
+              "expanded_url": "https://x.com/10waterlili/status/2045115059383197769/photo/1",
+              "media_key": "3_2045115047798788096",
+              "start": 36,
+              "url": "https://t.co/OMZJi8lq9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045115059383197769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想知道这个自动发推是什么意思，难道这个推文是人机写出来自动发的吗 https://t.co/OMZJi8lq9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 657,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜出厂日期🍰 09.3.14\n深柜中（坐以待炸）\nɪɴғᴘ-ᴛ｜重度抑郁｜ex-音游人｜民间天文学家🔭\n喜欢xyn｜同类会回fo｜不开心可以找我聊天\n对所有人友善💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "深海",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 339,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041819842227949692",
+    "created_at": "2026-04-09T07:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042136902757969955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994801366154539008",
+          "start": 0,
+          "username": "cym_2007"
+        },
+        {
+          "end": 25,
+          "id": "1303335410609790976",
+          "start": 10,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042136902757969955",
+    "in_reply_to_user_id": "1994801366154539008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041893667015946447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cym_2007 @Rococo90933671 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041819842227949692",
+        "created_at": "2026-04-09T07:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042136902757969955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994801366154539008",
+              "start": 0,
+              "username": "cym_2007"
+            },
+            {
+              "end": 25,
+              "id": "1303335410609790976",
+              "start": 10,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042136902757969955",
+        "in_reply_to_user_id": "1994801366154539008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041893667015946447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cym_2007 @Rococo90933671 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994801366154539008",
+        "conversation_id": "2041819842227949692",
+        "created_at": "2026-04-08T14:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041893667015946447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041893667015946447",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 754,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041819842227949692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 这下台风死都登不了华东了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T16:11:42.000Z",
+        "description": "isfj 大一牲 气象&音乐爱好者 「響け！ユーフォニアム」大好き！義井沙里大好き！🥰 音楽は終われない！🎵🌏🎶",
+        "id": "1994801366154539008",
+        "name": "kitauji_cheng",
+        "pinned_tweet_id": "2032037246346674508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994801977231118339/fOeraHV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 177,
+          "like_count": 13736,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 496
+        },
+        "username": "cym_2007",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9888,
+          "following_count": 2846,
+          "like_count": 34254,
+          "listed_count": 29,
+          "media_count": 3597,
+          "tweet_count": 20065
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

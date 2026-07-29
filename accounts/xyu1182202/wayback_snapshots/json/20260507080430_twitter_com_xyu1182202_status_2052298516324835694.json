@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052225728918208980",
+    "created_at": "2026-05-07T08:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052298516324835694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034479048370352131",
+          "start": 0,
+          "username": "hyunjennnagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052298516324835694",
+    "in_reply_to_user_id": "2034479048370352131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052225728918208980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennnagua 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052225728918208980",
+        "created_at": "2026-05-07T08:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052298516324835694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052298516324835694",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052225728918208980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2052225728918208980",
+        "created_at": "2026-05-07T03:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052225728918208980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052225728918208980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我直接哭出来了这几天好难受不过确实也没事 我手机摔坏了屏幕我爸不给我换个屏也不给我换个手机我手机机型已经很老了电池也不是很好了卧槽真的好崩溃啊但是这么打字说出来真的好了太多了我手机都是别人用旧了给我的但其实也没什么但是我没当看见我姐得意的嘴脸看着我说：你怎这样对“我的”手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 973,
+          "like_count": 4752,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5306
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "大号@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2051607569928470549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 292,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

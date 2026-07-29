@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2049750263846908288",
+    "created_at": "2026-05-01T06:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050105805505286330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050105805505286330",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049750263846908288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 哈哈哈上了贼船了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049750217554321408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIs9nua4AAM-3E.jpg",
+        "width": 942
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049750217566912512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIs9nxbAAADW76.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049750217013260289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIs9lta8AESH-d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049750217571078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIs9nyakAADte4.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2049750263846908288",
+        "created_at": "2026-05-01T06:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050105805505286330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050105805505286330",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049750263846908288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 哈哈哈上了贼船了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049750217554321408",
+            "3_2049750217566912512",
+            "3_2049750217013260289",
+            "3_2049750217571078144"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "conversation_id": "2049750263846908288",
+        "created_at": "2026-04-30T07:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049750263846908288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R76ZLfeHc3",
+              "end": 37,
+              "expanded_url": "https://x.com/4rulq/status/2049750263846908288/photo/1",
+              "media_key": "3_2049750217554321408",
+              "start": 14,
+              "url": "https://t.co/R76ZLfeHc3"
+            },
+            {
+              "display_url": "pic.x.com/R76ZLfeHc3",
+              "end": 37,
+              "expanded_url": "https://x.com/4rulq/status/2049750263846908288/photo/1",
+              "media_key": "3_2049750217566912512",
+              "start": 14,
+              "url": "https://t.co/R76ZLfeHc3"
+            },
+            {
+              "display_url": "pic.x.com/R76ZLfeHc3",
+              "end": 37,
+              "expanded_url": "https://x.com/4rulq/status/2049750263846908288/photo/1",
+              "media_key": "3_2049750217013260289",
+              "start": 14,
+              "url": "https://t.co/R76ZLfeHc3"
+            },
+            {
+              "display_url": "pic.x.com/R76ZLfeHc3",
+              "end": 37,
+              "expanded_url": "https://x.com/4rulq/status/2049750263846908288/photo/1",
+              "media_key": "3_2049750217571078144",
+              "start": 14,
+              "url": "https://t.co/R76ZLfeHc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049750263846908288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1130,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嚴肅購買補佳樂🍥喵～🥰🥰🥰 https://t.co/R76ZLfeHc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 923,
+          "like_count": 4134,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n請先看這個內容喵～注意⚠️：若是大陸人請自覺用找我要國內聯絡資訊喵～感謝大家的配合喵～最愛大家喵～\n註明：1:自願不是強求喵～\n2:有🚪費的請遠離喵～（後續酌情補充喵～）",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 416,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1554
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

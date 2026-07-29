@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075748765290627450",
+    "created_at": "2026-07-11T16:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075987781135056897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1343151486432399360",
+          "start": 0,
+          "username": "StarryNocts"
+        },
+        {
+          "end": 22,
+          "id": "1943561677762646016",
+          "start": 13,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075987781135056897",
+    "in_reply_to_user_id": "1343151486432399360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075812725578662179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryNocts @qusuunmd 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075748765290627450",
+        "created_at": "2026-07-11T16:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075987781135056897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 22,
+              "id": "1943561677762646016",
+              "start": 13,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075987781135056897",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075812725578662179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @qusuunmd 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075748765290627450",
+        "created_at": "2026-07-11T05:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075812725578662179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075812725578662179",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075748765290627450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 我妈也差不多😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1055,
+          "like_count": 5346,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 6487
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 812,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8463
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰/摄影📹（Canom r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 417,
+          "like_count": 2754,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

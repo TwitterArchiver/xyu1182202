@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045799059085254946",
+    "created_at": "2026-04-20T09:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T10:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046154972472225816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "zhouxuanjiu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046154972472225816",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045799059085254946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouxuanjiu2 难吃死了，扔了吧🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045799053016068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQjZkzacAAgL1f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045799059085254946",
+        "created_at": "2026-04-20T09:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046154972472225816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "zhouxuanjiu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046154972472225816",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045799059085254946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouxuanjiu2 难吃死了，扔了吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045799053016068096"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045799059085254946",
+        "created_at": "2026-04-19T09:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045799059085254946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NA87RRFku",
+              "end": 31,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2045799059085254946/photo/1",
+              "media_key": "3_2045799053016068096",
+              "start": 8,
+              "url": "https://t.co/3NA87RRFku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045799059085254946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1520,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购买退路 https://t.co/3NA87RRFku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045881393368928644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 727,
+          "like_count": 2750,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3493
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "男よ、来い｜Jpop爱好，广义二次元、绘画、吉他苦手｜INFP/ISFP｜性格恶劣、情绪不稳定｜可以和我交朋友，｜小杂鱼@LiciiQAQ｜闺蜜@Claireoyo｜买药找@TogawaMedical0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Claireoyo"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "TogawaMedical0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gUjI"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "璇_2🍥",
+        "pinned_tweet_id": "2044683996882468937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040455834787024896/obrN0Syw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 440,
+          "like_count": 2270,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/QgNGK9gUjI",
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039595274524627172",
+    "created_at": "2026-04-02T22:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039834691008889307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993659774370758656",
+          "start": 0,
+          "username": "weiyux2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039834691008889307",
+    "in_reply_to_user_id": "1993659774370758656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039595274524627172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiyux2021 那被投诉扣一天的工资是不是直接自杀了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039595274524627172",
+        "created_at": "2026-04-02T22:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039834691008889307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993659774370758656",
+              "start": 0,
+              "username": "weiyux2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039834691008889307",
+        "in_reply_to_user_id": "1993659774370758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039595274524627172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiyux2021 那被投诉扣一天的工资是不是直接自杀了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993659774370758656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2039595274524627172",
+        "created_at": "2026-04-02T06:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039595274524627172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039595274524627172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 150998,
+          "like_count": 1260,
+          "quote_count": 17,
+          "reply_count": 90,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我在小红书上看，很多抑郁症的人送外卖病症减轻了。\n\n因为送外卖像打游戏，接任务做任务完成领钱，每天晒晒太阳吹吹风，人也健康多了，而且打游戏上瘾的人送外卖也上瘾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 68,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 401
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "location": "Manchester, England",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2024371745650774063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21324,
+          "following_count": 153,
+          "like_count": 90,
+          "listed_count": 79,
+          "media_count": 260,
+          "tweet_count": 1512
+        },
+        "username": "weiyux2021",
+        "verified": true
+      }
+    ]
+  }
+}

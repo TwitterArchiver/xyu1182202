@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044704898269516164",
+    "created_at": "2026-04-16T09:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044704898269516164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840055457756610560",
+          "start": 3,
+          "username": "hood438371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044704898269516164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044446121217642588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hood438371: 你知道吗，你可以即是跨性别，又是同性恋……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044704898269516164",
+        "created_at": "2026-04-16T09:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044704898269516164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840055457756610560",
+              "start": 3,
+              "username": "hood438371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044704898269516164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044446121217642588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hood438371: 你知道吗，你可以即是跨性别，又是同性恋……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "2044446121217642588",
+        "created_at": "2026-04-15T16:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044446121217642588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044446121217642588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 988,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，你可以即是跨性别，又是同性恋……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 611,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "可能是138亿年前就出发的不断远离的光",
+        "id": "1840055457756610560",
+        "name": "红、东",
+        "pinned_tweet_id": "2044468576418206202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043356160083083264/-uQtl6AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1925,
+          "like_count": 84374,
+          "listed_count": 6,
+          "media_count": 1105,
+          "tweet_count": 21485
+        },
+        "username": "hood438371",
+        "verified": false
+      }
+    ]
+  }
+}

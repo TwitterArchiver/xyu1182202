@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2076165400069591403",
+    "created_at": "2026-07-13T05:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076546291195318590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        },
+        {
+          "end": 25,
+          "id": "1684788633797287936",
+          "start": 14,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076546291195318590",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076209308841201917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 @Moningmeng 你会消失的😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2076165400069591403",
+        "created_at": "2026-07-13T05:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076546291195318590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            },
+            {
+              "end": 25,
+              "id": "1684788633797287936",
+              "start": 14,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076546291195318590",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076209308841201917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 @Moningmeng 你会消失的😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910893768498438146",
+        "conversation_id": "2076165400069591403",
+        "created_at": "2026-07-12T07:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076209308841201917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076209308841201917",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076165400069591403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 既然字节都能\n申请那些表情包版权了\n我能不能申请\n“老习”表情包版权😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1052,
+          "like_count": 5345,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 6512
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2075089676650611174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 295,
+          "like_count": 14606,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28275,
+          "following_count": 11593,
+          "like_count": 94259,
+          "listed_count": 104,
+          "media_count": 5400,
+          "tweet_count": 18823
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

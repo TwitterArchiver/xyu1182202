@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059622514511479121",
+    "created_at": "2026-05-27T13:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059622514511479121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1674644891278745601",
+          "start": 3,
+          "username": "3Afengjingqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059622514511479121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059292353756831988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3Afengjingqu: 昨天在精神科，坐我旁边的小妹妹在哭 一个护士问她多大了，她说初一，结果那护士来了句“你才初一就这么压抑了还没到初三呢”，我立马起身就走一边去了，有点愤怒这个科室的医护工作者怎么可以说出这种话来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059622514511479121",
+        "created_at": "2026-05-27T13:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059622514511479121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674644891278745601",
+              "start": 3,
+              "username": "3Afengjingqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059622514511479121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059292353756831988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3Afengjingqu: 昨天在精神科，坐我旁边的小妹妹在哭 一个护士问她多大了，她说初一，结果那护士来了句“你才初一就这么压抑了还没到初三呢”，我立马起身就走一边去了，有点愤怒这个科室的医护工作者怎么可以说出这种话来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674644891278745601",
+        "conversation_id": "2059292353756831988",
+        "created_at": "2026-05-26T15:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059292353756831988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059292353756831988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 97725,
+          "like_count": 1081,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "昨天在精神科，坐我旁边的小妹妹在哭 一个护士问她多大了，她说初一，结果那护士来了句“你才初一就这么压抑了还没到初三呢”，我立马起身就走一边去了，有点愤怒这个科室的医护工作者怎么可以说出这种话来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1009,
+          "like_count": 5275,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5917
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T05:04:04.000Z",
+        "description": "梦想是有自己的巧克力工厂⌯'Ⱉ'⌯｜记录破碎故事之心｜手指和眼睛谁先湿润",
+        "id": "1674644891278745601",
+        "location": "士多啤梨星球",
+        "name": "司濯咘瑞",
+        "pinned_tweet_id": "1903543023738446172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858046600322637824/7P8Nrb0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 138,
+          "like_count": 8450,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 868
+        },
+        "username": "3Afengjingqu",
+        "verified": false
+      }
+    ]
+  }
+}

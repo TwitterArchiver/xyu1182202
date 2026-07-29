@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042701353445920773"
+      ],
+      "media_source_tweet_id": [
+        "2042701390112493911"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042914098036224237",
+    "created_at": "2026-04-11T10:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042914098036224237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ELrWhVQuor",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2042701390112493911/photo/1",
+          "media_key": "3_2042701353445920773",
+          "start": 15,
+          "url": "https://t.co/ELrWhVQuor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042914098036224237",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042701390112493911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/ELrWhVQuor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2042701353445920773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkiDupakAUgA3e.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042701353445920773"
+          ],
+          "media_source_tweet_id": [
+            "2042701390112493911"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042914098036224237",
+        "created_at": "2026-04-11T10:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042914098036224237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELrWhVQuor",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2042701390112493911/photo/1",
+              "media_key": "3_2042701353445920773",
+              "start": 15,
+              "url": "https://t.co/ELrWhVQuor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042914098036224237",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042701390112493911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/ELrWhVQuor"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042701353445920773"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2042701390112493911",
+        "created_at": "2026-04-10T20:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042701390112493911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELrWhVQuor",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2042701390112493911/photo/1",
+              "media_key": "3_2042701353445920773",
+              "start": 0,
+              "url": "https://t.co/ELrWhVQuor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042701390112493911",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2890,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ELrWhVQuor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 460,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34908,
+          "following_count": 377,
+          "like_count": 209,
+          "listed_count": 99,
+          "media_count": 12816,
+          "tweet_count": 12894
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050779432382869883",
+    "created_at": "2026-05-03T08:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050860178652958873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652290033926254592",
+          "start": 0,
+          "username": "huanmengyuandi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050860178652958873",
+    "in_reply_to_user_id": "1652290033926254592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050779432382869883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanmengyuandi 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050779420819120128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXVBIqa4AA2FaB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050779432382869883",
+        "created_at": "2026-05-03T08:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050860178652958873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652290033926254592",
+              "start": 0,
+              "username": "huanmengyuandi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050860178652958873",
+        "in_reply_to_user_id": "1652290033926254592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050779432382869883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanmengyuandi 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050779420819120128"
+          ]
+        },
+        "author_id": "1652290033926254592",
+        "conversation_id": "2050779432382869883",
+        "created_at": "2026-05-03T03:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050779432382869883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQLfXHmsjq",
+              "end": 31,
+              "expanded_url": "https://x.com/huanmengyuandi/status/2050779432382869883/photo/1",
+              "media_key": "3_2050779420819120128",
+              "start": 8,
+              "url": "https://t.co/lQLfXHmsjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050779432382869883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你们，晚安 https://t.co/lQLfXHmsjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 933,
+          "like_count": 4216,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 4961
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T12:34:07.000Z",
+        "description": "MtX，友跨暂时已经戒掉了吃糖/OD/割手，重度焦虑抑郁患者，目前正在药物治疗，情绪很稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanmengyuandi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanmengyuandi1",
+                "start": 0,
+                "url": "https://t.co/FPnVEFrW95"
+              }
+            ]
+          }
+        },
+        "id": "1652290033926254592",
+        "name": "幻梦之渊底",
+        "pinned_tweet_id": "2047633140001497426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048752986562891776/s8CpG48C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 71,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/FPnVEFrW95",
+        "username": "huanmengyuandi",
+        "verified": false
+      }
+    ]
+  }
+}

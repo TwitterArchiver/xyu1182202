@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040340618631913695",
+    "created_at": "2026-04-04T11:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040386712929718369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512003416767471617",
+          "start": 0,
+          "username": "userbear4"
+        },
+        {
+          "end": 19,
+          "id": "2853407766",
+          "start": 11,
+          "username": "zhu0588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040386712929718369",
+    "in_reply_to_user_id": "1512003416767471617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040347752316731530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@userbear4 @zhu0588 又赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040340618631913695",
+        "created_at": "2026-04-04T11:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040386712929718369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512003416767471617",
+              "start": 0,
+              "username": "userbear4"
+            },
+            {
+              "end": 19,
+              "id": "2853407766",
+              "start": 11,
+              "username": "zhu0588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040386712929718369",
+        "in_reply_to_user_id": "1512003416767471617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040347752316731530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@userbear4 @zhu0588 又赢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512003416767471617",
+        "conversation_id": "2040340618631913695",
+        "created_at": "2026-04-04T08:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040347752316731530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2853407766",
+              "start": 0,
+              "username": "zhu0588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040347752316731530",
+        "in_reply_to_user_id": "2853407766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2295,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040340618631913695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu0588 这搁美国早就成蜂窝煤了。女宝只在文明面前耀武扬威。在野蛮面前低声下气。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 131,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T09:44:49.000Z",
+        "description": "生育权归男性所有。女强男女重罪，男强女女大赚。卖淫重罪化，嫖娼免费化。每一名男性都有权利获得免费的安全的舒适的自由的性生活。",
+        "id": "1512003416767471617",
+        "name": "男性应当拥有生育权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749396441725071360/VgwnnD63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 77,
+          "like_count": 26,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 13018
+        },
+        "username": "userbear4",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-12T18:27:07.000Z",
+        "description": "中国未来大趋势：经济危机--社会动荡--专制垮台",
+        "id": "2853407766",
+        "name": "朱韵和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/633313799383060480/3SqyD6-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511920,
+          "following_count": 390,
+          "like_count": 807,
+          "listed_count": 1471,
+          "media_count": 62067,
+          "tweet_count": 85530
+        },
+        "username": "zhu0588",
+        "verified": true
+      }
+    ]
+  }
+}

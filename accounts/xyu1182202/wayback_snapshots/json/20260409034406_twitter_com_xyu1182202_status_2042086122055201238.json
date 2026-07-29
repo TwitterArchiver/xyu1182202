@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042086122055201238",
+    "created_at": "2026-04-09T03:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042086122055201238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022181719835914242",
+          "start": 3,
+          "username": "N2OXYN"
+        },
+        {
+          "end": 38,
+          "id": "1955503492145283072",
+          "start": 29,
+          "username": "QWQ73416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042086122055201238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041699615364485465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N2OXYN: 猫猫已确认死亡，死因跳楼，消息由 @QWQ73416 处得知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042086122055201238",
+        "created_at": "2026-04-09T03:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042086122055201238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022181719835914242",
+              "start": 3,
+              "username": "N2OXYN"
+            },
+            {
+              "end": 38,
+              "id": "1955503492145283072",
+              "start": 29,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042086122055201238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041699615364485465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N2OXYN: 猫猫已确认死亡，死因跳楼，消息由 @QWQ73416 处得知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2041699615364485465",
+        "created_at": "2026-04-08T02:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041699615364485465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1955503492145283072",
+              "start": 17,
+              "username": "QWQ73416"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/N2OXYN/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/N2OXYN/status/2041587708620144957",
+              "start": 31,
+              "url": "https://t.co/thEWYlQl4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041699615364485465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13810,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041587708620144957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫已确认死亡，死因跳楼，消息由 @QWQ73416 处得知 https://t.co/thEWYlQl4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 333,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2041897311522189603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 200,
+          "like_count": 155,
+          "listed_count": 6,
+          "media_count": 40,
+          "tweet_count": 276
+        },
+        "username": "N2OXYN",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 319,
+          "like_count": 6389,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1636
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2051603396503957631",
+    "created_at": "2026-05-06T03:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051866247642706124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051866247642706124",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051603396503957631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN 同好😋数码化学电子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051603396503957631",
+        "created_at": "2026-05-06T03:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051866247642706124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051866247642706124",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051603396503957631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN 同好😋数码化学电子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586762784393437184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051603396503957631",
+        "created_at": "2026-05-05T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051603396503957631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051603396503957631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5235,
+          "like_count": 123,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我就是感觉嘉豪这个梗很欺负人。\n有自己的兴趣爱好,做不到专业水平又怎样?\n你打游戏开心可以,打球搞体育开心可以\n我研究手机电脑、飞无人机、上外网、搞电子电路搞化学感到开心,一样可以。\n只要我真心体会快乐,那我在做的就不是垃圾行为。\n玩无人机让人商拍,编程让人写操作系统\n说人嘉豪那你又会什么?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 969,
+          "like_count": 4571,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的21y.o.废物技术宅。二次元/电子电路/化学/MIDI/软件/数码产品/摄影/无人机大手子。属性:🏳️‍🌈LGBTQ+友好/トール可愛い🐉/《青空のラプソディ》🎵/大連好き🏝️/Yamaha XG-MIDI🎹/DJI✈️Mavic Air & Air 2S/Fart Fetish🍑💨🥵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "location": "500M的天空",
+        "name": "小龙娘トール⚡️🧪🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 639,
+          "like_count": 50567,
+          "listed_count": 4,
+          "media_count": 1388,
+          "tweet_count": 16009
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": false
+      }
+    ]
+  }
+}

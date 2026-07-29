@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038267135303225529",
+    "created_at": "2026-03-30T13:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038612379756281884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038612379756281884",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038267135303225529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 答应我，再冷静三个小时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038267135303225529",
+        "created_at": "2026-03-30T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038612379756281884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038612379756281884",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038267135303225529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 答应我，再冷静三个小时"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2038267135303225529",
+        "created_at": "2026-03-29T14:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038267135303225529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038267135303225529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12134,
+          "like_count": 97,
+          "quote_count": 11,
+          "reply_count": 98,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如人生只剩3个小时，你们会用来干什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于** | 不见证（懒得管那些了，以前见过） | 没咋割手 | o！长在春风中，活在药效里！ | 没染上乌蒙 | 咱想咱老婆了 | 生产日期2010.3.16 | 纯s | 家长不管党（od割手也都不管 | hrt🍥2025.11 |\n| b站：屑冷雪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2038268504164671749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 1406,
+          "like_count": 46970,
+          "listed_count": 3,
+          "media_count": 639,
+          "tweet_count": 4661
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

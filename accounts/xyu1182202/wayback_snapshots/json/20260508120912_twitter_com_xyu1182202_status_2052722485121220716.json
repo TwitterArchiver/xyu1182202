@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052656682254377436",
+    "created_at": "2026-05-08T12:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052722485121220716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479550299815645185",
+          "start": 0,
+          "username": "Stanleysobest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052722485121220716",
+    "in_reply_to_user_id": "1479550299815645185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052656682254377436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanleysobest 迟疑一秒都可以去看脑科了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_2052656673060540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyAXmOb0AAmFan.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052656682254377436",
+        "created_at": "2026-05-08T12:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052722485121220716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052722485121220716",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052656682254377436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest 迟疑一秒都可以去看脑科了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052656673060540416"
+          ]
+        },
+        "author_id": "1479550299815645185",
+        "conversation_id": "2052656682254377436",
+        "created_at": "2026-05-08T07:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052656682254377436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjwa6tBKcb",
+              "end": 43,
+              "expanded_url": "https://x.com/Stanleysobest/status/2052656682254377436/photo/1",
+              "media_key": "3_2052656673060540416",
+              "start": 20,
+              "url": "https://t.co/kjwa6tBKcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052656682254377436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 41428,
+          "like_count": 132,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "实在想不懂，宁可当保安也不进厂打螺丝？ https://t.co/kjwa6tBKcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 981,
+          "like_count": 4887,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5440
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44193,
+          "following_count": 1682,
+          "like_count": 25721,
+          "listed_count": 184,
+          "media_count": 5467,
+          "tweet_count": 34774
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

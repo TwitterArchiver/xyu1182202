@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050924085241426099",
+    "created_at": "2026-05-03T13:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050924085241426099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050412856290557952",
+          "start": 3,
+          "username": "LiZi_TAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050924085241426099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050913469243982050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiZi_TAT: 你们都不要死好不好……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050924085241426099",
+        "created_at": "2026-05-03T13:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050924085241426099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050412856290557952",
+              "start": 3,
+              "username": "LiZi_TAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050924085241426099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050913469243982050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiZi_TAT: 你们都不要死好不好……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050412856290557952",
+        "conversation_id": "2050913469243982050",
+        "created_at": "2026-05-03T12:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050913469243982050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050913469243982050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们都不要死好不好……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 936,
+          "like_count": 4259,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 4994
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T03:11:44.000Z",
+        "description": "od丨餐券丨这里只有黑泥丨举报我的你的全价飞升",
+        "id": "2050412856290557952",
+        "name": "🌰3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050414319691829248/VKxpCrga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 169,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "LiZi_TAT",
+        "verified": false
+      }
+    ]
+  }
+}

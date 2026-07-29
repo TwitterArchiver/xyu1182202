@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039653979974729817",
+    "created_at": "2026-04-02T22:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039830649494966635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039830649494966635",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039653979974729817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 太惨了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039653979974729817",
+        "created_at": "2026-04-02T22:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039830649494966635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039830649494966635",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039653979974729817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 太惨了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2039653979974729817",
+        "created_at": "2026-04-02T10:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039653979974729817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaaaamtxt/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aaaaamtxt/status/2039356518232121594",
+              "start": 29,
+              "url": "https://t.co/qYjFBKqGj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039653979974729817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039356518232121594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跳楼太野蛮了，除非实在迫不得已 我都不会选择这种了结方式 https://t.co/qYjFBKqGj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 67,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 390
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "♡pansexual ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//记录电波发送全过程的赛博日记本(〃ω〃)ᰔ｡ﾟ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oioioi000",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oioioi000",
+                "start": 0,
+                "url": "https://t.co/UdwRNKzpCP"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039207446657556480/qTyefXPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 319,
+          "like_count": 9155,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 4541
+        },
+        "url": "https://t.co/UdwRNKzpCP",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

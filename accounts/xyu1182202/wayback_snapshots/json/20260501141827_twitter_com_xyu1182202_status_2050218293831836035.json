@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050209337386373373",
+    "created_at": "2026-05-01T14:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050218293831836035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050218293831836035",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050209337386373373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2050209331300405249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPOhjtaEAEcKYq.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050209337386373373",
+        "created_at": "2026-05-01T14:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050218293831836035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050218293831836035",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050209337386373373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050209331300405249"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2050209337386373373",
+        "created_at": "2026-05-01T13:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050209337386373373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22rZwo5Q7Q",
+              "end": 29,
+              "expanded_url": "https://x.com/AuroraLight_01/status/2050209337386373373/photo/1",
+              "media_key": "3_2050209331300405249",
+              "start": 6,
+              "url": "https://t.co/22rZwo5Q7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050209337386373373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有点想试试 https://t.co/22rZwo5Q7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 927,
+          "like_count": 4156,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4902
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF-从小想做个女孩子-未炸柜 深柜\n喜欢折腾电脑和会一点编程-分享Hrt日常\n不自残🔪 不Od💊 心理健康 在湖北潜江\n关注芸光谢谢喵~（目标600fo QWQ）\n\n“我看在眼里，我爱不释手，我保持前进，我志在必得”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auroralight_01",
+                "end": 23,
+                "expanded_url": "http://ngl.link/auroralight_01",
+                "start": 0,
+                "url": "https://t.co/mYEIISyh1o"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "t.me/Coxe_Pica",
+        "name": "芸光酱𝗔𝘂𝗿𝗼𝗿𝗮𝗟𝗶𝗴𝗵𝘁 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2047830567673057755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 27,
+          "like_count": 1179,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/mYEIISyh1o",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

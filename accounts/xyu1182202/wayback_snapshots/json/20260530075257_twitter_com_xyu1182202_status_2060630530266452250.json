@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060388327111696817",
+    "created_at": "2026-05-30T07:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060630530266452250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846898155016646656",
+          "start": 0,
+          "username": "yznsxu0128"
+        },
+        {
+          "end": 23,
+          "id": "1452505528106569729",
+          "start": 12,
+          "username": "xiaoshunli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060630530266452250",
+    "in_reply_to_user_id": "1846898155016646656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060449988241698946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznsxu0128 @xiaoshunli 你说了我想说的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060388327111696817",
+        "created_at": "2026-05-30T07:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060630530266452250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846898155016646656",
+              "start": 0,
+              "username": "yznsxu0128"
+            },
+            {
+              "end": 23,
+              "id": "1452505528106569729",
+              "start": 12,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060630530266452250",
+        "in_reply_to_user_id": "1846898155016646656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060449988241698946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznsxu0128 @xiaoshunli 你说了我想说的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846898155016646656",
+        "conversation_id": "2060388327111696817",
+        "created_at": "2026-05-29T19:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060449988241698946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452505528106569729",
+              "start": 0,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060449988241698946",
+        "in_reply_to_user_id": "1452505528106569729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3906,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060388327111696817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshunli 傻逼，为了第五档这点醋，硬是编了四盘饺子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5351,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6062
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T12:57:32.000Z",
+        "description": "追风少年",
+        "id": "1846898155016646656",
+        "location": "太原",
+        "name": "徐凤年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846898340769746945/v5qKjXk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 179
+        },
+        "username": "yznsxu0128",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T05:22:35.000Z",
+        "description": "中文顶级作者｜千万畅销书作家｜All in Crypto｜写人性、财富、婚恋和时代真相。不讲正确废话，只讲难听真话。\n\nARB万倍｜Wormhole4万倍｜Sats百倍｜Trump 50倍",
+        "id": "1452505528106569729",
+        "location": "Palo Alto, CA",
+        "name": "大顺利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034563017992765440/0bmswBC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37398,
+          "following_count": 7257,
+          "like_count": 26821,
+          "listed_count": 523,
+          "media_count": 280,
+          "tweet_count": 14824
+        },
+        "username": "xiaoshunli",
+        "verified": true
+      }
+    ]
+  }
+}

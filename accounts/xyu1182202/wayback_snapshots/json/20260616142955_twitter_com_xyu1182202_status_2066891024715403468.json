@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066533899715616968",
+    "created_at": "2026-06-16T14:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066891024715403468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2001275183651524608",
+          "start": 0,
+          "username": "Tina792212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066891024715403468",
+    "in_reply_to_user_id": "2001275183651524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066533899715616968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina792212 b小鬼是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066533875485122560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3NnFyaIAAIq_4.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066533899715616968",
+        "created_at": "2026-06-16T14:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066891024715403468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2001275183651524608",
+              "start": 0,
+              "username": "Tina792212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066891024715403468",
+        "in_reply_to_user_id": "2001275183651524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066533899715616968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina792212 b小鬼是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066533875485122560"
+          ]
+        },
+        "author_id": "2001275183651524608",
+        "conversation_id": "2066533899715616968",
+        "created_at": "2026-06-15T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066533899715616968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsS1LZz9EN",
+              "end": 56,
+              "expanded_url": "https://x.com/Tina792212/status/2066533899715616968/photo/1",
+              "media_key": "3_2066533875485122560",
+              "start": 33,
+              "url": "https://t.co/WsS1LZz9EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066533899715616968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 55488,
+          "like_count": 286,
+          "quote_count": 6,
+          "reply_count": 91,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌b站抖音这些长发男拿药娘炒作，无非还是那套吃药活不过30。 https://t.co/WsS1LZz9EN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1025,
+          "like_count": 5373,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6231
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T12:56:16.000Z",
+        "description": "（🏳️‍🌈）是个男娘/坐标上海/含糖/某人的碎碎念小号",
+        "id": "2001275183651524608",
+        "location": "188 （好友位）接接接",
+        "name": "穷河河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066529969757716480/Nlm8--1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 54,
+          "like_count": 208,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 149
+        },
+        "username": "Tina792212",
+        "verified": false
+      }
+    ]
+  }
+}

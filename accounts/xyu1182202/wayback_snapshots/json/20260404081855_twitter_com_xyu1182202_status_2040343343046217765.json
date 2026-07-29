@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040318464813081053",
+    "created_at": "2026-04-04T08:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040343343046217765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040343343046217765",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040318464813081053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 难绷🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040318464813081053",
+        "created_at": "2026-04-04T08:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040343343046217765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040343343046217765",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040318464813081053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 难绷🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2040318464813081053",
+        "created_at": "2026-04-04T06:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040318464813081053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040318464813081053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2307,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈：你怎么长得越来越像女的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 127,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22105,
+          "following_count": 994,
+          "like_count": 1742,
+          "listed_count": 64,
+          "media_count": 367,
+          "tweet_count": 1863
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

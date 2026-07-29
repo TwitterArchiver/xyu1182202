@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053451335895527424"
+      ],
+      "media_source_tweet_id": [
+        "2053451339620098485"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053458079384220114",
+    "created_at": "2026-05-10T12:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053458079384220114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1827293756661571584",
+          "start": 3,
+          "username": "aizhenxunjiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dqXkwUPkVS",
+          "end": 47,
+          "expanded_url": "https://x.com/aizhenxunjiang/status/2053451339620098485/photo/1",
+          "media_key": "3_2053451335895527424",
+          "start": 24,
+          "url": "https://t.co/dqXkwUPkVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053458079384220114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053451339620098485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aizhenxunjiang: 已干预 https://t.co/dqXkwUPkVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2053451335895527424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9THD-asAAkLlw.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053451335895527424"
+          ],
+          "media_source_tweet_id": [
+            "2053451339620098485"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053458079384220114",
+        "created_at": "2026-05-10T12:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053458079384220114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1827293756661571584",
+              "start": 3,
+              "username": "aizhenxunjiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqXkwUPkVS",
+              "end": 47,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/2053451339620098485/photo/1",
+              "media_key": "3_2053451335895527424",
+              "start": 24,
+              "url": "https://t.co/dqXkwUPkVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053458079384220114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053451339620098485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aizhenxunjiang: 已干预 https://t.co/dqXkwUPkVS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053451335895527424"
+          ]
+        },
+        "author_id": "1827293756661571584",
+        "conversation_id": "2053451339620098485",
+        "created_at": "2026-05-10T12:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053451339620098485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqXkwUPkVS",
+              "end": 27,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/2053451339620098485/photo/1",
+              "media_key": "3_2053451335895527424",
+              "start": 4,
+              "url": "https://t.co/dqXkwUPkVS"
+            },
+            {
+              "display_url": "x.com/existornull/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/existornull/status/2053394737525358855",
+              "start": 28,
+              "url": "https://t.co/m2hx6kgL73"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "2053451339620098485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053394737525358855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已干预 https://t.co/dqXkwUPkVS https://t.co/m2hx6kgL73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 988,
+          "like_count": 4952,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5516
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜无证含糖🍥（已炸柜）｜07｜istp｜欢迎同类🍥🏳️‍⚧️｜同类互fo｜158cm/97斤｜坐标南京｜TG@yuchi20250228｜\n老婆@chenyuxi5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "chenyuxi5201314"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "location": "南京",
+        "name": "雨汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046170676864934354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 849,
+          "like_count": 377,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 361
+        },
+        "username": "aizhenxunjiang",
+        "verified": false
+      }
+    ]
+  }
+}

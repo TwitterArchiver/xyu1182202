@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042533892717187327",
+    "created_at": "2026-04-11T03:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042800980916363320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042800980916363320",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042533892717187327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Yukikaze 好欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042533892717187327",
+        "created_at": "2026-04-11T03:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042800980916363320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042800980916363320",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042533892717187327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 好欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2042533892717187327",
+        "created_at": "2026-04-10T09:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042533892717187327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042533892717187327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 94,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神状态良好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 431,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2131
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 2790,
+          "like_count": 100422,
+          "listed_count": 4,
+          "media_count": 752,
+          "tweet_count": 12129
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

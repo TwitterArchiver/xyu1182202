@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078793299041915081",
+    "created_at": "2026-07-19T12:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078817660184486349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078817660184486349",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078803818972864751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 组双路卖服务器"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2078803815600738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNllDmqb0AASquj.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078793299041915081",
+        "created_at": "2026-07-19T12:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078817660184486349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078817660184486349",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078803818972864751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 组双路卖服务器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078803815600738304"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2078793299041915081",
+        "created_at": "2026-07-19T11:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078803818972864751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiwN4E5vwU",
+              "end": 110,
+              "expanded_url": "https://x.com/666666666ZT/status/2078803818972864751/photo/1",
+              "media_key": "3_2078803815600738304",
+              "start": 87,
+              "url": "https://t.co/LiwN4E5vwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078803818972864751",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078793299041915081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区的恶评狗别再逗我笑了  这两个CPU是别人送给我的  是好的  你们自己去查一下  这两个的价格是多少钱  这两个CPU够买你们的命了  你们有什么资格在这里跟我叫😂 https://t.co/LiwN4E5vwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1056,
+          "like_count": 5350,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6569
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078802324387217429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 301,
+          "like_count": 50,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046891250360741888"
+      ],
+      "media_source_tweet_id": [
+        "2046891253376393643"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OnePlus",
+          "id": "911222222865408000",
+          "name": "OnePlus"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OnePlus",
+          "id": "911222222865408000",
+          "name": "OnePlus"
+        }
+      }
+    ],
+    "conversation_id": "2046893940805452110",
+    "created_at": "2026-04-22T10:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046893940805452110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970857021588262912",
+          "start": 3,
+          "username": "RainEngine_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAHYlBIcmx",
+          "end": 113,
+          "expanded_url": "https://x.com/RainEngine_2024/status/2046891253376393643/photo/1",
+          "media_key": "3_2046891250360741888",
+          "start": 90,
+          "url": "https://t.co/ZAHYlBIcmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046893940805452110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046891253376393643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine_2024: 悲报😭😭😭，窝的主力机没了😭😭😭， 屏幕摔漏液了，有人给我回点血吗\nOnePlus 9R (01.02.2026~04.22.2026) https://t.co/ZAHYlBIcmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046891250360741888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgEv0-bcAASCo9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046891250360741888"
+          ],
+          "media_source_tweet_id": [
+            "2046891253376393643"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          }
+        ],
+        "conversation_id": "2046893940805452110",
+        "created_at": "2026-04-22T10:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046893940805452110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970857021588262912",
+              "start": 3,
+              "username": "RainEngine_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAHYlBIcmx",
+              "end": 113,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2046891253376393643/photo/1",
+              "media_key": "3_2046891250360741888",
+              "start": 90,
+              "url": "https://t.co/ZAHYlBIcmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046893940805452110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046891253376393643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine_2024: 悲报😭😭😭，窝的主力机没了😭😭😭， 屏幕摔漏液了，有人给我回点血吗\nOnePlus 9R (01.02.2026~04.22.2026) https://t.co/ZAHYlBIcmx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046891250360741888"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          }
+        ],
+        "conversation_id": "2046891253376393643",
+        "created_at": "2026-04-22T09:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046891253376393643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAHYlBIcmx",
+              "end": 92,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2046891253376393643/photo/1",
+              "media_key": "3_2046891250360741888",
+              "start": 69,
+              "url": "https://t.co/ZAHYlBIcmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046891253376393643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "悲报😭😭😭，窝的主力机没了😭😭😭， 屏幕摔漏液了，有人给我回点血吗\nOnePlus 9R (01.02.2026~04.22.2026) https://t.co/ZAHYlBIcmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046887449239134423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 793,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3893
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨|探索中?或许是MtX?|Hrt🍥01.28.2026，无证含糖|家长不管党，炸柜:03.12|oder💊pr&玉米|11.13.2011🎂出厂|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|有点笨笨的🥺|同类互fo喵～|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 158,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 135,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "Hanchuan City, Hubei",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️💊",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1375,
+          "like_count": 15414,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

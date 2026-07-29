@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047163400585949388",
+    "created_at": "2026-04-23T10:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047266264834556375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        },
+        {
+          "end": 26,
+          "id": "2031097520840167424",
+          "start": 11,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047266264834556375",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047179691673747655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 @Ciallo_114_514 你想让我死就直说，为什么破坏我的成果..."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047179691673747655].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047179691673747655",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047179691673747655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047163400585949388",
+        "created_at": "2026-04-23T10:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047266264834556375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 26,
+              "id": "2031097520840167424",
+              "start": 11,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047266264834556375",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047179691673747655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 @Ciallo_114_514 你想让我死就直说，为什么破坏我的成果..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046971761930170599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 801,
+          "like_count": 3275,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3983
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不知道该怎么办了\n宝宝？@xyu1182202 ？。最好的妹妹？@LeavesMao？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/qfam1DZRUf"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 268,
+          "like_count": 3760,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/qfam1DZRUf",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2046955498457780555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 691,
+          "like_count": 1920,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 3523
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

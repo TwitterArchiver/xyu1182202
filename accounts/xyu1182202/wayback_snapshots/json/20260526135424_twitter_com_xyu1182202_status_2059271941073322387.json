@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059212664719466969",
+    "created_at": "2026-05-26T13:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059271941073322387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059271941073322387",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059212664719466969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2059212654011432960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPK_6dXQAATDfc.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059212664719466969",
+        "created_at": "2026-05-26T13:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059271941073322387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059271941073322387",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059212664719466969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059212654011432960"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059212664719466969",
+        "created_at": "2026-05-26T09:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059212664719466969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJ1LojSZKu",
+              "end": 44,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2059212664719466969/photo/1",
+              "media_key": "3_2059212654011432960",
+              "start": 21,
+              "url": "https://t.co/HJ1LojSZKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059212664719466969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1189,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "截屏的四个账号中，只有一个号主是活着的。 https://t.co/HJ1LojSZKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1009,
+          "like_count": 5247,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5866
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "#StandWithUkraine #MadeByGoogle\n2011-14yo|温和派-社会自由主义-共和主义者|谈古论今，以史为鉴\n华统+港澳台-西藏自治|总希望我的文章是爆款|Stand With🇦🇹🇳🇱🇹🇼🇺🇦\n最苦命的是账号不会被推流，随时准备放弃此号",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "StandWithUkraine"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "tag": "MadeByGoogle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "Wellington † Pixel",
+        "pinned_tweet_id": "2056005641123070417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055242704154460161/dHMrnrWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 4135,
+          "like_count": 18968,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

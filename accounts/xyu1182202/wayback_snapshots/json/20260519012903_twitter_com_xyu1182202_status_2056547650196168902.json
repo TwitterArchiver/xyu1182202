@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2056293689170055370",
+    "created_at": "2026-05-19T01:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056547650196168902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056547650196168902",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056293689170055370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 要素过多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2056293673902706688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlsM6LakAANpCm.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2056293689170055370",
+        "created_at": "2026-05-19T01:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056547650196168902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056547650196168902",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056293689170055370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 要素过多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056293673902706688"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "2056293689170055370",
+        "created_at": "2026-05-18T08:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056293689170055370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcKU3BEbs4",
+              "end": 38,
+              "expanded_url": "https://x.com/1n_fhtagn/status/2056293689170055370/photo/1",
+              "media_key": "3_2056293673902706688",
+              "start": 15,
+              "url": "https://t.co/IcKU3BEbs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056293689170055370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 21560,
+          "like_count": 206,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "仅限男的或者自我认知为男性🥰 https://t.co/IcKU3BEbs4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1000,
+          "like_count": 5155,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5716
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043230735642013696/yF-skjSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 1263,
+          "like_count": 30040,
+          "listed_count": 9,
+          "media_count": 4252,
+          "tweet_count": 18685
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

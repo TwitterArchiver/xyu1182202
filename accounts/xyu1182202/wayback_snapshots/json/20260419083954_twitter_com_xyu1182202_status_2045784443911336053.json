@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045761743742529631",
+    "created_at": "2026-04-19T08:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045784443911336053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045784443911336053",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045761743742529631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxiduo 已被机器人夺舍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_2045761733869088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQBdUJasAAMxJ7.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045761743742529631",
+        "created_at": "2026-04-19T08:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045784443911336053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045784443911336053",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045761743742529631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxiduo 已被机器人夺舍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045761733869088768"
+          ]
+        },
+        "author_id": "1666329123223121922",
+        "conversation_id": "2045761743742529631",
+        "created_at": "2026-04-19T07:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045761743742529631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtnW30P45u",
+              "end": 47,
+              "expanded_url": "https://x.com/chuanxiduo/status/2045761743742529631/photo/1",
+              "media_key": "3_2045761733869088768",
+              "start": 24,
+              "url": "https://t.co/EtnW30P45u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045761743742529631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2295,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逐渐接受我的十万粉丝，大半都已被堵在墙内的事实 https://t.co/EtnW30P45u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 709,
+          "like_count": 2582,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 3349
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n暗黑人格💌@duoxichuan\n谢谢关注我的小世界！祝您天天开心~~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "duoxichuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71lrLW"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "粉丝频道:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2043743848103587861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100538,
+          "following_count": 1580,
+          "like_count": 8059,
+          "listed_count": 293,
+          "media_count": 470,
+          "tweet_count": 1660
+        },
+        "url": "https://t.co/kXKI71lrLW",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078653576738721953",
+    "created_at": "2026-07-19T03:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078682851546198491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078682851546198491",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078653576738721953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC 力挽狂澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078653576738721953",
+        "created_at": "2026-07-19T03:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078682851546198491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078682851546198491",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078653576738721953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC 力挽狂澜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689095384956633088",
+        "conversation_id": "2078653576738721953",
+        "created_at": "2026-07-19T01:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078653576738721953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078653576738721953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建议大家退出药娘圈，在药娘圈很快就会出事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1055,
+          "like_count": 5347,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6560
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "三民主义者",
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "AAA小男娘批发",
+        "pinned_tweet_id": "2067118496895697078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 282,
+          "like_count": 401,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

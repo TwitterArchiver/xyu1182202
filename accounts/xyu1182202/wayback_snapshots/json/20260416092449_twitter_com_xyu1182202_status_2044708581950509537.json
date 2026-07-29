@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044373554981187695",
+    "created_at": "2026-04-16T09:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044708581950509537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "N0HopeForUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044708581950509537",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044373554981187695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0HopeForUs 官方不表态，在这种事情上装看不见（可能是我了解的新闻不多，但是至少没有热度能让我看见....）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044373554981187695",
+        "created_at": "2026-04-16T09:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044708581950509537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044708581950509537",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044373554981187695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs 官方不表态，在这种事情上装看不见（可能是我了解的新闻不多，但是至少没有热度能让我看见....）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "2044373554981187695",
+        "created_at": "2026-04-15T11:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044373554981187695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakayash…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/kagurazakayashi/status/2044338941256736986",
+              "start": 27,
+              "url": "https://t.co/gcKm4BUz65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044373554981187695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2764,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044338941256736986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和包大哥反而关系不大 主要是这个依赖民粹的政党长大了 https://t.co/gcKm4BUz65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 614,
+          "like_count": 2283,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2983
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "Lacan | Wittgenstein | Marx | GTAOL\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义𝙈𝙖𝙤𝙙𝙞𝙚𝙞𝙨𝙢🍥🇭🇰",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032738053912240128/p2hxr-vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 1578,
+          "like_count": 41713,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 13167
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

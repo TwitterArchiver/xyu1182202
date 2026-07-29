@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T09:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039275205437337710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853286001197879296",
+          "start": 0,
+          "username": "Rainydayovo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039275205437337710",
+    "in_reply_to_user_id": "1853286001197879296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039169231418531944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainydayovo8964 不多正常水平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T09:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039275205437337710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039275205437337710",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039169231418531944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 不多正常水平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T02:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039169231418531944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039169231418531944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 91441,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 250,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们 电费一个月50元 算用得多吗 我第一次自己租房住 所以不太了解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38330,
+          "following_count": 190,
+          "like_count": 2427,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4582
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

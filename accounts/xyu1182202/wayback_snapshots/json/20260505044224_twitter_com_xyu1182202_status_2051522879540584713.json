@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2051522879540584713",
+    "created_at": "2026-05-05T04:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051522879540584713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775833048493240320",
+          "start": 3,
+          "username": "kuukiwfn"
+        },
+        {
+          "end": 28,
+          "id": "1819276723290095616",
+          "start": 14,
+          "username": "Natsuki_803nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051522879540584713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050942840868634811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwfn: @Natsuki_803nz \n变成家暴党了 目前已逃出家门 在外面 没有手机（被摔碎了）已\"被\"破产\n携带了一个相机 （和不少钱\ntwitter帐户为存活状态（但无法使用因为没有手机）\n此推文仅保平安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051522879540584713",
+        "created_at": "2026-05-05T04:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051522879540584713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775833048493240320",
+              "start": 3,
+              "username": "kuukiwfn"
+            },
+            {
+              "end": 28,
+              "id": "1819276723290095616",
+              "start": 14,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051522879540584713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050942840868634811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuukiwfn: @Natsuki_803nz \n变成家暴党了 目前已逃出家门 在外面 没有手机（被摔碎了）已\"被\"破产\n携带了一个相机 （和不少钱\ntwitter帐户为存活状态（但无法使用因为没有手机）\n此推文仅保平安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2050942840868634811",
+        "created_at": "2026-05-03T14:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050942840868634811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/natsuki_803nz/…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/natsuki_803nz/status/2050845641224724681",
+              "start": 102,
+              "url": "https://t.co/Lou9Y09eWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050942840868634811",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050845641224724681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz \n变成家暴党了 目前已逃出家门 在外面 没有手机（被摔碎了）已\"被\"破产\n携带了一个相机 （和不少钱\ntwitter帐户为存活状态（但无法使用因为没有手机）\n此推文仅保平安 https://t.co/Lou9Y09eWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 946,
+          "like_count": 4440,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5088
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "⟡ ✞ nonbinary ✟ ⛧ ✟ 歡迎互fo喵 ✞ ✧ \n✟⛧✟ ᗜˬᗜ 東方project ᗜˬᗜ ♡⋆ ⛧overdose lover♡ ✦\n⟡ v-kei ꙳scenecore lover ♡ ✦ rebzyyx₊kets4eki fans ⭒\n†† @voixora_sama †† ✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "voixora_sama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/knyxia…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/knyxial.bsky.social",
+                "start": 0,
+                "url": "https://t.co/pgwJK3I4t6"
+              }
+            ]
+          }
+        },
+        "id": "1775833048493240320",
+        "location": "✟ kuuki小黒屋 ✟",
+        "name": "✟ 𝕜𝕦𝕦𝕜𝕚 ✟",
+        "pinned_tweet_id": "2051381252717166622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 723,
+          "like_count": 36079,
+          "listed_count": 1,
+          "media_count": 825,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/pgwJK3I4t6",
+        "username": "kuukiwfn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一🍥｜家长反对党（已炸柜）｜周六晚上复活，消息回复可能不及时｜177cm/58kg｜百合、4i好｜交通迷、喜欢出去走…｜临沂前十街121号｜无聊…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Natsuki_803",
+                "end": 23,
+                "expanded_url": "https://t.me/Natsuki_803",
+                "start": 0,
+                "url": "https://t.co/AYea4soCXv"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "location": "Internet",
+        "name": "夏希🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050845641224724681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040744519550001153/-nZHCknj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 188,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/AYea4soCXv",
+        "username": "Natsuki_803nz",
+        "verified": false
+      }
+    ]
+  }
+}

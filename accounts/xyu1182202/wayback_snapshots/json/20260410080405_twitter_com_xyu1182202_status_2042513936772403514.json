@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042484845679690054",
+    "created_at": "2026-04-10T08:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042513936772403514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042513936772403514",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042484845679690054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 🤣👍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042484845679690054].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042484845679690054",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042484845679690054"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042484845679690054",
+        "created_at": "2026-04-10T08:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042513936772403514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042513936772403514",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042484845679690054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 🤣👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 405,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 可以叫我553\n09 MTX？\n简繁中/EN ok\n大多数时候图文无关qwq\n求聊天什么都行\n查成分回fo 没回是没看到可以评论咪\n看黄男&粉红勿扰\n🚫NSFW 关注通过暂时严一点w\n简介编辑中…\nご主人様～@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/I1BmnnGQJV"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "半夜大概在VRC",
+        "name": "AG553⭐️互fo喵～",
+        "pinned_tweet_id": "2025915693078901021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 1441,
+          "like_count": 29788,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/I1BmnnGQJV",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

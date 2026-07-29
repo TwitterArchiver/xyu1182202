@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060560627438117336",
+    "created_at": "2026-05-30T06:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060615893382819870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060615893382819870",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060560627438117336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini 患者不等于病人。其次不要嘴硬自己没病..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060560627438117336",
+        "created_at": "2026-05-30T06:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060615893382819870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060615893382819870",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060560627438117336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 患者不等于病人。其次不要嘴硬自己没病..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060560627438117336",
+        "created_at": "2026-05-30T03:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060560627438117336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060560627438117336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1651,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么跨性别医疗医生叫跨性别是患者，跨性别是患者吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5335,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6038
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 770,
+          "like_count": 5533,
+          "listed_count": 4,
+          "media_count": 602,
+          "tweet_count": 5054
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

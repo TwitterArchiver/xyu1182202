@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052273088864346396",
+    "created_at": "2026-05-07T09:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052323316237762759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052323316237762759",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052273088864346396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 正义万岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052273088864346396",
+        "created_at": "2026-05-07T09:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052323316237762759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052323316237762759",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052273088864346396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 正义万岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052273088864346396",
+        "created_at": "2026-05-07T06:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052273088864346396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2052270631522337265",
+              "start": 42,
+              "url": "https://t.co/C1dmRG4mV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052273088864346396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1393,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052270631522337265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人救不出来我就考虑把济南市政府公开招标该机构\n并以此种方式拿青少年创收的证据放出来 https://t.co/C1dmRG4mV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 974,
+          "like_count": 4761,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4937,
+          "following_count": 2715,
+          "like_count": 2677,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2690
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

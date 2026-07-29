@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066819319196176795",
+    "created_at": "2026-06-16T14:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066891892420378635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066891892420378635",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066819319196176795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 可以伺候我嘛🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2066817111469817856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7PNmDbgAAUbCk.jpg",
+        "width": 1468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066819319196176795",
+        "created_at": "2026-06-16T14:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066891892420378635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066891892420378635",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066819319196176795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 可以伺候我嘛🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066817111469817856"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2066819319196176795",
+        "created_at": "2026-06-16T09:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066819319196176795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUEO6Urnki",
+              "end": 34,
+              "expanded_url": "https://x.com/yoshino_2333/status/2066819319196176795/photo/1",
+              "media_key": "3_2066817111469817856",
+              "start": 11,
+              "url": "https://t.co/MUEO6Urnki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066819319196176795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2089,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿着玩玩，男的来了。 https://t.co/MUEO6Urnki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1026,
+          "like_count": 5377,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6236
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 686,
+          "like_count": 18899,
+          "listed_count": 5,
+          "media_count": 785,
+          "tweet_count": 13174
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

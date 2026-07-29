@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051162190175223808",
+        "3_2051162188237430784"
+      ],
+      "media_source_tweet_id": [
+        "2051180026205544716",
+        "2051180026205544716"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051296134677811400",
+    "created_at": "2026-05-04T13:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051296134677811400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YMpHTbH0Ts",
+          "end": 57,
+          "expanded_url": "https://x.com/Rococo90933671/status/2051180026205544716/photo/1",
+          "media_key": "3_2051162190175223808",
+          "start": 34,
+          "url": "https://t.co/YMpHTbH0Ts"
+        },
+        {
+          "display_url": "pic.x.com/YMpHTbH0Ts",
+          "end": 57,
+          "expanded_url": "https://x.com/Rococo90933671/status/2051180026205544716/photo/1",
+          "media_key": "3_2051162188237430784",
+          "start": 34,
+          "url": "https://t.co/YMpHTbH0Ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051296134677811400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051180026205544716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 上网就是为了来看这种事的🥹 https://t.co/YMpHTbH0Ts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051162190175223808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcxJPobQAAKjpG.jpg",
+        "width": 926
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051162188237430784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcxJIaa4AAsw2F.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051162190175223808",
+            "3_2051162188237430784"
+          ],
+          "media_source_tweet_id": [
+            "2051180026205544716",
+            "2051180026205544716"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051296134677811400",
+        "created_at": "2026-05-04T13:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051296134677811400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMpHTbH0Ts",
+              "end": 57,
+              "expanded_url": "https://x.com/Rococo90933671/status/2051180026205544716/photo/1",
+              "media_key": "3_2051162190175223808",
+              "start": 34,
+              "url": "https://t.co/YMpHTbH0Ts"
+            },
+            {
+              "display_url": "pic.x.com/YMpHTbH0Ts",
+              "end": 57,
+              "expanded_url": "https://x.com/Rococo90933671/status/2051180026205544716/photo/1",
+              "media_key": "3_2051162188237430784",
+              "start": 34,
+              "url": "https://t.co/YMpHTbH0Ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051296134677811400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051180026205544716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 上网就是为了来看这种事的🥹 https://t.co/YMpHTbH0Ts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051162190175223808",
+            "3_2051162188237430784"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2051180026205544716",
+        "created_at": "2026-05-04T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051180026205544716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMpHTbH0Ts",
+              "end": 37,
+              "expanded_url": "https://x.com/Rococo90933671/status/2051180026205544716/photo/1",
+              "media_key": "3_2051162190175223808",
+              "start": 14,
+              "url": "https://t.co/YMpHTbH0Ts"
+            },
+            {
+              "display_url": "pic.x.com/YMpHTbH0Ts",
+              "end": 37,
+              "expanded_url": "https://x.com/Rococo90933671/status/2051180026205544716/photo/1",
+              "media_key": "3_2051162188237430784",
+              "start": 14,
+              "url": "https://t.co/YMpHTbH0Ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051180026205544716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20481,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "上网就是为了来看这种事的🥹 https://t.co/YMpHTbH0Ts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 943,
+          "like_count": 4359,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5046
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11195,
+          "following_count": 3021,
+          "like_count": 37345,
+          "listed_count": 36,
+          "media_count": 3881,
+          "tweet_count": 21328
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

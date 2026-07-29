@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2058036198065704960",
+    "created_at": "2026-05-23T09:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058114391204364451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058114391204364451",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058036198065704960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2058036198065704960",
+        "created_at": "2026-05-23T09:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058114391204364451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114391204364451",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058036198065704960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2058036198065704960",
+        "created_at": "2026-05-23T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058036198065704960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058036198065704960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 865,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我这么男为什么我这么男为什么我这么男为什么我这么男为什么我这么男为什么我这么男为什么我这么男为什么我这么男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1006,
+          "like_count": 5219,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5794
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦 一个什么都不擅长的废物呜呜 日常孤独缺爱ing 喜欢一切可爱的东西 生日2008 是mtx🏳️‍⚧️哦 小证含糖中 entp-t hrt 3.29 欢迎互fo喵！ 🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 332,
+          "like_count": 2159,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2060
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

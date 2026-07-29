@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044741133717365023",
+    "created_at": "2026-04-16T11:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044741133717365023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044741133717365023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044456665047572908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 完成小米社区答题就是开小证\n解开bootloader锁就是开大证\n成功刷上root权限就是SRS\n毕竟现在这两种事哪个更难还真不好说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044741133717365023",
+        "created_at": "2026-04-16T11:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044741133717365023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499442786453663745",
+              "start": 3,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044741133717365023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044456665047572908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ted_yeet: 完成小米社区答题就是开小证\n解开bootloader锁就是开大证\n成功刷上root权限就是SRS\n毕竟现在这两种事哪个更难还真不好说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2044456665047572908",
+        "created_at": "2026-04-15T16:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044456665047572908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044456665047572908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9475,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "完成小米社区答题就是开小证\n解开bootloader锁就是开大证\n成功刷上root权限就是SRS\n毕竟现在这两种事哪个更难还真不好说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 635,
+          "like_count": 2319,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Ted_noncommute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ted_noncommute",
+                "end": 23,
+                "expanded_url": "https://t.me/ted_noncommute",
+                "start": 0,
+                "url": "https://t.co/7gqKcdwXFH"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "1990718236422189238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4428,
+          "following_count": 1683,
+          "like_count": 47490,
+          "listed_count": 15,
+          "media_count": 468,
+          "tweet_count": 10773
+        },
+        "url": "https://t.co/7gqKcdwXFH",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

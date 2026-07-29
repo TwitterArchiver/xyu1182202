@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041863742804382096",
+    "created_at": "2026-04-09T07:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042140108640616736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991445770592219140",
+          "start": 0,
+          "username": "Sakurayukii77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042140108640616736",
+    "in_reply_to_user_id": "1991445770592219140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041863742804382096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurayukii77i 戴完洗洗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041863742804382096",
+        "created_at": "2026-04-09T07:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042140108640616736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991445770592219140",
+              "start": 0,
+              "username": "Sakurayukii77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042140108640616736",
+        "in_reply_to_user_id": "1991445770592219140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041863742804382096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurayukii77i 戴完洗洗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445770592219140",
+        "conversation_id": "2041863742804382096",
+        "created_at": "2026-04-08T13:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041863742804382096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041863742804382096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 43624,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我想买插入式尾巴，但我怕拿出来有屎味🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:57:35.000Z",
+        "description": "你和雪有一个共同的特点",
+        "id": "1991445770592219140",
+        "location": "幻想乡｜🚪188/520/1314/5200（520可线下",
+        "name": "心裂了一道缝（坐标15",
+        "pinned_tweet_id": "1991448324319367613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4312,
+          "following_count": 11,
+          "like_count": 407,
+          "listed_count": 12,
+          "media_count": 256,
+          "tweet_count": 870
+        },
+        "username": "Sakurayukii77i",
+        "verified": false
+      }
+    ]
+  }
+}

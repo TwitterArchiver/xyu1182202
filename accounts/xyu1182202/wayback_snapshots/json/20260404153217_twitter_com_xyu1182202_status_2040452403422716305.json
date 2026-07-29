@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040449848097620062",
+    "created_at": "2026-04-04T15:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040452403422716305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040452403422716305",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040449848097620062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040449848097620062",
+        "created_at": "2026-04-04T15:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040452403422716305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040452403422716305",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040449848097620062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "2040449848097620062",
+        "created_at": "2026-04-04T15:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040449848097620062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040449848097620062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不能哪天晚上真就这样给自己风风光光了吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 144,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | 碎碎念or日常 @syyann2026 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1844,
+          "like_count": 24418,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 6983
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

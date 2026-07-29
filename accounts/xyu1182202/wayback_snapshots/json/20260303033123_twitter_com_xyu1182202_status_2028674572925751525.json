@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2028422065293041779",
+    "created_at": "2026-03-03T03:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028674572925751525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963625417275052036",
+          "start": 0,
+          "username": "wngwi258811"
+        },
+        {
+          "end": 25,
+          "id": "1954166149",
+          "start": 13,
+          "username": "monkeyjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028674572925751525",
+    "in_reply_to_user_id": "1963625417275052036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028481019305939104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngwi258811 @monkeyjiang 急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2028422065293041779",
+        "created_at": "2026-03-03T03:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028674572925751525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963625417275052036",
+              "start": 0,
+              "username": "wngwi258811"
+            },
+            {
+              "end": 25,
+              "id": "1954166149",
+              "start": 13,
+              "username": "monkeyjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028674572925751525",
+        "in_reply_to_user_id": "1963625417275052036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028481019305939104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngwi258811 @monkeyjiang 急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963625417275052036",
+        "conversation_id": "2028422065293041779",
+        "created_at": "2026-03-02T14:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028481019305939104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954166149",
+              "start": 0,
+              "username": "monkeyjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028481019305939104",
+        "in_reply_to_user_id": "1954166149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13957,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028422065293041779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monkeyjiang 可靠你妈逼啊，抖音上放个屁你就当国际新闻了，简体字新闻都是一帮黄支贱狗意淫出来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T15:29:39.000Z",
+        "description": "",
+        "id": "1963625417275052036",
+        "name": "王威",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963625516977790976/_iATxQbs_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 26,
+          "like_count": 626,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1346
+        },
+        "username": "wngwi258811",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-11T13:02:28.000Z",
+        "description": "没有牛熊，只做阶段性行情｜WLFI 🦅｜USD1 ｜近3亿用户的选择，出入金安全，启程Web3，就在币安 👉 https://t.co/vJeSNvWz0I｜ 交易就用OKX➡️https://t.co/lUfapyYRed",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/monkey988",
+                "end": 78,
+                "expanded_url": "https://bit.ly/monkey988",
+                "start": 55,
+                "url": "https://t.co/vJeSNvWz0I"
+              },
+              {
+                "display_url": "okx.com/join/79908808",
+                "end": 112,
+                "expanded_url": "http://okx.com/join/79908808",
+                "start": 89,
+                "url": "https://t.co/lUfapyYRed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BSCMEME88888",
+                "end": 23,
+                "expanded_url": "https://t.me/BSCMEME88888",
+                "start": 0,
+                "url": "https://t.co/xiw9EncfJA"
+              }
+            ]
+          }
+        },
+        "id": "1954166149",
+        "location": "核心交易TG：@BNBMOON8",
+        "name": "加密猴哥🐒",
+        "pinned_tweet_id": "2009961931051016353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005305897661382656/AbTIZJqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100224,
+          "following_count": 2212,
+          "like_count": 37924,
+          "listed_count": 1421,
+          "media_count": 1220,
+          "tweet_count": 24106
+        },
+        "url": "https://t.co/xiw9EncfJA",
+        "username": "monkeyjiang",
+        "verified": true
+      }
+    ]
+  }
+}

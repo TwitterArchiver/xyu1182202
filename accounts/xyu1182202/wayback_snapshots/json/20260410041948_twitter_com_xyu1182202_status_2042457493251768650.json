@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042374176418513383",
+    "created_at": "2026-04-10T04:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042457493251768650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "917033358051414016",
+          "start": 0,
+          "username": "hahaxiao510"
+        },
+        {
+          "end": 20,
+          "id": "1525653523156721665",
+          "start": 13,
+          "username": "qg7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042457493251768650",
+    "in_reply_to_user_id": "917033358051414016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042448752733192666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahaxiao510 @qg7777 你都做外贸了那还说啥🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042374176418513383",
+        "created_at": "2026-04-10T04:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042457493251768650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "917033358051414016",
+              "start": 0,
+              "username": "hahaxiao510"
+            },
+            {
+              "end": 20,
+              "id": "1525653523156721665",
+              "start": 13,
+              "username": "qg7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042457493251768650",
+        "in_reply_to_user_id": "917033358051414016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042448752733192666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahaxiao510 @qg7777 你都做外贸了那还说啥🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "917033358051414016",
+        "conversation_id": "2042374176418513383",
+        "created_at": "2026-04-10T03:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042448752733192666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1525653523156721665",
+              "start": 0,
+              "username": "qg7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042448752733192666",
+        "in_reply_to_user_id": "1525653523156721665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042374176418513383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qg7777 这么少吗？我被罚过5000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 389,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1910
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-08T14:26:05.000Z",
+        "description": "15年灯具出口实战派｜帮全球客户采购灯具、优化供应链\n每日分享：外贸避坑干货 · AI工具提效 · 贸易政策+赚钱实战\n老外贸人新手必看｜欢迎交流合作\nDM开放｜一起把灯具卖向全世界！🌍",
+        "id": "917033358051414016",
+        "name": "外贸灯具老兵 | 笑哈哈",
+        "pinned_tweet_id": "2030979094746382765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030873477348270080/a1Wym4Sp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 633,
+          "like_count": 30721,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 4395
+        },
+        "username": "hahaxiao510",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-15T01:45:32.000Z",
+        "description": "Father | X Premium+ | Doge&🔸BNB Holder | X·Space “村头CBD”Founder | 中文财新主播 | @Techub_News 媒体顾问 |金色财经直播顾问| @0G_labs 大使 | 近3亿用户的共同选择,数字资产就选币安 @binance 出入金安全",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Techub_News"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "0G_labs"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/qqzsss",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/qqzsss",
+                "start": 0,
+                "url": "https://t.co/icnRU9tpHv"
+              }
+            ]
+          }
+        },
+        "id": "1525653523156721665",
+        "location": "社区群与资源→",
+        "name": "茄哥 | Pod",
+        "pinned_tweet_id": "2041929843668086923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035327257754189824/LLqQ3Ez0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74045,
+          "following_count": 1319,
+          "like_count": 63549,
+          "listed_count": 219,
+          "media_count": 5245,
+          "tweet_count": 43604
+        },
+        "url": "https://t.co/icnRU9tpHv",
+        "username": "qg7777",
+        "verified": true
+      }
+    ]
+  }
+}

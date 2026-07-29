@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038652411389280546",
+    "created_at": "2026-03-31T09:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038916960193511841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038916960193511841",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038652411389280546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 我也有不过不常用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038652409187336192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq_kJ4bAAA1IWg.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038652411389280546",
+        "created_at": "2026-03-31T09:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038916960193511841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038916960193511841",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038652411389280546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 我也有不过不常用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038652409187336192"
+          ]
+        },
+        "author_id": "1973792014455152640",
+        "conversation_id": "2038652411389280546",
+        "created_at": "2026-03-30T16:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038652411389280546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3f8pCQvTgB",
+              "end": 47,
+              "expanded_url": "https://x.com/TTypezhi/status/2038652411389280546/photo/1",
+              "media_key": "3_2038652409187336192",
+              "start": 24,
+              "url": "https://t.co/3f8pCQvTgB"
+            },
+            {
+              "display_url": "x.com/TTypezhi/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/TTypezhi/status/2038651982492402027",
+              "start": 48,
+              "url": "https://t.co/OJwnm7vyDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038652411389280546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6805,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038651982492402027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说像我这个绑这种手机号的qq是不是绝版了（） https://t.co/3f8pCQvTgB https://t.co/OJwnm7vyDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 1154,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

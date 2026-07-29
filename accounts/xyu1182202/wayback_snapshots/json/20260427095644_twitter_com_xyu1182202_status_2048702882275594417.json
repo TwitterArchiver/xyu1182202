@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2048631821873885645",
+    "created_at": "2026-04-27T09:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048702882275594417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886449401029140485",
+          "start": 0,
+          "username": "shuanghenru"
+        },
+        {
+          "end": 20,
+          "id": "1807107145756008448",
+          "start": 13,
+          "username": "XldMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048702882275594417",
+    "in_reply_to_user_id": "1886449401029140485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048699239333781686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuanghenru @XldMtX 我知道，我前端后端都弄过，客户端也有。md格式很方便不过不如html花样多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2048631821873885645",
+        "created_at": "2026-04-27T09:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048702882275594417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886449401029140485",
+              "start": 0,
+              "username": "shuanghenru"
+            },
+            {
+              "end": 20,
+              "id": "1807107145756008448",
+              "start": 13,
+              "username": "XldMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048702882275594417",
+        "in_reply_to_user_id": "1886449401029140485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048699239333781686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuanghenru @XldMtX 我知道，我前端后端都弄过，客户端也有。md格式很方便不过不如html花样多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886449401029140485",
+        "conversation_id": "2048631821873885645",
+        "created_at": "2026-04-27T09:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048699239333781686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            },
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 12,
+              "username": "XldMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048699239333781686",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048698933904540154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 @XldMtX 同时,markdown是不吃技术力的 可离线的 任何设备可运转的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 881,
+          "like_count": 3812,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4573
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:19:29.000Z",
+        "description": "半个家长党 有小证 互fo   双相  09年\nmtf 友跨 her/she 被动式说话  \nHRT:5.9 2025\n日语在学中/英语/中文\n玩过的游戏有:アークナイツ lost light 泰拉瑞亚kards///作息时间 固定三小时睡眠///可以找我聊天",
+        "id": "1886449401029140485",
+        "location": "🫥🫥🫥🫥🫥🫥",
+        "name": "霜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952663751691255808/P0sBq0XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 853,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 756
+        },
+        "username": "shuanghenru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "里账@Allenium114\n\n17y.o | hrt 24.4.20 | 182cm 57kg \n\n对象@juhao0721\n\n@letana358121 \n@kawainegi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Allenium114"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "juhao0721"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "letana358121"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "kawainegi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7127,
+          "following_count": 877,
+          "like_count": 47390,
+          "listed_count": 11,
+          "media_count": 3454,
+          "tweet_count": 28734
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      }
+    ]
+  }
+}

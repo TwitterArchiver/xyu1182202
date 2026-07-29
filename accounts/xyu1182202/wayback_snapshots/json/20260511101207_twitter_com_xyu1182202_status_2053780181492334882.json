@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053754622226092383",
+    "created_at": "2026-05-11T10:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053780181492334882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912667915251511296",
+          "start": 0,
+          "username": "Ciky_Shore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053780181492334882",
+    "in_reply_to_user_id": "1912667915251511296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053754622226092383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciky_Shore 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_2053754610658234368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBm7-ga0AAnkkK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053754622226092383",
+        "created_at": "2026-05-11T10:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053780181492334882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912667915251511296",
+              "start": 0,
+              "username": "Ciky_Shore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053780181492334882",
+        "in_reply_to_user_id": "1912667915251511296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053754622226092383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciky_Shore 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053754610658234368"
+          ]
+        },
+        "author_id": "1912667915251511296",
+        "conversation_id": "2053754622226092383",
+        "created_at": "2026-05-11T08:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053754622226092383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIArC2yuyB",
+              "end": 36,
+              "expanded_url": "https://x.com/Ciky_Shore/status/2053754622226092383/photo/1",
+              "media_key": "3_2053754610658234368",
+              "start": 13,
+              "url": "https://t.co/JIArC2yuyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053754622226092383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不知道我还有多少时间 https://t.co/JIArC2yuyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5546
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:42:34.000Z",
+        "description": "Ciky/sɪ'kɪ/辞魁月and月见初霜 也可以叫我月霜！/🍥2026.4.16/文科生 好吧只偏爱历史/这里只是一个垃圾桶喵/究竟什么时候才能死掉呢/出生日2009.2.6/CODM/逆水寒/lolm/提前致歉因我说的话而伤害到的人喵喵喵/提问箱看下方链接/我在除夕夜逮狗 叫我野狗猎手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cikyitz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cikyitz",
+                "start": 0,
+                "url": "https://t.co/4gXj9Q6KZO"
+              }
+            ]
+          }
+        },
+        "id": "1912667915251511296",
+        "location": "湮灭潮",
+        "name": "辞魁月",
+        "pinned_tweet_id": "2048446987171962897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912670682519068672/fM1gWLPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 352,
+          "like_count": 2106,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/4gXj9Q6KZO",
+        "username": "Ciky_Shore",
+        "verified": false
+      }
+    ]
+  }
+}

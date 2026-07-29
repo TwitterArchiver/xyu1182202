@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053825732619702618",
+    "created_at": "2026-05-11T13:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053825732619702618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iamyourchaos/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/iamyourchaos/status/2053671883913216359",
+          "start": 3,
+          "url": "https://t.co/gFXTBFGCV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053825732619702618",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053671883913216359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "?！ https://t.co/gFXTBFGCV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2053670899719737344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAazW9aEAARYXB.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2294,
+        "media_key": "3_2053671081148600320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAa961a0AAK7fW.jpg",
+        "width": 1219
+      },
+      {
+        "height": 2288,
+        "media_key": "3_2053671130926587904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAbA0RaoAAgWPl.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053825732619702618",
+        "created_at": "2026-05-11T13:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053825732619702618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iamyourchaos/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/iamyourchaos/status/2053671883913216359",
+              "start": 3,
+              "url": "https://t.co/gFXTBFGCV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053825732619702618",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053671883913216359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "?！ https://t.co/gFXTBFGCV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053670899719737344",
+            "3_2053671081148600320",
+            "3_2053671130926587904"
+          ]
+        },
+        "author_id": "1428197508547629068",
+        "conversation_id": "2053671883913216359",
+        "created_at": "2026-05-11T03:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053671883913216359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7PTCQRwSH",
+              "end": 151,
+              "expanded_url": "https://x.com/iamyourchaos/status/2053671883913216359/photo/1",
+              "media_key": "3_2053670899719737344",
+              "start": 128,
+              "url": "https://t.co/G7PTCQRwSH"
+            },
+            {
+              "display_url": "pic.x.com/G7PTCQRwSH",
+              "end": 151,
+              "expanded_url": "https://x.com/iamyourchaos/status/2053671883913216359/photo/1",
+              "media_key": "3_2053671081148600320",
+              "start": 128,
+              "url": "https://t.co/G7PTCQRwSH"
+            },
+            {
+              "display_url": "pic.x.com/G7PTCQRwSH",
+              "end": 151,
+              "expanded_url": "https://x.com/iamyourchaos/status/2053671883913216359/photo/1",
+              "media_key": "3_2053671130926587904",
+              "start": 128,
+              "url": "https://t.co/G7PTCQRwSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053671883913216359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "神人网友来的\n\n事件经过：\n网友咨询退票事宜，豆包信誓旦旦说是 5%\n实际扣费 40%\n\n网友找豆包维权，试图找回 600 元费用\n豆包一口答应，甚至还“签”了书面承诺\n\n发收款码给豆包，迟迟未收到款项\n现在连发数条抖音，试图维权……\n\n好笑中透露着心酸"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 143279,
+          "like_count": 416,
+          "quote_count": 20,
+          "reply_count": 78,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "神人网友来的\n\n事件经过：\n网友咨询退票事宜，豆包信誓旦旦说是 5%\n实际扣费 40%\n\n网友找豆包维权，试图找回 600 元费用\n豆包一口答应，甚至还“签”了书面承诺\n\n发收款码给豆包，迟迟未收到款项\n现在连发数条抖音，试图维权……\n\n好笑中透露着心酸 https://t.co/G7PTCQRwSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 994,
+          "like_count": 4990,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5560
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-19T03:30:05.000Z",
+        "description": "Global BD at @feb_crypto （100+一级项目投资经验；知名 KOL 管理；文学硕士背景）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "feb_crypto"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chaos9248",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chaos9248",
+                "start": 0,
+                "url": "https://t.co/j2HBoYr9LR"
+              }
+            ]
+          }
+        },
+        "id": "1428197508547629068",
+        "name": "小捕手 Chaos",
+        "pinned_tweet_id": "2050949778775945323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807324856612016129/zDRuOihY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91050,
+          "following_count": 9825,
+          "like_count": 23360,
+          "listed_count": 1509,
+          "media_count": 3783,
+          "tweet_count": 21997
+        },
+        "url": "https://t.co/j2HBoYr9LR",
+        "username": "iamyourchaos",
+        "verified": true
+      }
+    ]
+  }
+}

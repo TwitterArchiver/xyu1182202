@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040328433339965849",
+    "created_at": "2026-04-04T16:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040460775295500414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040460775295500414",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040328433339965849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 呵呵。应该是机器人采摘，当然，据说工人工资挺高。但是这种科技用到别的地方就不一定。毕竟加班一开始只是少数行业后面跟风"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32972,
+        "height": 1920,
+        "media_key": "13_2040327224667361280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040327224667361280/img/8jwG-sL7_1sEtuYT.jpg",
+        "public_metrics": {
+          "view_count": 133585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040327224667361280/vid/avc1/480x852/U0o7pTjtz6Vwvmlv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040327224667361280/vid/avc1/720x1280/jtaL0BGlKoy57DCs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040327224667361280/pl/nPpdwK_3kl5PuTU1.m3u8?v=a8b"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040327224667361280/vid/avc1/1080x1920/_SvpawRkkU_GaBNg.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040327224667361280/vid/avc1/320x568/CrzjQQ0i18BkDbZb.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2040327915251064832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCzbcXaYAAwHkf.jpg",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040328433339965849",
+        "created_at": "2026-04-04T16:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040460775295500414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040460775295500414",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040328433339965849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 呵呵。应该是机器人采摘，当然，据说工人工资挺高。但是这种科技用到别的地方就不一定。毕竟加班一开始只是少数行业后面跟风"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040327224667361280",
+            "3_2040327915251064832"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2040328433339965849",
+        "created_at": "2026-04-04T07:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040328433339965849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNpriqqU4J",
+              "end": 122,
+              "expanded_url": "https://x.com/igeekbb/status/2040328433339965849/video/1",
+              "media_key": "13_2040327224667361280",
+              "start": 99,
+              "url": "https://t.co/YNpriqqU4J"
+            },
+            {
+              "display_url": "pic.x.com/YNpriqqU4J",
+              "end": 122,
+              "expanded_url": "https://x.com/igeekbb/status/2040328433339965849/video/1",
+              "media_key": "3_2040327915251064832",
+              "start": 99,
+              "url": "https://t.co/YNpriqqU4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040328433339965849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 260812,
+          "like_count": 809,
+          "quote_count": 12,
+          "reply_count": 84,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "国网江苏电力刚刚发布了一个视频，茶园专用照明无人机，凌晨三点为江苏句容市茅山茶厂的采茶工人提供照明，负责人表示趁着还没下雨，要抓紧时间采摘鲜叶。评论区说，填补了农村不能 24 小时连续工作的空白。 https://t.co/YNpriqqU4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 147,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70478,
+          "following_count": 1,
+          "like_count": 13331,
+          "listed_count": 298,
+          "media_count": 7020,
+          "tweet_count": 11074
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

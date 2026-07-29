@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060226661032120572",
+    "created_at": "2026-05-29T14:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060369670511972564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060369670511972564",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060226661032120572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChan_VmV 跌的粉碎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060226661032120572].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060226661032120572",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060226661032120572"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060226661032120572",
+        "created_at": "2026-05-29T14:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060369670511972564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060369670511972564",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060226661032120572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChan_VmV 跌的粉碎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1021,
+          "like_count": 5310,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6014
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They 性取向&性别认同未知🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹中间派偏左 改良派|键政暂时闭关|\n对数码感兴趣的小白｜水平稀烂的音游入|🇩🇪学习中\n精神状态负分这块",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2060018859944685900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 711,
+          "like_count": 52838,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 10099
+        },
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

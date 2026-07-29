@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2067802093038276948",
+    "created_at": "2026-06-19T09:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067909253546017202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063266311254552576",
+          "start": 0,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067909253546017202",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067802093038276948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17nuun 0秒猜出姓氏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2067802037920935936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJO_3AbMAAqje0.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2067802093038276948",
+        "created_at": "2026-06-19T09:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067909253546017202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067909253546017202",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067802093038276948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 0秒猜出姓氏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067802037920935936"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067802093038276948",
+        "created_at": "2026-06-19T02:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067802093038276948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rseiiz4YVZ",
+              "end": 33,
+              "expanded_url": "https://x.com/17nuun/status/2067802093038276948/photo/1",
+              "media_key": "3_2067802037920935936",
+              "start": 10,
+              "url": "https://t.co/rseiiz4YVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067802093038276948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1801,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至不敢露出全名 https://t.co/rseiiz4YVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1033,
+          "like_count": 5397,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6290
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 647,
+          "like_count": 384,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

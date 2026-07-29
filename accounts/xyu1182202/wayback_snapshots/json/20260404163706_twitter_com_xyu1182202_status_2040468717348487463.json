@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040265554196607467",
+    "created_at": "2026-04-04T16:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040468717348487463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874582331585097728",
+          "start": 0,
+          "username": "XuWei26678"
+        },
+        {
+          "end": 28,
+          "id": "1714100357582770176",
+          "start": 12,
+          "username": "YesterdayBigcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040468717348487463",
+    "in_reply_to_user_id": "1874582331585097728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040286853463704039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuWei26678 @YesterdayBigcat 应试教育和形式主义的产物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040265554196607467",
+        "created_at": "2026-04-04T16:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040468717348487463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874582331585097728",
+              "start": 0,
+              "username": "XuWei26678"
+            },
+            {
+              "end": 28,
+              "id": "1714100357582770176",
+              "start": 12,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040468717348487463",
+        "in_reply_to_user_id": "1874582331585097728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040286853463704039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuWei26678 @YesterdayBigcat 应试教育和形式主义的产物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874582331585097728",
+        "conversation_id": "2040265554196607467",
+        "created_at": "2026-04-04T04:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040286853463704039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714100357582770176",
+              "start": 0,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040286853463704039",
+        "in_reply_to_user_id": "1714100357582770176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5167,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040265554196607467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayBigcat 现在的教育就是让中国变成东亚病夫，世界上有哪些国家是一天上十几个小时课的，所有发达国家早上9:00下午3:00就放学了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 162,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T22:24:17.000Z",
+        "description": "",
+        "id": "1874582331585097728",
+        "location": "United States",
+        "name": "sam",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 537
+        },
+        "username": "XuWei26678",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138221,
+          "following_count": 511,
+          "like_count": 1362,
+          "listed_count": 623,
+          "media_count": 3243,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T22:24:17.000Z",
+        "description": "",
+        "id": "1874582331585097728",
+        "location": "United States",
+        "name": "sam",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 537
+        },
+        "username": "XuWei26678",
+        "verified": true
+      }
+    ]
+  }
+}

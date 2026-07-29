@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054553345122001244",
+    "created_at": "2026-05-13T14:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054564325004918852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036071254873276416",
+          "start": 0,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054564325004918852",
+    "in_reply_to_user_id": "2036071254873276416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054553345122001244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renyue105 任成轩反复顶号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054553345122001244",
+        "created_at": "2026-05-13T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054564325004918852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054564325004918852",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054553345122001244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 任成轩反复顶号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2054553345122001244",
+        "created_at": "2026-05-13T13:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054553345122001244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054553345122001244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无敌了，方舟下单三次凝胶，退订三次，第四次下单已经发货了再退订，然后去客服那说退货，不要了，然后过一段时间要去客服那说算了，不退了，还是要的，然后刚刚又跑去叫客服退货了...我是不是找茬来的哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 999,
+          "like_count": 5023,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5622
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "任世事浮沉，成心之所向，轩宇之下，月与星光同归.",
+        "id": "2036071254873276416",
+        "location": "中国 江西",
+        "name": "任成轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054536594611118080/mdWMqXnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 113,
+          "like_count": 3054,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2717
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060260954487885824"
+      ],
+      "media_source_tweet_id": [
+        "2060260963056857348"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060314667533402351",
+    "created_at": "2026-05-29T10:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060314667533402351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYAlpvqU6V",
+          "end": 106,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2060260963056857348/photo/1",
+          "media_key": "3_2060260954487885824",
+          "start": 83,
+          "url": "https://t.co/MYAlpvqU6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060314667533402351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060260963056857348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 这是目前第一个私信来骂我的，真是头一个。我之前其实蛮诧异，为什么我私信这么干净，清一色广告，没有一个来骂我的，这回总算来了 https://t.co/MYAlpvqU6V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060260954487885824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeEbCDbkAAUWtR.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060260954487885824"
+          ],
+          "media_source_tweet_id": [
+            "2060260963056857348"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060314667533402351",
+        "created_at": "2026-05-29T10:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060314667533402351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYAlpvqU6V",
+              "end": 106,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2060260963056857348/photo/1",
+              "media_key": "3_2060260954487885824",
+              "start": 83,
+              "url": "https://t.co/MYAlpvqU6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060314667533402351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060260963056857348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 这是目前第一个私信来骂我的，真是头一个。我之前其实蛮诧异，为什么我私信这么干净，清一色广告，没有一个来骂我的，这回总算来了 https://t.co/MYAlpvqU6V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060260954487885824"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060260963056857348",
+        "created_at": "2026-05-29T07:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060260963056857348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYAlpvqU6V",
+              "end": 85,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2060260963056857348/photo/1",
+              "media_key": "3_2060260954487885824",
+              "start": 62,
+              "url": "https://t.co/MYAlpvqU6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060260963056857348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1027,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是目前第一个私信来骂我的，真是头一个。我之前其实蛮诧异，为什么我私信这么干净，清一色广告，没有一个来骂我的，这回总算来了 https://t.co/MYAlpvqU6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1019,
+          "like_count": 5304,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6000
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060039923676397927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 3967,
+          "like_count": 40360,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 11222
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

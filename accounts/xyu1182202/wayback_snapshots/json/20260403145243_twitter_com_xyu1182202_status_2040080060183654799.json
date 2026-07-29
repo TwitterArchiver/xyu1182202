@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040070543161131418",
+    "created_at": "2026-04-03T14:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040080060183654799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1900168705847500800",
+          "start": 0,
+          "username": "wxb_NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040080060183654799",
+    "in_reply_to_user_id": "1900168705847500800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040070543161131418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb_NB 互🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2040070530582376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_JVrwa8AApPGH.jpg",
+        "width": 2772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040070543161131418",
+        "created_at": "2026-04-03T14:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040080060183654799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1900168705847500800",
+              "start": 0,
+              "username": "wxb_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040080060183654799",
+        "in_reply_to_user_id": "1900168705847500800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040070543161131418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb_NB 互🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040070530582376448"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "conversation_id": "2040070543161131418",
+        "created_at": "2026-04-03T14:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040070543161131418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Le8tRGMDQQ",
+              "end": 30,
+              "expanded_url": "https://x.com/wxb_NB/status/2040070543161131418/photo/1",
+              "media_key": "3_2040070530582376448",
+              "start": 7,
+              "url": "https://t.co/Le8tRGMDQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040070543161131418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "神秘女装😋🤯 https://t.co/Le8tRGMDQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 94,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 593
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 517,
+          "like_count": 7613,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

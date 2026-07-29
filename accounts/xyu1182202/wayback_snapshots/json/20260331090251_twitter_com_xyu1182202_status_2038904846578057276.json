@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038611007690424558",
+    "created_at": "2026-03-31T09:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038904846578057276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858710581622022144",
+          "start": 0,
+          "username": "Miiing535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038904846578057276",
+    "in_reply_to_user_id": "1858710581622022144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038611007690424558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiing535 那就等有人愿意给你发再死🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038611007690424558",
+        "created_at": "2026-03-31T09:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038904846578057276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858710581622022144",
+              "start": 0,
+              "username": "Miiing535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038904846578057276",
+        "in_reply_to_user_id": "1858710581622022144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038611007690424558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiing535 那就等有人愿意给你发再死🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858710581622022144",
+        "conversation_id": "2038611007690424558",
+        "created_at": "2026-03-30T13:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038611007690424558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038611007690424558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4980,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "妈的我死了都没人给我发讣告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T03:15:39.000Z",
+        "description": "痛苦是爱的附赠品",
+        "id": "1858710581622022144",
+        "name": "冥蝶幽",
+        "pinned_tweet_id": "1883269096260968731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940096119909822464/cgmKiog__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 25,
+          "like_count": 998,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 631
+        },
+        "username": "Miiing535",
+        "verified": false
+      }
+    ]
+  }
+}

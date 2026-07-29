@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053634026473451570",
+    "created_at": "2026-05-11T03:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053676409420140908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053676409420140908",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053634026473451570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_2053634018739163136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_5QmmbEAA57Hb.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053634026473451570",
+        "created_at": "2026-05-11T03:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053676409420140908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053676409420140908",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053634026473451570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053634018739163136"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2053634026473451570",
+        "created_at": "2026-05-11T00:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053634026473451570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCNjFwMfRV",
+              "end": 46,
+              "expanded_url": "https://x.com/senzhiwu/status/2053634026473451570/photo/1",
+              "media_key": "3_2053634018739163136",
+              "start": 23,
+              "url": "https://t.co/uCNjFwMfRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053634026473451570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请不要嫌森森烦，森森天天吃雌激素，活不长的… https://t.co/uCNjFwMfRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 989,
+          "like_count": 4965,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5533
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（半个年龄党吗😨）mtx小证含糖ing（我要大证喵😭）ENTP-T（不知道测了有啥用😇）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 主人@zhandeng_（她胁迫我写的喵😭）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "zhandeng_"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053664671811670421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 229,
+          "like_count": 1607,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 1610
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

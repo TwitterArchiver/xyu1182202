@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047586857534562656",
+    "created_at": "2026-04-24T16:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047714918087245961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047714918087245961",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047586857534562656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 打客服电话处理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047586857534562656",
+        "created_at": "2026-04-24T16:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047714918087245961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047714918087245961",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047586857534562656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 打客服电话处理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "2047586857534562656",
+        "created_at": "2026-04-24T08:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047586857534562656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047586857534562656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 252,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死全家了属于是。\n淘宝和闲鱼之前有账号，然后我把它们全部注销了，然后用同一个手机号创了新号。\n结果，支付宝的绑定，绑定不了，而且之前的账号无法解绑。我闲鱼卖不了东西，淘宝也用不了国补，死全家了属于是😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 837,
+          "like_count": 3415,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4214
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst 🍫",
+        "pinned_tweet_id": "2039217404102996391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044793863144194048/N6UjjMr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 830,
+          "like_count": 29388,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 17168
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

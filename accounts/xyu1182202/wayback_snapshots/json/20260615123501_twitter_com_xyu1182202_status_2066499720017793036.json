@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066092641528533370",
+    "created_at": "2026-06-15T12:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066499720017793036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        },
+        {
+          "end": 28,
+          "id": "1597605170502062080",
+          "start": 15,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066499720017793036",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066105784023589023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 @Ayanami_rin0 用的via"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066092641528533370",
+        "created_at": "2026-06-15T12:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066499720017793036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            },
+            {
+              "end": 28,
+              "id": "1597605170502062080",
+              "start": 15,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066499720017793036",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066105784023589023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 @Ayanami_rin0 用的via"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "conversation_id": "2066092641528533370",
+        "created_at": "2026-06-14T10:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066105784023589023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066105784023589023",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6946,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066092641528533370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 貌似用的是系统自带的浏览器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1018,
+          "like_count": 5364,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6207
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 我在这里先放一堆申必emoji:🌊🪬💶🗣️🇭🇰🫆🪡👑🍭🎫⌚️⌨️🖥️⏰💴🚬💊💉🧸📩📬📘🧮🇩🇪🇰🇵🇫🇮🇺🇸🇻🇮🇳🇵🎌🇨🇾🇼🇸🇻🇳🇨🇳🇳🇿🇷🇺🇵🇬🏳️‍🌈🏳️‍⚧️🇹🇼",
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇭🇰🍥",
+        "pinned_tweet_id": "2065202189216198699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065199093807464448/9K0BrpHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 50,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 136
+        },
+        "username": "Autonomous667",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "大龄术后MTF，某二次元公司游戏开发🎮Unity客户端🦋，随机发吃喝玩乐\n只管开心,无需正常\n水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n#啊呀纳米相册 #小绫的诗歌日记本 #小绫饭店 #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 112,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 144,
+                "start": 136,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 154,
+                "start": 145,
+                "tag": "aynm旅行日记"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 926,
+          "like_count": 18377,
+          "listed_count": 15,
+          "media_count": 1696,
+          "tweet_count": 11025
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

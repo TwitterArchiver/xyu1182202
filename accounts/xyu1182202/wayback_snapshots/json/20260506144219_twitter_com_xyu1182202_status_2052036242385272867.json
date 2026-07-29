@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051999292127322112"
+      ],
+      "media_source_tweet_id": [
+        "2051999297223446711"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052036242385272867",
+    "created_at": "2026-05-06T14:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052036242385272867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955980103688790017",
+          "start": 3,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXri5k0wlp",
+          "end": 58,
+          "expanded_url": "https://x.com/aaarjkk/status/2051999297223446711/photo/1",
+          "media_key": "3_2051999292127322112",
+          "start": 35,
+          "url": "https://t.co/NXri5k0wlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052036242385272867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051999297223446711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaarjkk: 我的推特圈喵！\n(&gt;^🩷^&lt;) https://t.co/NXri5k0wlp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051999292127322112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoqe_aaIAA19EL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051999292127322112"
+          ],
+          "media_source_tweet_id": [
+            "2051999297223446711"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052036242385272867",
+        "created_at": "2026-05-06T14:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052036242385272867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955980103688790017",
+              "start": 3,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXri5k0wlp",
+              "end": 58,
+              "expanded_url": "https://x.com/aaarjkk/status/2051999297223446711/photo/1",
+              "media_key": "3_2051999292127322112",
+              "start": 35,
+              "url": "https://t.co/NXri5k0wlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052036242385272867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051999297223446711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaarjkk: 我的推特圈喵！\n(&gt;^🩷^&lt;) https://t.co/NXri5k0wlp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051999292127322112"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051999297223446711",
+        "created_at": "2026-05-06T12:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051999297223446711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXri5k0wlp",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2051999297223446711/photo/1",
+              "media_key": "3_2051999292127322112",
+              "start": 22,
+              "url": "https://t.co/NXri5k0wlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051999297223446711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈喵！\n(&gt;^🩷^&lt;) https://t.co/NXri5k0wlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 973,
+          "like_count": 4691,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5248
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 701,
+          "like_count": 12519,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

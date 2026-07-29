@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040450081758060924",
+    "created_at": "2026-04-04T15:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040450756327928079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040450756327928079",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040450081758060924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040450081758060924",
+        "created_at": "2026-04-04T15:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040450756327928079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040450756327928079",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040450081758060924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2040450081758060924",
+        "created_at": "2026-04-04T15:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040450081758060924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2039905261046116394",
+              "start": 25,
+              "url": "https://t.co/4fa94TKD5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040450081758060924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039905261046116394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们答应咱去约了开小证。。看来，这次真的能成功了 https://t.co/4fa94TKD5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 140,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通的上海入 | hrt2025.11.11 🍥 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2039906902239498700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1398,
+          "like_count": 47342,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

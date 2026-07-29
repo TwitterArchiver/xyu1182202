@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042835730603352368",
+    "created_at": "2026-04-11T05:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042835730603352368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/williamlong/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/williamlong/status/2042522167510974642",
+          "start": 13,
+          "url": "https://t.co/0toF1GcWHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042835730603352368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042522167510974642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真讽刺，凭什么倡导吃苦💩 https://t.co/0toF1GcWHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2042522145872654336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh_EeabsAAWOUn.png",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042835730603352368",
+        "created_at": "2026-04-11T05:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042835730603352368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/williamlong/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/williamlong/status/2042522167510974642",
+              "start": 13,
+              "url": "https://t.co/0toF1GcWHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042835730603352368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042522167510974642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真讽刺，凭什么倡导吃苦💩 https://t.co/0toF1GcWHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042522145872654336"
+          ]
+        },
+        "author_id": "2786701",
+        "conversation_id": "2042522167510974642",
+        "created_at": "2026-04-10T08:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042522167510974642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "知乎问答"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqNxYsTn0A",
+              "end": 29,
+              "expanded_url": "https://x.com/williamlong/status/2042522167510974642/photo/1",
+              "media_key": "3_2042522145872654336",
+              "start": 6,
+              "url": "https://t.co/AqNxYsTn0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042522167510974642",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 90595,
+          "like_count": 1016,
+          "quote_count": 1,
+          "reply_count": 93,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#知乎问答 https://t.co/AqNxYsTn0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 440,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "以科学理解世界，以哲学理解生活；在探索真知与智慧的路上，自我改善，自我实现。",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367350,
+          "following_count": 399,
+          "like_count": 0,
+          "listed_count": 2739,
+          "media_count": 3796,
+          "tweet_count": 31811
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

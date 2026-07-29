@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052331807711142358",
+    "created_at": "2026-05-08T05:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052621215572033840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052621215572033840",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052331807711142358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 绷不住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052331807711142358",
+        "created_at": "2026-05-08T05:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052621215572033840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052621215572033840",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052331807711142358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 绷不住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2052331807711142358",
+        "created_at": "2026-05-07T10:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052331807711142358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyeeua/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Mercyeeua/status/2052148337152045195",
+              "start": 126,
+              "url": "https://t.co/npoYO98cP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052331807711142358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1302,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052148337152045195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被带走了 https://t.co/npoYO98cP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 979,
+          "like_count": 4879,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5417
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 955,
+          "like_count": 1559,
+          "listed_count": 2,
+          "media_count": 1376,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

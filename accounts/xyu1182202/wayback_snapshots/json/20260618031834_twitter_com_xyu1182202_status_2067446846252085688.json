@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2067446846252085688",
+    "created_at": "2026-06-18T03:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067446846252085688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        },
+        {
+          "end": 32,
+          "id": "2036071254873276416",
+          "start": 22,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067446846252085688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067178836446597398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: 讣告：\n任成轩@renyue105因串导神志不清已经分不清自己是什么了，被好心网友举报，已被晶哥斩杀。🤣\n作为他的朋友我非常伤心，最近任成轩在推上活跃越来越少，我的乐子也就此减少了一半，这回更是直接被晶😭\n任成轩，你保重。 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2067178827848261633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAYMQkaoAEHHgm.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2067446846252085688",
+        "created_at": "2026-06-18T03:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067446846252085688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            },
+            {
+              "end": 32,
+              "id": "2036071254873276416",
+              "start": 22,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067446846252085688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067178836446597398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: 讣告：\n任成轩@renyue105因串导神志不清已经分不清自己是什么了，被好心网友举报，已被晶哥斩杀。🤣\n作为他的朋友我非常伤心，最近任成轩在推上活跃越来越少，我的乐子也就此减少了一半，这回更是直接被晶😭\n任成轩，你保重。 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067178827848261633"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067178836446597398",
+        "created_at": "2026-06-17T09:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067178836446597398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2036071254873276416",
+              "start": 7,
+              "username": "renyue105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTV1zbyo0P",
+              "end": 135,
+              "expanded_url": "https://x.com/xiey57828/status/2067178836446597398/photo/1",
+              "media_key": "3_2067178827848261633",
+              "start": 112,
+              "url": "https://t.co/zTV1zbyo0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067178836446597398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10785,
+          "like_count": 90,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n任成轩@renyue105因串导神志不清已经分不清自己是什么了，被好心网友举报，已被晶哥斩杀。🤣\n作为他的朋友我非常伤心，最近任成轩在推上活跃越来越少，我的乐子也就此减少了一半，这回更是直接被晶😭\n任成轩，你保重。 https://t.co/zTV1zbyo0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 1032,
+          "like_count": 5396,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6266
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 447,
+          "like_count": 8897,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 3360
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "pinned_tweet_id": "2065995353732550828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065072908758667265/kAAtCjsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 67,
+          "like_count": 3633,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 3160
+        },
+        "url": "",
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

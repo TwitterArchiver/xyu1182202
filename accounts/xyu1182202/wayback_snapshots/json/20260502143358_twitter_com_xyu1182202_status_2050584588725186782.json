@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050584588725186782",
+    "created_at": "2026-05-02T14:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050584588725186782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050584588725186782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050426801068085635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesterdayOrange: 抽烟喝酒OD都不好，大家不要这么做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050584588725186782",
+        "created_at": "2026-05-02T14:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050584588725186782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050584588725186782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050426801068085635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesterdayOrange: 抽烟喝酒OD都不好，大家不要这么做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2050426801068085635",
+        "created_at": "2026-05-02T04:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050426801068085635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050426801068085635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1574,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽烟喝酒OD都不好，大家不要这么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 933,
+          "like_count": 4201,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 4947
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2050100822965616669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11869,
+          "following_count": 4968,
+          "like_count": 89447,
+          "listed_count": 23,
+          "media_count": 2202,
+          "tweet_count": 19692
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

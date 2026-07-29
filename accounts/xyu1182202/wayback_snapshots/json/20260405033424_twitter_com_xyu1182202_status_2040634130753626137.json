@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040634130753626137",
+    "created_at": "2026-04-05T03:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T04:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040634130753626137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842504398850928640",
+          "start": 3,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040634130753626137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040460837929033843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086k: 希望能把自己的人生运营好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040634130753626137",
+        "created_at": "2026-04-05T03:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040634130753626137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842504398850928640",
+              "start": 3,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040634130753626137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040460837929033843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086k: 希望能把自己的人生运营好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040460837929033843",
+        "created_at": "2026-04-04T16:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040460837929033843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040460837929033843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望能把自己的人生运营好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 182,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 218,
+          "like_count": 6960,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1800
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

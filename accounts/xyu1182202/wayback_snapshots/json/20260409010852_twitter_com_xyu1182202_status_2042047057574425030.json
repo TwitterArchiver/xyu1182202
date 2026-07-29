@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041755556592152814",
+    "created_at": "2026-04-09T01:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042047057574425030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886965038608736256",
+          "start": 0,
+          "username": "yangyang200413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042047057574425030",
+    "in_reply_to_user_id": "1886965038608736256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041755556592152814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyang200413 东拼西凑🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041755556592152814",
+        "created_at": "2026-04-09T01:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042047057574425030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886965038608736256",
+              "start": 0,
+              "username": "yangyang200413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042047057574425030",
+        "in_reply_to_user_id": "1886965038608736256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041755556592152814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyang200413 东拼西凑🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886965038608736256",
+        "conversation_id": "2041755556592152814",
+        "created_at": "2026-04-08T05:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041755556592152814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041755556592152814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12661,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不敢想象没有ai的时代前辈是怎么徒手搓出毕业论文的😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 317,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T02:28:34.000Z",
+        "description": "femboy💕/SPQR/求fo💗/mo3/Apex Legends             \n关注yangyang谢谢喵，每日美图敬请期待！",
+        "id": "1886965038608736256",
+        "location": "维爱",
+        "name": "yangyang",
+        "pinned_tweet_id": "2040224155359187315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038541972621991936/eEV8Il3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 99,
+          "like_count": 1572,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 607
+        },
+        "username": "yangyang200413",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052158068335821052",
+    "created_at": "2026-05-07T08:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052300120063140082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1559904731434287108",
+          "start": 0,
+          "username": "jingyhn11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052300120063140082",
+    "in_reply_to_user_id": "1559904731434287108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052158068335821052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyhn11 啊?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2052158058214932480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHq64ZLbQAAPdbc.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052158068335821052",
+        "created_at": "2026-05-07T08:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052300120063140082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1559904731434287108",
+              "start": 0,
+              "username": "jingyhn11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052300120063140082",
+        "in_reply_to_user_id": "1559904731434287108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052158068335821052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyhn11 啊?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052158058214932480"
+          ]
+        },
+        "author_id": "1559904731434287108",
+        "conversation_id": "2052158068335821052",
+        "created_at": "2026-05-06T22:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T23:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052158068335821052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fnYuC9nUB",
+              "end": 42,
+              "expanded_url": "https://x.com/jingyhn11/status/2052158068335821052/photo/1",
+              "media_key": "3_2052158058214932480",
+              "start": 19,
+              "url": "https://t.co/8fnYuC9nUB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2052158068335821052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 50673,
+          "like_count": 1627,
+          "quote_count": 1,
+          "reply_count": 75,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "当一个寝室全是furry...... https://t.co/8fnYuC9nUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 973,
+          "like_count": 4759,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5312
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:07:37.000Z",
+        "description": "灰云，种族狼，furry爱好者。\n平时发些照片和稿件，是个老司机，时不时会开车，无雷点。☺️",
+        "id": "1559904731434287108",
+        "location": "南昌市",
+        "name": "灰云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001685366550806528/TPmPqtVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5043,
+          "following_count": 218,
+          "like_count": 693,
+          "listed_count": 10,
+          "media_count": 162,
+          "tweet_count": 328
+        },
+        "username": "jingyhn11",
+        "verified": false
+      }
+    ]
+  }
+}

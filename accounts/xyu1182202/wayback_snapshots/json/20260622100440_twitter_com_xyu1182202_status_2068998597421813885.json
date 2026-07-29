@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2068631446206738859",
+    "created_at": "2026-06-22T10:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068998597421813885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068998597421813885",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068631446206738859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 攻防一体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2068631446206738859",
+        "created_at": "2026-06-22T10:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068998597421813885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068998597421813885",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068631446206738859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 攻防一体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2068631446206738859",
+        "created_at": "2026-06-21T09:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068631446206738859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068631446206738859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可以既跨又反跨吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1037,
+          "like_count": 5406,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6356
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2068696263043035271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067242056930746368/6sGN2gJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 152,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

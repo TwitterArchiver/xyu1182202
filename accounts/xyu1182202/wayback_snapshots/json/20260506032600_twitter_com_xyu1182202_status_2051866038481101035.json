@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051796700201943370",
+    "created_at": "2026-05-06T03:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051866038481101035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045308579729625089",
+          "start": 0,
+          "username": "cybercat868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051866038481101035",
+    "in_reply_to_user_id": "2045308579729625089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051796700201943370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cybercat868 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051796700201943370",
+        "created_at": "2026-05-06T03:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051866038481101035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045308579729625089",
+              "start": 0,
+              "username": "cybercat868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051866038481101035",
+        "in_reply_to_user_id": "2045308579729625089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051796700201943370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cybercat868 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045308579729625089",
+        "conversation_id": "2051796700201943370",
+        "created_at": "2026-05-05T22:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051796700201943370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051796700201943370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天试图吞药自杀失败，被120救了（其实救不救没什么区别）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 968,
+          "like_count": 4570,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5165
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T01:11:09.000Z",
+        "description": "大家好喵，我是白鸠叶，一位mtf，喜欢电脑，archlinuxcn社区，不自残与od，十分严重的自杀想法",
+        "id": "2045308579729625089",
+        "name": "cybercat（白鸠叶）🏳️‍⚧️",
+        "pinned_tweet_id": "2051146701097119916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 128,
+          "like_count": 640,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 293
+        },
+        "username": "cybercat868",
+        "verified": false
+      }
+    ]
+  }
+}

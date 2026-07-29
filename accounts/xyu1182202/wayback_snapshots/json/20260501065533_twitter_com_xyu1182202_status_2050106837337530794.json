@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050106837337530794",
+    "created_at": "2026-05-01T06:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050106837337530794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2050073911635894272",
+          "start": 3,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050106837337530794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050094610752712815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral114514: 我的账号可以重开无数遍，但是我死掉的朋友们再也不会回fo我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050106837337530794",
+        "created_at": "2026-05-01T06:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050106837337530794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2050073911635894272",
+              "start": 3,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050106837337530794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050094610752712815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral114514: 我的账号可以重开无数遍，但是我死掉的朋友们再也不会回fo我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050094610752712815",
+        "created_at": "2026-05-01T06:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050094610752712815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050094610752712815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我的账号可以重开无数遍，但是我死掉的朋友们再也不会回fo我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 923,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 41,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

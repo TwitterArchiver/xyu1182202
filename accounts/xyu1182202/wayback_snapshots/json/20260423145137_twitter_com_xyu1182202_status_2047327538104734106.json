@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047327538104734106",
+    "created_at": "2026-04-23T14:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047327538104734106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773877435748270080",
+          "start": 3,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047327538104734106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047242440164487557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manakaao68: TG疑似開始使用ai封禁帳號"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047327538104734106",
+        "created_at": "2026-04-23T14:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047327538104734106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773877435748270080",
+              "start": 3,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047327538104734106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047242440164487557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manakaao68: TG疑似開始使用ai封禁帳號"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "2047242440164487557",
+        "created_at": "2026-04-23T09:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047242440164487557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047242440164487557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TG疑似開始使用ai封禁帳號"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046971761930170599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 801,
+          "like_count": 3299,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "寧波公交集團服務\nNingbo Public Transportation Corporation\n交通集團處理部垢→@XMQ6127G\n無言フォロー",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "XMQ6127G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "寧波市交通局",
+        "name": "XMQ-NBPT",
+        "pinned_tweet_id": "2034595487198904611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046127346869305344/8Om4BbBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 7033,
+          "like_count": 31177,
+          "listed_count": 11,
+          "media_count": 3855,
+          "tweet_count": 48726
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

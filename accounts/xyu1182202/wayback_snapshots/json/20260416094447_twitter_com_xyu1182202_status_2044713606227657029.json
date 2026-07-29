@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044713606227657029",
+    "created_at": "2026-04-16T09:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044713606227657029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saonanaa/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/saonanaa/status/1911204853067747698",
+          "start": 11,
+          "url": "https://t.co/U3aEVErDCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044713606227657029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911204853067747698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈我也想取..🥺 https://t.co/U3aEVErDCj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044713606227657029",
+        "created_at": "2026-04-16T09:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044713606227657029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/saonanaa/status/1911204853067747698",
+              "start": 11,
+              "url": "https://t.co/U3aEVErDCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044713606227657029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911204853067747698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈我也想取..🥺 https://t.co/U3aEVErDCj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1911204853067747698",
+        "created_at": "2025-04-12T23:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T00:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911204853067747698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911204853067747698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17912,
+          "like_count": 266,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "暂时把一些富佬取关了\n我觉得单看她们的生活都给我干抑郁了😭\n好羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 632,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜我构建 OneLauncher/.NET 👩‍💻｜Minecraft & R＊ 🎮｜Never 碰碰 Car｜ ❤️💦🐱👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1993980106398896618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459177029943300/pXQSA0qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7245,
+          "following_count": 440,
+          "like_count": 33681,
+          "listed_count": 18,
+          "media_count": 2478,
+          "tweet_count": 19908
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

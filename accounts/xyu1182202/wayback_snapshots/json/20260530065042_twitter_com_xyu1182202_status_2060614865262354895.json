@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060279736161726492",
+    "created_at": "2026-05-30T06:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060614865262354895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894395215492071424",
+          "start": 0,
+          "username": "nyamu1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060614865262354895",
+    "in_reply_to_user_id": "1894395215492071424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060279736161726492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyamu1213 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060279736161726492",
+        "created_at": "2026-05-30T06:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060614865262354895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894395215492071424",
+              "start": 0,
+              "username": "nyamu1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060614865262354895",
+        "in_reply_to_user_id": "1894395215492071424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060279736161726492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyamu1213 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894395215492071424",
+        "conversation_id": "2060279736161726492",
+        "created_at": "2026-05-29T08:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060279736161726492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060279736161726492",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19234,
+          "like_count": 442,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "쌤이 손목 보여줄수있냐고 물어봤을때 개무서웠음ㅜㅜ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5334,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6036
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T14:33:28.000Z",
+        "description": "반모/초뎀/초멘환영합니다♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/5121959229/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/5121959229/",
+                "start": 0,
+                "url": "https://t.co/1WsObyrTMi"
+              }
+            ]
+          }
+        },
+        "id": "1894395215492071424",
+        "location": "김밥냠냠 김냐무",
+        "name": "ニャム",
+        "pinned_tweet_id": "2058089060770681228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004533765759270913/zk2fgism_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 448,
+          "like_count": 7659,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/1WsObyrTMi",
+        "username": "nyamu1213",
+        "verified": false
+      }
+    ]
+  }
+}

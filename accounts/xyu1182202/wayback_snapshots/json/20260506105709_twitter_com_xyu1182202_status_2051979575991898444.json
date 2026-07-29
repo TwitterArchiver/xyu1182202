@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051956797779607723",
+    "created_at": "2026-05-06T10:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051979575991898444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051979575991898444",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051956797779607723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC 不要..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051956797779607723",
+        "created_at": "2026-05-06T10:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051979575991898444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051979575991898444",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051956797779607723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC 不要..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689095384956633088",
+        "conversation_id": "2051956797779607723",
+        "created_at": "2026-05-06T09:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051956797779607723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051956797779607723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行的话今晚就吃盐吧,家里老登烦死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 973,
+          "like_count": 4642,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5204
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的，MTX/F？pr80重度依赖,家长不管党，双相/ADHD,   战雷空战大手子，不见证喵   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🍥",
+        "pinned_tweet_id": "2047927303884440031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051451988681113600/4KpuBqzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 223,
+          "like_count": 350,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 432
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

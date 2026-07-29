@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2065109168298889297",
+    "created_at": "2026-06-12T10:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065386252707504580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065386252707504580",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065109168298889297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 happy birthday"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2065109168298889297",
+        "created_at": "2026-06-12T10:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065386252707504580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065386252707504580",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065109168298889297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 happy birthday"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065109168298889297",
+        "created_at": "2026-06-11T16:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065109168298889297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065109168298889297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4247,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 1013,
+          "like_count": 5354,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6159
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 905,
+          "like_count": 17325,
+          "listed_count": 1,
+          "media_count": 842,
+          "tweet_count": 9974
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

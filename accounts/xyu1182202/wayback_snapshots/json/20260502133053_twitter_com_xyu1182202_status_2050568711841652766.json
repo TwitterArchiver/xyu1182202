@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050568708867936256"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      }
+    ],
+    "conversation_id": "2050568711841652766",
+    "created_at": "2026-05-02T13:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050568711841652766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "2017878602164088832",
+          "start": 16,
+          "username": "xyu1182202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5dpQV4o8Cj",
+          "end": 178,
+          "expanded_url": "https://x.com/xyu1182202/status/2050568711841652766/photo/1",
+          "media_key": "3_2050568708867936256",
+          "start": 155,
+          "url": "https://t.co/5dpQV4o8Cj"
+        },
+        {
+          "display_url": "x.com/EinMensch_168/…",
+          "end": 202,
+          "expanded_url": "https://twitter.com/EinMensch_168/status/2050558855684469229",
+          "start": 179,
+          "url": "https://t.co/lcOfaGRxW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050568711841652766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050558855684469229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据你对我的长期印象，与我X账号@xyu1182202 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定。请自行完成角色的全部设计，包括外貌、神态发型穿搭、色彩氛围配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/5dpQV4o8Cj https://t.co/lcOfaGRxW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2050568708867936256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUVYFea0AAQXuk.jpg",
+        "width": 784
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2050558853293768704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUMaambgAAMZah.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050568708867936256"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2050568711841652766",
+        "created_at": "2026-05-02T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050568711841652766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2017878602164088832",
+              "start": 16,
+              "username": "xyu1182202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dpQV4o8Cj",
+              "end": 178,
+              "expanded_url": "https://x.com/xyu1182202/status/2050568711841652766/photo/1",
+              "media_key": "3_2050568708867936256",
+              "start": 155,
+              "url": "https://t.co/5dpQV4o8Cj"
+            },
+            {
+              "display_url": "x.com/EinMensch_168/…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/EinMensch_168/status/2050558855684469229",
+              "start": 179,
+              "url": "https://t.co/lcOfaGRxW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050568711841652766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050558855684469229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据你对我的长期印象，与我X账号@xyu1182202 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定。请自行完成角色的全部设计，包括外貌、神态发型穿搭、色彩氛围配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/5dpQV4o8Cj https://t.co/lcOfaGRxW1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050558853293768704"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2050558855684469229",
+        "created_at": "2026-05-02T12:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050558855684469229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1659190798104297476",
+              "start": 16,
+              "username": "EinMensch_168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqyrJ87W5T",
+              "end": 181,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050558855684469229/photo/1",
+              "media_key": "3_2050558853293768704",
+              "start": 158,
+              "url": "https://t.co/cqyrJ87W5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050558855684469229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据你对我的长期印象，与我X账号@EinMensch_168 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定。请自行完成角色的全部设计，包括外貌、神态发型穿搭、色彩氛围配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/cqyrJ87W5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 931,
+          "like_count": 4191,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 4942
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050379492401791461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 260,
+          "like_count": 2127,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

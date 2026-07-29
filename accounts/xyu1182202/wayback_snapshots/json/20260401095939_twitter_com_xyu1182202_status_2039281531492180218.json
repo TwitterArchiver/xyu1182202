@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038963267096482114",
+    "created_at": "2026-04-01T09:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039281531492180218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024718499206356992",
+          "start": 0,
+          "username": "FFFWEAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039281531492180218",
+    "in_reply_to_user_id": "2024718499206356992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038963267096482114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFFWEAR 鱼龙混杂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038963267096482114",
+        "created_at": "2026-04-01T09:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039281531492180218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024718499206356992",
+              "start": 0,
+              "username": "FFFWEAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039281531492180218",
+        "in_reply_to_user_id": "2024718499206356992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038963267096482114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFFWEAR 鱼龙混杂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "conversation_id": "2038963267096482114",
+        "created_at": "2026-03-31T12:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038963267096482114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038963267096482114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20970,
+          "like_count": 623,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "上大学和五湖四海的人共同生活只让我学会了地域黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 27,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 176
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "去在意一些真的值得你在意的东西吧。",
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 8,
+          "like_count": 1004,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 171
+        },
+        "username": "FFFWEAR",
+        "verified": false
+      }
+    ]
+  }
+}

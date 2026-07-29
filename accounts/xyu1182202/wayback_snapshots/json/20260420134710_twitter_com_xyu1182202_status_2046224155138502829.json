@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046133566044782592"
+      ],
+      "media_source_tweet_id": [
+        "2046133754880762140"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046224155138502829",
+    "created_at": "2026-04-20T13:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046224155138502829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1868562193484251136",
+          "start": 3,
+          "username": "LengChamSayBye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i94pV1D3a1",
+          "end": 48,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2046133754880762140/photo/1",
+          "media_key": "3_2046133566044782592",
+          "start": 25,
+          "url": "https://t.co/i94pV1D3a1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046224155138502829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046133754880762140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LengChamSayBye: 我的鲨鲨 https://t.co/i94pV1D3a1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046133566044782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVToy8aQAAVzVb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046133566044782592"
+          ],
+          "media_source_tweet_id": [
+            "2046133754880762140"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046224155138502829",
+        "created_at": "2026-04-20T13:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046224155138502829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1868562193484251136",
+              "start": 3,
+              "username": "LengChamSayBye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i94pV1D3a1",
+              "end": 48,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2046133754880762140/photo/1",
+              "media_key": "3_2046133566044782592",
+              "start": 25,
+              "url": "https://t.co/i94pV1D3a1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046224155138502829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046133754880762140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LengChamSayBye: 我的鲨鲨 https://t.co/i94pV1D3a1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046133566044782592"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2046133754880762140",
+        "created_at": "2026-04-20T07:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046133754880762140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i94pV1D3a1",
+              "end": 28,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2046133754880762140/photo/1",
+              "media_key": "3_2046133566044782592",
+              "start": 5,
+              "url": "https://t.co/i94pV1D3a1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046133754880762140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的鲨鲨 https://t.co/i94pV1D3a1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045881393368928644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 757,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 3622
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 219,
+          "like_count": 5873,
+          "listed_count": 1,
+          "media_count": 822,
+          "tweet_count": 4529
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

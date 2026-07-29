@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040059930795978900",
+    "created_at": "2026-04-03T14:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040072239274766679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040072239274766679",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040059930795978900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Yukikaze 追星成功。好欸🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040059930795978900",
+        "created_at": "2026-04-03T14:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040072239274766679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040072239274766679",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040059930795978900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 追星成功。好欸🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2040059930795978900",
+        "created_at": "2026-04-03T13:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040059930795978900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040059930795978900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "渴望着\nsrs呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 583
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2751,
+          "like_count": 98549,
+          "listed_count": 3,
+          "media_count": 736,
+          "tweet_count": 11824
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

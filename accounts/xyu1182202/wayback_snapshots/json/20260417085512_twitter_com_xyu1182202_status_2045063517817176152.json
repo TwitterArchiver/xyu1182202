@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044785237402792018",
+    "created_at": "2026-04-17T08:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045063517817176152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        },
+        {
+          "end": 26,
+          "id": "1810873766119100416",
+          "start": 11,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045063517817176152",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045062387364241435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 @RainBuild_2024 户晨风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044785237402792018",
+        "created_at": "2026-04-17T08:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045063517817176152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 26,
+              "id": "1810873766119100416",
+              "start": 11,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045063517817176152",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045062387364241435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 @RainBuild_2024 户晨风"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2044785237402792018",
+        "created_at": "2026-04-17T08:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045062387364241435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            },
+            {
+              "end": 27,
+              "id": "1810873766119100416",
+              "start": 12,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045062387364241435",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045062074766950425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 @RainBuild_2024 户子是什么意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 642,
+          "like_count": 2353,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦🥵。精神状态取决于我的父亲🥺，o！😣。碎碎念😇....自我介绍在@520xiey57828。宝宝@xyu1182202 好妹妹@ST_Bed0721讨厌0721😡https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "520xiey57828"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "ST_Bed0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 121,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 98,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2045044238765981782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 334,
+          "like_count": 2926,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9558,
+          "following_count": 925,
+          "like_count": 76873,
+          "listed_count": 19,
+          "media_count": 1529,
+          "tweet_count": 10864
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

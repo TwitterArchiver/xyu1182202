@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039253666293854548",
+    "created_at": "2026-04-02T08:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039625439459840396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039625439459840396",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039253666293854548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039253666293854548",
+        "created_at": "2026-04-02T08:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039625439459840396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039625439459840396",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039253666293854548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2039253666293854548",
+        "created_at": "2026-04-01T08:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039253666293854548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039253666293854548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症真的很难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 255
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神中（每天吃很多就是了），每天直播一下精神病日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12大王",
+        "pinned_tweet_id": "2038962394987454574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 428,
+          "like_count": 18391,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 7532
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

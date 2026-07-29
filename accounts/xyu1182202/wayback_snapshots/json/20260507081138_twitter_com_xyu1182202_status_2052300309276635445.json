@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052010201403080956",
+    "created_at": "2026-05-07T08:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052300309276635445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052300309276635445",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052010201403080956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052010201403080956",
+        "created_at": "2026-05-07T08:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052300309276635445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052300309276635445",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052010201403080956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2052010201403080956",
+        "created_at": "2026-05-06T12:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052010201403080956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052010201403080956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心里挺累的，也挺难受的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 973,
+          "like_count": 4760,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5315
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍  / 天依❤️ / 重度抑郁&双相 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / acg 爱好者✨ / 无线电BG4VW 🛰 /我真的很想有人和我说话😣 / 🏳️‍⚧️ / 联系方式https://t.co/F230Ex3GxN 最可爱的对象@BD3RER /  OM91",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 132,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 125,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 102,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn",
+                "start": 0,
+                "url": "https://t.co/RJ607Ae9MX"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "2045683283166683347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 250,
+          "like_count": 8334,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/RJ607Ae9MX",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

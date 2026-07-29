@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039922346602242174",
+    "created_at": "2026-04-03T04:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039927221847269436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039927221847269436",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039922346602242174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 你喂我吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039922346602242174",
+        "created_at": "2026-04-03T04:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039927221847269436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039927221847269436",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039922346602242174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 你喂我吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2039922346602242174",
+        "created_at": "2026-04-03T04:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039922346602242174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039922346602242174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸？转眼间就250多了嘛！\n我喜欢你们！！！\n给你们吃赛博炸鸡🍗🍗🍗🍗🍗🍖🍖🍖🍖🍖🍖🍖🍖🍖🍗🍗🍗🍗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 493
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是不是啥子？\n不线下哦～",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2039368536037146659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 112,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 651
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041915121413566848",
+    "created_at": "2026-04-10T07:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042509226673868853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 20,
+          "id": "1813768883540725760",
+          "start": 9,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042509226673868853",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042248172962218107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @ye_and_yae 我吃了2万磅tnt😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041915121413566848",
+        "created_at": "2026-04-10T07:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042509226673868853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 20,
+              "id": "1813768883540725760",
+              "start": 9,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042509226673868853",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042248172962218107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @ye_and_yae 我吃了2万磅tnt😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2041915121413566848",
+        "created_at": "2026-04-09T14:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042248172962218107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042248172962218107",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041915121413566848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 我吃了两万毫克pr80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 404,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8996,
+          "following_count": 2124,
+          "like_count": 175574,
+          "listed_count": 19,
+          "media_count": 3833,
+          "tweet_count": 46861
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26  快到期的高三mtx 有时含糖   喜欢航天 二次元   \n Q：1653770882  \n主人 @yesterdayorange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yesterdayorange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "爱晔🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017460182025179138/DHbQ3HXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 825,
+          "like_count": 3444,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

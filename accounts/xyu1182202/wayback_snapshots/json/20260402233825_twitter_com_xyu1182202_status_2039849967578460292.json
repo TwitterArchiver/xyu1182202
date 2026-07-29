@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039669243650941260",
+    "created_at": "2026-04-02T23:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T00:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039849967578460292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928504693585842176",
+          "start": 0,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039849967578460292",
+    "in_reply_to_user_id": "1928504693585842176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039669243650941260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siangel0911 我也是，抱抱你🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039669243650941260",
+        "created_at": "2026-04-02T23:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039849967578460292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928504693585842176",
+              "start": 0,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039849967578460292",
+        "in_reply_to_user_id": "1928504693585842176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039669243650941260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siangel0911 我也是，抱抱你🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928504693585842176",
+        "conversation_id": "2039669243650941260",
+        "created_at": "2026-04-02T11:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039669243650941260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0TwT012/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/0TwT012/status/2039332098100940849",
+              "start": 20,
+              "url": "https://t.co/8KxxXrZtgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039669243650941260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039332098100940849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝去不早说，幸好窝本来就是精神病≡ω≡ https://t.co/8KxxXrZtgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 73,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 434
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "mtf或mtx或xyn小药娘，furry福瑞控，odzczsxd...摊上各种精神或心理问题...20070911，160cm，92斤左右，常居四川，可爱黑猫猫，喜欢各种可爱的东西和黄黄的东西，精神状态不稳定极其负能◉‿◉，网络要饭+结交好友ing",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥🌈🏳️‍⚧️🐱🐾",
+        "pinned_tweet_id": "2033212585395585029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039249037359280128/BYFm5BSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 776,
+          "like_count": 2672,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 1985
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

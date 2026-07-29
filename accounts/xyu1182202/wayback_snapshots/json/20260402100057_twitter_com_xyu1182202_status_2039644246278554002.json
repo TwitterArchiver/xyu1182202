@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039366226208751902",
+    "created_at": "2026-04-02T10:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039644246278554002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573193737576280064",
+          "start": 0,
+          "username": "AmericaLiveX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039644246278554002",
+    "in_reply_to_user_id": "1573193737576280064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039366226208751902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmericaLiveX_ YES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2039366223176388608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1IxmNb0AAAnnh.jpg",
+        "width": 345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039366226208751902",
+        "created_at": "2026-04-02T10:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039644246278554002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573193737576280064",
+              "start": 0,
+              "username": "AmericaLiveX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039644246278554002",
+        "in_reply_to_user_id": "1573193737576280064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039366226208751902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmericaLiveX_ YES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039366223176388608"
+          ]
+        },
+        "author_id": "1573193737576280064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2039366226208751902",
+        "created_at": "2026-04-01T15:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039366226208751902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imNm2uZEQH",
+              "end": 96,
+              "expanded_url": "https://x.com/AmericaLiveX_/status/2039366226208751902/photo/1",
+              "media_key": "3_2039366223176388608",
+              "start": 73,
+              "url": "https://t.co/imNm2uZEQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039366226208751902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 712353,
+          "like_count": 3288,
+          "quote_count": 208,
+          "reply_count": 7196,
+          "retweet_count": 675
+        },
+        "reply_settings": "everyone",
+        "text": "Is Donald Trump a terrorist to the world ?\n\n○ Yes\n\n○ No\n\nComment below 👇 https://t.co/imNm2uZEQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 317
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T06:13:36.000Z",
+        "description": "Unofficial account  | Parody account of America 🇺🇲 | Not Affiliated With Any Government | War Updates | Ai Visuals | Trending Stories| Military Analysis |",
+        "id": "1573193737576280064",
+        "name": "America Live",
+        "pinned_tweet_id": "2039366226208751902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038843844624781312/Ry97N0xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 230,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 83
+        },
+        "username": "AmericaLiveX_",
+        "verified": true
+      }
+    ]
+  }
+}

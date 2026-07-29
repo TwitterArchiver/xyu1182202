@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045832736469127394",
+    "created_at": "2026-04-19T13:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045853268136579171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850349756559654912",
+          "start": 0,
+          "username": "cgugbvhct88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045853268136579171",
+    "in_reply_to_user_id": "850349756559654912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045852436791976121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgugbvhct88 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T13:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045853268136579171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850349756559654912",
+              "start": 0,
+              "username": "cgugbvhct88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045853268136579171",
+        "in_reply_to_user_id": "850349756559654912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045852436791976121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgugbvhct88 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850349756559654912",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T13:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045852436791976121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045852436791976121",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045832736469127394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 726,
+          "like_count": 2690,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3440
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-07T14:09:15.000Z",
+        "description": "喜歡蒐集各式各樣的泰迪熊🧸 是熊弟弟的媽媽非常喜歡看喵的影片,喵是熊孩子的父母",
+        "id": "850349756559654912",
+        "name": "庭熊🐻🐈🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933487049551781888/-owYWBd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 6164,
+          "like_count": 33650,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 7810
+        },
+        "username": "cgugbvhct88",
+        "verified": false
+      }
+    ]
+  }
+}

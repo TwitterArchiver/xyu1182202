@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040427390417907843",
+    "created_at": "2026-04-04T14:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040438278491603287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040438278491603287",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040427390417907843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 不管你想做什么我都希望你开心🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040427390417907843",
+        "created_at": "2026-04-04T14:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040438278491603287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040438278491603287",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040427390417907843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 不管你想做什么我都希望你开心🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2040427390417907843",
+        "created_at": "2026-04-04T13:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040427390417907843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040427390417907843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子最想的事情就是tm能没有人管我，这样我才能没有负担的去死，活着真tm累，当1更累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 139,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16646,
+          "following_count": 490,
+          "like_count": 34955,
+          "listed_count": 32,
+          "media_count": 3629,
+          "tweet_count": 11308
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

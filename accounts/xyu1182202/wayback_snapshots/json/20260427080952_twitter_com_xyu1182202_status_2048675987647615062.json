@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048426445350084989",
+    "created_at": "2026-04-27T08:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048675987647615062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022153081031733252",
+          "start": 0,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048675987647615062",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048671496747577438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ax09s84751 别走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048426445350084989",
+        "created_at": "2026-04-27T08:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048675987647615062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048675987647615062",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048671496747577438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 别走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048426445350084989",
+        "created_at": "2026-04-27T07:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048671496747577438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048671496747577438",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048669968078905384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 不会的，不会的😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 881,
+          "like_count": 3791,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4562
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1349,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

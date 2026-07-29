@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039674483855012182",
+    "created_at": "2026-04-03T09:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039995362543583576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009255871201841152",
+          "start": 0,
+          "username": "mandy091024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039995362543583576",
+    "in_reply_to_user_id": "2009255871201841152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039674483855012182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandy091024 不要这样了好嘛🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039674483855012182",
+        "created_at": "2026-04-03T09:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039995362543583576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009255871201841152",
+              "start": 0,
+              "username": "mandy091024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039995362543583576",
+        "in_reply_to_user_id": "2009255871201841152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039674483855012182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandy091024 不要这样了好嘛🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009255871201841152",
+        "conversation_id": "2039674483855012182",
+        "created_at": "2026-04-02T12:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039674483855012182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039674483855012182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr和玉米是真的要列管了吗 还有什么新的能o啊 感觉晚安太恶心了不喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 85,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 531
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T13:28:35.000Z",
+        "description": "🐱🖤消肿笔来互fo好吗（❌男）\n真皮妹/od/09/休学",
+        "id": "2009255871201841152",
+        "name": "Ag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033514627989127168/CtxbopiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 164,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 123
+        },
+        "username": "mandy091024",
+        "verified": false
+      }
+    ]
+  }
+}

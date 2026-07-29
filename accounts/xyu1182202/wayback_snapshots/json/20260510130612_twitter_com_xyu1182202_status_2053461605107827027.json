@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053461605107827027",
+    "created_at": "2026-05-10T13:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053461605107827027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039504366755790848",
+          "start": 3,
+          "username": "AsumiBloom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053461605107827027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053459454730154371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsumiBloom: 妈妈喜欢6这个数字，今天给妈妈发了66.6的红包😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053461605107827027",
+        "created_at": "2026-05-10T13:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053461605107827027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039504366755790848",
+              "start": 3,
+              "username": "AsumiBloom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053461605107827027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053459454730154371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsumiBloom: 妈妈喜欢6这个数字，今天给妈妈发了66.6的红包😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039504366755790848",
+        "conversation_id": "2053459454730154371",
+        "created_at": "2026-05-10T12:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053459454730154371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053459454730154371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈喜欢6这个数字，今天给妈妈发了66.6的红包😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 988,
+          "like_count": 4955,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5518
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "喜欢xnn/xyn丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asumibloom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asumibloom",
+                "start": 0,
+                "url": "https://t.co/I4tM6i6R7O"
+              }
+            ]
+          }
+        },
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 131,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/I4tM6i6R7O",
+        "username": "AsumiBloom",
+        "verified": false
+      }
+    ]
+  }
+}

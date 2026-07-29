@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039105437132632113",
+    "created_at": "2026-04-01T10:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039283655756112108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827053984521318400",
+          "start": 0,
+          "username": "C_baba_66ccff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039283655756112108",
+    "in_reply_to_user_id": "1827053984521318400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039105437132632113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_baba_66ccff 生日快乐🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039105437132632113",
+        "created_at": "2026-04-01T10:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039283655756112108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827053984521318400",
+              "start": 0,
+              "username": "C_baba_66ccff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039283655756112108",
+        "in_reply_to_user_id": "1827053984521318400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039105437132632113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_baba_66ccff 生日快乐🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827053984521318400",
+        "conversation_id": "2039105437132632113",
+        "created_at": "2026-03-31T22:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039105437132632113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039105437132632113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2576,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日，可以来我主页戳气球哦 ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 183
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜持证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜重抑重焦｜wota藝初心者｜锦依卫｜洛天依｜停电前夜｜小号@C_baba_tianyi｜可爱猫猫对象@AGeSang2008喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/C_baba_tianyi0…",
+                "end": 23,
+                "expanded_url": "http://t.me/C_baba_tianyi0712",
+                "start": 0,
+                "url": "https://t.co/J8u13x28mK"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2020509877383393497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 892,
+          "like_count": 22186,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/J8u13x28mK",
+        "username": "C_baba_66ccff",
+        "verified": false
+      }
+    ]
+  }
+}

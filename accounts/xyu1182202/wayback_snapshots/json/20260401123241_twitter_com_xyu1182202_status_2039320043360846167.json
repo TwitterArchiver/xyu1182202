@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039293385983623639",
+    "created_at": "2026-04-01T12:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039320043360846167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695108682605080576",
+          "start": 0,
+          "username": "ccnanoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039320043360846167",
+    "in_reply_to_user_id": "1695108682605080576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039293385983623639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccnanoQAQ 脚和胸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2039293379885117440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0GhjzbsAAJfT5.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039293385983623639",
+        "created_at": "2026-04-01T12:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039320043360846167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039320043360846167",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039293385983623639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ 脚和胸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039293379885117440"
+          ]
+        },
+        "author_id": "1695108682605080576",
+        "conversation_id": "2039293385983623639",
+        "created_at": "2026-04-01T10:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039293385983623639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsCB3iiF3a",
+              "end": 32,
+              "expanded_url": "https://x.com/ccnanoQAQ/status/2039293385983623639/photo/1",
+              "media_key": "3_2039293379885117440",
+              "start": 9,
+              "url": "https://t.co/hsCB3iiF3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293385983623639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 417,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你在盯着哪里看呢 https://t.co/hsCB3iiF3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 232
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "INTJ丨一个在码头搬运薯条的日常推（人生はお疲れ様でした~",
+        "id": "1695108682605080576",
+        "location": "浙江。",
+        "name": "ccnano🇫🇷 （废萌版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 961,
+          "like_count": 69524,
+          "listed_count": 2,
+          "media_count": 1893,
+          "tweet_count": 15236
+        },
+        "username": "ccnanoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

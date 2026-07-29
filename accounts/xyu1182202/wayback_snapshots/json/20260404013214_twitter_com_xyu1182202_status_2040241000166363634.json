@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040141246656897322",
+    "created_at": "2026-04-04T01:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040241000166363634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040241000166363634",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040141246656897322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 当然可以🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040141246656897322",
+        "created_at": "2026-04-04T01:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040241000166363634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040241000166363634",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040141246656897322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 当然可以🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2040141246656897322",
+        "created_at": "2026-04-03T18:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040141246656897322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040141246656897322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的能到300fo嘛……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 101,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 606
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是不是啥子？\n不线下哦～",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送赛博炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2039368536037146659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 115,
+          "like_count": 1426,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 681
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

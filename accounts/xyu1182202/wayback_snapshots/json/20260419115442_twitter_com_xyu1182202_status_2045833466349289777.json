@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045832736469127394",
+    "created_at": "2026-04-19T11:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045833466349289777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045833466349289777",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045833168490762262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 您好🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T11:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045833466349289777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045833466349289777",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045833168490762262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 您好🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T11:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045833168490762262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045833168490762262",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045832736469127394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 717,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男\n推特经常炸掉喵，梯子也没问题，根本不知道什么原因。想聊天的话可以私信喵 多和我互fo~\n||||||烟鬼 od 约炮 卖淫 有主的请远离我",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2033533610515644537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 2629,
+          "like_count": 159575,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 10598
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

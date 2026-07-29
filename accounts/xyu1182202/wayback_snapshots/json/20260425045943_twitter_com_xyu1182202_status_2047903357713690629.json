@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047657341684977665"
+      ],
+      "media_source_tweet_id": [
+        "2047657346328068105"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047903357713690629",
+    "created_at": "2026-04-25T04:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047903357713690629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955980103688790017",
+          "start": 3,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zAUxbzXQwC",
+          "end": 40,
+          "expanded_url": "https://x.com/aaarjkk/status/2047657346328068105/photo/1",
+          "media_key": "3_2047657341684977665",
+          "start": 17,
+          "url": "https://t.co/zAUxbzXQwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047903357713690629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047657346328068105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaarjkk: 沃趣！ https://t.co/zAUxbzXQwC"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "腾讯的AI客服",
+        "height": 2048,
+        "media_key": "3_2047657341684977665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq9gNjakAEPlHw.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047657341684977665"
+          ],
+          "media_source_tweet_id": [
+            "2047657346328068105"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047903357713690629",
+        "created_at": "2026-04-25T04:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047903357713690629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955980103688790017",
+              "start": 3,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAUxbzXQwC",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2047657346328068105/photo/1",
+              "media_key": "3_2047657341684977665",
+              "start": 17,
+              "url": "https://t.co/zAUxbzXQwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047903357713690629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047657346328068105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaarjkk: 沃趣！ https://t.co/zAUxbzXQwC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047657341684977665"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2047657346328068105",
+        "created_at": "2026-04-24T12:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047657346328068105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAUxbzXQwC",
+              "end": 27,
+              "expanded_url": "https://x.com/aaarjkk/status/2047657346328068105/photo/1",
+              "media_key": "3_2047657341684977665",
+              "start": 4,
+              "url": "https://t.co/zAUxbzXQwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047657346328068105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "沃趣！ https://t.co/zAUxbzXQwC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 838,
+          "like_count": 3438,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 595,
+          "like_count": 10823,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

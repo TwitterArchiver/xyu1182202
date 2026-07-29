@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060563775544340561",
+    "created_at": "2026-05-30T07:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060618429242212558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara_kanzaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060618429242212558",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060563775544340561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara_kanzaki 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060563775544340561].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060563775544340561",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060563775544340561"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060563775544340561",
+        "created_at": "2026-05-30T07:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060618429242212558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara_kanzaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060618429242212558",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060563775544340561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara_kanzaki 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1021,
+          "like_count": 5339,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6044
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "視姦者去死/akaすいか/高校1年生/上海/mtf🏳️‍⚧️/地雷女/リスカ🔪🩸/お酒🍷依存/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領\nzh-hant/ja/en\n裏垢@umehara981222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "umehara981222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/j4ZiYD1Msu"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国",
+        "name": "梅原寒咲",
+        "pinned_tweet_id": "2060350171293319289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1821,
+          "like_count": 15035,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 8025
+        },
+        "url": "https://t.co/j4ZiYD1Msu",
+        "username": "umehara_kanzaki",
+        "verified": false
+      }
+    ]
+  }
+}

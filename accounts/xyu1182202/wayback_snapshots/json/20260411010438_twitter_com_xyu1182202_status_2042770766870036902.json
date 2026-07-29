@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042769376806605226",
+    "created_at": "2026-04-11T01:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042770766870036902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042770766870036902",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042769376806605226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 怎么是塑料砖头😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042769373639892992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlf7BnaYAAnCK8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042769376806605226",
+        "created_at": "2026-04-11T01:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042770766870036902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042770766870036902",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042769376806605226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 怎么是塑料砖头😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042769373639892992"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042769376806605226",
+        "created_at": "2026-04-11T00:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042769376806605226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0oTudlhu2",
+              "end": 34,
+              "expanded_url": "https://x.com/qianxunchan/status/2042769376806605226/photo/1",
+              "media_key": "3_2042769373639892992",
+              "start": 11,
+              "url": "https://t.co/k0oTudlhu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042769376806605226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搬砖ing…..😋😁 https://t.co/k0oTudlhu2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 427,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 892,
+          "like_count": 1311,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1127
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

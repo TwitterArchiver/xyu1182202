@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046625673952076148",
+    "created_at": "2026-04-22T09:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046882340585328715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        },
+        {
+          "end": 27,
+          "id": "1885154179922227200",
+          "start": 17,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046882340585328715",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046625673952076148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi @Snow_Xue_ 鼻青脸肿见自己"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Snow_Xue_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Snow_Xue_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Snow_Xue_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046625671515107329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcTNGracAEZbIl.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046625673952076148",
+        "created_at": "2026-04-22T09:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046882340585328715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 27,
+              "id": "1885154179922227200",
+              "start": 17,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046882340585328715",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046625673952076148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @Snow_Xue_ 鼻青脸肿见自己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046625671515107329"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046625673952076148",
+        "created_at": "2026-04-21T16:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046625673952076148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885154179922227200",
+              "start": 3,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KigudMnUJh",
+              "end": 37,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2046625673952076148/photo/1",
+              "media_key": "3_2046625671515107329",
+              "start": 14,
+              "url": "https://t.co/KigudMnUJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046625673952076148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 765,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 @Snow_Xue_ https://t.co/KigudMnUJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046223244907409655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 788,
+          "like_count": 3176,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3872
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高中生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 384,
+          "like_count": 11153,
+          "listed_count": 4,
+          "media_count": 641,
+          "tweet_count": 3209
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2032716759057522821",
+    "created_at": "2026-03-15T07:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033082874845679740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450730882738786305",
+          "start": 0,
+          "username": "Yusuke_Takigawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033082874845679740",
+    "in_reply_to_user_id": "1450730882738786305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032716759057522821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yusuke_Takigawa 中日友好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2032716759057522821",
+        "created_at": "2026-03-15T07:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033082874845679740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450730882738786305",
+              "start": 0,
+              "username": "Yusuke_Takigawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033082874845679740",
+        "in_reply_to_user_id": "1450730882738786305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032716759057522821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yusuke_Takigawa 中日友好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450730882738786305",
+        "conversation_id": "2032716759057522821",
+        "created_at": "2026-03-14T07:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032716759057522821"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "日本",
+              "probability": 0.8274,
+              "start": 42,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032716759057522821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 22588,
+          "like_count": 375,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "下手な日本語で必死に俺に想いを伝えてくれる中国人の皆さんが大好きです。\nこれからも、日本のオタク文化の最大の理解国であって下さい。\n日中友好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T07:49:36.000Z",
+        "description": "エロゲー\nDiscord(エロゲメイン) https://t.co/XjJqQoqht7\n無言フォローＯＫ、その代わり無言フォローします。\n中日・F1・NBA・国際交流\n保守派ですが外国人に対する差別は許さないです。\nかなり酷いクローン病に苦しんでいます\n最近覚えた言葉は「日華友好」\n🇯🇵🤝🇨🇳",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9jcrhmFtvh",
+                "end": 44,
+                "expanded_url": "https://discord.gg/9jcrhmFtvh",
+                "start": 21,
+                "url": "https://t.co/XjJqQoqht7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/37069291761196…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3706929176119663",
+                "start": 0,
+                "url": "https://t.co/b3pWCwciIi"
+              }
+            ]
+          }
+        },
+        "id": "1450730882738786305",
+        "location": "愛知県豊川市",
+        "name": "滝川雄介",
+        "pinned_tweet_id": "2022903687639957721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999958166348644353/_LYuSP8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 3517,
+          "like_count": 1335,
+          "listed_count": 15,
+          "media_count": 851,
+          "tweet_count": 8496
+        },
+        "url": "https://t.co/b3pWCwciIi",
+        "username": "Yusuke_Takigawa",
+        "verified": true
+      }
+    ]
+  }
+}

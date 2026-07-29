@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040909903242625365",
+    "created_at": "2026-04-06T15:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041169477296091368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725534917201645568",
+          "start": 0,
+          "username": "chuan_ao77311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041169477296091368",
+    "in_reply_to_user_id": "1725534917201645568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040909903242625365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_ao77311 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040909903242625365",
+        "created_at": "2026-04-06T15:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041169477296091368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725534917201645568",
+              "start": 0,
+              "username": "chuan_ao77311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041169477296091368",
+        "in_reply_to_user_id": "1725534917201645568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040909903242625365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_ao77311 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725534917201645568",
+        "conversation_id": "2040909903242625365",
+        "created_at": "2026-04-05T21:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T22:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040909903242625365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040909903242625365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做了一万个噩梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 264,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T15:23:01.000Z",
+        "description": "我是小叶，日常碎碎念/高中生/欢迎互fo/男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyiqiuxie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyiqiuxie",
+                "start": 0,
+                "url": "https://t.co/TXjHDYvsZz"
+              }
+            ]
+          }
+        },
+        "id": "1725534917201645568",
+        "location": "距离你💓5.2km",
+        "name": "第一秋叶",
+        "pinned_tweet_id": "2013249310918402516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031397053499322369/wVwkpFAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 319,
+          "like_count": 10404,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/TXjHDYvsZz",
+        "username": "chuan_ao77311",
+        "verified": false
+      }
+    ]
+  }
+}

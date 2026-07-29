@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039294884822311279",
+    "created_at": "2026-04-02T10:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039654190927208931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1703086500366450688",
+          "start": 0,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039654190927208931",
+    "in_reply_to_user_id": "1703086500366450688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039294884822311279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGQNLZS 这他妈是人?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2011,
+        "media_key": "3_2039294878539280384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0H4yubcAAvy1-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039294884822311279",
+        "created_at": "2026-04-02T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039654190927208931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1703086500366450688",
+              "start": 0,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039654190927208931",
+        "in_reply_to_user_id": "1703086500366450688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039294884822311279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGQNLZS 这他妈是人?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039294878539280384"
+          ]
+        },
+        "author_id": "1703086500366450688",
+        "conversation_id": "2039294884822311279",
+        "created_at": "2026-04-01T10:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039294884822311279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7iXotBIcd",
+              "end": 34,
+              "expanded_url": "https://x.com/AGQNLZS/status/2039294884822311279/photo/1",
+              "media_key": "3_2039294878539280384",
+              "start": 11,
+              "url": "https://t.co/P7iXotBIcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039294884822311279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23752,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 99,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个叫世界上最帅？😳 https://t.co/P7iXotBIcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 335
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998077784149884936/OTy6-Uac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 173,
+          "like_count": 327,
+          "listed_count": 49,
+          "media_count": 868,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

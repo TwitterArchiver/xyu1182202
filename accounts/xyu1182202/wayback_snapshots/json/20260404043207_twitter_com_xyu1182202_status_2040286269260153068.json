@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040105206483144813",
+    "created_at": "2026-04-04T04:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040286269260153068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1304953938320306176",
+          "start": 0,
+          "username": "hry_xsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040286269260153068",
+    "in_reply_to_user_id": "1304953938320306176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040105206483144813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hry_xsu 豪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040105203207413761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_o35WaoAESV87.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040105206483144813",
+        "created_at": "2026-04-04T04:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040286269260153068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040286269260153068",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040105206483144813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu 豪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040105203207413761"
+          ]
+        },
+        "author_id": "1304953938320306176",
+        "conversation_id": "2040105206483144813",
+        "created_at": "2026-04-03T16:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040105206483144813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0itRLc0K0r",
+              "end": 29,
+              "expanded_url": "https://x.com/hry_xsu/status/2040105206483144813/photo/1",
+              "media_key": "3_2040105203207413761",
+              "start": 6,
+              "url": "https://t.co/0itRLc0K0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040105206483144813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3540,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "深夜拍张腿 https://t.co/0itRLc0K0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 111,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!\nen&zh | 💻笔电爱好者 | 无糖 | 女装 | 精神地雷系 | 🏳️‍🌈LGBTQ+friendly\n好朋友@wxb_NB @qusuunmd @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 86,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "qusuunmd"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 371,
+          "like_count": 52464,
+          "listed_count": 7,
+          "media_count": 235,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

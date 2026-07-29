@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045723651069378720",
+    "created_at": "2026-04-19T11:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045825507321946381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045825507321946381",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045723651069378720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 大海这可不是闹着耍的🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045723646774423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPe0WqbMAAhYo4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2045723647294488576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPe0YmawAAXlp9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045723647332216832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPe0YvacAAs_jS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2045723648607342592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPe0dfbUAAj2-U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045723651069378720",
+        "created_at": "2026-04-19T11:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045825507321946381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045825507321946381",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045723651069378720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 大海这可不是闹着耍的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045723646774423552",
+            "3_2045723647294488576",
+            "3_2045723647332216832",
+            "3_2045723648607342592"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          }
+        ],
+        "conversation_id": "2045723651069378720",
+        "created_at": "2026-04-19T04:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045723651069378720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCn0eFyfub",
+              "end": 47,
+              "expanded_url": "https://x.com/jlxc2001/status/2045723651069378720/photo/1",
+              "media_key": "3_2045723646774423552",
+              "start": 24,
+              "url": "https://t.co/XCn0eFyfub"
+            },
+            {
+              "display_url": "pic.x.com/XCn0eFyfub",
+              "end": 47,
+              "expanded_url": "https://x.com/jlxc2001/status/2045723651069378720/photo/1",
+              "media_key": "3_2045723647294488576",
+              "start": 24,
+              "url": "https://t.co/XCn0eFyfub"
+            },
+            {
+              "display_url": "pic.x.com/XCn0eFyfub",
+              "end": 47,
+              "expanded_url": "https://x.com/jlxc2001/status/2045723651069378720/photo/1",
+              "media_key": "3_2045723647332216832",
+              "start": 24,
+              "url": "https://t.co/XCn0eFyfub"
+            },
+            {
+              "display_url": "pic.x.com/XCn0eFyfub",
+              "end": 47,
+              "expanded_url": "https://x.com/jlxc2001/status/2045723651069378720/photo/1",
+              "media_key": "3_2045723648607342592",
+              "start": 24,
+              "url": "https://t.co/XCn0eFyfub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045723651069378720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6353,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ONEPLUS送了一把，，，枪！？\n不对，是伞 https://t.co/XCn0eFyfub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 717,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3392
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nデジタル機器、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14790,
+          "following_count": 198,
+          "like_count": 508,
+          "listed_count": 32,
+          "media_count": 916,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

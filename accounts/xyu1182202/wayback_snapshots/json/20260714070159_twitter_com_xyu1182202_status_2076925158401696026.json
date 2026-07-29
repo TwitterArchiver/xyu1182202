@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2076919237239853293",
+    "created_at": "2026-07-14T07:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076925158401696026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076925158401696026",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076919237239853293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 这个好像不是真人客服。店铺的是真的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2076919221112750081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKzBxGbQAEQZZN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 3627,
+        "media_key": "3_2076919221087506432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKzBxAaEAAtkIi.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2076919237239853293",
+        "created_at": "2026-07-14T07:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076925158401696026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076925158401696026",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076919237239853293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 这个好像不是真人客服。店铺的是真的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076919221112750081",
+            "3_2076919221087506432"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076919237239853293",
+        "created_at": "2026-07-14T06:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076919237239853293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uNJ9Sxkjb",
+              "end": 159,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2076919237239853293/photo/1",
+              "media_key": "3_2076919221112750081",
+              "start": 136,
+              "url": "https://t.co/8uNJ9Sxkjb"
+            },
+            {
+              "display_url": "pic.x.com/8uNJ9Sxkjb",
+              "end": 159,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2076919237239853293/photo/1",
+              "media_key": "3_2076919221087506432",
+              "start": 136,
+              "url": "https://t.co/8uNJ9Sxkjb"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2076889775299264979",
+              "start": 160,
+              "url": "https://t.co/g4BeCusFkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076919237239853293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 615,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076889775299264979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拼多多的商家比拼多多的平台客服和派出所的警察良心多了，一听到是关乎人命的事情立刻就行动起来了\n\n拼多多的平台客服只会敷衍\n\n连派出所的警察在知道订单号的情况下也懒得查，还反过来质问“这个人死活和你有什么关系”\n\n这种事不关己的事情真的纯看个人良心，这个世道的好人越来越少 https://t.co/8uNJ9Sxkjb https://t.co/g4BeCusFkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1056,
+          "like_count": 5351,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6526
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41936,
+          "following_count": 3936,
+          "like_count": 1875,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 3061
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

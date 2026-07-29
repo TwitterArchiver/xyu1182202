@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052002917083926577",
+    "created_at": "2026-05-06T12:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052002917083926577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914766734420279296",
+          "start": 3,
+          "username": "yangtao1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052002917083926577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051944179278991406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangtao1729: 可不可以不要离开我（为什么为什么这么狠心）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052002917083926577",
+        "created_at": "2026-05-06T12:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052002917083926577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914766734420279296",
+              "start": 3,
+              "username": "yangtao1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052002917083926577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051944179278991406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangtao1729: 可不可以不要离开我（为什么为什么这么狠心）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914766734420279296",
+        "conversation_id": "2051944179278991406",
+        "created_at": "2026-05-06T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051944179278991406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051944179278991406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可不可以不要离开我（为什么为什么这么狠心）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 972,
+          "like_count": 4677,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5237
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "（（）♂男（（）  什么都不想写。（）（）（）（）（）可以不爱，不能太爱。\n我很好相处的诶嘿（👁️‍🗨️👁️‍🗨️）\n        永远的@XiShangguan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "XiShangguan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "pinned_tweet_id": "2051367712023285966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 206,
+          "like_count": 15564,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 7610
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

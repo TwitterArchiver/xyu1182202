@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059304715914223877",
+    "created_at": "2026-05-27T13:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059622860382208457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059622860382208457",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059304715914223877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy 好好休息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059304715914223877",
+        "created_at": "2026-05-27T13:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059622860382208457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059622860382208457",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059304715914223877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 好好休息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824390995754225667",
+        "conversation_id": "2059304715914223877",
+        "created_at": "2026-05-26T16:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:59:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059303539672007024",
+          "2059304715914223877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059304715914223877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9607,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家的关心。我现在被管控起来了 大概会在明天跑出去跳楼 不要干涉我不要报晶 谢谢 我太痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1009,
+          "like_count": 5276,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5920
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "恶心我就把我屏蔽别来找骂 自己想想自己够不够贱的\n以及我性取向女 屌霸占大脑的给我发私信之前先好好想想",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 88,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1096
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

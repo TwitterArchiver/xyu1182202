@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2057206981950316677",
+    "created_at": "2026-05-21T10:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057412065728552992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789599446881513472",
+          "start": 0,
+          "username": "xchase173294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057412065728552992",
+    "in_reply_to_user_id": "1789599446881513472",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057206981950316677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xchase173294 ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2057113346810490881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxVsJtasAEUcWs.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2057206981950316677",
+        "created_at": "2026-05-21T10:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057412065728552992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789599446881513472",
+              "start": 0,
+              "username": "xchase173294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057412065728552992",
+        "in_reply_to_user_id": "1789599446881513472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057206981950316677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xchase173294 ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057113346810490881"
+          ]
+        },
+        "author_id": "1789599446881513472",
+        "conversation_id": "2057206981950316677",
+        "created_at": "2026-05-20T21:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057206981950316677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFYQdywBtw",
+              "end": 30,
+              "expanded_url": "https://x.com/xchase173294/status/2057206981950316677/photo/1",
+              "media_key": "3_2057113346810490881",
+              "start": 7,
+              "url": "https://t.co/PFYQdywBtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057206981950316677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23219,
+          "like_count": 124,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种最傻逼了 https://t.co/PFYQdywBtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1009,
+          "like_count": 5212,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5769
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 302,
+          "like_count": 4416,
+          "listed_count": 9,
+          "media_count": 548,
+          "tweet_count": 3969
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042413818148745454",
+    "created_at": "2026-04-10T02:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042436349333229764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042436349333229764",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042413818148745454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 我草我好像也被注意到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042413807675572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgciXLbAAAKzmc.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T02:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042436349333229764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042436349333229764",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413818148745454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 我草我好像也被注意到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042413807675572224"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T01:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042413818148745454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IquJBcaIGG",
+              "end": 29,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2042413818148745454/photo/1",
+              "media_key": "3_2042413807675572224",
+              "start": 6,
+              "url": "https://t.co/IquJBcaIGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042413818148745454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥别钓了 https://t.co/IquJBcaIGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 389,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 813,
+          "like_count": 53598,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 368
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

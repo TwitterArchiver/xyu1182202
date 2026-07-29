@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046828174768804006",
+    "created_at": "2026-04-22T09:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046883836982931811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046883836982931811",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046828174768804006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ 你怎么变成李老师和芙蓉娜娜了😱不要学神棍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_2046828172566749184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfLYN4aYAAX_OO.jpg",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046828174768804006",
+        "created_at": "2026-04-22T09:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046883836982931811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046883836982931811",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046828174768804006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 你怎么变成李老师和芙蓉娜娜了😱不要学神棍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046828172566749184"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2046828174768804006",
+        "created_at": "2026-04-22T05:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046828174768804006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvZANgkzfQ",
+              "end": 38,
+              "expanded_url": "https://x.com/care1337_/status/2046828174768804006/photo/1",
+              "media_key": "3_2046828172566749184",
+              "start": 15,
+              "url": "https://t.co/RvZANgkzfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046828174768804006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百度居心不正，应该停业整顿！ https://t.co/RvZANgkzfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046223244907409655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 789,
+          "like_count": 3183,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3883
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷窃内衣被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，以及蓝v互关。请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2046386178124104096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 134,
+          "like_count": 3340,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 1259
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

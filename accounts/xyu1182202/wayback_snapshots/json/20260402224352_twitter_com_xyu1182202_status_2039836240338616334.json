@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039729225608110223",
+    "created_at": "2026-04-02T22:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039836240338616334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228546301572173825",
+          "start": 0,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039836240338616334",
+    "in_reply_to_user_id": "1228546301572173825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039729225608110223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAAMTxT 我想加入🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039729221971656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6S66GawAATSLE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039729225608110223",
+        "created_at": "2026-04-02T22:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039836240338616334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228546301572173825",
+              "start": 0,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039836240338616334",
+        "in_reply_to_user_id": "1228546301572173825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039729225608110223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAAMTxT 我想加入🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039729221971656704"
+          ]
+        },
+        "author_id": "1228546301572173825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039729225608110223",
+        "created_at": "2026-04-02T15:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039729225608110223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/RIPH21cIYI"
+            },
+            {
+              "display_url": "pic.x.com/Ib73qCozVk",
+              "end": 64,
+              "expanded_url": "https://x.com/AAAAAMTxT/status/2039729225608110223/photo/1",
+              "media_key": "3_2039729221971656704",
+              "start": 41,
+              "url": "https://t.co/Ib73qCozVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039729225608110223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/RIPH21cIYI https://t.co/Ib73qCozVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 69,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 406
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 808,
+          "like_count": 31086,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 6057
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

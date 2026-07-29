@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039727899868385721",
+    "created_at": "2026-04-02T22:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039831382973890563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039831382973890563",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039727899868385721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 国人老是喜欢做这种事🥰好失望，我的同胞为何如此残忍🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2039724680626774016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6OykRbIAAjUnW.png",
+        "width": 440
+      },
+      {
+        "height": 562,
+        "media_key": "3_2039725901450248192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6P5oMbAAA_nye.jpg",
+        "width": 1707
+      },
+      {
+        "height": 1278,
+        "media_key": "3_2039726285040349184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6QP9LbcAAi6b4.jpg",
+        "width": 1698
+      },
+      {
+        "height": 582,
+        "media_key": "3_2039726370834767872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6QU8yaYAAj1Gp.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039727899868385721",
+        "created_at": "2026-04-02T22:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039831382973890563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039831382973890563",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039727899868385721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 国人老是喜欢做这种事🥰好失望，我的同胞为何如此残忍🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039724680626774016",
+            "3_2039725901450248192",
+            "3_2039726285040349184",
+            "3_2039726370834767872"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2039727899868385721",
+        "created_at": "2026-04-02T15:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039727899868385721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urQhT0Z10U",
+              "end": 193,
+              "expanded_url": "https://x.com/realNyarime/status/2039727899868385721/photo/1",
+              "media_key": "3_2039724680626774016",
+              "start": 170,
+              "url": "https://t.co/urQhT0Z10U"
+            },
+            {
+              "display_url": "pic.x.com/urQhT0Z10U",
+              "end": 193,
+              "expanded_url": "https://x.com/realNyarime/status/2039727899868385721/photo/1",
+              "media_key": "3_2039725901450248192",
+              "start": 170,
+              "url": "https://t.co/urQhT0Z10U"
+            },
+            {
+              "display_url": "pic.x.com/urQhT0Z10U",
+              "end": 193,
+              "expanded_url": "https://x.com/realNyarime/status/2039727899868385721/photo/1",
+              "media_key": "3_2039726285040349184",
+              "start": 170,
+              "url": "https://t.co/urQhT0Z10U"
+            },
+            {
+              "display_url": "pic.x.com/urQhT0Z10U",
+              "end": 193,
+              "expanded_url": "https://x.com/realNyarime/status/2039727899868385721/photo/1",
+              "media_key": "3_2039726370834767872",
+              "start": 170,
+              "url": "https://t.co/urQhT0Z10U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727899868385721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Extra.java",
+                "end": 250,
+                "expanded_url": "http://Extra.java",
+                "start": 227,
+                "url": "https://t.co/AS7zxglEnH"
+              }
+            ]
+          },
+          "text": "省流：数据我收集了，怎么用的不告诉你，你能拿我咋滴，嘻嘻\n\n转自电报频道bdovo_channel，非官方Telegram客户端Nekogram会向开发者传输账户与用户电话号码关联的信息。\n对此，在GitHub上LSPosed模块RomashkaTea/nekogram-proof-of-logging，可自行将机器人ID和用户名替换。\n\n使用上述PoC可以验证这一点，即每次登录Nekogram时都会被nekoinventor收集电话号码，后门隐藏在https://t.co/AS7zxglEnH文件中，这份文件与存储库中的模板有所不同。\n\n经过混淆的代码会以内联请求的形式将数据发送给机器人@nekonotificationbot，整个过程不会留下任何痕迹。同一文件中还实现了通过多个机器人进行账户验证的功能：这些数据可能被用于充实他们的数据库（毕竟有前科"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 15009,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "省流：数据我收集了，怎么用的不告诉你，你能拿我咋滴，嘻嘻\n\n转自电报频道bdovo_channel，非官方Telegram客户端Nekogram会向开发者传输账户与用户电话号码关联的信息。\n对此，在GitHub上LSPosed模块RomashkaTea/nekogram-proof-of-logging，可自行将机器人ID和用户名替换。 https://t.co/urQhT0Z10U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 67,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 392
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25366,
+          "following_count": 495,
+          "like_count": 11649,
+          "listed_count": 114,
+          "media_count": 1352,
+          "tweet_count": 9186
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

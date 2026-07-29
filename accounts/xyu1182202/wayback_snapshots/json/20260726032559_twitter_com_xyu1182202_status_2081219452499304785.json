@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2080912861434347765",
+    "created_at": "2026-07-26T03:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081219452499304785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081219452499304785",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080912861434347765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2080912854568587264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODjN1Ea0AAe2ha.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2080912861434347765",
+        "created_at": "2026-07-26T03:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081219452499304785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081219452499304785",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080912861434347765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080912854568587264"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "conversation_id": "2080912861434347765",
+        "created_at": "2026-07-25T07:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080912861434347765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLlO8SqclN",
+              "end": 34,
+              "expanded_url": "https://x.com/bpmiea/status/2080912861434347765/photo/1",
+              "media_key": "3_2080912854568587264",
+              "start": 11,
+              "url": "https://t.co/yLlO8SqclN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080912861434347765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 45444,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随机吓哭一个咸鱼卖家 https://t.co/yLlO8SqclN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1055,
+          "like_count": 5371,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6615
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥 from 2026.1 | 2011出厂 | 自恨党，出走预备中\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid/SV | 会发一些日常和碎碎念，可能会有负面内容…\n欢迎同类互fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2077917279115985096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 665,
+          "like_count": 871,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039356631918551366",
+    "created_at": "2026-04-02T15:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039727062035141007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039727062035141007",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039356631918551366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel NO🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_2039356628294647808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1ADGfXQAAhny3.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039356631918551366",
+        "created_at": "2026-04-02T15:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039727062035141007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727062035141007",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039356631918551366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel NO🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039356628294647808"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2039356631918551366",
+        "created_at": "2026-04-01T14:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039356631918551366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjtgXxxKTA",
+              "end": 51,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2039356631918551366/photo/1",
+              "media_key": "3_2039356628294647808",
+              "start": 28,
+              "url": "https://t.co/RjtgXxxKTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039356631918551366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Taiwan Is A Country Or Not? https://t.co/RjtgXxxKTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 60,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 350
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "Born,\nBorn To Be Alive.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "http://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/C8XoVpu5DI"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Mesa, AZ",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2035620225362837615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038647525859840000/Yne-B5nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 3204,
+          "like_count": 12991,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/C8XoVpu5DI",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

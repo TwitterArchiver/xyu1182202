@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047154001729425875",
+    "created_at": "2026-04-23T11:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047272234839134569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047272234839134569",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047154001729425875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 禁一百年了都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047154001729425875",
+        "created_at": "2026-04-23T11:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047272234839134569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047272234839134569",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047154001729425875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 禁一百年了都"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2047154001729425875",
+        "created_at": "2026-04-23T03:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047154001729425875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Misaka1042/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Misaka1042/status/2046562438200656095",
+              "start": 20,
+              "url": "https://t.co/D0y4KcnBSA"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2047154001729425875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2835,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046562438200656095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😄猜猜禁止被网售的药物里有没有雌二醇啊 https://t.co/D0y4KcnBSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046971761930170599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 800,
+          "like_count": 3281,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3999
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6156,
+          "following_count": 2118,
+          "like_count": 27083,
+          "listed_count": 15,
+          "media_count": 1415,
+          "tweet_count": 10124
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

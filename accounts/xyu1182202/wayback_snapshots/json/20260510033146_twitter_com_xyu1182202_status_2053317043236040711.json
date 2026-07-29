@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053291152481427642",
+    "created_at": "2026-05-10T03:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053317043236040711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053317043236040711",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053291152481427642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053291152481427642",
+        "created_at": "2026-05-10T03:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053317043236040711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053317043236040711",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053291152481427642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2053291152481427642",
+        "created_at": "2026-05-10T01:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053291152481427642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053291152481427642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟爸爸打了个电话\n一边保证没事\n一边看油桶的快递\n他会知道自己儿子是这样的人吗\n我死了聊天记录\n所有图片 警察都会给父母看吧\n我妈妈会哭晕过去吧\n就像小舅死的时候那样\n\n我觉得爆炸还是太便宜我了\n我也想尝尝那是什么味道的\n可惜都在警察那里了\n对来着，我知道谁有渠道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 990,
+          "like_count": 4928,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5496
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "谢谢大家 我撑不住了",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "2052524228092801382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 449,
+          "like_count": 3112,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 3257
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

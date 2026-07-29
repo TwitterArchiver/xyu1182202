@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039378270576423214",
+    "created_at": "2026-04-24T12:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047654702280765472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "LiuyuedeHuoban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047654702280765472",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039378270576423214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuyuedeHuoban ww求同款裙子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2214,
+        "media_key": "3_2039378262334570496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1TuXkbAAAwKB_.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2214,
+        "media_key": "3_2039378263362215940",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1TubZboAQnlTF.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1757,
+        "media_key": "3_2039378267267112966",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1Tup8boAYmOta.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039378270576423214",
+        "created_at": "2026-04-24T12:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047654702280765472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047654702280765472",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039378270576423214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban ww求同款裙子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039378262334570496",
+            "3_2039378263362215940",
+            "3_2039378267267112966"
+          ]
+        },
+        "author_id": "1756922914291474432",
+        "conversation_id": "2039378270576423214",
+        "created_at": "2026-04-01T16:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039378270576423214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fX3Pxizlo4",
+              "end": 27,
+              "expanded_url": "https://x.com/LiuyuedeHuoban/status/2039378270576423214/photo/1",
+              "media_key": "3_2039378262334570496",
+              "start": 4,
+              "url": "https://t.co/fX3Pxizlo4"
+            },
+            {
+              "display_url": "pic.x.com/fX3Pxizlo4",
+              "end": 27,
+              "expanded_url": "https://x.com/LiuyuedeHuoban/status/2039378270576423214/photo/1",
+              "media_key": "3_2039378263362215940",
+              "start": 4,
+              "url": "https://t.co/fX3Pxizlo4"
+            },
+            {
+              "display_url": "pic.x.com/fX3Pxizlo4",
+              "end": 27,
+              "expanded_url": "https://x.com/LiuyuedeHuoban/status/2039378270576423214/photo/1",
+              "media_key": "3_2039378267267112966",
+              "start": 4,
+              "url": "https://t.co/fX3Pxizlo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039378270576423214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4030,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "叫媽媽 https://t.co/fX3Pxizlo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 822,
+          "like_count": 3372,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "廣東10後小男娘一枚，蔚藍檔案ブルアカ/Deemo/persona3/Minecraft/，肯定100%回fo喵，憧憬成為美圖推薦官轉迷因轉美食轉美圖，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Fabian_AL1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shadow_1145146…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shadow_11451468577",
+                "start": 0,
+                "url": "https://t.co/XdyIPZAMHq"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "Powered by Xiaomi HyperOS💙",
+        "name": "Shadow_114514",
+        "pinned_tweet_id": "2038572687103312134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 4585,
+          "like_count": 55293,
+          "listed_count": 9,
+          "media_count": 879,
+          "tweet_count": 20179
+        },
+        "url": "https://t.co/XdyIPZAMHq",
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      }
+    ]
+  }
+}

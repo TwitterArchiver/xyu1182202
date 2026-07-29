@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040244134104174857",
+    "created_at": "2026-04-04T05:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040298820060520619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040298820060520619",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040244134104174857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 机器人已接管🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040244122699902976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBnOEybMAAIAwd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040244134104174857",
+        "created_at": "2026-04-04T05:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040298820060520619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040298820060520619",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040244134104174857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 机器人已接管🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040244122699902976"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2040244134104174857",
+        "created_at": "2026-04-04T01:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040244134104174857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31FMGX65ic",
+              "end": 42,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2040244134104174857/photo/1",
+              "media_key": "3_2040244122699902976",
+              "start": 19,
+              "url": "https://t.co/31FMGX65ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040244134104174857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3191,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666，这无效的处方咋突然就变有效了 https://t.co/31FMGX65ic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 120,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 738,
+          "like_count": 50742,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 305
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

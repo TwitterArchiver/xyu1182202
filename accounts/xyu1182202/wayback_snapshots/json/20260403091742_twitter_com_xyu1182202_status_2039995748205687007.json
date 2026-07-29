@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039976200383377572",
+    "created_at": "2026-04-03T09:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039995748205687007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039995748205687007",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039976200383377572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 本山东人表示此人已开除山东籍🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2039801972300427264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE7VFiMbsAAMnVY.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039976200383377572",
+        "created_at": "2026-04-03T09:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039995748205687007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039995748205687007",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039976200383377572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 本山东人表示此人已开除山东籍🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039801972300427264"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2039976200383377572",
+        "created_at": "2026-04-03T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039976200383377572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHd6ZWxtht",
+              "end": 38,
+              "expanded_url": "https://x.com/satireorcry1/status/2039976200383377572/photo/1",
+              "media_key": "3_2039801972300427264",
+              "start": 15,
+              "url": "https://t.co/fHd6ZWxtht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039976200383377572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4423,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东男子羞辱并骚扰日本女生。 https://t.co/fHd6ZWxtht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 85,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 532
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18350,
+          "following_count": 1445,
+          "like_count": 10167,
+          "listed_count": 39,
+          "media_count": 1836,
+          "tweet_count": 3029
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042288649849458864",
+    "created_at": "2026-04-10T02:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042428625417617641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042428625417617641",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042288649849458864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042288649849458864",
+        "created_at": "2026-04-10T02:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042428625417617641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042428625417617641",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042288649849458864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835139537418567680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2042288649849458864",
+        "created_at": "2026-04-09T17:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042288649849458864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042288649849458864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在用的手机却用浏览器上推特。真是耻辱，估计是我的Android版本太低了。国际版是有更新Android 9，但是国行好像就只更新到Android 8\n这就是为什么我歧视一切国行的手机和Pad\n这种定制版居然要给中国人用？\n这种定制版也就配给中国人用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 389,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "我现在做的是一桩大好事情，\n远远胜过我一向所作所为；\n我现在去的是一处大好归宿，\n远远胜过我一向所知所解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "http://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/C8XoVptxOa"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Mesa, AZ",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038647525859840000/Yne-B5nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 3287,
+          "like_count": 13348,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/C8XoVptxOa",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

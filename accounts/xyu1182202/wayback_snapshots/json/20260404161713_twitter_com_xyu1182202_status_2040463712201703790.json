@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040443046949798136",
+    "created_at": "2026-04-04T16:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040463712201703790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1385239266985271299",
+          "start": 0,
+          "username": "ARASHIqianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040463712201703790",
+    "in_reply_to_user_id": "1385239266985271299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040443046949798136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARASHIqianye 居然在一个地区🥰但是我好失败"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040443046949798136",
+        "created_at": "2026-04-04T16:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040463712201703790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385239266985271299",
+              "start": 0,
+              "username": "ARASHIqianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040463712201703790",
+        "in_reply_to_user_id": "1385239266985271299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040443046949798136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARASHIqianye 居然在一个地区🥰但是我好失败"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385239266985271299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2040443046949798136",
+        "created_at": "2026-04-04T14:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040443046949798136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xe1_N0n/status…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Xe1_N0n/status/2040093396421996882",
+              "start": 85,
+              "url": "https://t.co/VoJyIzTM9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040443046949798136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 983,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040093396421996882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想写部自传 \n讲讲曾经的小镇做题家 \n中考730+（满分780分数线719）考入青岛第一（山东第二）好的高中 \n\n是如何变成了他们口中的死人妖😁\n现在还月薪2000的 https://t.co/VoJyIzTM9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 159,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "现役QR/副业学园偶像/ISTJ\n\n年年有今日，岁岁有今朝",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1911970264969331000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 1249,
+          "like_count": 31285,
+          "listed_count": 26,
+          "media_count": 470,
+          "tweet_count": 6949
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

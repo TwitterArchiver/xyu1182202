@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051319272539078661",
+    "created_at": "2026-05-05T02:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051489308847292773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051489308847292773",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051319272539078661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 冰棍，森森，涟漪，晴日向"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_2051319255547953152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHe__pvawAA21UP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051319272539078661",
+        "created_at": "2026-05-05T02:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051489308847292773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051489308847292773",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051319272539078661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 冰棍，森森，涟漪，晴日向"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051319255547953152"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051319272539078661",
+        "created_at": "2026-05-04T15:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051319272539078661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGHsflcLIp",
+              "end": 34,
+              "expanded_url": "https://x.com/KiraMyao/status/2051319272539078661/photo/1",
+              "media_key": "3_2051319255547953152",
+              "start": 11,
+              "url": "https://t.co/vGHsflcLIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051319272539078661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 21858,
+          "like_count": 207,
+          "quote_count": 14,
+          "reply_count": 90,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的跨圈账号： https://t.co/vGHsflcLIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 943,
+          "like_count": 4404,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5063
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 353,
+          "like_count": 9510,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

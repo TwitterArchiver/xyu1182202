@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2057403784796717127",
+    "created_at": "2026-05-21T10:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057403784796717127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032985503621095424",
+          "start": 3,
+          "username": "jianxiexingnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057403784796717127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057195618502926445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianxiexingnb: 才发现160fo了 谢谢大家支持这个🦭\n于是准备给各位抽奖并冲击200fo\n5个5.20\n转贴+关注+评论+点赞\n用grok随机抽\n5月24日星期天晚上21点开奖 \n谢谢各位支持间歇性🦭☺️ \n我喜欢你们🥰💓💓💓💓💓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2057403784796717127",
+        "created_at": "2026-05-21T10:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057403784796717127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032985503621095424",
+              "start": 3,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057403784796717127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057195618502926445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianxiexingnb: 才发现160fo了 谢谢大家支持这个🦭\n于是准备给各位抽奖并冲击200fo\n5个5.20\n转贴+关注+评论+点赞\n用grok随机抽\n5月24日星期天晚上21点开奖 \n谢谢各位支持间歇性🦭☺️ \n我喜欢你们🥰💓💓💓💓💓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2057195618502926445",
+        "created_at": "2026-05-20T20:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057195618502926445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057195618502926445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "才发现160fo了 谢谢大家支持这个🦭\n于是准备给各位抽奖并冲击200fo\n5个5.20\n转贴+关注+评论+点赞\n用grok随机抽\n5月24日星期天晚上21点开奖 \n谢谢各位支持间歇性🦭☺️ \n我喜欢你们🥰💓💓💓💓💓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1007,
+          "like_count": 5189,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5749
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/加Q/V好友🚪52 赞赏码备注名字后私信我就🉑 只要我在可以随时找我 不聊黄 互关免🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 167,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

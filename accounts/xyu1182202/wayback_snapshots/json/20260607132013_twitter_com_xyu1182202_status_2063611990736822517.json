@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2063442500132774112",
+    "created_at": "2026-06-07T13:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063611990736822517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1475465753159630850",
+          "start": 0,
+          "username": "PiperBetleLeaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063611990736822517",
+    "in_reply_to_user_id": "1475465753159630850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063442500132774112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PiperBetleLeaf 奇奇怪怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063442489282097152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLSAuwbcAA2knD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2063442500132774112",
+        "created_at": "2026-06-07T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063611990736822517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1475465753159630850",
+              "start": 0,
+              "username": "PiperBetleLeaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063611990736822517",
+        "in_reply_to_user_id": "1475465753159630850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063442500132774112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PiperBetleLeaf 奇奇怪怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063442489282097152"
+          ]
+        },
+        "author_id": "1475465753159630850",
+        "conversation_id": "2063442500132774112",
+        "created_at": "2026-06-07T02:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063442500132774112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/suuYPEjL9F",
+              "end": 68,
+              "expanded_url": "https://x.com/PiperBetleLeaf/status/2063442500132774112/photo/1",
+              "media_key": "3_2063442489282097152",
+              "start": 45,
+              "url": "https://t.co/suuYPEjL9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063442500132774112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 67463,
+          "like_count": 696,
+          "quote_count": 0,
+          "reply_count": 136,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "高考作弊被撵出来了 幸好穿了lo 在漫展里玩了一天 无料拿得盆满钵满 比上大学有意义多了 https://t.co/suuYPEjL9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1020,
+          "like_count": 5353,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6136
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T14:00:39.000Z",
+        "description": "鬓怯琼梳，容销金镜，渐懒趁时匀染",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "piperbetle.github.io",
+                "end": 23,
+                "expanded_url": "http://piperbetle.github.io",
+                "start": 0,
+                "url": "https://t.co/LC7XoDiRRx"
+              }
+            ]
+          }
+        },
+        "id": "1475465753159630850",
+        "name": "蒟酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591419749543530497/mwF8Rqk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 117,
+          "like_count": 88,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/LC7XoDiRRx",
+        "username": "PiperBetleLeaf",
+        "verified": false
+      }
+    ]
+  }
+}

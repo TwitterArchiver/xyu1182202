@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078822553616068893",
+    "created_at": "2026-07-19T12:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078822553616068893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029969130686906368",
+          "start": 3,
+          "username": "AaronLee1584"
+        },
+        {
+          "end": 30,
+          "id": "1602917606427500545",
+          "start": 18,
+          "username": "xctwy543808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078822553616068893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078744855006544299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AaronLee1584: @xctwy543808 让你大义灭亲的都是邪教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078822553616068893",
+        "created_at": "2026-07-19T12:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078822553616068893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029969130686906368",
+              "start": 3,
+              "username": "AaronLee1584"
+            },
+            {
+              "end": 30,
+              "id": "1602917606427500545",
+              "start": 18,
+              "username": "xctwy543808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078822553616068893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078744855006544299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AaronLee1584: @xctwy543808 让你大义灭亲的都是邪教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029969130686906368",
+        "conversation_id": "2078689284216025298",
+        "created_at": "2026-07-19T07:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078744855006544299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602917606427500545",
+              "start": 0,
+              "username": "xctwy543808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078744855006544299",
+        "in_reply_to_user_id": "1602917606427500545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3988,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078689284216025298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xctwy543808 让你大义灭亲的都是邪教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1060,
+          "like_count": 5359,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6581
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T17:18:58.000Z",
+        "description": "",
+        "id": "2029969130686906368",
+        "name": "Aaron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049913945293766656/WKr18eNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "AaronLee1584",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T06:45:37.000Z",
+        "description": "泠泠七弦上，静听松风寒。\n古调虽自爱，今人多不弹。\n——刘长卿《听弹琴》",
+        "id": "1602917606427500545",
+        "name": "依琴",
+        "pinned_tweet_id": "2067837529223758080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995370403045265409/YbRy2S8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10709,
+          "following_count": 325,
+          "like_count": 20166,
+          "listed_count": 17,
+          "media_count": 5829,
+          "tweet_count": 8018
+        },
+        "url": "",
+        "username": "xctwy543808",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039730413988671877",
+    "created_at": "2026-04-02T22:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039835627521544544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyChino2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039835627521544544",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039730413988671877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyChino2013 梦见我好不好🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039730413988671877",
+        "created_at": "2026-04-02T22:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039835627521544544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyChino2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039835627521544544",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039730413988671877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyChino2013 梦见我好不好🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "2039730413988671877",
+        "created_at": "2026-04-02T15:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039730413988671877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039730413988671877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连着四天被噩梦惊醒了，希望今天能有个好梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 68,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 405
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社交恐惧\\历史学专业\\ Trotskyism ☭⁴\\异端托派\\mtx🏳️‍⚧️enby?\\无证🍥\\喜欢Lolita\\DDLC重度依赖&Just Yuri❤️芙兰秀秀，香风智乃，晓美焰，猫和老鼠，光之美少女\\北方谦三\\光辉\\幸德秋水\\本体是花枝鼠\\l'Incorruptible\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 143,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038961313813336064/qoPsMgPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1297,
+          "like_count": 44583,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyChino2013",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2058866319592923178",
+    "created_at": "2026-05-25T11:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058866319592923178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906356680511950848",
+          "start": 3,
+          "username": "TSKrwglq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058866319592923178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058551158625726974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TSKrwglq: 200fo抽奖😋\n抽一名幸运儿送一盒补佳乐（国补）\n参与：关注，转发，评论\n开奖时间5/26"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2058866319592923178",
+        "created_at": "2026-05-25T11:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058866319592923178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906356680511950848",
+              "start": 3,
+              "username": "TSKrwglq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058866319592923178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058551158625726974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TSKrwglq: 200fo抽奖😋\n抽一名幸运儿送一盒补佳乐（国补）\n参与：关注，转发，评论\n开奖时间5/26"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906356680511950848",
+        "conversation_id": "2058551158625726974",
+        "created_at": "2026-05-24T14:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058551158625726974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058551158625726974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2445,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "200fo抽奖😋\n抽一名幸运儿送一盒补佳乐（国补）\n参与：关注，转发，评论\n开奖时间5/26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1005,
+          "like_count": 5227,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5818
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "无证含糖|绪山真寻厨|操作系统爱好者|生产日期：2011/3/9|HRT日期：2025/8/9|已出柜|",
+        "id": "1906356680511950848",
+        "location": "聊城市",
+        "name": "水月🏳️‍⚧️（互fo）",
+        "pinned_tweet_id": "2054220093132046384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 315,
+          "like_count": 1396,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 288
+        },
+        "username": "TSKrwglq",
+        "verified": false
+      }
+    ]
+  }
+}

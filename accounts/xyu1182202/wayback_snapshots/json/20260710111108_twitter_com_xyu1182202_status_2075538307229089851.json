@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075171542179430502",
+    "created_at": "2026-07-10T11:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075538307229089851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3002916962",
+          "start": 0,
+          "username": "aarai666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075538307229089851",
+    "in_reply_to_user_id": "3002916962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075171542179430502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aarai666 没那么舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075171542179430502",
+        "created_at": "2026-07-10T11:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075538307229089851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3002916962",
+              "start": 0,
+              "username": "aarai666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075538307229089851",
+        "in_reply_to_user_id": "3002916962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075171542179430502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aarai666 没那么舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3002916962",
+        "conversation_id": "2075171542179430502",
+        "created_at": "2026-07-09T10:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075171542179430502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075171542179430502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 210468,
+          "like_count": 826,
+          "quote_count": 11,
+          "reply_count": 259,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "中国でサラリーマンのことを、\n牛馬と言います"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1056,
+          "like_count": 5339,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 6453
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-30T06:08:13.000Z",
+        "description": "中国生まれ日本育ち。中国深センでAIやってます。AIとロボット関連の投稿が多いです。",
+        "id": "3002916962",
+        "location": "Shenzhen • China",
+        "name": "荒井健一 AK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994293017784799232/o6k61RqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4837,
+          "following_count": 2796,
+          "like_count": 8140,
+          "listed_count": 72,
+          "media_count": 5455,
+          "tweet_count": 14293
+        },
+        "url": "",
+        "username": "aarai666",
+        "verified": true
+      }
+    ]
+  }
+}

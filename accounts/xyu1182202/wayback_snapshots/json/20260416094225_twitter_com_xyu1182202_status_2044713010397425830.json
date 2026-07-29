@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044713010397425830",
+    "created_at": "2026-04-16T09:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044713010397425830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1589135845834993665",
+          "start": 3,
+          "username": "bnzn10146901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044713010397425830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044442050108821725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bnzn10146901: ok啊，实测洗衣机洗鲨鲨完全没问题，就是不要开漂洗，然后烘干不要超过60度，然后烘完之后殴打一下挂起来晒一会，然后又是干干净净香香软软的鲨鲨了！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044713010397425830",
+        "created_at": "2026-04-16T09:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044713010397425830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1589135845834993665",
+              "start": 3,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044713010397425830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044442050108821725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bnzn10146901: ok啊，实测洗衣机洗鲨鲨完全没问题，就是不要开漂洗，然后烘干不要超过60度，然后烘完之后殴打一下挂起来晒一会，然后又是干干净净香香软软的鲨鲨了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044442050108821725",
+        "created_at": "2026-04-15T15:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044442050108821725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044442050108821725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1736,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ok啊，实测洗衣机洗鲨鲨完全没问题，就是不要开漂洗，然后烘干不要超过60度，然后烘完之后殴打一下挂起来晒一会，然后又是干干净净香香软软的鲨鲨了！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 632,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 560,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 971
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059430699707617469",
+    "created_at": "2026-05-27T12:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059617554650579229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825605856064581632",
+          "start": 0,
+          "username": "Neko_Ju1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059617554650579229",
+    "in_reply_to_user_id": "1825605856064581632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059430699707617469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_Ju1008 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059430699707617469",
+        "created_at": "2026-05-27T12:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059617554650579229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825605856064581632",
+              "start": 0,
+              "username": "Neko_Ju1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059617554650579229",
+        "in_reply_to_user_id": "1825605856064581632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059430699707617469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_Ju1008 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825605856064581632",
+        "conversation_id": "2059430699707617469",
+        "created_at": "2026-05-27T00:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059430699707617469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059430699707617469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4048,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奶奶今早离世了\n在赶回广州的路上\n没人会再爱我了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1008,
+          "like_count": 5264,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5898
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T18:49:07.000Z",
+        "description": "或许我们已经和很多人见完了此生的最后一面，但真正重要的角色，一定会在生命中的某个时间再次相遇。\n​\n​——心理鸭Psyqualogy",
+        "id": "1825605856064581632",
+        "name": "北冰洋与尼罗河",
+        "pinned_tweet_id": "2002768691600228795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996876990520127488/ziDIkyv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 48,
+          "like_count": 5542,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1375
+        },
+        "username": "Neko_Ju1008",
+        "verified": false
+      }
+    ]
+  }
+}

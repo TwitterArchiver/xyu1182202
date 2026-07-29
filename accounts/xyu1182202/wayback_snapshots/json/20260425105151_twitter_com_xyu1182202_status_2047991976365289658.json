@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047991976365289658",
+    "created_at": "2026-04-25T10:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047991976365289658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_jjkk/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/xxx_jjkk/status/2047963088620814579",
+          "start": 11,
+          "url": "https://t.co/0a7fba6TwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047991976365289658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047963088620814579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不排除但是可能性不大 https://t.co/0a7fba6TwX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047991976365289658",
+        "created_at": "2026-04-25T10:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047991976365289658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2047963088620814579",
+              "start": 11,
+              "url": "https://t.co/0a7fba6TwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047991976365289658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963088620814579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不排除但是可能性不大 https://t.co/0a7fba6TwX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2047963088620814579",
+        "created_at": "2026-04-25T08:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047963088620814579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047963088620814579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1097,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有个猜想 中推圈现在大范围被举报被删被封号 举报会不会是网警干的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 849,
+          "like_count": 3467,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 4277
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "🚪",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 454,
+          "like_count": 11553,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

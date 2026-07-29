@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047522165877322142",
+    "created_at": "2026-04-24T13:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047665050929041664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945780607612518400",
+          "start": 0,
+          "username": "jialistory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047665050929041664",
+    "in_reply_to_user_id": "1945780607612518400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047522165877322142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jialistory 青岛/杭州/南京"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047522151758974976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpCjH1WUAAR86r.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047522165877322142",
+        "created_at": "2026-04-24T13:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047665050929041664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945780607612518400",
+              "start": 0,
+              "username": "jialistory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047665050929041664",
+        "in_reply_to_user_id": "1945780607612518400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047522165877322142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jialistory 青岛/杭州/南京"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047522151758974976"
+          ]
+        },
+        "author_id": "1945780607612518400",
+        "conversation_id": "2047522165877322142",
+        "created_at": "2026-04-24T03:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047522165877322142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wejDBGF0rp",
+              "end": 31,
+              "expanded_url": "https://x.com/jialistory/status/2047522165877322142/photo/1",
+              "media_key": "3_2047522151758974976",
+              "start": 8,
+              "url": "https://t.co/wejDBGF0rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047522165877322142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 962,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来，看图猜城市 https://t.co/wejDBGF0rp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 832,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4183
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T09:41:11.000Z",
+        "description": "嘿呀，没回关就是受限啦～",
+        "id": "1945780607612518400",
+        "name": "一个故事一壶酒（fo100%）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968497644390567936/dJT_Rr5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 3274,
+          "like_count": 6022,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 347
+        },
+        "username": "jialistory",
+        "verified": false
+      }
+    ]
+  }
+}

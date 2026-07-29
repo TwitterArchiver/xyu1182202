@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2068741285192864231",
+    "created_at": "2026-06-21T17:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068741285192864231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QinYueLe/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/QinYueLe/status/2068540125995266387",
+          "start": 5,
+          "url": "https://t.co/irWULJ1W1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068741285192864231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068540125995266387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《坏疽》 https://t.co/irWULJ1W1O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068540068499763200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTuO5KXMAA3R6I.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2068741285192864231",
+        "created_at": "2026-06-21T17:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068741285192864231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QinYueLe/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/QinYueLe/status/2068540125995266387",
+              "start": 5,
+              "url": "https://t.co/irWULJ1W1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068741285192864231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068540125995266387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《坏疽》 https://t.co/irWULJ1W1O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068540068499763200"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2068540125995266387",
+        "created_at": "2026-06-21T03:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068540125995266387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKJNYO9IUX",
+              "end": 32,
+              "expanded_url": "https://x.com/QinYueLe/status/2068540125995266387/photo/1",
+              "media_key": "3_2068540068499763200",
+              "start": 9,
+              "url": "https://t.co/oKJNYO9IUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068540125995266387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37724,
+          "like_count": 98,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东人，智力低下 https://t.co/oKJNYO9IUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1028,
+          "like_count": 5400,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6322
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26887,
+          "following_count": 365,
+          "like_count": 2449,
+          "listed_count": 74,
+          "media_count": 1974,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

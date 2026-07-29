@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042455595073302884",
+    "created_at": "2026-04-10T04:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042455595073302884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001714721330991109",
+          "start": 3,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042455595073302884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042229517050425424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ravenxux: 可能我很穷吧 我真的觉得二十多一杯奶茶很贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042455595073302884",
+        "created_at": "2026-04-10T04:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042455595073302884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001714721330991109",
+              "start": 3,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042455595073302884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042229517050425424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ravenxux: 可能我很穷吧 我真的觉得二十多一杯奶茶很贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2042229517050425424",
+        "created_at": "2026-04-09T13:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042229517050425424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042229517050425424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 87687,
+          "like_count": 920,
+          "quote_count": 5,
+          "reply_count": 281,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "可能我很穷吧 我真的觉得二十多一杯奶茶很贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 389,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "我想发什么就发什么｜不约 不聊天 暂时不加好友 ｜骂我惹我会变得倒霉 ｜不接置顶和推广｜给我打钱就是最大的支持",
+        "id": "2001714721330991109",
+        "location": "🚪288",
+        "name": "Raven",
+        "pinned_tweet_id": "2038675038480785723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001715199091548160/mGxVxuCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7660,
+          "following_count": 44,
+          "like_count": 4693,
+          "listed_count": 17,
+          "media_count": 126,
+          "tweet_count": 1023
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

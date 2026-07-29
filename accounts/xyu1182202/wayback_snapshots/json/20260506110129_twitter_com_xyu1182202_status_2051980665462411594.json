@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051980665462411594",
+    "created_at": "2026-05-06T11:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051980665462411594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1979068278673981440",
+          "start": 3,
+          "username": "orange219695619"
+        },
+        {
+          "end": 37,
+          "id": "1852895432269234176",
+          "start": 21,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051980665462411594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051833120778063890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orange219695619: @432Ifantrygroup 这么一看，精神疾病更像是一种绝症，要么失去灵魂要么失去生命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051980665462411594",
+        "created_at": "2026-05-06T11:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051980665462411594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979068278673981440",
+              "start": 3,
+              "username": "orange219695619"
+            },
+            {
+              "end": 37,
+              "id": "1852895432269234176",
+              "start": 21,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980665462411594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051833120778063890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orange219695619: @432Ifantrygroup 这么一看，精神疾病更像是一种绝症，要么失去灵魂要么失去生命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2051815510455779569",
+        "created_at": "2026-05-06T01:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051833120778063890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051833120778063890",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051815510455779569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这么一看，精神疾病更像是一种绝症，要么失去灵魂要么失去生命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 973,
+          "like_count": 4647,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5208
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 93,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2286
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051824257039282403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 3603,
+          "like_count": 32703,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8755
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

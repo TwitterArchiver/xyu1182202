@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2043986242535338085",
+    "created_at": "2026-04-14T09:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043986242535338085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1726969617850286080",
+          "start": 3,
+          "username": "Kikunashi30712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043986242535338085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043708050981433452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kikunashi30712: 我觉得我起码还能再活三年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2043986242535338085",
+        "created_at": "2026-04-14T09:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043986242535338085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1726969617850286080",
+              "start": 3,
+              "username": "Kikunashi30712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043986242535338085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043708050981433452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kikunashi30712: 我觉得我起码还能再活三年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2043708050981433452",
+        "created_at": "2026-04-13T15:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043708050981433452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043708050981433452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我起码还能再活三年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxFQt9"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 542,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/uLGrCxFQt9",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZSL5y"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042151256266043392/ZqvxTlaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 212,
+          "like_count": 24848,
+          "listed_count": 3,
+          "media_count": 681,
+          "tweet_count": 13650
+        },
+        "url": "https://t.co/5udd6ZSL5y",
+        "username": "Kikunashi30712",
+        "verified": false
+      }
+    ]
+  }
+}

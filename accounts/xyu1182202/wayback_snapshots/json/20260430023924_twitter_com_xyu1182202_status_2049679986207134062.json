@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2049679986207134062",
+    "created_at": "2026-04-30T02:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049679986207134062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049679986207134062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "恨我就恨我吧哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2049679986207134062",
+        "created_at": "2026-04-30T02:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049679986207134062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049679986207134062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "恨我就恨我吧哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/utAM6iJ6Tl"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "十八层地狱",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 924,
+          "like_count": 4058,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/utAM6iJ6Tl",
+        "username": "xyu1182202",
+        "verified": false
+      }
+    ]
+  }
+}

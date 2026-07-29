@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041476860631257088"
+      ],
+      "media_source_tweet_id": [
+        "2041476873016991914"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041484138688225669",
+    "created_at": "2026-04-07T11:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041484138688225669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2016108531028787202",
+          "start": 3,
+          "username": "hello1145110043"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EMmmC3gk1c",
+          "end": 76,
+          "expanded_url": "https://x.com/hello1145110043/status/2041476873016991914/photo/1",
+          "media_key": "3_2041476860631257088",
+          "start": 53,
+          "url": "https://t.co/EMmmC3gk1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041484138688225669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041476873016991914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hello1145110043: 没钱吃饭ing ……\n你们的每一分钱\n都会化为我活下去的希望🥺 https://t.co/EMmmC3gk1c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2041476860631257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTIY3cbEAALKQN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041476860631257088"
+          ],
+          "media_source_tweet_id": [
+            "2041476873016991914"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041484138688225669",
+        "created_at": "2026-04-07T11:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041484138688225669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2016108531028787202",
+              "start": 3,
+              "username": "hello1145110043"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMmmC3gk1c",
+              "end": 76,
+              "expanded_url": "https://x.com/hello1145110043/status/2041476873016991914/photo/1",
+              "media_key": "3_2041476860631257088",
+              "start": 53,
+              "url": "https://t.co/EMmmC3gk1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041484138688225669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041476873016991914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hello1145110043: 没钱吃饭ing ……\n你们的每一分钱\n都会化为我活下去的希望🥺 https://t.co/EMmmC3gk1c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041476860631257088"
+          ]
+        },
+        "author_id": "2016108531028787202",
+        "conversation_id": "2041476873016991914",
+        "created_at": "2026-04-07T11:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041476873016991914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMmmC3gk1c",
+              "end": 55,
+              "expanded_url": "https://x.com/hello1145110043/status/2041476873016991914/photo/1",
+              "media_key": "3_2041476860631257088",
+              "start": 32,
+              "url": "https://t.co/EMmmC3gk1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041476873016991914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没钱吃饭ing ……\n你们的每一分钱\n都会化为我活下去的希望🥺 https://t.co/EMmmC3gk1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 279,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是不是啥子？\n不线下哦～",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送赛博炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2041436522394587331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 112,
+          "like_count": 1588,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 745
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052215478945493160",
+    "created_at": "2026-05-07T12:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052369938577568018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052369938577568018",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052215478945493160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 晶哥:我听着呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2052215475694903296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrvGh9aoAA89wf.jpg",
+        "width": 1812
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2052215476177260544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrvGjwa0AAmi4Q.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052215478945493160",
+        "created_at": "2026-05-07T12:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052369938577568018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052369938577568018",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052215478945493160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 晶哥:我听着呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052215475694903296",
+            "3_2052215476177260544"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2052215478945493160",
+        "created_at": "2026-05-07T02:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052215478945493160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH8tM7UmRl",
+              "end": 42,
+              "expanded_url": "https://x.com/Strf_9040C/status/2052215478945493160/photo/1",
+              "media_key": "3_2052215475694903296",
+              "start": 19,
+              "url": "https://t.co/CH8tM7UmRl"
+            },
+            {
+              "display_url": "pic.x.com/CH8tM7UmRl",
+              "end": 42,
+              "expanded_url": "https://x.com/Strf_9040C/status/2052215478945493160/photo/1",
+              "media_key": "3_2052215476177260544",
+              "start": 19,
+              "url": "https://t.co/CH8tM7UmRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052215478945493160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 31438,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Google 炸我豆包号\n这招太狠了 https://t.co/CH8tM7UmRl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 978,
+          "like_count": 4813,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 5373
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 1965,
+          "like_count": 9348,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

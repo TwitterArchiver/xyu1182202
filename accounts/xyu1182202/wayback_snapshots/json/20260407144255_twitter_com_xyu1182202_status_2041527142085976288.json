@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041198617776853077",
+    "created_at": "2026-04-07T14:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041527142085976288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041527142085976288",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041198617776853077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 50块钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_2041198105820119040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPK3M2bwAAAJR3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041198617776853077",
+        "created_at": "2026-04-07T14:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041527142085976288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041527142085976288",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041198617776853077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 50块钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041198105820119040"
+          ]
+        },
+        "author_id": "1973792014455152640",
+        "conversation_id": "2041198617776853077",
+        "created_at": "2026-04-06T16:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041198617776853077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBqRwac2GG",
+              "end": 39,
+              "expanded_url": "https://x.com/TTypezhi/status/2041198617776853077/photo/1",
+              "media_key": "3_2041198105820119040",
+              "start": 16,
+              "url": "https://t.co/aBqRwac2GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041198617776853077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5408,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我叔给了我1w但是我花不出去😇 https://t.co/aBqRwac2GG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 289,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 1175,
+          "like_count": 67,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

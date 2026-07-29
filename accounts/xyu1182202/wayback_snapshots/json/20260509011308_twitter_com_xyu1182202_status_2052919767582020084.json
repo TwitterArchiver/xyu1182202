@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052787083736174786",
+    "created_at": "2026-05-09T01:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052919767582020084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052919767582020084",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052787083736174786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052786941926756352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz22Pka0AAQx4t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052787083736174786",
+        "created_at": "2026-05-09T01:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052919767582020084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052919767582020084",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052787083736174786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786941926756352"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "conversation_id": "2052787083736174786",
+        "created_at": "2026-05-08T16:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052787083736174786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upi7kU0990",
+              "end": 33,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2052787083736174786/photo/1",
+              "media_key": "3_2052786941926756352",
+              "start": 10,
+              "url": "https://t.co/upi7kU0990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052787083736174786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被水水包围了，耶 https://t.co/upi7kU0990"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 983,
+          "like_count": 4898,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5456
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "你好 我是紫色章鱼（叫我章鱼）\n我会点精神分析 哲学 一点点商业\n我希望@Aureliax17QwQ 活下去 大家帮帮我\n我可以接帮的上忙的自杀干预\n为了水水@dnshu135734\n我要写完《薪废土维修手册》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "dnshu135734"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "2052873931422576697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 445,
+          "like_count": 3096,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 3210
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

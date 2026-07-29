@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051000347125289205",
+    "created_at": "2026-05-04T14:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051303918756675616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394784939216818179",
+          "start": 0,
+          "username": "Tequila_SUNRlSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051303918756675616",
+    "in_reply_to_user_id": "1394784939216818179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051000347125289205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tequila_SUNRlSE 难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051000347125289205",
+        "created_at": "2026-05-04T14:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051303918756675616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394784939216818179",
+              "start": 0,
+              "username": "Tequila_SUNRlSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051303918756675616",
+        "in_reply_to_user_id": "1394784939216818179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051000347125289205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tequila_SUNRlSE 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394784939216818179",
+        "conversation_id": "2051000347125289205",
+        "created_at": "2026-05-03T18:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051000347125289205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051000347125289205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 48174,
+          "like_count": 392,
+          "quote_count": 2,
+          "reply_count": 177,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如何清除中推评论区赛博藤壶……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 945,
+          "like_count": 4376,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5052
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T22:40:41.000Z",
+        "description": "互联网光屁教教主/废话推主/bi/同居热恋中/喜欢我请给我打钱 自用蜂鸟vpn：https://t.co/DpgTecV1tM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ulYN1VK2",
+                "start": 40,
+                "url": "https://t.co/DpgTecV1tM"
+              }
+            ]
+          }
+        },
+        "id": "1394784939216818179",
+        "location": "6.8km  ",
+        "name": "八十荣",
+        "pinned_tweet_id": "1776820462062100614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410274938737414151/pFNLQOX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30769,
+          "following_count": 495,
+          "like_count": 4532,
+          "listed_count": 62,
+          "media_count": 1726,
+          "tweet_count": 15501
+        },
+        "username": "Tequila_SUNRlSE",
+        "verified": false
+      }
+    ]
+  }
+}

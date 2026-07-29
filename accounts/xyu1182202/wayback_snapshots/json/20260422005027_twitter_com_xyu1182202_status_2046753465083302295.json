@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2046753463325827072"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046753465083302295",
+    "created_at": "2026-04-22T00:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046753465083302295"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046753465083302295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曦月可以成为跨圈的话事人嘛，代表跨圈发言和决策🏳️‍⚧️民选🥺\n这是一项议案:"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-04-29T00:50:27.000Z",
+        "id": "2046753463325827072",
+        "options": [
+          {
+            "label": "可以，我愿意",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不行，你不配",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046753463325827072"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046753465083302295",
+        "created_at": "2026-04-22T00:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046753465083302295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046753465083302295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曦月可以成为跨圈的话事人嘛，代表跨圈发言和决策🏳️‍⚧️民选🥺\n这是一项议案:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046223244907409655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 774,
+          "like_count": 3122,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      }
+    ]
+  }
+}

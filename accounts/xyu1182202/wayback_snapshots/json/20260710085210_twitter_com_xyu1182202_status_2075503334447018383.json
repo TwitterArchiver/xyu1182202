@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075202815589507525",
+    "created_at": "2026-07-10T08:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075503334447018383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044796233508605952",
+          "start": 0,
+          "username": "yue_li0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075503334447018383",
+    "in_reply_to_user_id": "2044796233508605952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075202815589507525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li0712 生水还是凉白开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075202807855288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyZ9XcbkAAPBEN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075202815589507525",
+        "created_at": "2026-07-10T08:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075503334447018383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044796233508605952",
+              "start": 0,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075503334447018383",
+        "in_reply_to_user_id": "2044796233508605952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075202815589507525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li0712 生水还是凉白开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075202807855288320"
+          ]
+        },
+        "author_id": "2044796233508605952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075202815589507525",
+        "created_at": "2026-07-09T12:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075202815589507525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G11pe8WTBO",
+              "end": 34,
+              "expanded_url": "https://x.com/yue_li0712/status/2075202815589507525/photo/1",
+              "media_key": "3_2075202807855288320",
+              "start": 11,
+              "url": "https://t.co/G11pe8WTBO"
+            },
+            {
+              "display_url": "x.com/yue_li0712/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/yue_li0712/status/2075191204430692589",
+              "start": 35,
+              "url": "https://t.co/FRbXsvwJle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075202815589507525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6479,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075191204430692589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意让我喝，笑死了 https://t.co/G11pe8WTBO https://t.co/FRbXsvwJle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1056,
+          "like_count": 5334,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6428
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜不定期会发一些COS照｜同类互fo喵｜最好的朋友@xingyunxiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 125,
+                "username": "xingyunxiya"
+              }
+            ]
+          }
+        },
+        "id": "2044796233508605952",
+        "name": "曦玥玥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 112,
+          "like_count": 2437,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": true
+      }
+    ]
+  }
+}

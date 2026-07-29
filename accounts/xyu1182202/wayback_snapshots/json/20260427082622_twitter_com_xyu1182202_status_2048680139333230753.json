@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048680139333230753",
+    "created_at": "2026-04-27T08:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048680139333230753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        },
+        {
+          "end": 20,
+          "id": "1902568136450424832",
+          "start": 13,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048680139333230753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048654619497357811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: @aoim33 学历越低神人越多，学历越高神人越神（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048680139333230753",
+        "created_at": "2026-04-27T08:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048680139333230753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            },
+            {
+              "end": 20,
+              "id": "1902568136450424832",
+              "start": 13,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048680139333230753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048654619497357811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: @aoim33 学历越低神人越多，学历越高神人越神（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2048619402409791895",
+        "created_at": "2026-04-27T06:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048654619497357811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048654619497357811",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048619402409791895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 学历越低神人越多，学历越高神人越神（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 881,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4568
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？| 失落文学 | 病痛患者 | 唯心主义 | 有时也会期待苦痛奇迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 362,
+          "like_count": 250,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2046398591196094655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4980,
+          "following_count": 2855,
+          "like_count": 45830,
+          "listed_count": 19,
+          "media_count": 2583,
+          "tweet_count": 11266
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

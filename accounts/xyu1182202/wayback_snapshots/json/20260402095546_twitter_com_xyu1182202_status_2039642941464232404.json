@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039379765212151985",
+    "created_at": "2026-04-02T09:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039642941464232404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1038150281794646017",
+          "start": 0,
+          "username": "earthcurated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039642941464232404",
+    "in_reply_to_user_id": "1038150281794646017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039379765212151985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@earthcurated 马克思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2039361151038021632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1EKXBaYAAkaH-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039379765212151985",
+        "created_at": "2026-04-02T09:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039642941464232404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1038150281794646017",
+              "start": 0,
+              "username": "earthcurated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039642941464232404",
+        "in_reply_to_user_id": "1038150281794646017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039379765212151985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthcurated 马克思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039361151038021632"
+          ]
+        },
+        "author_id": "1038150281794646017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2039379765212151985",
+        "created_at": "2026-04-01T16:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039379765212151985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GTOn8znpo",
+              "end": 83,
+              "expanded_url": "https://x.com/earthcurated/status/2039379765212151985/photo/1",
+              "media_key": "3_2039361151038021632",
+              "start": 60,
+              "url": "https://t.co/4GTOn8znpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039379765212151985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 68758,
+          "like_count": 277,
+          "quote_count": 59,
+          "reply_count": 478,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Can you name a famous person from Germany without Googling. https://t.co/4GTOn8znpo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 314
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-07T19:41:29.000Z",
+        "description": "\"Featuring stunning HD visuals & fascinating facts — curated by the world's greatest photographers and creators.\"",
+        "id": "1038150281794646017",
+        "name": "Earth",
+        "pinned_tweet_id": "2039145723913203792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590966054800564225/3hZ1EhAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183218,
+          "following_count": 44438,
+          "like_count": 55271,
+          "listed_count": 2999,
+          "media_count": 12956,
+          "tweet_count": 25104
+        },
+        "username": "earthcurated",
+        "verified": true
+      }
+    ]
+  }
+}

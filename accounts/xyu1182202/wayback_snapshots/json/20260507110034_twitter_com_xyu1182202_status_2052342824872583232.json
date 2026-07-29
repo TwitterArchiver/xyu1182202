@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052301266165104906",
+    "created_at": "2026-05-07T11:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052342824872583232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052342824872583232",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052301266165104906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 舒服嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052301266165104906",
+        "created_at": "2026-05-07T11:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052342824872583232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052342824872583232",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052301266165104906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 舒服嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2052301266165104906",
+        "created_at": "2026-05-07T08:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052301266165104906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RyuuseiMk1WEAS…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/RyuuseiMk1WEAS/status/2052231526859858028",
+              "start": 81,
+              "url": "https://t.co/txzwUUYEpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301266165104906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052231526859858028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得那是八或九岁，穿卫衣的季节，我在老家的主卫生间里把一节五号电池用牙刷棒顶着装在父母床头摸到的套套里，用肥皂水润滑着塞了进去\n忘记了当时是什么动机，反正好痛 https://t.co/txzwUUYEpM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 974,
+          "like_count": 4782,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 5346
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n或许是双性恋，不过只对男生有动情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 1464,
+          "like_count": 76271,
+          "listed_count": 9,
+          "media_count": 1091,
+          "tweet_count": 21860
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

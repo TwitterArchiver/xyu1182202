@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050884841785508160",
+    "created_at": "2026-05-03T10:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050887512504275056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036340584844337152",
+          "start": 0,
+          "username": "siryrkagisago21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050887512504275056",
+    "in_reply_to_user_id": "2036340584844337152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050884841785508160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siryrkagisago21 贴贴～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2050884826140667904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY04iFacAAHQQB.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050884841785508160",
+        "created_at": "2026-05-03T10:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050887512504275056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036340584844337152",
+              "start": 0,
+              "username": "siryrkagisago21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050887512504275056",
+        "in_reply_to_user_id": "2036340584844337152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050884841785508160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siryrkagisago21 贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050884826140667904"
+          ]
+        },
+        "author_id": "2036340584844337152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2050884841785508160",
+        "created_at": "2026-05-03T10:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050884841785508160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2048573976834920448/MhJHFw30?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048573976834920448/MhJHFw30?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/X26dtr8LfL"
+            },
+            {
+              "display_url": "pic.x.com/b2akxEhf2h",
+              "end": 64,
+              "expanded_url": "https://x.com/siryrkagisago21/status/2050884841785508160/photo/1",
+              "media_key": "3_2050884826140667904",
+              "start": 41,
+              "url": "https://t.co/b2akxEhf2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050884841785508160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/X26dtr8LfL https://t.co/b2akxEhf2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 933,
+          "like_count": 4226,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 4976
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:17:24.000Z",
+        "description": "中国人｜可以叫我小汐｜民主社会主义🚩｜顺直友LGBTQ+🏳️‍🌈｜被诊断强迫症｜目前喜欢听凯尔特民谣☘️🪈🪉｜想尝试社交但比较胆怯孤僻🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arhtijyhu317",
+                "end": 23,
+                "expanded_url": "https://ngl.link/arhtijyhu317",
+                "start": 0,
+                "url": "https://t.co/DFTNY86xew"
+              }
+            ]
+          }
+        },
+        "id": "2036340584844337152",
+        "name": "小汐",
+        "pinned_tweet_id": "2048597289166659774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050461853567037440/WJQpecSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 136,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/DFTNY86xew",
+        "username": "siryrkagisago21",
+        "verified": false
+      }
+    ]
+  }
+}

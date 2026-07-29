@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2076089102840078458",
+    "created_at": "2026-07-13T03:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076509371476115493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076509371476115493",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076089102840078458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076089089481179136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_ABvyXAAAa3Ft.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2076089102840078458",
+        "created_at": "2026-07-13T03:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076509371476115493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076509371476115493",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076089102840078458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076089089481179136"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2076089102840078458",
+        "created_at": "2026-07-11T23:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076089102840078458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJeHRpSp4k",
+              "end": 33,
+              "expanded_url": "https://x.com/bigjusir/status/2076089102840078458/photo/1",
+              "media_key": "3_2076089089481179136",
+              "start": 10,
+              "url": "https://t.co/JJeHRpSp4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076089102840078458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11717,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你反不过我你信吗？ https://t.co/JJeHRpSp4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1054,
+          "like_count": 5340,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 6497
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 2065,
+          "like_count": 5641,
+          "listed_count": 10,
+          "media_count": 666,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

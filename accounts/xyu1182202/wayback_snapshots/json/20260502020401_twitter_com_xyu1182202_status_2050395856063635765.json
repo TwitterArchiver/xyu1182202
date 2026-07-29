@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050073563017925059",
+    "created_at": "2026-05-02T02:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050395856063635765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906356680511950848",
+          "start": 0,
+          "username": "TSKrwglq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050395856063635765",
+    "in_reply_to_user_id": "1906356680511950848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050073563017925059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSKrwglq 我入"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1723,
+        "height": 1280,
+        "media_key": "7_2050073544546193408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050073544546193408/pu/img/L9hu4c2RgG1uJn5l.jpg",
+        "public_metrics": {
+          "view_count": 333
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050073544546193408/pu/vid/avc1/320x568/wef5EPLk4SDh9Ue9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050073544546193408/pu/vid/avc1/480x852/tz9DHVf9oySJVmEV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050073544546193408/pu/vid/avc1/720x1280/LbefH4cq2xbx3v4I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050073544546193408/pu/pl/cOvkdP-TYcfkV_HD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050073563017925059",
+        "created_at": "2026-05-02T02:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050395856063635765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906356680511950848",
+              "start": 0,
+              "username": "TSKrwglq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050395856063635765",
+        "in_reply_to_user_id": "1906356680511950848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050073563017925059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSKrwglq 我入"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050073544546193408"
+          ]
+        },
+        "author_id": "1906356680511950848",
+        "conversation_id": "2050073563017925059",
+        "created_at": "2026-05-01T04:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050073563017925059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UztUoCmCO1",
+              "end": 32,
+              "expanded_url": "https://x.com/TSKrwglq/status/2050073563017925059/video/1",
+              "media_key": "7_2050073544546193408",
+              "start": 9,
+              "url": "https://t.co/UztUoCmCO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050073563017925059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1099,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "摇一摇召唤同类🤓 https://t.co/UztUoCmCO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 927,
+          "like_count": 4163,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4921
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "无证含糖|绪山真寻厨|操作系统爱好者|生产日期：2011/3/9|HRT日期：2025/8/9|已出柜",
+        "id": "1906356680511950848",
+        "location": "航天基地",
+        "name": "水月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 107,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 111
+        },
+        "username": "TSKrwglq",
+        "verified": false
+      }
+    ]
+  }
+}

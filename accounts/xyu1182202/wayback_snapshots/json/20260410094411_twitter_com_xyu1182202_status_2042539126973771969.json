@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042535517355700508",
+    "created_at": "2026-04-10T09:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042539126973771969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042539126973771969",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042535517355700508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia 理想中的工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042535517355700508",
+        "created_at": "2026-04-10T09:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042539126973771969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042539126973771969",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042535517355700508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 理想中的工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042535517355700508",
+        "created_at": "2026-04-10T09:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042535517355700508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "广州禁毒"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "OD"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "overdose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/rinii165892/status/2042534912407015715",
+              "start": 45,
+              "url": "https://t.co/B68tao4WyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042535517355700508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042534912407015715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广州禁毒这工作真不错，又可以刷推特，又可以赚钱\n\n#广州禁毒 #OD #overdose https://t.co/B68tao4WyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 407,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 658,
+          "like_count": 10769,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

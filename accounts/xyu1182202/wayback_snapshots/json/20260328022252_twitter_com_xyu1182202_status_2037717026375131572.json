@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2037483458482811269",
+    "created_at": "2026-03-28T02:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037717026375131572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1765062900484538369",
+          "start": 0,
+          "username": "shiming21"
+        },
+        {
+          "end": 24,
+          "id": "1686999547413995521",
+          "start": 11,
+          "username": "MarshWatt776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037717026375131572",
+    "in_reply_to_user_id": "1765062900484538369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037512279835750500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiming21 @MarshWatt776 基本盘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2037483458482811269",
+        "created_at": "2026-03-28T02:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037717026375131572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765062900484538369",
+              "start": 0,
+              "username": "shiming21"
+            },
+            {
+              "end": 24,
+              "id": "1686999547413995521",
+              "start": 11,
+              "username": "MarshWatt776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037717026375131572",
+        "in_reply_to_user_id": "1765062900484538369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037512279835750500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiming21 @MarshWatt776 基本盘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765062900484538369",
+        "conversation_id": "2037483458482811269",
+        "created_at": "2026-03-27T12:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037512279835750500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686999547413995521",
+              "start": 0,
+              "username": "MarshWatt776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037512279835750500",
+        "in_reply_to_user_id": "1686999547413995521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28332,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037483458482811269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarshWatt776 废物二代,仗着老子飞扬跋扈,现在他爹被废了,这小杂种怎么不出来放屁了,怎么不敢回来了啊,野种就是野种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T17:12:53.000Z",
+        "description": "夕阳无限好，只是近黄昏",
+        "id": "1765062900484538369",
+        "name": "shiming",
+        "pinned_tweet_id": "1874917712025227432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847802665256050688/q_3EtWls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 160,
+          "like_count": 650,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 2340
+        },
+        "username": "shiming21",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T07:16:50.000Z",
+        "description": "出名就卸载推特！  进群吃瓜见置顶。\n\n有国内明星资源，可对接日本女优，可线下，没钱别问\n\n合作请私信小号：@mazziniunsaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "mazziniunsaya"
+              }
+            ]
+          }
+        },
+        "id": "1686999547413995521",
+        "name": "北京小影子（演员",
+        "pinned_tweet_id": "1865932866724786661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771085383088078848/hxKnJgJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219556,
+          "following_count": 45,
+          "like_count": 732,
+          "listed_count": 345,
+          "media_count": 379,
+          "tweet_count": 1935
+        },
+        "username": "MarshWatt776",
+        "verified": false
+      }
+    ]
+  }
+}

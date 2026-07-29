@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040756874023497929",
+    "created_at": "2026-04-05T12:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040769062729638031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1858393719080366080",
+          "start": 0,
+          "username": "me6pjHT2Rf29076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040769062729638031",
+    "in_reply_to_user_id": "1858393719080366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040756874023497929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me6pjHT2Rf29076 关上窗户，别着凉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040756874023497929",
+        "created_at": "2026-04-05T12:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040769062729638031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "me6pjHT2Rf29076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040769062729638031",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040756874023497929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me6pjHT2Rf29076 关上窗户，别着凉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2040756874023497929",
+        "created_at": "2026-04-05T11:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040756874023497929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040756874023497929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要打开窗户跳下去就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 201,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：有个世界上最好的姐姐 \n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2036775919294279809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 108,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2305
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

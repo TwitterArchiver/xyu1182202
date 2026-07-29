@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2068279966845010397",
+    "created_at": "2026-06-21T16:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068733383803547921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068733383803547921",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068279966845010397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 将就用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2068279960192876544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQBqmNbAAAG3ew.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2068279966845010397",
+        "created_at": "2026-06-21T16:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068733383803547921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068733383803547921",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068279966845010397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 将就用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068279960192876544"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "conversation_id": "2068279966845010397",
+        "created_at": "2026-06-20T10:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068279966845010397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0g9TeXLdCf",
+              "end": 80,
+              "expanded_url": "https://x.com/mengxin66666/status/2068279966845010397/photo/1",
+              "media_key": "3_2068279960192876544",
+              "start": 57,
+              "url": "https://t.co/0g9TeXLdCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068279966845010397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 166368,
+          "like_count": 244,
+          "quote_count": 7,
+          "reply_count": 640,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "16岁\n拥有自己的+86 telegram 账号\n\n没有会员\n并且还能保持登陆状态\n\n这在10后\n算什么水平？😅 https://t.co/0g9TeXLdCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1028,
+          "like_count": 5399,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6300
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n有空会回复或互动任何人，如果有一段时间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2063176619808969019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068294587584823296/wKNciw-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 116,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": false
+      }
+    ]
+  }
+}

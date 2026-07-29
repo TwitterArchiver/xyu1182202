@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052337081775742976"
+      ],
+      "media_source_tweet_id": [
+        "2052337084674007496"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052345398510092373",
+    "created_at": "2026-05-07T11:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052345398510092373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999059927650930688",
+          "start": 3,
+          "username": "LightSTAR_qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8B9whfmQ20",
+          "end": 50,
+          "expanded_url": "https://x.com/LightSTAR_qwq/status/2052337084674007496/photo/1",
+          "media_key": "3_2052337081775742976",
+          "start": 27,
+          "url": "https://t.co/8B9whfmQ20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052345398510092373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052337084674007496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LightSTAR_qwq: 鲨鲨！好可爱！ https://t.co/8B9whfmQ20"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052337081775742976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtds76a4AAftml.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052337081775742976"
+          ],
+          "media_source_tweet_id": [
+            "2052337084674007496"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052345398510092373",
+        "created_at": "2026-05-07T11:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052345398510092373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999059927650930688",
+              "start": 3,
+              "username": "LightSTAR_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8B9whfmQ20",
+              "end": 50,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2052337084674007496/photo/1",
+              "media_key": "3_2052337081775742976",
+              "start": 27,
+              "url": "https://t.co/8B9whfmQ20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052345398510092373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052337084674007496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LightSTAR_qwq: 鲨鲨！好可爱！ https://t.co/8B9whfmQ20"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052337081775742976"
+          ]
+        },
+        "author_id": "1999059927650930688",
+        "conversation_id": "2052337084674007496",
+        "created_at": "2026-05-07T10:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052337084674007496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8B9whfmQ20",
+              "end": 31,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2052337084674007496/photo/1",
+              "media_key": "3_2052337081775742976",
+              "start": 8,
+              "url": "https://t.co/8B9whfmQ20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052337084674007496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鲨！好可爱！ https://t.co/8B9whfmQ20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 974,
+          "like_count": 4787,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 5351
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 中重度抑郁 | 无糖无证(经济不允许) | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 | 同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs8165"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "location": "广东",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 151,
+          "like_count": 498,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/ghmbUs8165",
+        "username": "LightSTAR_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

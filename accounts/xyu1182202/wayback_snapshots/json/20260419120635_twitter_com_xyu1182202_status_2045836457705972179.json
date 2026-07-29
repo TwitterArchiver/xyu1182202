@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045832736469127394",
+    "created_at": "2026-04-19T12:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045836457705972179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045836457705972179",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045834475506901110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxyzcdb 贴贴喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T12:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045836457705972179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045836457705972179",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045834475506901110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb 贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893167873209856000",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T11:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045834475506901110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045834475506901110",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045832736469127394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 717,
+          "like_count": 2650,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "pinned_tweet_id": "2044966167098577047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 327,
+          "like_count": 3298,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1809
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

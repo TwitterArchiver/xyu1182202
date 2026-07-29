@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040375457678495898",
+    "created_at": "2026-04-04T11:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040393828432331123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040393828432331123",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040375457678495898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 你要好好的不要这样🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040375457678495898",
+        "created_at": "2026-04-04T11:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040393828432331123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040393828432331123",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040375457678495898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 你要好好的不要这样🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2040375457678495898",
+        "created_at": "2026-04-04T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040375457678495898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XldscX/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/XldscX/status/2040375168703648245",
+              "start": 35,
+              "url": "https://t.co/iHu4nUty3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040375457678495898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040375168703648245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是不会用亚硝酸钠的，我应该还是会去跳楼。不过下次至少 20 层起。 https://t.co/iHu4nUty3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 132,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "18y.o. | 新疆東鄉族 | 無神論者⚛️ | 生理男心理男 | Femboy enjoyer 💜 | 182cm59kg | ROC💙🇹🇼❂&Anti-☭ \n\n好厚米🇲🇴@letana358121 对象♥️@juhao0721  |7kfo🔞小號@AzureV1xen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "letana358121"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "juhao0721"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "AzureV1xen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/kcdSvvyr8N"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 588,
+          "like_count": 16548,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 5859
+        },
+        "url": "https://t.co/kcdSvvyr8N",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

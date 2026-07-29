@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2047903037591785503",
+    "created_at": "2026-04-25T04:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047903037591785503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047903037591785503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043313575993978932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 突然想到我好像是第一个同时获得央视、中华网、东方卫视，还有BBC等国内外媒体中西方双重背书认证的志愿者😎😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2047903037591785503",
+        "created_at": "2026-04-25T04:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047903037591785503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047903037591785503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043313575993978932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 突然想到我好像是第一个同时获得央视、中华网、东方卫视，还有BBC等国内外媒体中西方双重背书认证的志愿者😎😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2043313575993978932",
+        "created_at": "2026-04-12T13:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043313575993978932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2043276542089060456",
+              "start": 55,
+              "url": "https://t.co/fp2aAD4FQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043313575993978932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 36919,
+          "like_count": 313,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043276542089060456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想到我好像是第一个同时获得央视、中华网、东方卫视，还有BBC等国内外媒体中西方双重背书认证的志愿者😎😎😎 https://t.co/fp2aAD4FQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 838,
+          "like_count": 3437,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4237
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4591,
+          "following_count": 2578,
+          "like_count": 2632,
+          "listed_count": 16,
+          "media_count": 398,
+          "tweet_count": 2660
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

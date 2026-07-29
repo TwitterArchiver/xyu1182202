@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052827760046080026",
+    "created_at": "2026-05-09T01:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052921300465959206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052921300465959206",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052827760046080026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052827760046080026",
+        "created_at": "2026-05-09T01:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052921300465959206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052921300465959206",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052827760046080026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "2052827760046080026",
+        "created_at": "2026-05-08T19:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052827760046080026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052827760046080026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么尼玛币的我就是农村人😭为什么尼玛币的我是跨性别，为什么尼玛币的我是穷蛆还得了精神病还你妈没钱治治不好\n完全看不到任何活着的希望，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 983,
+          "like_count": 4903,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5462
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10801,
+          "following_count": 2018,
+          "like_count": 52992,
+          "listed_count": 39,
+          "media_count": 1369,
+          "tweet_count": 37038
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

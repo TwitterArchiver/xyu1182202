@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052311810099790203",
+    "created_at": "2026-05-07T12:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052369329518481647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "36659991",
+          "start": 0,
+          "username": "kenw_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052369329518481647",
+    "in_reply_to_user_id": "36659991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052311810099790203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenw_2 洗脑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_2052311804290756611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtGtl8XcAMZYOc.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1475,
+        "media_key": "3_2052311804282314758",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtGtl6WoAY-4ha.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1466,
+        "media_key": "3_2052311804273889287",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtGtl4WEAceQg3.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052311810099790203",
+        "created_at": "2026-05-07T12:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052369329518481647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "36659991",
+              "start": 0,
+              "username": "kenw_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052369329518481647",
+        "in_reply_to_user_id": "36659991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052311810099790203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenw_2 洗脑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052311804290756611",
+            "3_2052311804282314758",
+            "3_2052311804273889287"
+          ]
+        },
+        "author_id": "36659991",
+        "conversation_id": "2052311810099790203",
+        "created_at": "2026-05-07T08:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052311810099790203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANs8bm3eKu",
+              "end": 138,
+              "expanded_url": "https://x.com/kenw_2/status/2052311810099790203/photo/1",
+              "media_key": "3_2052311804290756611",
+              "start": 115,
+              "url": "https://t.co/ANs8bm3eKu"
+            },
+            {
+              "display_url": "pic.x.com/ANs8bm3eKu",
+              "end": 138,
+              "expanded_url": "https://x.com/kenw_2/status/2052311810099790203/photo/1",
+              "media_key": "3_2052311804282314758",
+              "start": 115,
+              "url": "https://t.co/ANs8bm3eKu"
+            },
+            {
+              "display_url": "pic.x.com/ANs8bm3eKu",
+              "end": 138,
+              "expanded_url": "https://x.com/kenw_2/status/2052311810099790203/photo/1",
+              "media_key": "3_2052311804273889287",
+              "start": 115,
+              "url": "https://t.co/ANs8bm3eKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052311810099790203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "吃得苦中苦，人生会更苦。\n\n据《自然》子刊研究指出，早期吃苦会严重影响大脑发育。人在面对逆境时，神经和代谢系统会产生生理反应以适应环境。如果长期处于逆境，会导致体内皮质醇等激素水平异常并形成应激负荷，最终导致精神和身体上的疾病。\n\n已有研究表明，童年逆境与超过40%的儿童精神疾病、以及超过25%的成人精神疾病的发病密切相关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 8948,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "吃得苦中苦，人生会更苦。\n\n据《自然》子刊研究指出，早期吃苦会严重影响大脑发育。人在面对逆境时，神经和代谢系统会产生生理反应以适应环境。如果长期处于逆境，会导致体内皮质醇等激素水平异常并形成应激负荷，最终导致精神和身体上的疾病。 https://t.co/ANs8bm3eKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 978,
+          "like_count": 4811,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 5370
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend, stay curious, stay human.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172309,
+          "following_count": 465,
+          "like_count": 2669,
+          "listed_count": 570,
+          "media_count": 2046,
+          "tweet_count": 7240
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}

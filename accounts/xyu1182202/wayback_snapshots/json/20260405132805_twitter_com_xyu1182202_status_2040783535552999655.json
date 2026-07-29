@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040703195618713825",
+    "created_at": "2026-04-05T13:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040783535552999655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040783535552999655",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040703195618713825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 说明商家销量好不在乎差评"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2040703174848413697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIIubTaAAEh-J3.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040703195618713825",
+        "created_at": "2026-04-05T13:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040783535552999655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040783535552999655",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040703195618713825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 说明商家销量好不在乎差评"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040703174848413697"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2040703195618713825",
+        "created_at": "2026-04-05T08:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040703195618713825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3wXcOWVK3",
+              "end": 34,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2040703195618713825/photo/1",
+              "media_key": "3_2040703174848413697",
+              "start": 11,
+              "url": "https://t.co/Z3wXcOWVK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040703195618713825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10854,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "商家认为自己很幽默？ https://t.co/Z3wXcOWVK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 205,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7895,
+          "following_count": 4035,
+          "like_count": 42141,
+          "listed_count": 23,
+          "media_count": 1588,
+          "tweet_count": 11282
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2037708125315481735",
+    "created_at": "2026-03-28T01:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037708125315481735"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "Firefox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037708125315481735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#Firefox 才是最好的浏览器！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2037708125315481735",
+        "created_at": "2026-03-28T01:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037708125315481735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Firefox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037708125315481735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Firefox 才是最好的浏览器！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "xyu1182202",
+        "verified": false
+      }
+    ]
+  }
+}

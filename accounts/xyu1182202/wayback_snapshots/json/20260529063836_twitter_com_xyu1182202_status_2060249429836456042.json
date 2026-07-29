@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2060161874415804456",
+    "created_at": "2026-05-29T06:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060249429836456042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979308662117273604",
+          "start": 0,
+          "username": "kuaizichopstick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060249429836456042",
+    "in_reply_to_user_id": "1979308662117273604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060161874415804456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuaizichopstick 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2060161741666066432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcqMFfbIAA-m7l.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2060161874415804456",
+        "created_at": "2026-05-29T06:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060249429836456042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979308662117273604",
+              "start": 0,
+              "username": "kuaizichopstick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249429836456042",
+        "in_reply_to_user_id": "1979308662117273604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060161874415804456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuaizichopstick 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060161741666066432"
+          ]
+        },
+        "author_id": "1979308662117273604",
+        "conversation_id": "2060161874415804456",
+        "created_at": "2026-05-29T00:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060161874415804456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIuUICgYjO",
+              "end": 30,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2060161874415804456/photo/1",
+              "media_key": "3_2060161741666066432",
+              "start": 7,
+              "url": "https://t.co/YIuUICgYjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060161874415804456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又输液了…… https://t.co/YIuUICgYjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1016,
+          "like_count": 5301,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5986
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "高二在读/物化生\n生产日期08.12.25hrt25.12.05 MtF/X 无证含糖|已炸柜|家暴党\n同类可互fo喵！\n把我当疯子就好……\n日麻狂热爱好者/phigros·arcaea·pjsk·orzmic/二次元 191cm/81kg \n日常作息周一到周四7:00-21:30上学周五到17:00 周末不定时刷新喵",
+        "id": "1979308662117273604",
+        "location": "青岛",
+        "name": "筷子不会用筷子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979309306349604864/FDPCsZN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 248,
+          "like_count": 264,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 161
+        },
+        "username": "kuaizichopstick",
+        "verified": false
+      }
+    ]
+  }
+}

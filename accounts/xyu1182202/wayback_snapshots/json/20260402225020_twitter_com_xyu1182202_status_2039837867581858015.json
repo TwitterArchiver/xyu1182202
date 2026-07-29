@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039734612063072370",
+    "created_at": "2026-04-02T22:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039837867581858015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012631283898187776",
+          "start": 0,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039837867581858015",
+    "in_reply_to_user_id": "2012631283898187776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039734612063072370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youy1qwq 抱抱你别难过你还有我🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2039719934436290560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6KeTVbsAAgEAK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039734612063072370",
+        "created_at": "2026-04-02T22:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039837867581858015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039837867581858015",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039734612063072370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 抱抱你别难过你还有我🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039719934436290560"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039734612063072370",
+        "created_at": "2026-04-02T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039734612063072370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gI25P1xXIt",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2039734612063072370/photo/1",
+              "media_key": "3_2039719934436290560",
+              "start": 12,
+              "url": "https://t.co/gI25P1xXIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039734612063072370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3738,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "是非对错，我已无心分辨 https://t.co/gI25P1xXIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 69,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 408
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9400,
+          "following_count": 1480,
+          "like_count": 3488,
+          "listed_count": 13,
+          "media_count": 1197,
+          "tweet_count": 1629
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041745087911358465"
+      ],
+      "media_source_tweet_id": [
+        "2041745377486082074"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042168244988178458",
+    "created_at": "2026-04-09T09:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042168244988178458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937048792487849984",
+          "start": 3,
+          "username": "nanami269322"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJjRXJzyKc",
+          "end": 59,
+          "expanded_url": "https://x.com/nanami269322/status/2041745377486082074/photo/1",
+          "media_key": "3_2041745087911358465",
+          "start": 36,
+          "url": "https://t.co/IJjRXJzyKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042168244988178458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041745377486082074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanami269322: 麦子熟了几千次，高薪养懒汉第一次😹 https://t.co/IJjRXJzyKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 465,
+        "media_key": "3_2041745087911358465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW8Vv7a8AE-_6A.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041745087911358465"
+          ],
+          "media_source_tweet_id": [
+            "2041745377486082074"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042168244988178458",
+        "created_at": "2026-04-09T09:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042168244988178458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937048792487849984",
+              "start": 3,
+              "username": "nanami269322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJjRXJzyKc",
+              "end": 59,
+              "expanded_url": "https://x.com/nanami269322/status/2041745377486082074/photo/1",
+              "media_key": "3_2041745087911358465",
+              "start": 36,
+              "url": "https://t.co/IJjRXJzyKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042168244988178458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041745377486082074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanami269322: 麦子熟了几千次，高薪养懒汉第一次😹 https://t.co/IJjRXJzyKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041745087911358465"
+          ]
+        },
+        "author_id": "1937048792487849984",
+        "conversation_id": "2041745377486082074",
+        "created_at": "2026-04-08T05:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041745377486082074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJjRXJzyKc",
+              "end": 41,
+              "expanded_url": "https://x.com/nanami269322/status/2041745377486082074/photo/1",
+              "media_key": "3_2041745087911358465",
+              "start": 18,
+              "url": "https://t.co/IJjRXJzyKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041745377486082074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22808,
+          "like_count": 478,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "麦子熟了几千次，高薪养懒汉第一次😹 https://t.co/IJjRXJzyKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 351,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T07:23:30.000Z",
+        "description": "時は流れて、大切な人ともう一度会えるように",
+        "id": "1937048792487849984",
+        "location": "克拉科夫",
+        "name": "七海燈子☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040652581215854592/yO-bbPmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 698,
+          "like_count": 35126,
+          "listed_count": 1,
+          "media_count": 1083,
+          "tweet_count": 4100
+        },
+        "username": "nanami269322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042247165838299136"
+      ],
+      "media_source_tweet_id": [
+        "2042247169000755551"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2042417971931594818",
+    "created_at": "2026-04-10T01:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042417971931594818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dmqzy8VtDN",
+          "end": 119,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2042247169000755551/photo/1",
+          "media_key": "3_2042247165838299136",
+          "start": 96,
+          "url": "https://t.co/Dmqzy8VtDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042417971931594818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042247169000755551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 前排提示一下😹😹😹这位是大名鼎鼎的河南护航的校长\n他们前段时间西安校区被我轰烂了\n还扔到BBC了\n教官还因为冒充警察被我搞进去了\n他们恨死我了😹😹😹 https://t.co/Dmqzy8VtDN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_2042247165838299136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeE-h9XEAACkDi.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042247165838299136"
+          ],
+          "media_source_tweet_id": [
+            "2042247169000755551"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2042417971931594818",
+        "created_at": "2026-04-10T01:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042417971931594818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dmqzy8VtDN",
+              "end": 119,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2042247169000755551/photo/1",
+              "media_key": "3_2042247165838299136",
+              "start": 96,
+              "url": "https://t.co/Dmqzy8VtDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042417971931594818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042247169000755551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 前排提示一下😹😹😹这位是大名鼎鼎的河南护航的校长\n他们前段时间西安校区被我轰烂了\n还扔到BBC了\n教官还因为冒充警察被我搞进去了\n他们恨死我了😹😹😹 https://t.co/Dmqzy8VtDN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042247165838299136"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2042247169000755551",
+        "created_at": "2026-04-09T14:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042247169000755551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dmqzy8VtDN",
+              "end": 98,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2042247169000755551/photo/1",
+              "media_key": "3_2042247165838299136",
+              "start": 75,
+              "url": "https://t.co/Dmqzy8VtDN"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2042244167862997165",
+              "start": 99,
+              "url": "https://t.co/k5hLtSiavm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042247169000755551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4855,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042244167862997165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前排提示一下😹😹😹这位是大名鼎鼎的河南护航的校长\n他们前段时间西安校区被我轰烂了\n还扔到BBC了\n教官还因为冒充警察被我搞进去了\n他们恨死我了😹😹😹 https://t.co/Dmqzy8VtDN https://t.co/k5hLtSiavm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 384,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 2387,
+          "like_count": 2472,
+          "listed_count": 14,
+          "media_count": 395,
+          "tweet_count": 2601
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2049069545865015784",
+    "created_at": "2026-04-28T12:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049096355600330838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720425128125947904",
+          "start": 0,
+          "username": "xxz10110116791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049096355600330838",
+    "in_reply_to_user_id": "1720425128125947904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049069545865015784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxz10110116791 一只炸鸡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049069543457525761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_B5LHbkAECu3X.jpg",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2049069545865015784",
+        "created_at": "2026-04-28T12:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049096355600330838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720425128125947904",
+              "start": 0,
+              "username": "xxz10110116791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049096355600330838",
+        "in_reply_to_user_id": "1720425128125947904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049069545865015784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxz10110116791 一只炸鸡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049069543457525761"
+          ]
+        },
+        "author_id": "1720425128125947904",
+        "conversation_id": "2049069545865015784",
+        "created_at": "2026-04-28T10:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049069545865015784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fU2yCgUTR",
+              "end": 37,
+              "expanded_url": "https://x.com/xxz10110116791/status/2049069545865015784/photo/1",
+              "media_key": "3_2049069543457525761",
+              "start": 14,
+              "url": "https://t.co/6fU2yCgUTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049069545865015784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完之后，变成。一只鸡？？ https://t.co/6fU2yCgUTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 890,
+          "like_count": 3938,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 4676
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日2010.7.26| 现读高一 | 不经常建政| 技术宅(?│火车迷│喜欢编程💻,数码,AI,vocaloid | INFP\n│曾经也是信竞生（│经常焦虑│\nOD💊|无证含糖🍥2026.3.27",
+        "id": "1720425128125947904",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026281829343657984/QQiFEm47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 182,
+          "like_count": 5379,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 342
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046144932373483979",
+    "created_at": "2026-04-20T10:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046168054539882796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046168054539882796",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046165098989764884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 可以的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046144932373483979",
+        "created_at": "2026-04-20T10:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046168054539882796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046168054539882796",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046165098989764884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 可以的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "2046144932373483979",
+        "created_at": "2026-04-20T09:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046165098989764884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046165098989764884",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046152475946979458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 可以去看下讣告吗宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045881393368928644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 726,
+          "like_count": 2766,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3511
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 3465,
+          "like_count": 30870,
+          "listed_count": 5,
+          "media_count": 2211,
+          "tweet_count": 29026
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039865316554281441",
+    "created_at": "2026-04-03T06:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039955845002457179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039955845002457179",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039865316554281441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt 贴贴，不要这样好吗🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039865316554281441",
+        "created_at": "2026-04-03T06:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039955845002457179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039955845002457179",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039865316554281441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt 贴贴，不要这样好吗🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2039865316554281441",
+        "created_at": "2026-04-03T00:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039865316554281441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039865316554281441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 400,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁都叫我不要紫砂，根本原因是社会的上层掌权者的话语传递，每个人被迫接受紫砂有罪的论断，存在主义叫我看清后依旧去热爱生活，轻视我的客观难题并把责任全部推到我的身上，美其名曰“自由就是全权担责”，这不可理喻，当社会给个体提供的是一个“不值得活”甚至“不能活”的环境时，个体有足够充足的理由选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 80,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 515
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过烟雾与地狱的业火。",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "❄️Oltura🏳️‍⚧️",
+        "pinned_tweet_id": "1740103715061899409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992072709862469632/KpZ4mmgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 400,
+          "like_count": 200715,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 13101
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

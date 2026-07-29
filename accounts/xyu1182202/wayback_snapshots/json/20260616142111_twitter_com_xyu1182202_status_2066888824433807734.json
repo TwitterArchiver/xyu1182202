@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2063482159311261733",
+    "created_at": "2026-06-16T14:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066888824433807734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029291241704439808",
+          "start": 0,
+          "username": "20satsumaimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066888824433807734",
+    "in_reply_to_user_id": "2029291241704439808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063482159311261733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20satsumaimo 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063482086305189888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL2BlKaUAAEpbr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063482086741463040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL2BmybUAAbKyi.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 15112,
+        "height": 1280,
+        "media_key": "7_2063482090113622016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063482090113622016/pu/img/q4xvrMKXVXzvk7Sn.jpg",
+        "public_metrics": {
+          "view_count": 7082
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063482090113622016/pu/vid/avc1/320x568/MhB3MMm7Yo2Bfqhm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063482090113622016/pu/vid/avc1/480x852/GB9sf0ZVAdYL7jJQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063482090113622016/pu/vid/avc1/720x1280/OEPSEl8gn1bdRWSK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063482090113622016/pu/pl/XLTTV39_sNylEccb.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2063482159311261733",
+        "created_at": "2026-06-16T14:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066888824433807734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029291241704439808",
+              "start": 0,
+              "username": "20satsumaimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066888824433807734",
+        "in_reply_to_user_id": "2029291241704439808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063482159311261733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20satsumaimo 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063482086305189888",
+            "3_2063482086741463040",
+            "7_2063482090113622016"
+          ]
+        },
+        "author_id": "2029291241704439808",
+        "conversation_id": "2063482159311261733",
+        "created_at": "2026-06-07T04:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063482159311261733"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "mtf"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "跨性别"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "药娘"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "神经病"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBqkt1ANL7",
+              "end": 75,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063482159311261733/video/1",
+              "media_key": "3_2063482086305189888",
+              "start": 52,
+              "url": "https://t.co/sBqkt1ANL7"
+            },
+            {
+              "display_url": "pic.x.com/sBqkt1ANL7",
+              "end": 75,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063482159311261733/video/1",
+              "media_key": "3_2063482086741463040",
+              "start": 52,
+              "url": "https://t.co/sBqkt1ANL7"
+            },
+            {
+              "display_url": "pic.x.com/sBqkt1ANL7",
+              "end": 75,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063482159311261733/video/1",
+              "media_key": "7_2063482090113622016",
+              "start": 52,
+              "url": "https://t.co/sBqkt1ANL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063482159311261733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 23522,
+          "like_count": 50,
+          "quote_count": 11,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "复刻一下unk，手也是够长，从自动售货机里拿了一些好吃的玩意儿～ #mtf #跨性别 #药娘 #神经病 https://t.co/sBqkt1ANL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1023,
+          "like_count": 5370,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6223
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1,
+          "like_count": 110,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 137
+        },
+        "username": "20satsumaimo",
+        "verified": true
+      }
+    ]
+  }
+}

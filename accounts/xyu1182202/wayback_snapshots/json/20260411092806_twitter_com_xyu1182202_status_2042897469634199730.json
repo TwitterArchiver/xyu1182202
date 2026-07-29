@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042893138180948350",
+    "created_at": "2026-04-11T09:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042897469634199730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042897469634199730",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042893138180948350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer198964 😨😨落日余晖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042893138180948350",
+        "created_at": "2026-04-11T09:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042897469634199730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042897469634199730",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042893138180948350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer198964 😨😨落日余晖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042893138180948350",
+        "created_at": "2026-04-11T09:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042893138180948350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2042860573374009685",
+              "start": 28,
+              "url": "https://t.co/dUZ0Z8w8TU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042893138180948350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042860573374009685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大的要来了，毒虫们加紧囤货吧\n当然还可以考虑买工业原料 https://t.co/dUZ0Z8w8TU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 460,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 150,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 114
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041882577959849984"
+      ],
+      "media_source_tweet_id": [
+        "2042256224453087524"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042501212361326702",
+    "created_at": "2026-04-10T07:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042501212361326702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vUnaAj4SZv",
+          "end": 55,
+          "expanded_url": "https://x.com/BI3BXI/status/2042256224453087524/photo/1",
+          "media_key": "3_2041882577959849984",
+          "start": 32,
+          "url": "https://t.co/vUnaAj4SZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501212361326702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042256224453087524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 我滴妈呀好几年没看见劲这么大的冷笑话了 https://t.co/vUnaAj4SZv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_2041882577959849984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY5YuRbEAAV-z2.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041882577959849984"
+          ],
+          "media_source_tweet_id": [
+            "2042256224453087524"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042501212361326702",
+        "created_at": "2026-04-10T07:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042501212361326702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUnaAj4SZv",
+              "end": 55,
+              "expanded_url": "https://x.com/BI3BXI/status/2042256224453087524/photo/1",
+              "media_key": "3_2041882577959849984",
+              "start": 32,
+              "url": "https://t.co/vUnaAj4SZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501212361326702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042256224453087524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 我滴妈呀好几年没看见劲这么大的冷笑话了 https://t.co/vUnaAj4SZv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041882577959849984"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042256224453087524",
+        "created_at": "2026-04-09T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042256224453087524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUnaAj4SZv",
+              "end": 43,
+              "expanded_url": "https://x.com/BI3BXI/status/2042256224453087524/photo/1",
+              "media_key": "3_2041882577959849984",
+              "start": 20,
+              "url": "https://t.co/vUnaAj4SZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042256224453087524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2123,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我滴妈呀好几年没看见劲这么大的冷笑话了 https://t.co/vUnaAj4SZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 404,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍🌈Enby🏳️‍⚧️｜@EsportsPUBGM & @JDGaming｜@yqua_ ｜ ❤️@show5560\n｜@Tennoujinyano",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "EsportsPUBGM"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "JDGaming"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "show5560"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8454,
+          "following_count": 3947,
+          "like_count": 40003,
+          "listed_count": 25,
+          "media_count": 2502,
+          "tweet_count": 9796
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

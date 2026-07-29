@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042117432786215377",
+    "created_at": "2026-04-09T10:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042188579137630444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845543583690194944",
+          "start": 0,
+          "username": "HgLamp41974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042188579137630444",
+    "in_reply_to_user_id": "1845543583690194944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042117432786215377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HgLamp41974 恭喜你呀🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2042117426150830080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcO-r9a8AAKgYj.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042117432786215377",
+        "created_at": "2026-04-09T10:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042188579137630444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845543583690194944",
+              "start": 0,
+              "username": "HgLamp41974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042188579137630444",
+        "in_reply_to_user_id": "1845543583690194944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042117432786215377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HgLamp41974 恭喜你呀🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042117426150830080"
+          ]
+        },
+        "author_id": "1845543583690194944",
+        "conversation_id": "2042117432786215377",
+        "created_at": "2026-04-09T05:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042117432786215377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Hi0vaTxlF",
+              "end": 56,
+              "expanded_url": "https://x.com/HgLamp41974/status/2042117432786215377/photo/1",
+              "media_key": "3_2042117426150830080",
+              "start": 33,
+              "url": "https://t.co/4Hi0vaTxlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042117432786215377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2652,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味，我还不能庆祝一下我考上研了啊😰这也啥比我看你也差不多。。 https://t.co/4Hi0vaTxlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 359,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T19:14:34.000Z",
+        "description": "在真實的世界践行虚幻的爱恋.?_                                     \nISFP / 2005.01.08 / 我会伤到你哦",
+        "id": "1845543583690194944",
+        "location": "48°52.6′S  123°23.6′W",
+        "name": "Hgしαмᵖ🍥&enchant 水仙态 X",
+        "pinned_tweet_id": "1927635442784207078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850416286641315840/E0cnZUTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 87,
+          "like_count": 11246,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 1451
+        },
+        "username": "HgLamp41974",
+        "verified": false
+      }
+    ]
+  }
+}

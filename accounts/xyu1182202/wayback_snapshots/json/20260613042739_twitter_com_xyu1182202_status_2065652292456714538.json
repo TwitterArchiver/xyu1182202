@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2065444141132304670",
+    "created_at": "2026-06-13T04:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065652292456714538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028802782019596288",
+          "start": 0,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065652292456714538",
+    "in_reply_to_user_id": "2028802782019596288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065444141132304670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciallowo 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2065444141132304670",
+        "created_at": "2026-06-13T04:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065652292456714538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028802782019596288",
+              "start": 0,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065652292456714538",
+        "in_reply_to_user_id": "2028802782019596288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444141132304670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciallowo 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028802782019596288",
+        "conversation_id": "2065444141132304670",
+        "created_at": "2026-06-12T14:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065444141132304670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 164,
+              "id": "2028802782019596288",
+              "start": 155,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065444141132304670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1263,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，100fo啦喵，謝謝你們喵❤️！\n辦個小小的抽獎喵（雖然孩子錢不多qwq\n一等獎：5r\n二等獎：3r\n三等獎：2r\n僅支持微信讚賞碼轉喵\n（如果不要r可以給咱提一個 **合理** 的要求，不合理咱會拒絕喵\n\n參與方式：關注 點讚 轉發 評論\n6月13日晚上8點左右讓gork用命令行開獎喵\n最終解釋權歸 @ciallowo 所有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1017,
+          "like_count": 5356,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6174
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 11後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ryousuke05",
+                "end": 23,
+                "expanded_url": "http://github.com/Ryousuke05",
+                "start": 0,
+                "url": "https://t.co/ZkWmHQpNQa"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 323,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/ZkWmHQpNQa",
+        "username": "ciallowo",
+        "verified": true
+      }
+    ]
+  }
+}

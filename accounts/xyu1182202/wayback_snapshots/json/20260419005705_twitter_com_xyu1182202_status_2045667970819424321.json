@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045667970819424321",
+    "created_at": "2026-04-19T00:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045667970819424321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886385501130866688",
+          "start": 3,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045667970819424321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045572511895818446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral: 你们能不能都不要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045667970819424321",
+        "created_at": "2026-04-19T00:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045667970819424321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886385501130866688",
+              "start": 3,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045667970819424321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045572511895818446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral: 你们能不能都不要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2045572511895818446",
+        "created_at": "2026-04-18T18:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045572511895818446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045572511895818446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能都不要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 691,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 585,
+          "like_count": 44229,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 5772
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

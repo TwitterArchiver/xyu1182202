@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054341868658552832"
+      ],
+      "media_source_tweet_id": [
+        "2054341876728373299"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054538348644184111",
+    "created_at": "2026-05-13T12:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054538348644184111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759598042704207872",
+          "start": 3,
+          "username": "Oyama_Tsuimei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruYW49H5vB",
+          "end": 54,
+          "expanded_url": "https://x.com/Oyama_Tsuimei/status/2054341876728373299/photo/1",
+          "media_key": "3_2054341868658552832",
+          "start": 31,
+          "url": "https://t.co/ruYW49H5vB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054538348644184111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054341876728373299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oyama_Tsuimei: 所有人必须立刻马上学习 https://t.co/ruYW49H5vB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2054341868658552832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ9C5Ca8AA1bwq.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054341868658552832"
+          ],
+          "media_source_tweet_id": [
+            "2054341876728373299"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054538348644184111",
+        "created_at": "2026-05-13T12:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054538348644184111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759598042704207872",
+              "start": 3,
+              "username": "Oyama_Tsuimei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruYW49H5vB",
+              "end": 54,
+              "expanded_url": "https://x.com/Oyama_Tsuimei/status/2054341876728373299/photo/1",
+              "media_key": "3_2054341868658552832",
+              "start": 31,
+              "url": "https://t.co/ruYW49H5vB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054538348644184111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054341876728373299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oyama_Tsuimei: 所有人必须立刻马上学习 https://t.co/ruYW49H5vB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054341868658552832"
+          ]
+        },
+        "author_id": "1759598042704207872",
+        "conversation_id": "2054341876728373299",
+        "created_at": "2026-05-12T23:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054341876728373299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruYW49H5vB",
+              "end": 35,
+              "expanded_url": "https://x.com/Oyama_Tsuimei/status/2054341876728373299/photo/1",
+              "media_key": "3_2054341868658552832",
+              "start": 12,
+              "url": "https://t.co/ruYW49H5vB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054341876728373299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 23744,
+          "like_count": 1151,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "所有人必须立刻马上学习 https://t.co/ruYW49H5vB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 997,
+          "like_count": 5015,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5605
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "有象斯有对 对必反其为 有反斯有仇 仇必和而解\n也许不是人类\n没有米线，不吃压力\n可以叫我坠明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "旅行者的苍白之心",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036032927172280320/YJ3zUoFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1243,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3669
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": true
+      }
+    ]
+  }
+}

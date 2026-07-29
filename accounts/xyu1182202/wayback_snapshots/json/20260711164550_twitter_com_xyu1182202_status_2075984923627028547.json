@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075615889215328636",
+    "created_at": "2026-07-11T16:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075984923627028547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075984923627028547",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075615889215328636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 还好有媒体曝光"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2075615421957296128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4ROqwWUAACg7e.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075615889215328636",
+        "created_at": "2026-07-11T16:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075984923627028547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075984923627028547",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075615889215328636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 还好有媒体曝光"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075615421957296128"
+          ]
+        },
+        "author_id": "2060945493195116549",
+        "conversation_id": "2075615889215328636",
+        "created_at": "2026-07-10T16:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075615889215328636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlohOYxLL9",
+              "end": 23,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2075615889215328636/photo/1",
+              "media_key": "3_2075615421957296128",
+              "start": 0,
+              "url": "https://t.co/hlohOYxLL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075615889215328636",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3997,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hlohOYxLL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1054,
+          "like_count": 5345,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 6472
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "可能认识？❌见证，没有任何立场｜10年的幼稚小孩｜友🏳️‍⚧️🏳️‍🌈｜可互fo｜日常推号｜偶尔精神病发作｜不喜欢请回避拉黑|座右铭:不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/buzhimingdeyia…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/buzhimingdeyiai1",
+                "start": 0,
+                "url": "https://t.co/ulViwEzGUF"
+              }
+            ]
+          }
+        },
+        "id": "2060945493195116549",
+        "location": "Cape Morris Jesup",
+        "name": "小翌不是翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2063522560889798739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 192,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/ulViwEzGUF",
+        "username": "buzhimingdeyiai",
+        "verified": true
+      }
+    ]
+  }
+}

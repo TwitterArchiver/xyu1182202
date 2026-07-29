@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052985183293579294",
+    "created_at": "2026-05-09T05:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052985183293579294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 37,
+          "id": "1802704441961017344",
+          "start": 24,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052985183293579294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052906993602686994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 紧急： @misumikaede3 疑似有自杀倾向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052985183293579294",
+        "created_at": "2026-05-09T05:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052985183293579294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 37,
+              "id": "1802704441961017344",
+              "start": 24,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985183293579294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052906993602686994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 紧急： @misumikaede3 疑似有自杀倾向"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2052906993602686994",
+        "created_at": "2026-05-09T00:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052906993602686994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1802704441961017344",
+              "start": 4,
+              "username": "misumikaede3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2052899050924749187",
+              "start": 26,
+              "url": "https://t.co/Px7FNnNup1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052906993602686994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1254,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052899050924749187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "紧急： @misumikaede3 疑似有自杀倾向 https://t.co/Px7FNnNup1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 982,
+          "like_count": 4903,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5468
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 124,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 101,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 810,
+          "like_count": 18795,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 5530
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（并非）enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#柳宿六",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1119,
+          "like_count": 31863,
+          "listed_count": 6,
+          "media_count": 285,
+          "tweet_count": 9683
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

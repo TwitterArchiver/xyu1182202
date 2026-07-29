@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2076131517546311744",
+    "created_at": "2026-07-13T03:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076511253900750960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2011701864161820674",
+          "start": 0,
+          "username": "manke1114"
+        },
+        {
+          "end": 20,
+          "id": "2026283442259017729",
+          "start": 11,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076511253900750960",
+    "in_reply_to_user_id": "2011701864161820674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076151667033248251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manke1114 @bigjusir 还真是😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2076131517546311744",
+        "created_at": "2026-07-13T03:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076511253900750960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2011701864161820674",
+              "start": 0,
+              "username": "manke1114"
+            },
+            {
+              "end": 20,
+              "id": "2026283442259017729",
+              "start": 11,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076511253900750960",
+        "in_reply_to_user_id": "2011701864161820674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076151667033248251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manke1114 @bigjusir 还真是😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011701864161820674",
+        "conversation_id": "2076131517546311744",
+        "created_at": "2026-07-12T03:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076151667033248251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076151667033248251",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1438,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076131517546311744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 爱国是一门生意，反共也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1054,
+          "like_count": 5342,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 6504
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T07:28:02.000Z",
+        "description": "🫪🫪🫪🫪🫪🫪🫪🫪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/manke2026?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/manke2026?s=21",
+                "start": 0,
+                "url": "https://t.co/hL8t0Jgy9U"
+              }
+            ]
+          }
+        },
+        "id": "2011701864161820674",
+        "location": "シナ共和国 小号：",
+        "name": "下推自动机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047370155685212161/yIptcaKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 75,
+          "like_count": 88,
+          "listed_count": 4,
+          "media_count": 14,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/hL8t0Jgy9U",
+        "username": "manke1114",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 2067,
+          "like_count": 5642,
+          "listed_count": 10,
+          "media_count": 666,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

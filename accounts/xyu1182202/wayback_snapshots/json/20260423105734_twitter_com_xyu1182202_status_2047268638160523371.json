@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047173119153188864"
+      ],
+      "media_source_tweet_id": [
+        "2047173144511992293"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047268638160523371",
+    "created_at": "2026-04-23T10:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047268638160523371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNqxTxrTSv",
+          "end": 50,
+          "expanded_url": "https://x.com/smiroyama/status/2047173144511992293/photo/1",
+          "media_key": "3_2047173119153188864",
+          "start": 27,
+          "url": "https://t.co/VNqxTxrTSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047268638160523371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047173144511992293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 矛盾的喜悲，矛盾的人生 https://t.co/VNqxTxrTSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047173119153188864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkFGwDasAAfOdi.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047173119153188864"
+          ],
+          "media_source_tweet_id": [
+            "2047173144511992293"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047268638160523371",
+        "created_at": "2026-04-23T10:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047268638160523371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNqxTxrTSv",
+              "end": 50,
+              "expanded_url": "https://x.com/smiroyama/status/2047173144511992293/photo/1",
+              "media_key": "3_2047173119153188864",
+              "start": 27,
+              "url": "https://t.co/VNqxTxrTSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047268638160523371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047173144511992293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 矛盾的喜悲，矛盾的人生 https://t.co/VNqxTxrTSv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047173119153188864"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047173144511992293",
+        "created_at": "2026-04-23T04:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047173144511992293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNqxTxrTSv",
+              "end": 35,
+              "expanded_url": "https://x.com/smiroyama/status/2047173144511992293/photo/1",
+              "media_key": "3_2047173119153188864",
+              "start": 12,
+              "url": "https://t.co/VNqxTxrTSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047173144511992293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 26699,
+          "like_count": 1030,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "矛盾的喜悲，矛盾的人生 https://t.co/VNqxTxrTSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046971761930170599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 801,
+          "like_count": 3277,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3987
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\ndev https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 63,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 40,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3607,
+          "following_count": 1977,
+          "like_count": 8540,
+          "listed_count": 9,
+          "media_count": 1267,
+          "tweet_count": 5259
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

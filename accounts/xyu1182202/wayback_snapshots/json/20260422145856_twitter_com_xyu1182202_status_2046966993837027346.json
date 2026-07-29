@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046959566920032674",
+    "created_at": "2026-04-22T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046966993837027346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046966993837027346",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046959566920032674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 停下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046959566920032674",
+        "created_at": "2026-04-22T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046966993837027346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046966993837027346",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046959566920032674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 停下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2046959566920032674",
+        "created_at": "2026-04-22T14:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046959566920032674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ciallo_114_514…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Ciallo_114_514/status/2046959205954077123",
+              "start": 21,
+              "url": "https://t.co/uIzvjtJoDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046959566920032674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046959205954077123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22500mg头孢+500ml啤酒 试验 https://t.co/uIzvjtJoDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046887449239134423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 793,
+          "like_count": 3242,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 674,
+          "like_count": 1855,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 3426
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

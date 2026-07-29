@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050073563017925059",
+    "created_at": "2026-05-02T14:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050582681403232711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906356680511950848",
+          "start": 0,
+          "username": "TSKrwglq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050582681403232711",
+    "in_reply_to_user_id": "1906356680511950848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050572311024267387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSKrwglq 乖哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050073563017925059",
+        "created_at": "2026-05-02T14:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050582681403232711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906356680511950848",
+              "start": 0,
+              "username": "TSKrwglq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050582681403232711",
+        "in_reply_to_user_id": "1906356680511950848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050572311024267387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSKrwglq 乖哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906356680511950848",
+        "conversation_id": "2050073563017925059",
+        "created_at": "2026-05-02T13:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050572311024267387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050572311024267387",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050395856063635765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 喵～不要啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 932,
+          "like_count": 4195,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 4944
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "无证含糖|绪山真寻厨|操作系统爱好者|生产日期：2011/3/9|HRT日期：2025/8/9|已出柜",
+        "id": "1906356680511950848",
+        "location": "航天基地",
+        "name": "水月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 120,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 126
+        },
+        "username": "TSKrwglq",
+        "verified": false
+      }
+    ]
+  }
+}

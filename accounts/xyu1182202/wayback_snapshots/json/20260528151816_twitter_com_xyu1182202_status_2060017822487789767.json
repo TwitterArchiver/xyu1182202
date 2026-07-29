@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059987314970128384",
+        "3_2059987314869403648",
+        "3_2059987314865221632"
+      ],
+      "media_source_tweet_id": [
+        "2059987469253353839",
+        "2059987469253353839",
+        "2059987469253353839"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060017822487789767",
+    "created_at": "2026-05-28T15:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060017822487789767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054877291633909760",
+          "start": 3,
+          "username": "TransYuwen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RTqFQyXTEK",
+          "end": 83,
+          "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+          "media_key": "3_2059987314970128384",
+          "start": 60,
+          "url": "https://t.co/RTqFQyXTEK"
+        },
+        {
+          "display_url": "pic.x.com/RTqFQyXTEK",
+          "end": 83,
+          "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+          "media_key": "3_2059987314869403648",
+          "start": 60,
+          "url": "https://t.co/RTqFQyXTEK"
+        },
+        {
+          "display_url": "pic.x.com/RTqFQyXTEK",
+          "end": 83,
+          "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+          "media_key": "3_2059987314865221632",
+          "start": 60,
+          "url": "https://t.co/RTqFQyXTEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060017822487789767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059987469253353839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransYuwen: 冰棍疑似要遭到大手红头文件制裁\n群内一百三十个人都要被抓一遍\n还好我名声不好早被踢了🤓 https://t.co/RTqFQyXTEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2059987314970128384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaLjHaa8AAHHKA.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2059987314869403648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaLjHCaAAA6XxZ.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2059987314865221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaLjHBaMAA7zJM.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059987314970128384",
+            "3_2059987314869403648",
+            "3_2059987314865221632"
+          ],
+          "media_source_tweet_id": [
+            "2059987469253353839",
+            "2059987469253353839",
+            "2059987469253353839"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060017822487789767",
+        "created_at": "2026-05-28T15:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060017822487789767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054877291633909760",
+              "start": 3,
+              "username": "TransYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTqFQyXTEK",
+              "end": 83,
+              "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+              "media_key": "3_2059987314970128384",
+              "start": 60,
+              "url": "https://t.co/RTqFQyXTEK"
+            },
+            {
+              "display_url": "pic.x.com/RTqFQyXTEK",
+              "end": 83,
+              "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+              "media_key": "3_2059987314869403648",
+              "start": 60,
+              "url": "https://t.co/RTqFQyXTEK"
+            },
+            {
+              "display_url": "pic.x.com/RTqFQyXTEK",
+              "end": 83,
+              "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+              "media_key": "3_2059987314865221632",
+              "start": 60,
+              "url": "https://t.co/RTqFQyXTEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060017822487789767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059987469253353839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransYuwen: 冰棍疑似要遭到大手红头文件制裁\n群内一百三十个人都要被抓一遍\n还好我名声不好早被踢了🤓 https://t.co/RTqFQyXTEK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059987314970128384",
+            "3_2059987314869403648",
+            "3_2059987314865221632"
+          ]
+        },
+        "author_id": "2054877291633909760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059987469253353839",
+        "created_at": "2026-05-28T13:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059987469253353839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTqFQyXTEK",
+              "end": 67,
+              "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+              "media_key": "3_2059987314970128384",
+              "start": 44,
+              "url": "https://t.co/RTqFQyXTEK"
+            },
+            {
+              "display_url": "pic.x.com/RTqFQyXTEK",
+              "end": 67,
+              "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+              "media_key": "3_2059987314869403648",
+              "start": 44,
+              "url": "https://t.co/RTqFQyXTEK"
+            },
+            {
+              "display_url": "pic.x.com/RTqFQyXTEK",
+              "end": 67,
+              "expanded_url": "https://x.com/TransYuwen/status/2059987469253353839/photo/1",
+              "media_key": "3_2059987314865221632",
+              "start": 44,
+              "url": "https://t.co/RTqFQyXTEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059987469253353839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冰棍疑似要遭到大手红头文件制裁\n群内一百三十个人都要被抓一遍\n还好我名声不好早被踢了🤓 https://t.co/RTqFQyXTEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1013,
+          "like_count": 5296,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5973
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NOMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NOMTF.COM",
+                "start": 0,
+                "url": "https://t.co/2tRpR1PlKO"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2059156604088643849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 41,
+          "like_count": 258,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/2tRpR1PlKO",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

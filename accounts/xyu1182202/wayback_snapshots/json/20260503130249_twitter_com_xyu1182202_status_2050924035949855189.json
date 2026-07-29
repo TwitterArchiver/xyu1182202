@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2050924035949855189",
+    "created_at": "2026-05-03T13:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050924035949855189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2013517011729465344",
+          "start": 3,
+          "username": "RfbxaUauj41685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050924035949855189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050914477030388011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RfbxaUauj41685: 竟然已经到200fo了，继续开个奖吧\n\n一等奖：普瑞巴林（折现17）\n二等奖：5.2r红包\n\n点赞关注转发即可🐱\n\n5.5号grok开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2050924035949855189",
+        "created_at": "2026-05-03T13:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050924035949855189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2013517011729465344",
+              "start": 3,
+              "username": "RfbxaUauj41685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050924035949855189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050914477030388011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RfbxaUauj41685: 竟然已经到200fo了，继续开个奖吧\n\n一等奖：普瑞巴林（折现17）\n二等奖：5.2r红包\n\n点赞关注转发即可🐱\n\n5.5号grok开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2050914477030388011",
+        "created_at": "2026-05-03T12:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050914477030388011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050914477030388011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "竟然已经到200fo了，继续开个奖吧\n\n一等奖：普瑞巴林（折现17）\n二等奖：5.2r红包\n\n点赞关注转发即可🐱\n\n5.5号grok开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 935,
+          "like_count": 4259,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 4992
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 85,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

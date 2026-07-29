@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052951236673249430",
+    "created_at": "2026-05-09T15:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053128771457495510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040203145544880128",
+          "start": 0,
+          "username": "iWwAUfN9Eo50488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053128771457495510",
+    "in_reply_to_user_id": "2040203145544880128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052951236673249430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iWwAUfN9Eo50488 可能是我比较贫穷我感觉还行?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052951132046249984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2MLXbaUAA8NaG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052951236673249430",
+        "created_at": "2026-05-09T15:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053128771457495510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040203145544880128",
+              "start": 0,
+              "username": "iWwAUfN9Eo50488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053128771457495510",
+        "in_reply_to_user_id": "2040203145544880128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052951236673249430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iWwAUfN9Eo50488 可能是我比较贫穷我感觉还行?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052951132046249984"
+          ]
+        },
+        "author_id": "2040203145544880128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052951236673249430",
+        "created_at": "2026-05-09T03:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052951236673249430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssMLSPvg2Y",
+              "end": 34,
+              "expanded_url": "https://x.com/iWwAUfN9Eo50488/status/2052951236673249430/photo/1",
+              "media_key": "3_2052951132046249984",
+              "start": 11,
+              "url": "https://t.co/ssMLSPvg2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052951236673249430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 576,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校餐盘（好难吃😣） https://t.co/ssMLSPvg2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 984,
+          "like_count": 4921,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5487
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T23:02:47.000Z",
+        "description": "hrt/08 1.18高中牲 /odo的多一点💊/不🔪\n闲聊找我/私信看见会回/爱好咖啡/💊/书法/🚬\n（求你们和我唠嗑吧😭）",
+        "id": "2040203145544880128",
+        "name": "321908🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040341735541477376/sjwX1z81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 105,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 398
+        },
+        "username": "iWwAUfN9Eo50488",
+        "verified": false
+      }
+    ]
+  }
+}

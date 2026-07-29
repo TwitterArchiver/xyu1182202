@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039318009408610353",
+    "created_at": "2026-04-03T04:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039928494050992263"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039928494050992263",
+    "in_reply_to_user_id": "2017878602164088832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039318009408610353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亚甲基蓝=亚甲蓝🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039318009408610353",
+        "created_at": "2026-04-03T04:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039928494050992263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039928494050992263",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039318009408610353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亚甲基蓝=亚甲蓝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039318009408610353",
+        "created_at": "2026-04-01T12:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039318009408610353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039318009408610353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现超高剂量的维生素C+氧气面罩可以暂时缓解亚硝酸钠中毒（最好还是用亚甲蓝解毒）🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 499
+        },
+        "username": "xyu1182202",
+        "verified": false
+      }
+    ]
+  }
+}

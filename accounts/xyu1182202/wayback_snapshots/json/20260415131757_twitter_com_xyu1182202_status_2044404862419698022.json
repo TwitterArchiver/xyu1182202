@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044349917725138975",
+    "created_at": "2026-04-15T13:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044404862419698022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829558386796482565",
+          "start": 0,
+          "username": "GLgl9685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044404862419698022",
+    "in_reply_to_user_id": "1829558386796482565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044404142421250186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLgl9685 不可能有国内版的，最多港版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044349917725138975",
+        "created_at": "2026-04-15T13:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044404862419698022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829558386796482565",
+              "start": 0,
+              "username": "GLgl9685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044404862419698022",
+        "in_reply_to_user_id": "1829558386796482565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044404142421250186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLgl9685 不可能有国内版的，最多港版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829558386796482565",
+        "conversation_id": "2044349917725138975",
+        "created_at": "2026-04-15T13:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044404142421250186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044404142421250186",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044349917725138975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 放心，国内版肯定会各种阉割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 607,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T16:34:56.000Z",
+        "description": "/在校穷鬼大学生/HEMA爱好者以及刀剑爱好者/友跨🏳️️‍⚧️/",
+        "id": "1829558386796482565",
+        "location": "哪里都是",
+        "name": "广林🏳️‍🌈",
+        "pinned_tweet_id": "2029246165775155427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012486256899264512/t01ju9jR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 581,
+          "like_count": 3887,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2267
+        },
+        "username": "GLgl9685",
+        "verified": false
+      }
+    ]
+  }
+}

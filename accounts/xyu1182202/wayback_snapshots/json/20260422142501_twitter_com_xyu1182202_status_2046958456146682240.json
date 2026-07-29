@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046958456146682240",
+    "created_at": "2026-04-22T14:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046958456146682240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870084330267217920",
+          "start": 3,
+          "username": "annregato1500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046958456146682240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046813251040911767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @annregato1500: 觉得朋友状态不对，喊她去医院做检查，确诊重度抑郁。但她本人对此表示震惊，完全不觉得自己有重度抑郁。。大陆人还是太难杀了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046958456146682240",
+        "created_at": "2026-04-22T14:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046958456146682240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870084330267217920",
+              "start": 3,
+              "username": "annregato1500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046958456146682240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046813251040911767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @annregato1500: 觉得朋友状态不对，喊她去医院做检查，确诊重度抑郁。但她本人对此表示震惊，完全不觉得自己有重度抑郁。。大陆人还是太难杀了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870084330267217920",
+        "conversation_id": "2046813251040911767",
+        "created_at": "2026-04-22T04:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046813251040911767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046813251040911767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9961,
+          "like_count": 140,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "觉得朋友状态不对，喊她去医院做检查，确诊重度抑郁。但她本人对此表示震惊，完全不觉得自己有重度抑郁。。大陆人还是太难杀了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046887449239134423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 793,
+          "like_count": 3231,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3937
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:30:42.000Z",
+        "description": "les / base japan 川渝 /不要叫我老婆\n单身 无亲密关系",
+        "id": "1870084330267217920",
+        "name": "annregato",
+        "pinned_tweet_id": "2038953035356098590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994599477571923968/ddEcadpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 518,
+          "like_count": 11102,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 4115
+        },
+        "username": "annregato1500",
+        "verified": false
+      }
+    ]
+  }
+}

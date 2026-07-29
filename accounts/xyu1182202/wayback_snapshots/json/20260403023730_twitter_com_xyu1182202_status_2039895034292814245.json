@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039724164995752138",
+    "created_at": "2026-04-03T02:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039895034292814245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947070837964800",
+          "start": 0,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039895034292814245",
+    "in_reply_to_user_id": "1880947070837964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039724164995752138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guillermin45548 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039724164995752138",
+        "created_at": "2026-04-03T02:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039895034292814245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039895034292814245",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039724164995752138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880947070837964800",
+        "conversation_id": "2039724164995752138",
+        "created_at": "2026-04-02T15:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039724164995752138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039724164995752138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7415,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天我生日😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 78,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 469
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2038790857013481725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146294750240768/atsWlS0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13887,
+          "following_count": 82,
+          "like_count": 929,
+          "listed_count": 13,
+          "media_count": 319,
+          "tweet_count": 1522
+        },
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

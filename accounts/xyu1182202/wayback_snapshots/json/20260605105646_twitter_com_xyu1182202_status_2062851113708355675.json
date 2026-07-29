@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062166509594808320"
+      ],
+      "media_source_tweet_id": [
+        "2062166535884734601"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2062851113708355675",
+    "created_at": "2026-06-05T10:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062851113708355675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054196065172344832",
+          "start": 3,
+          "username": "GptRainy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fqz8npNKCM",
+          "end": 51,
+          "expanded_url": "https://x.com/GptRainy/status/2062166535884734601/photo/1",
+          "media_key": "3_2062166509594808320",
+          "start": 28,
+          "url": "https://t.co/Fqz8npNKCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062851113708355675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062166535884734601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @GptRainy: 感觉我一家人是推特互关。。 https://t.co/Fqz8npNKCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2062166509594808320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Jg8AbEAASKUA.jpg",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062166509594808320"
+          ],
+          "media_source_tweet_id": [
+            "2062166535884734601"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2062851113708355675",
+        "created_at": "2026-06-05T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062851113708355675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054196065172344832",
+              "start": 3,
+              "username": "GptRainy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fqz8npNKCM",
+              "end": 51,
+              "expanded_url": "https://x.com/GptRainy/status/2062166535884734601/photo/1",
+              "media_key": "3_2062166509594808320",
+              "start": 28,
+              "url": "https://t.co/Fqz8npNKCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062851113708355675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062166535884734601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @GptRainy: 感觉我一家人是推特互关。。 https://t.co/Fqz8npNKCM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062166509594808320"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-03T13:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062166535884734601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fqz8npNKCM",
+              "end": 37,
+              "expanded_url": "https://x.com/GptRainy/status/2062166535884734601/photo/1",
+              "media_key": "3_2062166509594808320",
+              "start": 14,
+              "url": "https://t.co/Fqz8npNKCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062166535884734601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 472699,
+          "like_count": 521,
+          "quote_count": 12,
+          "reply_count": 426,
+          "retweet_count": 19
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "感觉我一家人是推特互关。。 https://t.co/Fqz8npNKCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1017,
+          "like_count": 5350,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6105
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 199,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

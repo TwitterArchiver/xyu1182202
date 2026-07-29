@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042126132338946085",
+    "created_at": "2026-04-09T11:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042198671933296718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikachanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042198671933296718",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042126132338946085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikachanqwq 那不得不学了🤓🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042126132338946085",
+        "created_at": "2026-04-09T11:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042198671933296718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikachanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042198671933296718",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042126132338946085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikachanqwq 那不得不学了🤓🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766644305660420096",
+        "conversation_id": "2042126132338946085",
+        "created_at": "2026-04-09T06:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042126132338946085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/bghtnya/status/2042068465398509986",
+              "start": 20,
+              "url": "https://t.co/RqbaKXoQGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042126132338946085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042068465398509986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过学计算机会乖乖套上女装当主人的小狗 https://t.co/RqbaKXoQGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 360,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "精̴̢̪̾͊̄神̵̘͍͛不̸̥̞̰̉̋́穩̶̼̲͒定̵̳̑͘\n我是小貓🐱\n高一/🏳️‍⚧️MtF/座標上海/\nhrt🍥114.09.30/🍰98.12.22/家長否定/181/斷糖/國男\n左翼民國派🇹🇼\n抱抱可愛的姊姊們 @xshxXXXXXXX @Yyyyy_pog @Alian123_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Alian123_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "小貓民國　上海市",
+        "name": "すいかちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020799650144415825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040622993647550464/tyymAl98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1770,
+          "like_count": 14367,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 7633
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikachanqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2050928108530966920",
+    "created_at": "2026-05-03T15:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050959248621031487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        },
+        {
+          "end": 20,
+          "id": "2018986573090717696",
+          "start": 9,
+          "username": "xhFK114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050959248621031487",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050933741938245919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxyzcdb @xhFK114514 义无反顾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_2050933734870806528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZhXZTW8AAhhHk.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2050928108530966920",
+        "created_at": "2026-05-03T15:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050959248621031487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            },
+            {
+              "end": 20,
+              "id": "2018986573090717696",
+              "start": 9,
+              "username": "xhFK114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050959248621031487",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050933741938245919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb @xhFK114514 义无反顾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050933734870806528"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2050928108530966920",
+        "created_at": "2026-05-03T13:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050933741938245919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018986573090717696",
+              "start": 0,
+              "username": "xhFK114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMyr76gZ44",
+              "end": 45,
+              "expanded_url": "https://x.com/mxyzcdb/status/2050933741938245919/photo/1",
+              "media_key": "3_2050933734870806528",
+              "start": 22,
+              "url": "https://t.co/vMyr76gZ44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050933741938245919",
+        "in_reply_to_user_id": "2018986573090717696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050928108530966920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhFK114514 ill这话挺灵验的 https://t.co/vMyr76gZ44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 936,
+          "like_count": 4276,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5003
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/rpnd1q3uqu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "pinned_tweet_id": "2048978988438011994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 382,
+          "like_count": 4794,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2352
+        },
+        "url": "https://t.co/rpnd1q3uqu",
+        "username": "mxyzcdb",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️/社恐/高三生/无糖(?)/含糖(?)/不od/不割手/互关/喵\n❤️❤️❤️❤️❤️：@ruoruoruoMing\n意义重大的日子：2026年3月15日/2026年3月29日/2026年5月2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2041177750397223088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 700,
+          "like_count": 3067,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 473
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

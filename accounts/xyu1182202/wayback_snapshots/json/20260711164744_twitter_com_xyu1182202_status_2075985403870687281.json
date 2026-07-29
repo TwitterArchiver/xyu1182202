@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075848083653664768"
+      ],
+      "media_source_tweet_id": [
+        "2075848091144429856"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075985403870687281",
+    "created_at": "2026-07-11T16:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075985403870687281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954874019947384832",
+          "start": 3,
+          "username": "CuteCatGYH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVrFhRBp7m",
+          "end": 87,
+          "expanded_url": "https://x.com/CuteCatGYH/status/2075848091144429856/photo/1",
+          "media_key": "3_2075848083653664768",
+          "start": 64,
+          "url": "https://t.co/NVrFhRBp7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075985403870687281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075848091144429856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteCatGYH: 何意味，sb 吗？就逮着 mtf 薅流量是吧，还 tm 全是刻板印象，你 B站真的是盛产神人🤮 https://t.co/NVrFhRBp7m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2075848083653664768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7k1XHaIAArTD1.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075848083653664768"
+          ],
+          "media_source_tweet_id": [
+            "2075848091144429856"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075985403870687281",
+        "created_at": "2026-07-11T16:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075985403870687281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954874019947384832",
+              "start": 3,
+              "username": "CuteCatGYH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVrFhRBp7m",
+              "end": 87,
+              "expanded_url": "https://x.com/CuteCatGYH/status/2075848091144429856/photo/1",
+              "media_key": "3_2075848083653664768",
+              "start": 64,
+              "url": "https://t.co/NVrFhRBp7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075985403870687281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075848091144429856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteCatGYH: 何意味，sb 吗？就逮着 mtf 薅流量是吧，还 tm 全是刻板印象，你 B站真的是盛产神人🤮 https://t.co/NVrFhRBp7m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075848083653664768"
+          ]
+        },
+        "author_id": "1954874019947384832",
+        "conversation_id": "2075848091144429856",
+        "created_at": "2026-07-11T07:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075848091144429856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVrFhRBp7m",
+              "end": 71,
+              "expanded_url": "https://x.com/CuteCatGYH/status/2075848091144429856/photo/1",
+              "media_key": "3_2075848083653664768",
+              "start": 48,
+              "url": "https://t.co/NVrFhRBp7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075848091144429856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2858,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "何意味，sb 吗？就逮着 mtf 薅流量是吧，还 tm 全是刻板印象，你 B站真的是盛产神人🤮 https://t.co/NVrFhRBp7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1055,
+          "like_count": 5345,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 6477
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T11:54:33.000Z",
+        "description": "08 年小朋友 | 失业ing | 躺平 | 懒癌晚期患者 | 爱好航拍摄影和睡觉 | 喜欢做任何自己喜欢的事 | 住在青青的岛 |🏳️‍⚧️HRT:2025.09.05| 同类互 fo| 中度玉玉\n小朋友：@meow_huan 好朋友：@hry_xsu\n@RainEngine2024 前女友（？\n爱你们喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "meow_huan"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "hry_xsu"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1954874019947384832",
+        "location": "附近 2000km 内",
+        "name": "憧憬成为魔法少女🍥",
+        "pinned_tweet_id": "2055245713299349599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042964461594775552/XOsYSZFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 67,
+          "like_count": 3307,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "CuteCatGYH",
+        "verified": true
+      }
+    ]
+  }
+}

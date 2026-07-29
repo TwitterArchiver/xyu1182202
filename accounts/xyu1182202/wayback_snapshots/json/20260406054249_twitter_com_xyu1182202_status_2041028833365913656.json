@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040832538705580206",
+    "created_at": "2026-04-06T05:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041028833365913656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1910749531161190400",
+          "start": 0,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041028833365913656",
+    "in_reply_to_user_id": "1910749531161190400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040832538705580206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r0x_ht 🤓🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040832538705580206",
+        "created_at": "2026-04-06T05:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041028833365913656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1910749531161190400",
+              "start": 0,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041028833365913656",
+        "in_reply_to_user_id": "1910749531161190400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040832538705580206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r0x_ht 🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910749531161190400",
+        "conversation_id": "2040832538705580206",
+        "created_at": "2026-04-05T16:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040832538705580206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040832538705580206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8080,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我翻墙不是来看黄推的吗，我怎么自己变成黄推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 236,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36580,
+          "following_count": 9,
+          "like_count": 485,
+          "listed_count": 70,
+          "media_count": 136,
+          "tweet_count": 439
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

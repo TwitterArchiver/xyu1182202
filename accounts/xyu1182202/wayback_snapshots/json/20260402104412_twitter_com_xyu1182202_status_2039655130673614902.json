@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039563286392557781",
+    "created_at": "2026-04-02T10:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039655130673614902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691937358944583682",
+          "start": 0,
+          "username": "KanoeYuukoSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039655130673614902",
+    "in_reply_to_user_id": "1691937358944583682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039563286392557781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoeYuukoSama 自我介绍😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039563286392557781",
+        "created_at": "2026-04-02T10:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039655130673614902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691937358944583682",
+              "start": 0,
+              "username": "KanoeYuukoSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039655130673614902",
+        "in_reply_to_user_id": "1691937358944583682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039563286392557781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoeYuukoSama 自我介绍😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691937358944583682",
+        "conversation_id": "2039563286392557781",
+        "created_at": "2026-04-02T04:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039563286392557781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039563286392557781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2516,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支人智力好低，超过50字内容疑似会破坏支人大脑\n话说的略微隐晦了也不行，他们看不懂\n骂得太直接也不行，他们会气的爆炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 54,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 336
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T22:18:11.000Z",
+        "description": "Progressivism 对小彩虹进行友谊计划，空间翘曲导弹 发射！ 远星号太空艇@KokkoroChyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "KokkoroChyan"
+              }
+            ]
+          }
+        },
+        "id": "1691937358944583682",
+        "location": "川陀",
+        "name": "Kanoe Yuuko",
+        "pinned_tweet_id": "1981669959412621605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008793918192971778/X-dI886j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 628,
+          "like_count": 73902,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 11925
+        },
+        "username": "KanoeYuukoSama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042463680831635457"
+      ],
+      "media_source_tweet_id": [
+        "2042463691774537859"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042484212897628210",
+    "created_at": "2026-04-10T06:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042484212897628210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008812080099672064",
+          "start": 3,
+          "username": "Xiaoyi_0324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kN1aMvC3KF",
+          "end": 50,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2042463691774537859/photo/1",
+          "media_key": "3_2042463680831635457",
+          "start": 27,
+          "url": "https://t.co/kN1aMvC3KF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042484212897628210",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042463691774537859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyi_0324: 你发你雷霆啊我去了 https://t.co/kN1aMvC3KF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2042463680831635457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhJ5XKbQAEqcnU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042463680831635457"
+          ],
+          "media_source_tweet_id": [
+            "2042463691774537859"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042484212897628210",
+        "created_at": "2026-04-10T06:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042484212897628210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008812080099672064",
+              "start": 3,
+              "username": "Xiaoyi_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kN1aMvC3KF",
+              "end": 50,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2042463691774537859/photo/1",
+              "media_key": "3_2042463680831635457",
+              "start": 27,
+              "url": "https://t.co/kN1aMvC3KF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042484212897628210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042463691774537859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyi_0324: 你发你雷霆啊我去了 https://t.co/kN1aMvC3KF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042463680831635457"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042463691774537859",
+        "created_at": "2026-04-10T04:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042463691774537859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kN1aMvC3KF",
+              "end": 33,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2042463691774537859/photo/1",
+              "media_key": "3_2042463680831635457",
+              "start": 10,
+              "url": "https://t.co/kN1aMvC3KF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042463691774537859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你发你雷霆啊我去了 https://t.co/kN1aMvC3KF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 391,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n负面情绪致歉｜直fo成分回｜MTX(F?)｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM @Z348457376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Z348457376"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 129,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

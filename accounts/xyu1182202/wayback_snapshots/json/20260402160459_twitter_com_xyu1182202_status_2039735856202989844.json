@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039711089059856645",
+    "created_at": "2026-04-02T16:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039735856202989844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1710987377722720256",
+          "start": 0,
+          "username": "intqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039735856202989844",
+    "in_reply_to_user_id": "1710987377722720256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039711089059856645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intqwq 这玩意是苦的换一种吧，不，干脆暂时别这样了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039711089059856645",
+        "created_at": "2026-04-02T16:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039735856202989844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1710987377722720256",
+              "start": 0,
+              "username": "intqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039735856202989844",
+        "in_reply_to_user_id": "1710987377722720256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039711089059856645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intqwq 这玩意是苦的换一种吧，不，干脆暂时别这样了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710987377722720256",
+        "conversation_id": "2039711089059856645",
+        "created_at": "2026-04-02T14:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039711089059856645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039711089059856645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才刚买碳酸钡\n就有个糖比报警说我要自杀\n110 120都来了，动静巨大无比\n全校都知道我要自杀了\n还带我去做了个笔录\n糖飞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 66,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 373
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T11:56:29.000Z",
+        "description": "HRT2026.3.9｜深（？）柜｜od不zc｜抑郁｜INTP｜信竞生｜物理建模｜竞赛失利｜苦逼高中生｜投资韭菜｜音游fvv｜打cs",
+        "id": "1710987377722720256",
+        "name": "喵喵喵qwq🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037112209504165893/VVFZeIXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 68,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 21
+        },
+        "username": "intqwq",
+        "verified": false
+      }
+    ]
+  }
+}

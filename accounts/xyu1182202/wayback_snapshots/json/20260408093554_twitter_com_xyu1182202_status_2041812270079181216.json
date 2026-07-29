@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041757958670053712",
+    "created_at": "2026-04-08T09:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041812270079181216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906983076032372736",
+          "start": 0,
+          "username": "uhghggyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041812270079181216",
+    "in_reply_to_user_id": "1906983076032372736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041757958670053712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhghggyu 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041757958670053712",
+        "created_at": "2026-04-08T09:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041812270079181216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906983076032372736",
+              "start": 0,
+              "username": "uhghggyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041812270079181216",
+        "in_reply_to_user_id": "1906983076032372736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041757958670053712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhghggyu 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906983076032372736",
+        "conversation_id": "2041757958670053712",
+        "created_at": "2026-04-08T06:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041757958670053712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041757958670053712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠，真有有钱人给我转328"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 295,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1447
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T08:13:20.000Z",
+        "description": "11年/年龄党/无证含🍭 / MTF 一只/好想变成女孩子www/未出柜/爱听国摇/喜欢绒布娃娃/至于剩下的还没想好",
+        "id": "1906983076032372736",
+        "name": "爱丽丝🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975150471385075713/oVgW1gWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 103,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 165
+        },
+        "username": "uhghggyu",
+        "verified": true
+      }
+    ]
+  }
+}

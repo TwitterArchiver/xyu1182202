@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054479513908916695",
+    "created_at": "2026-05-13T12:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054545331761930249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054545331761930249",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054479513908916695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 不要"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054479513908916695].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054479513908916695",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054479513908916695"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054479513908916695",
+        "created_at": "2026-05-13T12:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054545331761930249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054545331761930249",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479513908916695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 998,
+          "like_count": 5018,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5613
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054442219831165294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 3781,
+          "like_count": 36076,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 9683
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039358052009488765",
+    "created_at": "2026-04-02T10:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039649753928187941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039649753928187941",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039358052009488765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 这下永久了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2039358049773817856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1BV16aEAAHQJM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039358052009488765",
+        "created_at": "2026-04-02T10:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039649753928187941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039649753928187941",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039358052009488765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这下永久了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039358049773817856"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039358052009488765",
+        "created_at": "2026-04-01T15:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039358052009488765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzJF98LCzO",
+              "end": 37,
+              "expanded_url": "https://x.com/hsn8086k/status/2039358052009488765/photo/1",
+              "media_key": "3_2039358049773817856",
+              "start": 14,
+              "url": "https://t.co/DzJF98LCzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039358052009488765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 17239,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我趣, 这不对吧, 补药啊 https://t.co/DzJF98LCzO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 54,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 332
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 216,
+          "like_count": 6784,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 1765
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

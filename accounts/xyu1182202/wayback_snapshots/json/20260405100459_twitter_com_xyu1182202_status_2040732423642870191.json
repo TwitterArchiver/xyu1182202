@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040710946675384702",
+    "created_at": "2026-04-05T10:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040732423642870191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040732423642870191",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040710946675384702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040710946675384702",
+        "created_at": "2026-04-05T10:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040732423642870191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040732423642870191",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040710946675384702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2040710946675384702",
+        "created_at": "2026-04-05T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040710946675384702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/b_cat38324/status/2040709275769872459",
+              "start": 39,
+              "url": "https://t.co/dsNC5La1wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040710946675384702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 834,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040709275769872459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "&lt;- “我爸不让我变性，但他自己说的他年轻时想穿女装，这玩意真能遗传” https://t.co/dsNC5La1wW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 199,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/毛绒玩具饲养员/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Ted_noncommute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ted_noncommute",
+                "end": 23,
+                "expanded_url": "https://t.me/ted_noncommute",
+                "start": 0,
+                "url": "https://t.co/7gqKcdxvvf"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "Copenhagen, Denmark",
+        "name": "Ted",
+        "pinned_tweet_id": "1990718236422189238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4381,
+          "following_count": 1664,
+          "like_count": 46720,
+          "listed_count": 15,
+          "media_count": 457,
+          "tweet_count": 10534
+        },
+        "url": "https://t.co/7gqKcdxvvf",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

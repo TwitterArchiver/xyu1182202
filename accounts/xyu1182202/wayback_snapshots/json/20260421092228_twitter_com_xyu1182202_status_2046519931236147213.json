@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046482490609868800"
+      ],
+      "media_source_tweet_id": [
+        "2046482507085041893"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046519931236147213",
+    "created_at": "2026-04-21T09:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046519931236147213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/274kJL8J55",
+          "end": 73,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2046482507085041893/photo/1",
+          "media_key": "3_2046482490609868800",
+          "start": 50,
+          "url": "https://t.co/274kJL8J55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046519931236147213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046482507085041893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 是不是傻逼？明知道未成年人渴望关心，还给禁了，何意味？？ https://t.co/274kJL8J55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046482490609868800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaQ-4PboAAMEsw.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046482490609868800"
+          ],
+          "media_source_tweet_id": [
+            "2046482507085041893"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046519931236147213",
+        "created_at": "2026-04-21T09:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046519931236147213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/274kJL8J55",
+              "end": 73,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2046482507085041893/photo/1",
+              "media_key": "3_2046482490609868800",
+              "start": 50,
+              "url": "https://t.co/274kJL8J55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046519931236147213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046482507085041893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 是不是傻逼？明知道未成年人渴望关心，还给禁了，何意味？？ https://t.co/274kJL8J55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046482490609868800"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046482507085041893",
+        "created_at": "2026-04-21T06:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046482507085041893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/274kJL8J55",
+              "end": 52,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2046482507085041893/photo/1",
+              "media_key": "3_2046482490609868800",
+              "start": 29,
+              "url": "https://t.co/274kJL8J55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046482507085041893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 924,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "是不是傻逼？明知道未成年人渴望关心，还给禁了，何意味？？ https://t.co/274kJL8J55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046223244907409655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 762,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046155626104098949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 3099,
+          "like_count": 25540,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 6702
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

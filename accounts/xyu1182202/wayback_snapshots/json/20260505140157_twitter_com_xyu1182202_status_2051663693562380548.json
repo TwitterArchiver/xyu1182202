@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051663693562380548",
+    "created_at": "2026-05-05T14:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051663693562380548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983042229720735744",
+          "start": 3,
+          "username": "mchchc5216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051663693562380548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051639293018571048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mchchc5216: 不要再吃盐了\n我好不容易看到一个比较喜欢的好人\n他第二天就发讣告了\n大家一定要好好活着喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051663693562380548",
+        "created_at": "2026-05-05T14:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051663693562380548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983042229720735744",
+              "start": 3,
+              "username": "mchchc5216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051663693562380548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051639293018571048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mchchc5216: 不要再吃盐了\n我好不容易看到一个比较喜欢的好人\n他第二天就发讣告了\n大家一定要好好活着喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983042229720735744",
+        "conversation_id": "2051639293018571048",
+        "created_at": "2026-05-05T12:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051639293018571048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123mp27/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/123mp27/status/2051528340964544572",
+              "start": 45,
+              "url": "https://t.co/z9Zj161Qla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051639293018571048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051528340964544572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要再吃盐了\n我好不容易看到一个比较喜欢的好人\n他第二天就发讣告了\n大家一定要好好活着喵 https://t.co/z9Zj161Qla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 958,
+          "like_count": 4515,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5136
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 生产日期：2011.3.29 // 坐标：山东济南 Ⅱ 优香单推人// 互fo Ⅱ b站小up ll ba国服新玩家 Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "千禧年第一优香厨📮 | 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 265,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": false
+      }
+    ]
+  }
+}

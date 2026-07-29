@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040607862674907404",
+    "created_at": "2026-04-05T02:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040616603268907206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877473083063201792",
+          "start": 0,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040616603268907206",
+    "in_reply_to_user_id": "1877473083063201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040607862674907404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorothy1614926 你也不能啊🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040607862674907404",
+        "created_at": "2026-04-05T02:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040616603268907206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040616603268907206",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040607862674907404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 你也不能啊🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2040607862674907404",
+        "created_at": "2026-04-05T01:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040607862674907404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ciallo_114_514…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/Ciallo_114_514/status/2040344275104436673",
+              "start": 82,
+              "url": "https://t.co/I3KGx5bZWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040607862674907404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040344275104436673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。。 https://t.co/I3KGx5bZWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 177,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛いこいこい、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜喜欢xnn&xyn｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最棒的女友@ansiyao520｜最最最可爱的妹妹@maxC47884317783｜世另我？@wenhuamengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "wenhuamengyue"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 315,
+          "like_count": 3620,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 584
+        },
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

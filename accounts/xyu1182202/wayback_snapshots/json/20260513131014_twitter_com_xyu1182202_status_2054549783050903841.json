@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054286837817180534",
+    "created_at": "2026-05-13T13:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054549783050903841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013291448838610944",
+          "start": 0,
+          "username": "yyqx52000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054549783050903841",
+    "in_reply_to_user_id": "2013291448838610944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054286837817180534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyqx52000 我入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054286837817180534",
+        "created_at": "2026-05-13T13:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054549783050903841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013291448838610944",
+              "start": 0,
+              "username": "yyqx52000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054549783050903841",
+        "in_reply_to_user_id": "2013291448838610944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054286837817180534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyqx52000 我入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013291448838610944",
+        "conversation_id": "2054286837817180534",
+        "created_at": "2026-05-12T19:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054286837817180534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2053805292799086826",
+              "start": 138,
+              "url": "https://t.co/aC0EJqKhqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054286837817180534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4621,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053805292799086826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不跑操，没有列队问题。不住校，没有宿舍问题。不喝水，没有厕所问题。不参与体测，没有800还是1000问题，不谈恋爱，没有第一性征问题，头发长度，领导特许，至于长得像男生，声音像男生，谁会往这方面想，只当是个比较帅气的女孩子。再加上我有柰柰，这得跟我多熟才能知道我是小药娘😋 https://t.co/aC0EJqKhqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 998,
+          "like_count": 5018,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5615
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:44:29.000Z",
+        "description": "这里是优叶千香了，是一个神奇mtf，前无古人的从听说药娘到成为药娘两个小时速通\n从三岁开始就是抖m了，六岁开始更是不断的涌出雌堕的想法，应该是天生的吧，这十几年来一直在加深，会有自卑，生殖崇拜等现象，终于在16岁的时候接触了药娘，也是没有考虑就变了，还没有服侍过真正强大的男人呢😭\n但是吃过很多郭楠的精液，精液好吃😋",
+        "id": "2013291448838610944",
+        "location": "🚪78     与¥无关，取吉利数字",
+        "name": "一只普普通通的♠️伪娘千香🇨🇳❤️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013291557567242240/AyAgUxps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 92,
+          "like_count": 181,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 529
+        },
+        "username": "yyqx52000",
+        "verified": false
+      }
+    ]
+  }
+}

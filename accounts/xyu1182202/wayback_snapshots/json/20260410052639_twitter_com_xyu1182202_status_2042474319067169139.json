@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042454347867701579",
+    "created_at": "2026-04-10T05:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042474319067169139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042474319067169139",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042454347867701579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1743,
+        "media_key": "3_2042454324819943424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYxTaYAAND9S.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2042454324073414656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYuhbQAA3FRP.jpg",
+        "width": 976
+      },
+      {
+        "height": 1586,
+        "media_key": "3_2042454324824195074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYxUbQAIFKgc.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2042454324828389377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYxVbQAEVulT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042454347867701579",
+        "created_at": "2026-04-10T05:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042474319067169139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042474319067169139",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042454347867701579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042454324819943424",
+            "3_2042454324073414656",
+            "3_2042454324824195074",
+            "3_2042454324828389377"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2042454347867701579",
+        "created_at": "2026-04-10T04:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042454347867701579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324819943424",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324073414656",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324824195074",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324828389377",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042454347867701579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1002,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "文在寅：这中国人怎么什么样的都有，每天在书店刷新合影就像宝可梦一样？\n\n全卡卡打赢复活赛了，年轻的自己也回来了就算了，对岸的将军都来了✋😭🤚\n\n大国基因库这一块 https://t.co/jiXUbajSta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 390,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9894,
+          "following_count": 2855,
+          "like_count": 34388,
+          "listed_count": 30,
+          "media_count": 3607,
+          "tweet_count": 20136
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

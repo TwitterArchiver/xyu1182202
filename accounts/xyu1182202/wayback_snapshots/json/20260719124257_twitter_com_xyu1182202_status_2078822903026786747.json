@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078822903026786747",
+    "created_at": "2026-07-19T12:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078822903026786747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153373316977176576",
+          "start": 3,
+          "username": "kotoro0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078822903026786747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078553572485288029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotoro0223: 我觉得开学军训是中国最恶心的东西……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078822903026786747",
+        "created_at": "2026-07-19T12:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078822903026786747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153373316977176576",
+              "start": 3,
+              "username": "kotoro0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078822903026786747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078553572485288029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotoro0223: 我觉得开学军训是中国最恶心的东西……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153373316977176576",
+        "conversation_id": "2078553572485288029",
+        "created_at": "2026-07-18T18:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078553572485288029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078553572485288029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 69695,
+          "like_count": 1332,
+          "quote_count": 8,
+          "reply_count": 240,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得开学军训是中国最恶心的东西……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1060,
+          "like_count": 5359,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6581
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6021,
+          "following_count": 102,
+          "like_count": 1357,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

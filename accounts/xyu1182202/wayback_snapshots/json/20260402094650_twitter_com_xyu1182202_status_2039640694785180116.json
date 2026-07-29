@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039481951145619720",
+    "created_at": "2026-04-02T09:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039640694785180116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039640694785180116",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039481951145619720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2039481948675227648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2yBtSbwAAgb1O.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039481951145619720",
+        "created_at": "2026-04-02T09:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039640694785180116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039640694785180116",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039481951145619720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039481948675227648"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2039481951145619720",
+        "created_at": "2026-04-01T23:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039481951145619720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNRLLdSzKX",
+              "end": 34,
+              "expanded_url": "https://x.com/hg3551019177402/status/2039481951145619720/photo/1",
+              "media_key": "3_2039481948675227648",
+              "start": 11,
+              "url": "https://t.co/gNRLLdSzKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039481951145619720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，所有的中国人 https://t.co/gNRLLdSzKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 312
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神中（每天吃很多就是了），每天直播一下精神病日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12大王",
+        "pinned_tweet_id": "2038962394987454574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 427,
+          "like_count": 18396,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 7541
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

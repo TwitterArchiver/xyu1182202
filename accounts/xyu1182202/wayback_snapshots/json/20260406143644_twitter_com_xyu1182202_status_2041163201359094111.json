@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041088738777083958",
+    "created_at": "2026-04-06T14:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041163201359094111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948779307045978112",
+          "start": 0,
+          "username": "woAiLashi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041163201359094111",
+    "in_reply_to_user_id": "1948779307045978112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041088738777083958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woAiLashi8 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041088738777083958",
+        "created_at": "2026-04-06T14:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041163201359094111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "woAiLashi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041163201359094111",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041088738777083958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woAiLashi8 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "2041088738777083958",
+        "created_at": "2026-04-06T09:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041088738777083958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041088738777083958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 63451,
+          "like_count": 331,
+          "quote_count": 7,
+          "reply_count": 78,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "全平台同id这个事太恐怖了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 262,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "别教我做事 我只和喜欢的人玩 不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwwwww51164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwwwww51164",
+                "start": 0,
+                "url": "https://t.co/EekCUBm2yI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "我",
+        "pinned_tweet_id": "2017250484038578632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025513191044968448/hpbNxBYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4680,
+          "following_count": 342,
+          "like_count": 65479,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 23588
+        },
+        "url": "https://t.co/EekCUBm2yI",
+        "username": "woAiLashi8",
+        "verified": false
+      }
+    ]
+  }
+}

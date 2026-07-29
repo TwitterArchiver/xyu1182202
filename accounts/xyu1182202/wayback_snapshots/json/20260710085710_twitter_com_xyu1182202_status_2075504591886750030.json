@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075228431193948452",
+    "created_at": "2026-07-10T08:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075504591886750030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055214408784125953",
+          "start": 0,
+          "username": "OMEmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075504591886750030",
+    "in_reply_to_user_id": "2055214408784125953",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075228431193948452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OMEmtf ..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075228431193948452",
+        "created_at": "2026-07-10T08:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075504591886750030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055214408784125953",
+              "start": 0,
+              "username": "OMEmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075504591886750030",
+        "in_reply_to_user_id": "2055214408784125953",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075228431193948452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OMEmtf ..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055214408784125953",
+        "conversation_id": "2075228431193948452",
+        "created_at": "2026-07-09T14:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075228431193948452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075228431193948452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4120,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糟了出事了，我爸他妈那个傻逼的今晚说要让我周日去住院，说要改变我这个想当女人的心理，我他妈我又没精神病去住院干嘛，还要让老子跟那个傻逼心理医生说话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1056,
+          "like_count": 5334,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6432
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T09:11:39.000Z",
+        "description": "这里是OME，身高170体重95斤hrt26.5.28，无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ome.917826.xyz",
+                "end": 23,
+                "expanded_url": "http://ome.917826.xyz",
+                "start": 0,
+                "url": "https://t.co/HWBdWVKUXh"
+              }
+            ]
+          }
+        },
+        "id": "2055214408784125953",
+        "location": "地球",
+        "name": "OME",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065014949370568704/TY3IUFl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 12,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/HWBdWVKUXh",
+        "username": "OMEmtf",
+        "verified": false
+      }
+    ]
+  }
+}

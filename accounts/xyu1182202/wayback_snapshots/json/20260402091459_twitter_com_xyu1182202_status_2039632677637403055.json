@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039400708269559841",
+    "created_at": "2026-04-02T09:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039632677637403055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039632677637403055",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039400708269559841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 什么味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039400708269559841",
+        "created_at": "2026-04-02T09:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039632677637403055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039632677637403055",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039400708269559841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 什么味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2039400708269559841",
+        "created_at": "2026-04-01T17:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039400708269559841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039400708269559841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8267,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草\n刚刚奶子有点痒\n我穿着衣服就打算随便捏一下\n直接疼得叫出声来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 285
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "含糖男同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "STN",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2036847939960684584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038314504044335104/MN_aoLzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 2271,
+          "like_count": 25404,
+          "listed_count": 8,
+          "media_count": 2202,
+          "tweet_count": 21497
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

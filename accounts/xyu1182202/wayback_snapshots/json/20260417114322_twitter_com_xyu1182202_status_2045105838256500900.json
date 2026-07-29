@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044813547667182079",
+    "created_at": "2026-04-17T11:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045105838256500900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045105838256500900",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044813547667182079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 问问学长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044813547667182079",
+        "created_at": "2026-04-17T11:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045105838256500900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045105838256500900",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044813547667182079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 问问学长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2044813547667182079",
+        "created_at": "2026-04-16T16:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044813547667182079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044813547667182079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 113313,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 204,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "用校园网翻墙真的会收到短信吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 642,
+          "like_count": 2374,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3096
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26545,
+          "following_count": 10885,
+          "like_count": 87001,
+          "listed_count": 99,
+          "media_count": 4996,
+          "tweet_count": 16771
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

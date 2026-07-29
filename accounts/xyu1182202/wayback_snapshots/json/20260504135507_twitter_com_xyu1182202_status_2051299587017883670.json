@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051252533138768245",
+    "created_at": "2026-05-04T13:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051299587017883670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051299587017883670",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051252533138768245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 试试水"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2051252269841346560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeDEkibcAAVmJo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051252533138768245",
+        "created_at": "2026-05-04T13:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051299587017883670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051299587017883670",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051252533138768245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 试试水"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051252269841346560"
+          ]
+        },
+        "author_id": "2021505488337416192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2051252533138768245",
+        "created_at": "2026-05-04T10:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:47:10.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051252285783805967",
+          "2051252485655069082",
+          "2051252533138768245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpJdgOgPxU",
+              "end": 71,
+              "expanded_url": "https://x.com/HuamanX09/status/2051252533138768245/photo/1",
+              "media_key": "3_2051252269841346560",
+              "start": 48,
+              "url": "https://t.co/JpJdgOgPxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051252533138768245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 298,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "521个粉丝了，我爱你！\n\n点赞、评论、转发、关注我\n5月10号使用Grok抽一个188元红包 https://t.co/JpJdgOgPxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 943,
+          "like_count": 4365,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5048
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "伴侣@CyberKanjousen🐱/老师@Aoim33｜20岁｜专科大一｜日语、心理学、自杀干预、记录生活｜ACGN爱好者｜VTuber/游戏主播｜交易技术分析 波浪理论",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5XUGTKL",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5XUGTKL",
+                "start": 0,
+                "url": "https://t.co/o0VzlkAATx"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "花漫阳春Official",
+        "pinned_tweet_id": "2050851911180648943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 679,
+          "like_count": 3629,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/o0VzlkAATx",
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

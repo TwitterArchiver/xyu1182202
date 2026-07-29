@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039718736253612073",
+    "created_at": "2026-04-02T15:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039727242914459650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854784694602416130",
+          "start": 0,
+          "username": "Chiyuyu1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039727242914459650",
+    "in_reply_to_user_id": "1854784694602416130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039718736253612073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu1314 哈哈🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039718736253612073",
+        "created_at": "2026-04-02T15:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039727242914459650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854784694602416130",
+              "start": 0,
+              "username": "Chiyuyu1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727242914459650",
+        "in_reply_to_user_id": "1854784694602416130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039718736253612073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu1314 哈哈🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2039718736253612073",
+        "created_at": "2026-04-02T14:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039718736253612073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039718736253612073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特的跨圈太恐怖了 三个月换一批人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 60,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 351
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2038493326530564452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 21,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      }
+    ]
+  }
+}

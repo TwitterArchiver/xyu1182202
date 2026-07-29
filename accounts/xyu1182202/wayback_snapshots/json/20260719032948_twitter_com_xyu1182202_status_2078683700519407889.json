@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078215685642363284",
+    "created_at": "2026-07-19T03:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078683700519407889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "954359460268421120",
+          "start": 0,
+          "username": "holysop233"
+        },
+        {
+          "end": 23,
+          "id": "1504799211799265282",
+          "start": 12,
+          "username": "LiuSuK7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078683700519407889",
+    "in_reply_to_user_id": "954359460268421120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078438972590817627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@holysop233 @LiuSuK7777 还有这好事😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078215685642363284",
+        "created_at": "2026-07-19T03:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078683700519407889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "954359460268421120",
+              "start": 0,
+              "username": "holysop233"
+            },
+            {
+              "end": 23,
+              "id": "1504799211799265282",
+              "start": 12,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078683700519407889",
+        "in_reply_to_user_id": "954359460268421120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078438972590817627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@holysop233 @LiuSuK7777 还有这好事😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954359460268421120",
+        "conversation_id": "2078215685642363284",
+        "created_at": "2026-07-18T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078438972590817627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078438972590817627",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1038,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078437915638825424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 我们那边登记检查完还有礼品可以选的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1055,
+          "like_count": 5347,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6562
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-19T14:26:41.000Z",
+        "description": "GHS gbf放推用，00年 肥宅   性别男                爱好女和伪娘   （ gay勿扰X）图片都是sd跑的，欢迎约稿    宠物店实习店主",
+        "id": "954359460268421120",
+        "location": "格兰塞法",
+        "name": "lintrian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625398796002942976/eTUPFLC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 1321,
+          "like_count": 10129,
+          "listed_count": 5,
+          "media_count": 3392,
+          "tweet_count": 4298
+        },
+        "url": "",
+        "username": "holysop233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 杭州 08年 舞萌/东方/Arcaea/明日方舟/三角洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch1wVD"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3598,
+          "following_count": 2746,
+          "like_count": 34264,
+          "listed_count": 14,
+          "media_count": 1705,
+          "tweet_count": 35278
+        },
+        "url": "https://t.co/bOY8ch1wVD",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2072524786362892375",
+    "created_at": "2026-07-02T11:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072649849762418932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744679108737712128",
+          "start": 0,
+          "username": "xingbai2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072649849762418932",
+    "in_reply_to_user_id": "1744679108737712128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072524786362892375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingbai2333 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072524783217197056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMWT0PawAAH27G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2072524786362892375",
+        "created_at": "2026-07-02T11:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072649849762418932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072649849762418932",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072524786362892375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072524783217197056"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "2072524786362892375",
+        "created_at": "2026-07-02T03:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072524786362892375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUycfzD0CZ",
+              "end": 57,
+              "expanded_url": "https://x.com/xingbai2333/status/2072524786362892375/photo/1",
+              "media_key": "3_2072524783217197056",
+              "start": 34,
+              "url": "https://t.co/YUycfzD0CZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072524786362892375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15794,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 105,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "属于自己的录取通知书！\n虽然只是个专科 \n不过也算是有书读了 ww https://t.co/YUycfzD0CZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1032,
+          "like_count": 5379,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6382
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2060660435687534650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 713,
+          "like_count": 10157,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039542178696069417",
+    "created_at": "2026-04-02T08:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039625596553285846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770681338221432832",
+          "start": 0,
+          "username": "Fishlike_bird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039625596553285846",
+    "in_reply_to_user_id": "1770681338221432832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039542178696069417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fishlike_bird 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039542178696069417",
+        "created_at": "2026-04-02T08:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039625596553285846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770681338221432832",
+              "start": 0,
+              "username": "Fishlike_bird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039625596553285846",
+        "in_reply_to_user_id": "1770681338221432832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039542178696069417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fishlike_bird 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770681338221432832",
+        "conversation_id": "2039542178696069417",
+        "created_at": "2026-04-02T03:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039542178696069417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039542178696069417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15046,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进了一个mtf群\n管理员：“禁止聊🍥”\n第二天\n管理员：“有个人退群了”\n其他人：“应该是想做男孩子了吧”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 256
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | 男女混血 | intp | 地下党 | 跨女同 | 不定期更新 | 喜欢称呼对象姐姐和老婆 |",
+        "id": "1770681338221432832",
+        "location": "0km",
+        "name": "星梦🍥🏳️‍⚧️(先天不孕)",
+        "pinned_tweet_id": "1938006909422080186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 549,
+          "like_count": 3450,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 763
+        },
+        "username": "Fishlike_bird",
+        "verified": false
+      }
+    ]
+  }
+}

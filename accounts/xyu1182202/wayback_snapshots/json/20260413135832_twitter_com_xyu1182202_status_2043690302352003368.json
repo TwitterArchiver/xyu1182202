@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2043690302352003368",
+    "created_at": "2026-04-13T13:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043690302352003368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1883117066812882944",
+          "start": 3,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043690302352003368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043685016195207323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jituiroubaogu: 我不想看到任何的离去了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2043690302352003368",
+        "created_at": "2026-04-13T13:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043690302352003368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1883117066812882944",
+              "start": 3,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043690302352003368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043685016195207323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jituiroubaogu: 我不想看到任何的离去了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2043685016195207323",
+        "created_at": "2026-04-13T13:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043685016195207323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043685016195207323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不想看到任何的离去了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxFQt9"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 542,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2613
+        },
+        "url": "https://t.co/uLGrCxFQt9",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 267,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

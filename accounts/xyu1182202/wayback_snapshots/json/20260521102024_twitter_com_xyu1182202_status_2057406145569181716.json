@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2057370754082357378",
+    "created_at": "2026-05-21T10:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057406145569181716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057406145569181716",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057370754082357378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2057370754082357378",
+        "created_at": "2026-05-21T10:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057406145569181716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057406145569181716",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057370754082357378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824390995754225667",
+        "conversation_id": "2057370754082357378",
+        "created_at": "2026-05-21T07:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:59:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057370624029512114",
+          "2057370754082357378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057370754082357378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要发个口令红包 这条有几个人点赞就发几份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1008,
+          "like_count": 5197,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5757
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "来找我玩呀 我喜欢你们🫶🏻",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 76,
+          "like_count": 1886,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 904
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

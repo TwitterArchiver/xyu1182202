@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042116960100782519",
+    "created_at": "2026-04-09T05:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042116960100782519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042116960100782519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041798348890632651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouBao8964: 我一个玩4399都开无敌版的人能有什么抗压能力？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042116960100782519",
+        "created_at": "2026-04-09T05:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042116960100782519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042116960100782519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041798348890632651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DouBao8964: 我一个玩4399都开无敌版的人能有什么抗压能力？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2041798348890632651",
+        "created_at": "2026-04-08T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041798348890632651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041798348890632651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7377,
+          "like_count": 185,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我一个玩4399都开无敌版的人能有什么抗压能力？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 338,
+          "like_count": 1003,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 小号@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11748,
+          "following_count": 79,
+          "like_count": 14465,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 6455
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

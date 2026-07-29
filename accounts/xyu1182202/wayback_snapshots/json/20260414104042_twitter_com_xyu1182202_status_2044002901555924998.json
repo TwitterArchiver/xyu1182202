@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044002901555924998",
+    "created_at": "2026-04-14T10:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044002901555924998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2003468394604228608",
+          "start": 3,
+          "username": "pinxowosofure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044002901555924998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043686811197956262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinxowosofure: 中国人眼里厌学是一种病✋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044002901555924998",
+        "created_at": "2026-04-14T10:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044002901555924998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2003468394604228608",
+              "start": 3,
+              "username": "pinxowosofure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044002901555924998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043686811197956262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinxowosofure: 中国人眼里厌学是一种病✋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003468394604228608",
+        "conversation_id": "2043686811197956262",
+        "created_at": "2026-04-13T13:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043686811197956262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2043519616904028619",
+              "start": 13,
+              "url": "https://t.co/0KJUfcXOJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043686811197956262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3661,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043519616904028619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人眼里厌学是一种病✋ https://t.co/0KJUfcXOJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝@xiey57828\n你是爱，是温暖，你是人间的四月天！\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "xiey57828"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 568,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 违背现实的“自然”二元性别论及刻板印象及其扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 殖民 华夷秩序 东方主义 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了\n好事物绝缘体ver.\n无为以避有害",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 322,
+          "like_count": 13903,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5001
+        },
+        "username": "pinxowosofure",
+        "verified": false
+      }
+    ]
+  }
+}

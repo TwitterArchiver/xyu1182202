@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042794355954516057",
+    "created_at": "2026-04-11T02:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042794355954516057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042794355954516057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042632586409705648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 哈人，离我远点，血别溅我身上😨\n\n唔，感觉好凉，原来是我的血啊，那没事了......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042794355954516057",
+        "created_at": "2026-04-11T02:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042794355954516057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042794355954516057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042632586409705648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 哈人，离我远点，血别溅我身上😨\n\n唔，感觉好凉，原来是我的血啊，那没事了......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2042632586409705648",
+        "created_at": "2026-04-10T15:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042632586409705648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2042600977333899318",
+              "start": 43,
+              "url": "https://t.co/O1lv0urcYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042632586409705648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1761,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042600977333899318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈人，离我远点，血别溅我身上😨\n\n唔，感觉好凉，原来是我的血啊，那没事了...... https://t.co/O1lv0urcYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 431,
+          "like_count": 1299,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 995,
+          "like_count": 22006,
+          "listed_count": 8,
+          "media_count": 410,
+          "tweet_count": 6679
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

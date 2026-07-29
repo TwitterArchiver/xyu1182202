@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040458690176893009",
+    "created_at": "2026-04-05T09:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040718534960193628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040718534960193628",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040458690176893009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040458690176893009",
+        "created_at": "2026-04-05T09:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040718534960193628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040718534960193628",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040458690176893009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779774601100189696",
+        "conversation_id": "2040458690176893009",
+        "created_at": "2026-04-04T15:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040458690176893009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040458690176893009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2258,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "跟人抱抱什么感觉，好像从小到大没有跟人抱过，女生都没有，人越没有什么更能对什么有美好的幻想，我好想做梦跟人抱抱，做梦的触感很真实，但我很少做梦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 198,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/34943724…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3494372435823118",
+                "start": 0,
+                "url": "https://t.co/7Xlu3pAhG1"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天谢谢",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "1992076040966173125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3931,
+          "following_count": 6,
+          "like_count": 1320,
+          "listed_count": 17,
+          "media_count": 152,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/7Xlu3pAhG1",
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

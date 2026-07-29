@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039299817353167359",
+    "created_at": "2026-04-01T12:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039321759850389854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1910749531161190400",
+          "start": 0,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039321759850389854",
+    "in_reply_to_user_id": "1910749531161190400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039299817353167359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r0x_ht 心照不宣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039299817353167359",
+        "created_at": "2026-04-01T12:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039321759850389854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1910749531161190400",
+              "start": 0,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039321759850389854",
+        "in_reply_to_user_id": "1910749531161190400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039299817353167359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r0x_ht 心照不宣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910749531161190400",
+        "conversation_id": "2039299817353167359",
+        "created_at": "2026-04-01T11:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039299817353167359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039299817353167359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12508,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很不懂为什么小情侣喜欢在朋友圈发酒店照片。那不就等于告诉全世界两个人今晚会do吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 237
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36457,
+          "following_count": 9,
+          "like_count": 471,
+          "listed_count": 70,
+          "media_count": 133,
+          "tweet_count": 419
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053610712745001430",
+    "created_at": "2026-05-11T04:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053687005003862492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053687005003862492",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053610712745001430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053610710274646016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_kD3zboAAOMKH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053610712745001430",
+        "created_at": "2026-05-11T04:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053687005003862492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053687005003862492",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053610712745001430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053610710274646016"
+          ]
+        },
+        "author_id": "1831350388861345793",
+        "conversation_id": "2053610712745001430",
+        "created_at": "2026-05-10T22:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053610712745001430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgXHlBVAPT",
+              "end": 33,
+              "expanded_url": "https://x.com/Hiime0/status/2053610712745001430/photo/1",
+              "media_key": "3_2053610710274646016",
+              "start": 10,
+              "url": "https://t.co/kgXHlBVAPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053610712745001430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两年前准备的呜…… https://t.co/kgXHlBVAPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 989,
+          "like_count": 4964,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5534
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "黑色的荆棘扼住她的咽喉，永恒的夜消融了她的心脏。沉溺在“等待”中的她呀，总有一天，白霜般的月光会洒满你遍体鳞伤的娇躯，把你变成殿堂上转着裙摆的女孩。\n【详情见置顶帖】\n已有恋人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "上海",
+        "name": "𝐻𝒾𝒾𝓂𝑒 🍡🍥",
+        "pinned_tweet_id": "2052350272685654188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053517506464333824/nMryWGrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 235,
+          "like_count": 527,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

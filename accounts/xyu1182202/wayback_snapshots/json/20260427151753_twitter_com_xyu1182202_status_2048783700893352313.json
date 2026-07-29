@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048783700893352313",
+    "created_at": "2026-04-27T15:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048783700893352313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048783700893352313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048759601760469085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 我不想努力了，赶紧从天上掉下来一个全知全能的知心大姐姐带着一亿吨黄金包养我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048783700893352313",
+        "created_at": "2026-04-27T15:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048783700893352313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048783700893352313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048759601760469085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 我不想努力了，赶紧从天上掉下来一个全知全能的知心大姐姐带着一亿吨黄金包养我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2048759601760469085",
+        "created_at": "2026-04-27T13:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048759601760469085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048759601760469085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 903,
+          "like_count": 41,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我不想努力了，赶紧从天上掉下来一个全知全能的知心大姐姐带着一亿吨黄金包养我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 881,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4610
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41428,
+          "following_count": 3728,
+          "like_count": 1630,
+          "listed_count": 71,
+          "media_count": 390,
+          "tweet_count": 2847
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038677627406373375",
+    "created_at": "2026-03-31T10:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038925099659850000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038925099659850000",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038677627406373375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038677627406373375",
+        "created_at": "2026-03-31T10:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038925099659850000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038925099659850000",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038677627406373375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2038677627406373375",
+        "created_at": "2026-03-30T17:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038677627406373375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038677627406373375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2736,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一共250个关注（）昨天死了三个（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038924432920739840/aZf8PsEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 114
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 252,
+          "like_count": 3944,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 642
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

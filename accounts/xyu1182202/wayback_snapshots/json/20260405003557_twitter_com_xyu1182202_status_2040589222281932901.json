@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040526669610701253",
+    "created_at": "2026-04-05T00:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040589222281932901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228546301572173825",
+          "start": 0,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040589222281932901",
+    "in_reply_to_user_id": "1228546301572173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040526669610701253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAAMTxT 抱抱你，希望你能康复，天天开心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040526669610701253",
+        "created_at": "2026-04-05T00:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040589222281932901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228546301572173825",
+              "start": 0,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040589222281932901",
+        "in_reply_to_user_id": "1228546301572173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040526669610701253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAAMTxT 抱抱你，希望你能康复，天天开心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "conversation_id": "2040526669610701253",
+        "created_at": "2026-04-04T20:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T21:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040526669610701253"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2040526669610701253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为受到朋友刺激，做出了妄想好几年的行为，抢夺警察配枪试图自杀。。。\n代价也很大，现在上约束状态，然后已经被警方签署强制住院知情同意书。。。\n我要消失了，厦门市仙岳医院不知道送哪个科室，但是肯定是无手机的那种封闭病房。。。\n晚安，再见各位。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 167,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 825,
+          "like_count": 31381,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 6181
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

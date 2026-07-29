@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075539868932038784",
+    "created_at": "2026-07-11T16:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075986072652410974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1703086500366450688",
+          "start": 0,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075986072652410974",
+    "in_reply_to_user_id": "1703086500366450688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075539868932038784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGQNLZS 如果说我绷住了呢😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2075539860035973120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3MgYqbsAAsYKj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075539868932038784",
+        "created_at": "2026-07-11T16:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075986072652410974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1703086500366450688",
+              "start": 0,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075986072652410974",
+        "in_reply_to_user_id": "1703086500366450688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075539868932038784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGQNLZS 如果说我绷住了呢😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075539860035973120"
+          ]
+        },
+        "author_id": "1703086500366450688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075539868932038784",
+        "created_at": "2026-07-10T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075539868932038784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htzRB1bU8F",
+              "end": 47,
+              "expanded_url": "https://x.com/AGQNLZS/status/2075539868932038784/photo/1",
+              "media_key": "3_2075539860035973120",
+              "start": 24,
+              "url": "https://t.co/htzRB1bU8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075539868932038784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 37587,
+          "like_count": 284,
+          "quote_count": 1,
+          "reply_count": 137,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“中国人吃得起泡面吗？让你们羡慕一下！”🤣🤣🤣 https://t.co/htzRB1bU8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1055,
+          "like_count": 5345,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 6478
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998077784149884936/OTy6-Uac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7351,
+          "following_count": 227,
+          "like_count": 416,
+          "listed_count": 57,
+          "media_count": 1463,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

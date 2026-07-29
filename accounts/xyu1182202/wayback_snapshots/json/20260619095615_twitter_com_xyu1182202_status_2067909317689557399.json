@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2067673819712721237",
+    "created_at": "2026-06-19T09:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067909317689557399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067909317689557399",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067673819712721237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa 呜呜呜不要讨厌我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2067673819712721237",
+        "created_at": "2026-06-19T09:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067909317689557399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067909317689557399",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067673819712721237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa 呜呜呜不要讨厌我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2067673819712721237",
+        "created_at": "2026-06-18T18:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067673819712721237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067673819712721237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1409,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌你们所有人，我只喜欢唐毓文 N55 Unk 鲨猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1033,
+          "like_count": 5397,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6291
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | Developer | TypeScript | Node.js | 先天跨 | 会伪音 | 喜欢整活搞抽象，说莫名其妙的话 | 唐毓文梦女 | 跨圈大周报，跨事早知道～ | 恋人@ogsa1687497 | ✨同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 517,
+          "like_count": 683,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

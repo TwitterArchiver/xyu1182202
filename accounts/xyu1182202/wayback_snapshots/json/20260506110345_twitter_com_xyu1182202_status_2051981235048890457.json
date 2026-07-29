@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051674929981280469",
+    "created_at": "2026-05-06T11:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051981235048890457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        },
+        {
+          "end": 21,
+          "id": "2031270533359349761",
+          "start": 12,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051981235048890457",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051775064304210331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 @senzhiwu 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051674929981280469",
+        "created_at": "2026-05-06T11:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051981235048890457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            },
+            {
+              "end": 21,
+              "id": "2031270533359349761",
+              "start": 12,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051981235048890457",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051775064304210331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 @senzhiwu 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2051674929981280469",
+        "created_at": "2026-05-05T21:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051775064304210331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051775064304210331",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051674929981280469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 羡慕呜呜呜😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 973,
+          "like_count": 4648,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5210
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "前@Ciallo_114_514 \n一切过激言论均由第二人格控制发布\n看心情回fo，互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Ciallo_114_514"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 594,
+          "like_count": 596,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 830
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（真的重要吗🤔）mtx（为啥不是mtf😭）ENTP-T（不知道测了有啥用😇）究极大爱慕（真的能说吗😨）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵（谁会跟长相顺男玩呢😭） 碎碎念：好想被人爱",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050233709190959151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 220,
+          "like_count": 1482,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 1476
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

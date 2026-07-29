@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040409858563051544",
+    "created_at": "2026-04-04T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040409858563051544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028007139588116485",
+          "start": 3,
+          "username": "mllm53507"
+        },
+        {
+          "end": 26,
+          "id": "2017878602164088832",
+          "start": 15,
+          "username": "xyu1182202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040409858563051544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040408660673974577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mllm53507: @xyu1182202 我还没死但是手上已经开始溃烂了，现在一直头晕恶心感觉手快好了已经感觉没有任何疼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040409858563051544",
+        "created_at": "2026-04-04T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040409858563051544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028007139588116485",
+              "start": 3,
+              "username": "mllm53507"
+            },
+            {
+              "end": 26,
+              "id": "2017878602164088832",
+              "start": 15,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040409858563051544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040408660673974577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mllm53507: @xyu1182202 我还没死但是手上已经开始溃烂了，现在一直头晕恶心感觉手快好了已经感觉没有任何疼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028007139588116485",
+        "conversation_id": "2040129061339668626",
+        "created_at": "2026-04-04T12:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040408660673974577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040408660673974577",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040317829682212991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 我还没死但是手上已经开始溃烂了，现在一直头晕恶心感觉手快好了已经感觉没有任何疼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 136,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T07:19:29.000Z",
+        "description": "我现在已经神志不清了\n再见了这个世界\n来世有缘再见",
+        "id": "2028007139588116485",
+        "name": "放僻邪侈的梁某",
+        "pinned_tweet_id": "2028094976241053769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034953057034027008/OsCMohxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 80
+        },
+        "username": "mllm53507",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040395658277085659",
+    "created_at": "2026-04-04T14:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040431724904186237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "975329340",
+          "start": 0,
+          "username": "shengxj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040431724904186237",
+    "in_reply_to_user_id": "975329340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040395658277085659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengxj1 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040395658277085659",
+        "created_at": "2026-04-04T14:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040431724904186237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "975329340",
+              "start": 0,
+              "username": "shengxj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040431724904186237",
+        "in_reply_to_user_id": "975329340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040395658277085659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengxj1 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975329340",
+        "conversation_id": "2040395658277085659",
+        "created_at": "2026-04-04T11:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040395658277085659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040395658277085659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5699,
+          "like_count": 126,
+          "quote_count": 3,
+          "reply_count": 62,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎂祝自己36岁生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 138,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-28T04:19:05.000Z",
+        "description": "不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发\n努力做最好的程序员讲师\n油管主页：https://t.co/kEcslLs1vs\n加入电报群:  https://t.co/fQEVZn8uNH\n合作微信：itdasheng168",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shengxj",
+                "end": 88,
+                "expanded_url": "http://www.youtube.com/@shengxj",
+                "start": 65,
+                "url": "https://t.co/kEcslLs1vs"
+              },
+              {
+                "display_url": "t.me/shengxj11",
+                "end": 120,
+                "expanded_url": "http://t.me/shengxj11",
+                "start": 97,
+                "url": "https://t.co/fQEVZn8uNH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shengxj",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shengxj",
+                "start": 0,
+                "url": "https://t.co/PIj90O4Mwx"
+              }
+            ]
+          }
+        },
+        "id": "975329340",
+        "location": "Remote",
+        "name": "花果山大圣",
+        "pinned_tweet_id": "2003096843509715432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956649801128329216/9dfodVqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55012,
+          "following_count": 1219,
+          "like_count": 2308,
+          "listed_count": 421,
+          "media_count": 2480,
+          "tweet_count": 12736
+        },
+        "url": "https://t.co/PIj90O4Mwx",
+        "username": "shengxj1",
+        "verified": true
+      }
+    ]
+  }
+}

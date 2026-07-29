@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039698300170097043",
+    "created_at": "2026-04-03T07:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039962700135162146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634594007161659393",
+          "start": 0,
+          "username": "chilly_75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039962700135162146",
+    "in_reply_to_user_id": "1634594007161659393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039698300170097043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chilly_75 太逗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 219,
+        "media_key": "3_2039698268377272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE52xK-bUAAPGKR.png",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039698300170097043",
+        "created_at": "2026-04-03T07:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039962700135162146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634594007161659393",
+              "start": 0,
+              "username": "chilly_75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039962700135162146",
+        "in_reply_to_user_id": "1634594007161659393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039698300170097043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chilly_75 太逗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039698268377272320"
+          ]
+        },
+        "author_id": "1634594007161659393",
+        "conversation_id": "2039698300170097043",
+        "created_at": "2026-04-02T13:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039698300170097043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3YWjy1Yjz",
+              "end": 42,
+              "expanded_url": "https://x.com/chilly_75/status/2039698300170097043/photo/1",
+              "media_key": "3_2039698268377272320",
+              "start": 19,
+              "url": "https://t.co/t3YWjy1Yjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039698300170097043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 766,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的是服了，ai还挺会搞这种小表情 https://t.co/t3YWjy1Yjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 81,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 520
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:37:29.000Z",
+        "description": "Mtf hiding behind pixels.",
+        "id": "1634594007161659393",
+        "name": "Chilly@🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974091947305545729/GFCT8SNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 317,
+          "like_count": 3024,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 746
+        },
+        "username": "chilly_75",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048402799868993536"
+      ],
+      "media_source_tweet_id": [
+        "2048402807016026415"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048407645342875832",
+    "created_at": "2026-04-26T14:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048407645342875832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1964042844198621187",
+          "start": 3,
+          "username": "bungeikuhakushi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W0IbwA4dGi",
+          "end": 51,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048402807016026415/photo/1",
+          "media_key": "3_2048402799868993536",
+          "start": 28,
+          "url": "https://t.co/W0IbwA4dGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048407645342875832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048402807016026415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @bungeikuhakushi: 文革打法來了 https://t.co/W0IbwA4dGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2048402799868993536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1jflsbYAAnVMt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048402799868993536"
+          ],
+          "media_source_tweet_id": [
+            "2048402807016026415"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048407645342875832",
+        "created_at": "2026-04-26T14:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048407645342875832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1964042844198621187",
+              "start": 3,
+              "username": "bungeikuhakushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0IbwA4dGi",
+              "end": 51,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048402807016026415/photo/1",
+              "media_key": "3_2048402799868993536",
+              "start": 28,
+              "url": "https://t.co/W0IbwA4dGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048407645342875832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048402807016026415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @bungeikuhakushi: 文革打法來了 https://t.co/W0IbwA4dGi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048402799868993536"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048402807016026415",
+        "created_at": "2026-04-26T14:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048402807016026415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0IbwA4dGi",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048402807016026415/photo/1",
+              "media_key": "3_2048402799868993536",
+              "start": 7,
+              "url": "https://t.co/W0IbwA4dGi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2048402807016026415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "文革打法來了 https://t.co/W0IbwA4dGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048064640190730306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 875,
+          "like_count": 3706,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 4465
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 370,
+          "like_count": 11480,
+          "listed_count": 4,
+          "media_count": 664,
+          "tweet_count": 3350
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

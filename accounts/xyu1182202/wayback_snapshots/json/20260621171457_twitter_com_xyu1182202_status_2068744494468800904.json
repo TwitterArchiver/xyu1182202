@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2068682555411579198",
+    "created_at": "2026-06-21T17:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068744494468800904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001648904144818176",
+          "start": 0,
+          "username": "zhngwnq278190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068744494468800904",
+    "in_reply_to_user_id": "2001648904144818176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068682555411579198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngwnq278190 可能是串子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2068682461140393984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVvvPFaoAATVX8.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2068682555411579198",
+        "created_at": "2026-06-21T17:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068744494468800904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001648904144818176",
+              "start": 0,
+              "username": "zhngwnq278190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068744494468800904",
+        "in_reply_to_user_id": "2001648904144818176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068682555411579198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngwnq278190 可能是串子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068682461140393984"
+          ]
+        },
+        "author_id": "2001648904144818176",
+        "conversation_id": "2068682555411579198",
+        "created_at": "2026-06-21T13:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068682555411579198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Hh4aB6LP0",
+              "end": 40,
+              "expanded_url": "https://x.com/zhngwnq278190/status/2068682555411579198/photo/1",
+              "media_key": "3_2068682461140393984",
+              "start": 17,
+              "url": "https://t.co/5Hh4aB6LP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068682555411579198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4933,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到这种粉红头像生理性反胃谁懂😂 https://t.co/5Hh4aB6LP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1029,
+          "like_count": 5401,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6338
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T13:41:26.000Z",
+        "description": "民主自由的中華民國萬歲🇹🇼",
+        "id": "2001648904144818176",
+        "location": "中華民國北平市",
+        "name": "琪琪🇨🇳🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035581600180875264/YNA7Xvfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 190,
+          "like_count": 2429,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "zhngwnq278190",
+        "verified": false
+      }
+    ]
+  }
+}

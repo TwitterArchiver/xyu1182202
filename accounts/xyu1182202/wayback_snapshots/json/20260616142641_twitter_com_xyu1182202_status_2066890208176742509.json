@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066890208176742509",
+    "created_at": "2026-06-16T14:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066890208176742509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061647829354094592",
+          "start": 3,
+          "username": "bubqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066890208176742509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066536324551836135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bubqp: 今日で17歳になりました。\n普段学校でもXでも相手にされないけれど今だけお祝いしてください。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066890208176742509",
+        "created_at": "2026-06-16T14:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066890208176742509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061647829354094592",
+              "start": 3,
+              "username": "bubqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066890208176742509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066536324551836135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bubqp: 今日で17歳になりました。\n普段学校でもXでも相手にされないけれど今だけお祝いしてください。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061647829354094592",
+        "conversation_id": "2066536324551836135",
+        "created_at": "2026-06-15T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066536324551836135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066536324551836135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 403338,
+          "like_count": 18866,
+          "quote_count": 27,
+          "reply_count": 1760,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "今日で17歳になりました。\n普段学校でもXでも相手にされないけれど今だけお祝いしてください。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1025,
+          "like_count": 5372,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6228
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T03:15:54.000Z",
+        "description": "146／38／B　会えた人フォロバ👤🔙",
+        "id": "2061647829354094592",
+        "name": "𝓡𝓮𝓲 *❅·̩͙໒꒱·̩͙⋆.*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061648166131478528/I-wFd9SA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 0,
+          "like_count": 410,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "bubqp",
+        "verified": false
+      }
+    ]
+  }
+}

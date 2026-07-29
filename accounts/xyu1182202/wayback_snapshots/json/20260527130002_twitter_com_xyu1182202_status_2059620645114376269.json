@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059304172902834176",
+        "3_2059304196701405185"
+      ],
+      "media_source_tweet_id": [
+        "2059304699443253550",
+        "2059304699443253550"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2059620645114376269",
+    "created_at": "2026-05-27T13:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059620645114376269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1173259891286392832",
+          "start": 3,
+          "username": "seanwei001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47nQaIbEzI",
+          "end": 115,
+          "expanded_url": "https://x.com/seanwei001/status/2059304699443253550/photo/1",
+          "media_key": "3_2059304172902834176",
+          "start": 92,
+          "url": "https://t.co/47nQaIbEzI"
+        },
+        {
+          "display_url": "pic.x.com/47nQaIbEzI",
+          "end": 115,
+          "expanded_url": "https://x.com/seanwei001/status/2059304699443253550/photo/1",
+          "media_key": "3_2059304196701405185",
+          "start": 92,
+          "url": "https://t.co/47nQaIbEzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059620645114376269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059304699443253550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seanwei001: 2025 年，在与抑郁症长期斗争后， 10 岁的Liberty Hall不幸结束了自己的生命。  \n\n她给母亲留下了这张字条，道歉，并请求她不要自责。 https://t.co/47nQaIbEzI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_2059304172902834176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQePA5aYAAGsEf.png",
+        "width": 480
+      },
+      {
+        "height": 680,
+        "media_key": "3_2059304196701405185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQeQZjbwAEHaXX.png",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059304172902834176",
+            "3_2059304196701405185"
+          ],
+          "media_source_tweet_id": [
+            "2059304699443253550",
+            "2059304699443253550"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2059620645114376269",
+        "created_at": "2026-05-27T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059620645114376269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1173259891286392832",
+              "start": 3,
+              "username": "seanwei001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47nQaIbEzI",
+              "end": 115,
+              "expanded_url": "https://x.com/seanwei001/status/2059304699443253550/photo/1",
+              "media_key": "3_2059304172902834176",
+              "start": 92,
+              "url": "https://t.co/47nQaIbEzI"
+            },
+            {
+              "display_url": "pic.x.com/47nQaIbEzI",
+              "end": 115,
+              "expanded_url": "https://x.com/seanwei001/status/2059304699443253550/photo/1",
+              "media_key": "3_2059304196701405185",
+              "start": 92,
+              "url": "https://t.co/47nQaIbEzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059620645114376269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059304699443253550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seanwei001: 2025 年，在与抑郁症长期斗争后， 10 岁的Liberty Hall不幸结束了自己的生命。  \n\n她给母亲留下了这张字条，道歉，并请求她不要自责。 https://t.co/47nQaIbEzI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059304172902834176",
+            "3_2059304196701405185"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "conversation_id": "2059304699443253550",
+        "created_at": "2026-05-26T16:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059304699443253550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47nQaIbEzI",
+              "end": 99,
+              "expanded_url": "https://x.com/seanwei001/status/2059304699443253550/photo/1",
+              "media_key": "3_2059304172902834176",
+              "start": 76,
+              "url": "https://t.co/47nQaIbEzI"
+            },
+            {
+              "display_url": "pic.x.com/47nQaIbEzI",
+              "end": 99,
+              "expanded_url": "https://x.com/seanwei001/status/2059304699443253550/photo/1",
+              "media_key": "3_2059304196701405185",
+              "start": 76,
+              "url": "https://t.co/47nQaIbEzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059304699443253550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 665974,
+          "like_count": 3045,
+          "quote_count": 29,
+          "reply_count": 171,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "2025 年，在与抑郁症长期斗争后， 10 岁的Liberty Hall不幸结束了自己的生命。  \n\n她给母亲留下了这张字条，道歉，并请求她不要自责。 https://t.co/47nQaIbEzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1008,
+          "like_count": 5273,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5911
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149138,
+          "following_count": 782,
+          "like_count": 28039,
+          "listed_count": 470,
+          "media_count": 28929,
+          "tweet_count": 35057
+        },
+        "username": "seanwei001",
+        "verified": true
+      }
+    ]
+  }
+}

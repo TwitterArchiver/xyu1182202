@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "2067908435207946665",
+    "created_at": "2026-06-19T09:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067908435207946665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MeincraftSteve…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/MeincraftSteve/status/2067703549895573748",
+          "start": 2,
+          "url": "https://t.co/nxTaAvvj5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067908435207946665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067703549895573748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷 https://t.co/nxTaAvvj5h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_2067703546586238976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH1a6MWkAA0K_2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2067908435207946665",
+        "created_at": "2026-06-19T09:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067908435207946665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MeincraftSteve…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/MeincraftSteve/status/2067703549895573748",
+              "start": 2,
+              "url": "https://t.co/nxTaAvvj5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067908435207946665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067703549895573748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷 https://t.co/nxTaAvvj5h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067703546586238976"
+          ]
+        },
+        "author_id": "1448146850901549057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2067703549895573748",
+        "created_at": "2026-06-18T20:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067703549895573748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4YCB4YYNI",
+              "end": 148,
+              "expanded_url": "https://x.com/MeincraftSteve/status/2067703549895573748/photo/1",
+              "media_key": "3_2067703546586238976",
+              "start": 125,
+              "url": "https://t.co/f4YCB4YYNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067703549895573748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1551,
+          "impression_count": 1197653,
+          "like_count": 24254,
+          "quote_count": 295,
+          "reply_count": 265,
+          "retweet_count": 1903
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING:\n\nMinecraft's creator Markus Persson aka \"Notch\" was found alive and well in his home in Texas. He is 47 years old. https://t.co/f4YCB4YYNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1033,
+          "like_count": 5397,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6286
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T04:41:46.000Z",
+        "description": "I build things and travel through different dimensions! I am also Jack Black | Not affiliated with Minecraft",
+        "id": "1448146850901549057",
+        "location": "O Block",
+        "name": "Steve ⛏️",
+        "pinned_tweet_id": "2062270363308888257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829944111387832320/-JT7A8Rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20500,
+          "following_count": 100,
+          "like_count": 16517,
+          "listed_count": 12,
+          "media_count": 1060,
+          "tweet_count": 5202
+        },
+        "url": "",
+        "username": "MeincraftSteve",
+        "verified": true
+      }
+    ]
+  }
+}

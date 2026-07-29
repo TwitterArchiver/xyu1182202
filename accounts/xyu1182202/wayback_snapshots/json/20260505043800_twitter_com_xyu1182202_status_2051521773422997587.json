@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051504497978138906",
+    "created_at": "2026-05-05T04:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051521773422997587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051521773422997587",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051504497978138906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 （）咱先赚点工资"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051504497978138906",
+        "created_at": "2026-05-05T04:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051521773422997587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051521773422997587",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051504497978138906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 （）咱先赚点工资"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2051504497978138906",
+        "created_at": "2026-05-05T03:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051504497978138906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051504497978138906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 799,
+          "like_count": 30,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么能快速赚很多钱的方法（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 943,
+          "like_count": 4427,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n一切过激言论均由第二人格控制发布\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2049667185740775911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 580,
+          "like_count": 547,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 742
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047326887928803635",
+    "created_at": "2026-04-23T14:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047326887928803635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1892595590527377408",
+          "start": 3,
+          "username": "woshixiaoyu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047326887928803635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047022862155087980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshixiaoyu123: 男女对立到底有啥用 傻逼又不分性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047326887928803635",
+        "created_at": "2026-04-23T14:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047326887928803635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1892595590527377408",
+              "start": 3,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047326887928803635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047022862155087980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woshixiaoyu123: 男女对立到底有啥用 傻逼又不分性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2047022862155087980",
+        "created_at": "2026-04-22T18:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047022862155087980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047022862155087980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 66131,
+          "like_count": 1048,
+          "quote_count": 7,
+          "reply_count": 161,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "男女对立到底有啥用 傻逼又不分性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046971761930170599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 801,
+          "like_count": 3299,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 4027
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18815,
+          "following_count": 159,
+          "like_count": 367,
+          "listed_count": 17,
+          "media_count": 1727,
+          "tweet_count": 6342
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

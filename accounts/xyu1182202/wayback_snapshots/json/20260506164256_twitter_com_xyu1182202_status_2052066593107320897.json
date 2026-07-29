@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2052057874701107616",
+    "created_at": "2026-05-06T16:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052066593107320897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052066593107320897",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052057874701107616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 这个sb比反贼还sb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2052057872025227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpfwyibkAAwQ0U.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2052057874701107616",
+        "created_at": "2026-05-06T16:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052066593107320897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052066593107320897",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052057874701107616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 这个sb比反贼还sb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052057872025227264"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052057874701107616",
+        "created_at": "2026-05-06T16:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052057874701107616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5Sio9L00n",
+              "end": 54,
+              "expanded_url": "https://x.com/amecandy_x/status/2052057874701107616/photo/1",
+              "media_key": "3_2052057872025227264",
+              "start": 31,
+              "url": "https://t.co/n5Sio9L00n"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2052057874701107616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲个笑话，一个粉红认为pdd/tb网购到的od药物能是违禁品 https://t.co/n5Sio9L00n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 971,
+          "like_count": 4716,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5272
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6268,
+          "following_count": 2134,
+          "like_count": 27085,
+          "listed_count": 16,
+          "media_count": 1423,
+          "tweet_count": 10159
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

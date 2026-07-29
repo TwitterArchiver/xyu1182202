@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039980095121801606",
+    "created_at": "2026-04-03T14:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040079992823189702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 18,
+          "id": "1900168705847500800",
+          "start": 11,
+          "username": "wxb_NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040079992823189702",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039980095121801606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @wxb_NB 互🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_2039980030248550400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE93B3vbAAAohd1.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039980095121801606",
+        "created_at": "2026-04-03T14:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040079992823189702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 18,
+              "id": "1900168705847500800",
+              "start": 11,
+              "username": "wxb_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040079992823189702",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039980095121801606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @wxb_NB 互🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039980030248550400"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039980095121801606",
+        "created_at": "2026-04-03T08:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039980095121801606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1900168705847500800",
+              "start": 14,
+              "username": "wxb_NB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8hLcF34f3",
+              "end": 52,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039980095121801606/photo/1",
+              "media_key": "3_2039980030248550400",
+              "start": 29,
+              "url": "https://t.co/p8hLcF34f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039980095121801606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 340,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送草莓鲨鱼\n让我们期待草莓 @wxb_NB \n会不会翻车 https://t.co/p8hLcF34f3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 93,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 592
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6680,
+          "following_count": 2027,
+          "like_count": 23830,
+          "listed_count": 27,
+          "media_count": 534,
+          "tweet_count": 2886
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 517,
+          "like_count": 7613,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

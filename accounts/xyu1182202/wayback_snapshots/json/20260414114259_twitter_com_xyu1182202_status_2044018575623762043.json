@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2043998286479274412",
+    "created_at": "2026-04-14T11:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044018575623762043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044018575623762043",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043998286479274412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 😨😨😨好可怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2043998269345542144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF29mK3asAAuBQf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2043998286479274412",
+        "created_at": "2026-04-14T11:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044018575623762043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044018575623762043",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043998286479274412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 😨😨😨好可怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043998269345542144"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2043998286479274412",
+        "created_at": "2026-04-14T10:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043998286479274412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NV75ggpHw7",
+              "end": 28,
+              "expanded_url": "https://x.com/kxk1388574/status/2043998286479274412/photo/1",
+              "media_key": "3_2043998269345542144",
+              "start": 5,
+              "url": "https://t.co/NV75ggpHw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043998286479274412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 933,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这扯不扯 https://t.co/NV75ggpHw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝@xiey57828\n你是爱，是温暖，你是人间的四月天！\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "xiey57828"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 570,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2726
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9156,
+          "following_count": 5775,
+          "like_count": 52141,
+          "listed_count": 12,
+          "media_count": 904,
+          "tweet_count": 7281
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

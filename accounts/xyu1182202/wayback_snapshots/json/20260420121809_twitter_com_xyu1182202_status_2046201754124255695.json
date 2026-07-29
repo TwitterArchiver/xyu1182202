@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2046201754124255695",
+    "created_at": "2026-04-20T12:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046201754124255695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2046066419981558115",
+          "start": 20,
+          "url": "https://t.co/NGrj7MEs06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046201754124255695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046066419981558115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Linux和Windows的对比是真的 https://t.co/NGrj7MEs06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2046066371281539073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUWhi8b0AEVh4i.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2046201754124255695",
+        "created_at": "2026-04-20T12:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046201754124255695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2046066419981558115",
+              "start": 20,
+              "url": "https://t.co/NGrj7MEs06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046201754124255695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046066419981558115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Linux和Windows的对比是真的 https://t.co/NGrj7MEs06"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046066371281539073"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2046066419981558115",
+        "created_at": "2026-04-20T03:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046066419981558115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkjCx16daM",
+              "end": 29,
+              "expanded_url": "https://x.com/__fanqie__/status/2046066419981558115/photo/1",
+              "media_key": "3_2046066371281539073",
+              "start": 6,
+              "url": "https://t.co/wkjCx16daM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046066419981558115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 26864,
+          "like_count": 306,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的？ https://t.co/wkjCx16daM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045881393368928644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 751,
+          "like_count": 2816,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3574
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2045499488916381709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4933,
+          "following_count": 2959,
+          "like_count": 1508,
+          "listed_count": 7,
+          "media_count": 978,
+          "tweet_count": 8811
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

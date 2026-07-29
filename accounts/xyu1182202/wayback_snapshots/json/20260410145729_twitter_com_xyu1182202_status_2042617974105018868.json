@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042590532342550862",
+    "created_at": "2026-04-10T14:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042617974105018868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042617974105018868",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042590532342550862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ 🤤🤤吃那么好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042590519361179652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi9QVgakAQyOcO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042590532342550862",
+        "created_at": "2026-04-10T14:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042617974105018868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042617974105018868",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042590532342550862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 🤤🤤吃那么好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042590519361179652"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042590532342550862",
+        "created_at": "2026-04-10T13:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042590532342550862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4eZfXTwAjQ",
+              "end": 27,
+              "expanded_url": "https://x.com/kujirarara_/status/2042590532342550862/photo/1",
+              "media_key": "3_2042590519361179652",
+              "start": 4,
+              "url": "https://t.co/4eZfXTwAjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042590532342550862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚餐😋 https://t.co/4eZfXTwAjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 420,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 平面设计/轨道交通/城市规划/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039215228106457090/qtQ52tZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 538,
+          "like_count": 100777,
+          "listed_count": 17,
+          "media_count": 1367,
+          "tweet_count": 6512
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

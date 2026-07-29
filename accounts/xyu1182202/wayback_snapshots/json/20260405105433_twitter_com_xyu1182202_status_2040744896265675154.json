@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040673386297462915",
+    "created_at": "2026-04-05T10:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040744896265675154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        },
+        {
+          "end": 31,
+          "id": "1810873766119100416",
+          "start": 16,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040744896265675154",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040737410854842522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 @RainBuild_2024 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040673386297462915",
+        "created_at": "2026-04-05T10:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040744896265675154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 31,
+              "id": "1810873766119100416",
+              "start": 16,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040744896265675154",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040737410854842522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 @RainBuild_2024 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2040673386297462915",
+        "created_at": "2026-04-05T10:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040737410854842522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040737410854842522",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040728060698493376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 想喝雨晴汁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 200,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥（互fo寻回ing）",
+        "pinned_tweet_id": "2039687440995365004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 491,
+          "like_count": 738,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1895
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9398,
+          "following_count": 885,
+          "like_count": 69903,
+          "listed_count": 17,
+          "media_count": 1439,
+          "tweet_count": 10106
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

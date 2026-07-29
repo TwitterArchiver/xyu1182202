@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046050703546978712",
+    "created_at": "2026-04-20T11:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046195348566389053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767107094313160704",
+          "start": 0,
+          "username": "Okada_te_resa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046195348566389053",
+    "in_reply_to_user_id": "1767107094313160704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046050703546978712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Okada_te_resa 这是啥机器"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1889,
+        "media_key": "3_2046050691773571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUIQ4ObIAA0JFE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046050703546978712",
+        "created_at": "2026-04-20T11:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046195348566389053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046195348566389053",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046050703546978712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 这是啥机器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046050691773571072"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2046050703546978712",
+        "created_at": "2026-04-20T02:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046050703546978712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeNOqujLJ0",
+              "end": 43,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2046050703546978712/photo/1",
+              "media_key": "3_2046050691773571072",
+              "start": 20,
+              "url": "https://t.co/OeNOqujLJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046050703546978712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1633,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的我就这样搞钱买那个百亿补贴厂妹机😄 https://t.co/OeNOqujLJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045881393368928644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 751,
+          "like_count": 2793,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3551
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 777,
+          "like_count": 36936,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 2518
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

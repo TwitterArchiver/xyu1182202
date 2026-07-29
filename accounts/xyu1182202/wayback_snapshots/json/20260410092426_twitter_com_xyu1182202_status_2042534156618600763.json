@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042257741142741238",
+    "created_at": "2026-04-10T09:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042534156618600763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042534156618600763",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042257741142741238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusZeroQwQ 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042257741142741238",
+        "created_at": "2026-04-10T09:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042534156618600763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042534156618600763",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042257741142741238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusZeroQwQ 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363090571397451778",
+        "conversation_id": "2042257741142741238",
+        "created_at": "2026-04-09T15:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042257741142741238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042257741142741238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 499,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波查翻墙来的好猛\n我的梯子也开始大面积炸节点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 406,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "哪里会有人喜欢孤独，不过是不喜欢失望罢了\n| 04mtx(f) 🏳️‍⚧️|she/her |不约不卖不线下 看黄的不要私信了\n//❤️Love： @BG5CZD @xixue_1 @WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 74,
+                "username": "BG5CZD"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "username": "xixue_1"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "WSGM233"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "name": "Yuluoxk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004345508941156352/3B2CrP08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 354,
+          "like_count": 10999,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 1224
+        },
+        "username": "MinusZeroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

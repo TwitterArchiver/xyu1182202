@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2066052258735984898",
+    "created_at": "2026-06-14T10:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066103741993066776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066103741993066776",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066052258735984898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChan_VmV 其实它们对大陆同胞也是这样的不光是对台湾同胞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066052246132133888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwXkkoakAA-kem.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2066052258735984898",
+        "created_at": "2026-06-14T10:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066103741993066776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066103741993066776",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066052258735984898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChan_VmV 其实它们对大陆同胞也是这样的不光是对台湾同胞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066052246132133888"
+          ]
+        },
+        "author_id": "1980140172726673408",
+        "conversation_id": "2066052258735984898",
+        "created_at": "2026-06-14T06:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066052258735984898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbDt4TZIe2",
+              "end": 42,
+              "expanded_url": "https://x.com/RenChan_VmV/status/2066052258735984898/photo/1",
+              "media_key": "3_2066052246132133888",
+              "start": 19,
+              "url": "https://t.co/TbDt4TZIe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066052258735984898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2014,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "當你困惑為什麼台灣人會討厭中國人時： https://t.co/TbDt4TZIe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1018,
+          "like_count": 5359,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6188
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/They|02/21/12究极小登|gay🏳️‍🌈🏳️‍⚧️激进挺跨|中间偏左社民入🌹日常发些碎碎念呀|爱听术曲 可能是东方众（？）\n不OD不自残但是缺爱逼阴暗网区qwq\n想一下把这么温良这么友善的我block了是谁的问题╮(╯_╰)╭",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦京畿道",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️（PRIDE!🌈❤️🧡💛💚💙💜）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 794,
+          "like_count": 61811,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 11881
+        },
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

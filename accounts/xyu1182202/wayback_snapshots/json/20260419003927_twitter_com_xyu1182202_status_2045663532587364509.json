@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045625663219257838",
+    "created_at": "2026-04-19T00:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045663532587364509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045663532587364509",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045625663219257838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 一个地狱到另一个地狱罢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2045625643250114560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOFrzFaYAANdDz.jpg",
+        "width": 661
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2045625650896420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOFsPkbwAATCND.jpg",
+        "width": 687
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2045625656579670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOFskvbQAAeGfP.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045625663219257838",
+        "created_at": "2026-04-19T00:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045663532587364509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045663532587364509",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045625663219257838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 一个地狱到另一个地狱罢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045625643250114560",
+            "3_2045625650896420864",
+            "3_2045625656579670016"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2045625663219257838",
+        "created_at": "2026-04-18T22:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T23:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045625663219257838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSunn7PsDg",
+              "end": 60,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2045625663219257838/photo/1",
+              "media_key": "3_2045625643250114560",
+              "start": 37,
+              "url": "https://t.co/NSunn7PsDg"
+            },
+            {
+              "display_url": "pic.x.com/NSunn7PsDg",
+              "end": 60,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2045625663219257838/photo/1",
+              "media_key": "3_2045625650896420864",
+              "start": 37,
+              "url": "https://t.co/NSunn7PsDg"
+            },
+            {
+              "display_url": "pic.x.com/NSunn7PsDg",
+              "end": 60,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2045625663219257838/photo/1",
+              "media_key": "3_2045625656579670016",
+              "start": 37,
+              "url": "https://t.co/NSunn7PsDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045625663219257838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1145,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会真的有外国网友向往中国的高中吧\n如果ta来自经济欠发达地区，当我没说 https://t.co/NSunn7PsDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 688,
+          "like_count": 2501,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3261
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8882,
+          "following_count": 4162,
+          "like_count": 43747,
+          "listed_count": 29,
+          "media_count": 1831,
+          "tweet_count": 12245
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

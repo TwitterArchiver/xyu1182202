@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040452458514932020",
+    "created_at": "2026-04-04T15:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040454767949054359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040454767949054359",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040452458514932020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040452452579979264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEkseEasAAwZME.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040452458514932020",
+        "created_at": "2026-04-04T15:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040454767949054359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040454767949054359",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040452458514932020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040452452579979264"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2040452458514932020",
+        "created_at": "2026-04-04T15:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040452458514932020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDN6CNgRrw",
+              "end": 25,
+              "expanded_url": "https://x.com/DDaquaforever/status/2040452458514932020/photo/1",
+              "media_key": "3_2040452452579979264",
+              "start": 2,
+              "url": "https://t.co/jDN6CNgRrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040452458514932020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/jDN6CNgRrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 145,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4297,
+          "following_count": 4761,
+          "like_count": 8274,
+          "listed_count": 12,
+          "media_count": 2947,
+          "tweet_count": 13614
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

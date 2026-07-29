@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041718596548870492",
+    "created_at": "2026-04-08T10:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041823617772875882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 25,
+          "id": "1999007250829230080",
+          "start": 11,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041823617772875882",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041744818649624617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @DDaquaforever 不喜欢wx喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041718596548870492",
+        "created_at": "2026-04-08T10:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041823617772875882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 25,
+              "id": "1999007250829230080",
+              "start": 11,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041823617772875882",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041744818649624617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @DDaquaforever 不喜欢wx喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041718596548870492",
+        "created_at": "2026-04-08T05:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041744818649624617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2041744818649624617",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041718596548870492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever 啊？\n这年头已经发展到使用微信了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 295,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1472
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6798,
+          "following_count": 2032,
+          "like_count": 24446,
+          "listed_count": 27,
+          "media_count": 576,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 4808,
+          "like_count": 8406,
+          "listed_count": 12,
+          "media_count": 3018,
+          "tweet_count": 13924
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

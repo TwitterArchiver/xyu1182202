@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2041056006315069568",
+    "created_at": "2026-04-06T08:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041077376780816615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041077376780816615",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041056006315069568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama 不许"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2041056006315069568",
+        "created_at": "2026-04-06T08:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041077376780816615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041077376780816615",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041056006315069568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 不许"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041056006315069568",
+        "created_at": "2026-04-06T07:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041056006315069568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041056006315069568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实碳酸锂也可以\n急性锂zd可以猝死甚至优于NaNO2\n不过救活了77%会变笨蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 0,
+                "start": 0,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 0,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 252,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 300,
+          "like_count": 8964,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

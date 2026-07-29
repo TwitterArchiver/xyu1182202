@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045111976687222901",
+    "created_at": "2026-04-17T14:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045147429293678974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Coxe_Pica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045147429293678974",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045111976687222901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coxe_Pica 本来就是类原不刷也可以喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045111959532478464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGyfeHWIAA4qjN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045111959528329216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGyfeGW0AAo8-9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045111976687222901",
+        "created_at": "2026-04-17T14:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045147429293678974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045147429293678974",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045111976687222901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica 本来就是类原不刷也可以喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045111959532478464",
+            "3_2045111959528329216"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045111976687222901",
+        "created_at": "2026-04-17T12:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045111976687222901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaWuMbYQwX",
+              "end": 55,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2045111976687222901/photo/1",
+              "media_key": "3_2045111959532478464",
+              "start": 32,
+              "url": "https://t.co/FaWuMbYQwX"
+            },
+            {
+              "display_url": "pic.x.com/FaWuMbYQwX",
+              "end": 55,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2045111976687222901/photo/1",
+              "media_key": "3_2045111959528329216",
+              "start": 32,
+              "url": "https://t.co/FaWuMbYQwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045111976687222901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新购买的玩具，但是这个品牌的手机不支持解锁Bootloder. https://t.co/FaWuMbYQwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 655,
+          "like_count": 2407,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3146
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13初中生7年级\nMtf/女孩子啦年龄党/无证含糖🍥🏳️‍⚧️\n常驻湖北在湖北上学\n无心理问题/苹果粉\n分享我的日常生活和技术\n感谢你的关注和喜欢ó\n\n\"When tomorrow comes.....\"🎉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAkY69"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北",
+        "name": "𝑪𝒐𝒙𝒆_𝑷𝒊𝒄𝒂 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042574562454614016/vmVviffD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 18,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/ic4apAkY69",
+        "username": "Coxe_Pica",
+        "verified": true
+      }
+    ]
+  }
+}

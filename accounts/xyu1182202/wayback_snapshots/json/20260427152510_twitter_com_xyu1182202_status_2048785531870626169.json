@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048773156643704832"
+      ],
+      "media_source_tweet_id": [
+        "2048773187446690028"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048785531870626169",
+    "created_at": "2026-04-27T15:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048785531870626169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jUIlE4ZJN8",
+          "end": 90,
+          "expanded_url": "https://x.com/Rococo90933671/status/2048773187446690028/photo/1",
+          "media_key": "3_2048773156643704832",
+          "start": 67,
+          "url": "https://t.co/jUIlE4ZJN8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048785531870626169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048773187446690028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 你的大学是这样吗？\n感觉规模比较小的学校才会这样，因为在规模大的学校，操场太远了完全就懒得去 https://t.co/jUIlE4ZJN8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048773156643704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG60VMMakAAXnRk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048773156643704832"
+          ],
+          "media_source_tweet_id": [
+            "2048773187446690028"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048785531870626169",
+        "created_at": "2026-04-27T15:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048785531870626169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUIlE4ZJN8",
+              "end": 90,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048773187446690028/photo/1",
+              "media_key": "3_2048773156643704832",
+              "start": 67,
+              "url": "https://t.co/jUIlE4ZJN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048785531870626169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048773187446690028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 你的大学是这样吗？\n感觉规模比较小的学校才会这样，因为在规模大的学校，操场太远了完全就懒得去 https://t.co/jUIlE4ZJN8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048773156643704832"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2048773187446690028",
+        "created_at": "2026-04-27T14:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048773187446690028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUIlE4ZJN8",
+              "end": 70,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048773187446690028/photo/1",
+              "media_key": "3_2048773156643704832",
+              "start": 47,
+              "url": "https://t.co/jUIlE4ZJN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048773187446690028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 470,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你的大学是这样吗？\n感觉规模比较小的学校才会这样，因为在规模大的学校，操场太远了完全就懒得去 https://t.co/jUIlE4ZJN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 881,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4617
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10669,
+          "following_count": 2974,
+          "like_count": 36687,
+          "listed_count": 34,
+          "media_count": 3799,
+          "tweet_count": 21037
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

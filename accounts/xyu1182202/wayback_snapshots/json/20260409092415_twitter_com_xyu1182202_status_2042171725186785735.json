@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042171725186785735",
+    "created_at": "2026-04-09T09:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042171725186785735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042171725186785735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042141316445041112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 其实基本的警惕还是要有的，真的有按评论区抓人的案例\n我一朋友就因为发条弹幕就被晶了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042171725186785735",
+        "created_at": "2026-04-09T09:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042171725186785735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042171725186785735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042141316445041112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 其实基本的警惕还是要有的，真的有按评论区抓人的案例\n我一朋友就因为发条弹幕就被晶了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042141316445041112",
+        "created_at": "2026-04-09T07:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042141316445041112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2041897422352216554",
+              "start": 42,
+              "url": "https://t.co/UBWOGN2Wev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042141316445041112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041897422352216554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实基本的警惕还是要有的，真的有按评论区抓人的案例\n我一朋友就因为发条弹幕就被晶了 https://t.co/UBWOGN2Wev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042094317993652227/GRk2bs-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 353,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "Radical Leftist🚩/ LLM Engineer /  恋人 @whitecloud_ybw / 查药就上药物百科 https://t.co/BKMK49AAMH /  接受药物咨询，私信即可",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "whitecloud_ybw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 87,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 64,
+                "url": "https://t.co/BKMK49AAMH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2040315053006889205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5791,
+          "following_count": 2052,
+          "like_count": 26796,
+          "listed_count": 15,
+          "media_count": 1388,
+          "tweet_count": 9916
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

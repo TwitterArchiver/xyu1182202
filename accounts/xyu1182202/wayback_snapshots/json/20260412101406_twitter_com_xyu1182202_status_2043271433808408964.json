@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2043271433808408964",
+    "created_at": "2026-04-12T10:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043271433808408964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1360161759257104384",
+          "start": 3,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043271433808408964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043177251119014004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AspiLin0: 噩梦好糟糕\n为什么还要再经历一遍同样的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2043271433808408964",
+        "created_at": "2026-04-12T10:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043271433808408964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1360161759257104384",
+              "start": 3,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043271433808408964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043177251119014004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AspiLin0: 噩梦好糟糕\n为什么还要再经历一遍同样的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2043177251119014004",
+        "created_at": "2026-04-12T03:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043177251119014004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043177251119014004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噩梦好糟糕\n为什么还要再经历一遍同样的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 502,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 698,
+          "like_count": 19537,
+          "listed_count": 3,
+          "media_count": 367,
+          "tweet_count": 4610
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

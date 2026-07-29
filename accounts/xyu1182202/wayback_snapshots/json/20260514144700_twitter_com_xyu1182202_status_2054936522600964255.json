@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2054854229219594292",
+    "created_at": "2026-05-14T14:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054936522600964255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682395404976156672",
+          "start": 0,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054936522600964255",
+    "in_reply_to_user_id": "1682395404976156672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054854229219594292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanghs84 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2054854229219594292",
+        "created_at": "2026-05-14T14:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054936522600964255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682395404976156672",
+              "start": 0,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054936522600964255",
+        "in_reply_to_user_id": "1682395404976156672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054854229219594292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanghs84 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682395404976156672",
+        "conversation_id": "2054854229219594292",
+        "created_at": "2026-05-14T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054854229219594292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054854229219594292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1471,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后12小时内，过期不补\n提前祝大家开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1001,
+          "like_count": 5084,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5671
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "普通人，喜欢美女是正常的",
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 252
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

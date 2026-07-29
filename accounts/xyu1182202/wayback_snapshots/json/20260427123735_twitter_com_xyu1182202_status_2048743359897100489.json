@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048679344747466752",
+        "3_2048679346953719808"
+      ],
+      "media_source_tweet_id": [
+        "2048679349415813440",
+        "2048679349415813440"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2048743359897100489",
+    "created_at": "2026-04-27T12:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048743359897100489"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2008460631121555464",
+          "start": 3,
+          "username": "hanshenhsonovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/shYQdnzQIp",
+          "end": 63,
+          "expanded_url": "https://x.com/hanshenhsonovo/status/2048679349415813440/photo/1",
+          "media_key": "3_2048679344747466752",
+          "start": 40,
+          "url": "https://t.co/shYQdnzQIp"
+        },
+        {
+          "display_url": "pic.x.com/shYQdnzQIp",
+          "end": 63,
+          "expanded_url": "https://x.com/hanshenhsonovo/status/2048679349415813440/photo/1",
+          "media_key": "3_2048679346953719808",
+          "start": 40,
+          "url": "https://t.co/shYQdnzQIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048743359897100489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048679349415813440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanshenhsonovo: 乖乖宝🥰🥰🥰🥰\n#男娘 #可爱的男孩子 https://t.co/shYQdnzQIp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2048679344747466752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5fAnpaUAAtXXD.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048679346953719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5fAv3bEAARzKp.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048679344747466752",
+            "3_2048679346953719808"
+          ],
+          "media_source_tweet_id": [
+            "2048679349415813440",
+            "2048679349415813440"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2048743359897100489",
+        "created_at": "2026-04-27T12:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048743359897100489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2008460631121555464",
+              "start": 3,
+              "username": "hanshenhsonovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shYQdnzQIp",
+              "end": 63,
+              "expanded_url": "https://x.com/hanshenhsonovo/status/2048679349415813440/photo/1",
+              "media_key": "3_2048679344747466752",
+              "start": 40,
+              "url": "https://t.co/shYQdnzQIp"
+            },
+            {
+              "display_url": "pic.x.com/shYQdnzQIp",
+              "end": 63,
+              "expanded_url": "https://x.com/hanshenhsonovo/status/2048679349415813440/photo/1",
+              "media_key": "3_2048679346953719808",
+              "start": 40,
+              "url": "https://t.co/shYQdnzQIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048743359897100489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048679349415813440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanshenhsonovo: 乖乖宝🥰🥰🥰🥰\n#男娘 #可爱的男孩子 https://t.co/shYQdnzQIp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048679344747466752",
+            "3_2048679346953719808"
+          ]
+        },
+        "author_id": "2008460631121555464",
+        "conversation_id": "2048679349415813440",
+        "created_at": "2026-04-27T08:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048679349415813440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shYQdnzQIp",
+              "end": 43,
+              "expanded_url": "https://x.com/hanshenhsonovo/status/2048679349415813440/photo/1",
+              "media_key": "3_2048679344747466752",
+              "start": 20,
+              "url": "https://t.co/shYQdnzQIp"
+            },
+            {
+              "display_url": "pic.x.com/shYQdnzQIp",
+              "end": 43,
+              "expanded_url": "https://x.com/hanshenhsonovo/status/2048679349415813440/photo/1",
+              "media_key": "3_2048679346953719808",
+              "start": 20,
+              "url": "https://t.co/shYQdnzQIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048679349415813440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 550,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "乖乖宝🥰🥰🥰🥰\n#男娘 #可爱的男孩子 https://t.co/shYQdnzQIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048357247634620693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 881,
+          "like_count": 3832,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4597
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T08:48:38.000Z",
+        "description": "腻豪！🥰 叫我笙宝就好~｜流量绝缘体🥺｜最好的宝宝！ @hsona2awa  (★≧▽^))★☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "hsona2awa"
+              }
+            ]
+          }
+        },
+        "id": "2008460631121555464",
+        "location": "女装里",
+        "name": "晗笙~",
+        "pinned_tweet_id": "2047901140030050680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008475683035754496/VjRE3mru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 139,
+          "like_count": 660,
+          "listed_count": 7,
+          "media_count": 54,
+          "tweet_count": 139
+        },
+        "username": "hanshenhsonovo",
+        "verified": true
+      }
+    ]
+  }
+}

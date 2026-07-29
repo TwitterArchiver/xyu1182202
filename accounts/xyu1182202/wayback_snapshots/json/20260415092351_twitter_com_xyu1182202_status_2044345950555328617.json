@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044345950555328617",
+    "created_at": "2026-04-15T09:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044345950555328617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886385501130866688",
+          "start": 3,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044345950555328617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044218149973938589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral: msk对有自杀、自残倾向的人的处理方法就是禁言和封号……跟提前击毙目标以阻止目标自杀有异曲同工之妙……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044345950555328617",
+        "created_at": "2026-04-15T09:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044345950555328617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886385501130866688",
+              "start": 3,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044345950555328617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044218149973938589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral: msk对有自杀、自残倾向的人的处理方法就是禁言和封号……跟提前击毙目标以阻止目标自杀有异曲同工之妙……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2044218149973938589",
+        "created_at": "2026-04-15T00:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044218149973938589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Lomyral/status/2044201310409633929",
+              "start": 52,
+              "url": "https://t.co/CbDz0wswq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044218149973938589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2651,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044201310409633929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "msk对有自杀、自残倾向的人的处理方法就是禁言和封号……跟提前击毙目标以阻止目标自杀有异曲同工之妙…… https://t.co/CbDz0wswq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 599,
+          "like_count": 2167,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2042185391361634720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 542,
+          "like_count": 42379,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 5419
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

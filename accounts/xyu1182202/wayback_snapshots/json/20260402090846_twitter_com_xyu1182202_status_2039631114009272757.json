@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039368725954953223",
+    "created_at": "2026-04-02T09:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039631114009272757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620394082139869184",
+          "start": 0,
+          "username": "qiuyuejiuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039631114009272757",
+    "in_reply_to_user_id": "1620394082139869184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039368725954953223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuyuejiuri 棍木"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2039368719739314176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1LC6oa4AAly_4.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039368725954953223",
+        "created_at": "2026-04-02T09:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039631114009272757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620394082139869184",
+              "start": 0,
+              "username": "qiuyuejiuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039631114009272757",
+        "in_reply_to_user_id": "1620394082139869184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039368725954953223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuyuejiuri 棍木"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039368719739314176"
+          ]
+        },
+        "author_id": "1620394082139869184",
+        "conversation_id": "2039368725954953223",
+        "created_at": "2026-04-01T15:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039368725954953223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2Lgw0CqfP",
+              "end": 34,
+              "expanded_url": "https://x.com/qiuyuejiuri/status/2039368725954953223/photo/1",
+              "media_key": "3_2039368719739314176",
+              "start": 11,
+              "url": "https://t.co/k2Lgw0CqfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039368725954953223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 66485,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次露脸 有点害怕 https://t.co/k2Lgw0CqfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039318009408610353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 274
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T12:10:41.000Z",
+        "description": "每天都好无聊，日常碎碎念 https://t.co/UqQW5Huu3s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jtxiangwolema",
+                "end": 36,
+                "expanded_url": "https://ngl.link/jtxiangwolema",
+                "start": 13,
+                "url": "https://t.co/UqQW5Huu3s"
+              }
+            ]
+          }
+        },
+        "id": "1620394082139869184",
+        "location": "Rho, Lombardia",
+        "name": "鼠鼠我呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893651417639870464/OW6MAXmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 115,
+          "like_count": 799,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 448
+        },
+        "username": "qiuyuejiuri",
+        "verified": false
+      }
+    ]
+  }
+}

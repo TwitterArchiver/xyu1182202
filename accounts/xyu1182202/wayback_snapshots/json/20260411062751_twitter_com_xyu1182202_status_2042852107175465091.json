@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042645550999441885",
+    "created_at": "2026-04-11T06:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042852107175465091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1704166820729733120",
+          "start": 0,
+          "username": "LLM_SWLP"
+        },
+        {
+          "end": 25,
+          "id": "1918274202580467713",
+          "start": 10,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042852107175465091",
+    "in_reply_to_user_id": "1704166820729733120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042805952840421812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LLM_SWLP @CyberKanjousen 总结精辟到位👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042645550999441885",
+        "created_at": "2026-04-11T06:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042852107175465091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1704166820729733120",
+              "start": 0,
+              "username": "LLM_SWLP"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042852107175465091",
+        "in_reply_to_user_id": "1704166820729733120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042805952840421812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLM_SWLP @CyberKanjousen 总结精辟到位👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704166820729733120",
+        "conversation_id": "2042645550999441885",
+        "created_at": "2026-04-11T03:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042805952840421812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042805952840421812",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042645550999441885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 墙内审核比较严，要么你靠颜值非常好看，要么你内容质量高，炒作狗如牢A，现在也不行了。中推清一色炒作狗，内容创造质量基本为0，完全的民粹主义，主体受众是愤世嫉俗的青少年，抄袭魔改知乎，百家号和抖音的评论区暴论，满足他们的情绪，就能拉fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 450,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T16:13:40.000Z",
+        "description": "关山难越，谁悲失路之人。",
+        "id": "1704166820729733120",
+        "name": "蔡进炮",
+        "pinned_tweet_id": "1901649524722180520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924860308147077123/cM0c8dTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 494,
+          "like_count": 25974,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 8376
+        },
+        "username": "LLM_SWLP",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 397,
+          "like_count": 12014,
+          "listed_count": 4,
+          "media_count": 808,
+          "tweet_count": 4220
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

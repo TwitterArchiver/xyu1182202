@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042793746870473045",
+    "created_at": "2026-04-11T05:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042842045283213696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1207019158791229440",
+          "start": 0,
+          "username": "NFTCPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042842045283213696",
+    "in_reply_to_user_id": "1207019158791229440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042793746870473045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFTCPS 好工作羡慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2042793744756543491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFl2FnGakAMPb7r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042793746870473045",
+        "created_at": "2026-04-11T05:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042842045283213696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1207019158791229440",
+              "start": 0,
+              "username": "NFTCPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042842045283213696",
+        "in_reply_to_user_id": "1207019158791229440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042793746870473045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFTCPS 好工作羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042793744756543491"
+          ]
+        },
+        "author_id": "1207019158791229440",
+        "conversation_id": "2042793746870473045",
+        "created_at": "2026-04-11T02:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042793746870473045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83znlgzEX3",
+              "end": 71,
+              "expanded_url": "https://x.com/NFTCPS/status/2042793746870473045/photo/1",
+              "media_key": "3_2042793744756543491",
+              "start": 48,
+              "url": "https://t.co/83znlgzEX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042793746870473045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 29105,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 100,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢X，感谢我马哥，又发工资了，半个月1353美金！\n\n一个月2000+美金低保我算是吃上了！ https://t.co/83znlgzEX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 447,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2202
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T19:26:15.000Z",
+        "description": "#蓝鸟会 发起人 | TG：ximalaya\n\n近3亿用户的共同选择，启程Web3，就在币安：\nhttps://t.co/UYlKZu8n8i | \n\nOKX Web3钱包现已支持100+公链，web3入口一个就够  https://t.co/llFZwLMjOZ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "蓝鸟会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/BAWeb3",
+                "end": 71,
+                "expanded_url": "http://bit.ly/BAWeb3",
+                "start": 48,
+                "url": "https://t.co/UYlKZu8n8i"
+              },
+              {
+                "display_url": "bit.ly/OKXWeb3",
+                "end": 132,
+                "expanded_url": "http://bit.ly/OKXWeb3",
+                "start": 109,
+                "url": "https://t.co/llFZwLMjOZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluebirdlabs.xyz",
+                "end": 23,
+                "expanded_url": "https://bluebirdlabs.xyz/",
+                "start": 0,
+                "url": "https://t.co/M9y90eouc9"
+              }
+            ]
+          }
+        },
+        "id": "1207019158791229440",
+        "location": "Web3 Marketing Agency",
+        "name": "鸟哥 | 蓝鸟会🕊️",
+        "pinned_tweet_id": "1915041362048876644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917439913320144897/yRxYCX7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71925,
+          "following_count": 5220,
+          "like_count": 41459,
+          "listed_count": 1058,
+          "media_count": 3590,
+          "tweet_count": 17210
+        },
+        "url": "https://t.co/M9y90eouc9",
+        "username": "NFTCPS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045832736469127394",
+    "created_at": "2026-04-19T13:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045857832227237952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1590227700521652224",
+          "start": 0,
+          "username": "ryofork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045857832227237952",
+    "in_reply_to_user_id": "1590227700521652224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857668435169299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryofork 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T13:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045857832227237952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1590227700521652224",
+              "start": 0,
+              "username": "ryofork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857832227237952",
+        "in_reply_to_user_id": "1590227700521652224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045857668435169299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryofork 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590227700521652224",
+        "conversation_id": "2045832736469127394",
+        "created_at": "2026-04-19T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045857668435169299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857668435169299",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045832736469127394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 726,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T06:20:14.000Z",
+        "description": "求求泥关注我吧🥺谢谢喵🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.ryofork.top",
+                "end": 23,
+                "expanded_url": "https://blog.ryofork.top",
+                "start": 0,
+                "url": "https://t.co/un6IhweSG8"
+              }
+            ]
+          }
+        },
+        "id": "1590227700521652224",
+        "name": "冬屿清",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043128919805620224/5KAy9Vs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 96,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/un6IhweSG8",
+        "username": "ryofork",
+        "verified": true
+      }
+    ]
+  }
+}

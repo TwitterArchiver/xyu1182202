@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062113443604570112"
+      ],
+      "media_source_tweet_id": [
+        "2062113463842091228"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2062331725334941733",
+    "created_at": "2026-06-04T00:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062331725334941733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1757603703811371008",
+          "start": 3,
+          "username": "11andpr89648964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kwc7KnK2oP",
+          "end": 74,
+          "expanded_url": "https://x.com/11andpr89648964/status/2062113463842091228/photo/1",
+          "media_key": "3_2062113443604570112",
+          "start": 51,
+          "url": "https://t.co/Kwc7KnK2oP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062331725334941733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062113463842091228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11andpr89648964: 我也不知道这个世界是怎么了。求求求求你吗求傻逼玩意气死我了 https://t.co/Kwc7KnK2oP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062113443604570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ZQFyboAAszY4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062113443604570112"
+          ],
+          "media_source_tweet_id": [
+            "2062113463842091228"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2062331725334941733",
+        "created_at": "2026-06-04T00:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062331725334941733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1757603703811371008",
+              "start": 3,
+              "username": "11andpr89648964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kwc7KnK2oP",
+              "end": 74,
+              "expanded_url": "https://x.com/11andpr89648964/status/2062113463842091228/photo/1",
+              "media_key": "3_2062113443604570112",
+              "start": 51,
+              "url": "https://t.co/Kwc7KnK2oP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062331725334941733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062113463842091228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11andpr89648964: 我也不知道这个世界是怎么了。求求求求你吗求傻逼玩意气死我了 https://t.co/Kwc7KnK2oP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062113443604570112"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062113463842091228",
+        "created_at": "2026-06-03T10:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062113463842091228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kwc7KnK2oP",
+              "end": 53,
+              "expanded_url": "https://x.com/11andpr89648964/status/2062113463842091228/photo/1",
+              "media_key": "3_2062113443604570112",
+              "start": 30,
+              "url": "https://t.co/Kwc7KnK2oP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062113463842091228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3298,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也不知道这个世界是怎么了。求求求求你吗求傻逼玩意气死我了 https://t.co/Kwc7KnK2oP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1019,
+          "like_count": 5357,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 6096
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 778,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1429
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

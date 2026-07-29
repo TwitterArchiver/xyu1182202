@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2067602043519279528",
+    "created_at": "2026-06-19T09:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067907944948314284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040183649849819136",
+          "start": 0,
+          "username": "Newtaipeitraas"
+        },
+        {
+          "end": 32,
+          "id": "1835139537418567680",
+          "start": 16,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067907944948314284",
+    "in_reply_to_user_id": "2040183649849819136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067701174221127886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Newtaipeitraas @WellingtonPixel 🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2067602043519279528",
+        "created_at": "2026-06-19T09:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067907944948314284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040183649849819136",
+              "start": 0,
+              "username": "Newtaipeitraas"
+            },
+            {
+              "end": 32,
+              "id": "1835139537418567680",
+              "start": 16,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067907944948314284",
+        "in_reply_to_user_id": "2040183649849819136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067701174221127886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Newtaipeitraas @WellingtonPixel 🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040183649849819136",
+        "conversation_id": "2067602043519279528",
+        "created_at": "2026-06-18T20:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701174221127886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            },
+            {
+              "end": 28,
+              "id": "1835139537418567680",
+              "start": 12,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067701174221127886",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067649080499831255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 @WellingtonPixel 我儿子2013年12月28日去吃过花了21元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1033,
+          "like_count": 5394,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6283
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T21:48:29.000Z",
+        "description": "中国共产党就是邪教组织，习近平就是一个独裁者，打倒共产党！！！打倒习近平！！！习近平下台！！！大日本帝国图光支那人民共和国！！！",
+        "id": "2040183649849819136",
+        "location": "新北板橋",
+        "name": "NZWord🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044807611728728064/gcXGQg0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 32,
+          "like_count": 2928,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Newtaipeitraas",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "亟待潜入雨中去往大河以北，于西班牙的余晖下跟随博苏伯爵\n🤍@LibDems|2nd @AbsolutelyWP|3rd @KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "LibDems"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2066953660291219488/BuXO6njq65",
+                "start": 0,
+                "url": "https://t.co/w2ff5ToOvL"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2066206560251212138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067501680761942016/ppUB_nuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 3626,
+          "like_count": 21929,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 4546
+        },
+        "url": "https://t.co/w2ff5ToOvL",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

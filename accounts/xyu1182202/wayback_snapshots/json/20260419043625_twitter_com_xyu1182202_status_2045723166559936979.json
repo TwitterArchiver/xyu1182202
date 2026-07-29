@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045657195702833152"
+      ],
+      "media_source_tweet_id": [
+        "2045657206058627378"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2045723166559936979",
+    "created_at": "2026-04-19T04:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045723166559936979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YPxzjVCtEi",
+          "end": 48,
+          "expanded_url": "https://x.com/axzamyzed/status/2045657206058627378/photo/1",
+          "media_key": "3_2045657195702833152",
+          "start": 25,
+          "url": "https://t.co/YPxzjVCtEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045723166559936979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045657206058627378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: 这房子有什么缺点吗 https://t.co/YPxzjVCtEi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_2045657195702833152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOiYZIW0AAWqXz.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045657195702833152"
+          ],
+          "media_source_tweet_id": [
+            "2045657206058627378"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2045723166559936979",
+        "created_at": "2026-04-19T04:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045723166559936979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPxzjVCtEi",
+              "end": 48,
+              "expanded_url": "https://x.com/axzamyzed/status/2045657206058627378/photo/1",
+              "media_key": "3_2045657195702833152",
+              "start": 25,
+              "url": "https://t.co/YPxzjVCtEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045723166559936979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045657206058627378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: 这房子有什么缺点吗 https://t.co/YPxzjVCtEi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045657195702833152"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2045657206058627378",
+        "created_at": "2026-04-19T00:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045657206058627378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPxzjVCtEi",
+              "end": 33,
+              "expanded_url": "https://x.com/axzamyzed/status/2045657206058627378/photo/1",
+              "media_key": "3_2045657195702833152",
+              "start": 10,
+              "url": "https://t.co/YPxzjVCtEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045657206058627378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3819,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这房子有什么缺点吗 https://t.co/YPxzjVCtEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 702,
+          "like_count": 2549,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3327
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 866,
+          "like_count": 9427,
+          "listed_count": 7,
+          "media_count": 878,
+          "tweet_count": 5620
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

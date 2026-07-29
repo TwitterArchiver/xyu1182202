@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2049717884268818871",
+    "created_at": "2026-04-30T15:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049869327374172381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828259497422528515",
+          "start": 0,
+          "username": "kama292091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049869327374172381",
+    "in_reply_to_user_id": "1828259497422528515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049717884268818871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kama292091 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047696162044706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrgz2qbAAAMccH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2049717884268818871",
+        "created_at": "2026-04-30T15:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049869327374172381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828259497422528515",
+              "start": 0,
+              "username": "kama292091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049869327374172381",
+        "in_reply_to_user_id": "1828259497422528515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049717884268818871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kama292091 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047696162044706816"
+          ]
+        },
+        "author_id": "1828259497422528515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049717884268818871",
+        "created_at": "2026-04-30T05:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049717884268818871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lc6P4g3bO7",
+              "end": 57,
+              "expanded_url": "https://x.com/kama292091/status/2049717884268818871/photo/1",
+              "media_key": "3_2047696162044706816",
+              "start": 34,
+              "url": "https://t.co/Lc6P4g3bO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049717884268818871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4151,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我等，终将前往极乐，另外，这个帖子发出来说明我成功了，天天开心大家 https://t.co/Lc6P4g3bO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 924,
+          "like_count": 4107,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4847
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T02:33:39.000Z",
+        "description": "",
+        "id": "1828259497422528515",
+        "name": "しろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007443577316782080/08yOdtvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1798,
+          "like_count": 21900,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 5203
+        },
+        "username": "kama292091",
+        "verified": false
+      }
+    ]
+  }
+}

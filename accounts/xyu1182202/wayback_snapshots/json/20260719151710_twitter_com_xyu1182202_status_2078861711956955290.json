@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078861711956955290",
+    "created_at": "2026-07-19T15:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078861711956955290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995266194576961536",
+          "start": 3,
+          "username": "skyseafor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078861711956955290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078648136797762035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyseafor: 中推圈呆了这么久  该活下来的一个没似\n该去似的全部好好活着 这世界........"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078861711956955290",
+        "created_at": "2026-07-19T15:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078861711956955290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995266194576961536",
+              "start": 3,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078861711956955290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078648136797762035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyseafor: 中推圈呆了这么久  该活下来的一个没似\n该去似的全部好好活着 这世界........"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2078648136797762035",
+        "created_at": "2026-07-19T01:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078648136797762035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078648136797762035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5052,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈呆了这么久  该活下来的一个没似\n该去似的全部好好活着 这世界........"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1061,
+          "like_count": 5362,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6587
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 222,
+          "like_count": 1175,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

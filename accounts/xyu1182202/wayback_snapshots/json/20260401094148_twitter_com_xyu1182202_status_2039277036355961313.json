@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2039100425727602919",
+    "created_at": "2026-04-01T09:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039277036355961313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039277036355961313",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039100425727602919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 炸膛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2039100425727602919",
+        "created_at": "2026-04-01T09:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039277036355961313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039277036355961313",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039100425727602919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 炸膛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2039100425727602919",
+        "created_at": "2026-03-31T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039100425727602919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039100425727602919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22814,
+          "like_count": 417,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "今天愚人节\n等会🦌一半不🦌了 和几把开个玩笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "曦月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 156
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Enby🏳️‍⚧️｜笨蛋@Show5560｜本垢@yqua_｜Sister @Tennoujinyano｜嘴替@10Lystra｜@BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "Show5560"
+              },
+              {
+                "end": 30,
+                "start": 24,
+                "username": "yqua_"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "10Lystra"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8296,
+          "following_count": 3852,
+          "like_count": 38503,
+          "listed_count": 21,
+          "media_count": 2284,
+          "tweet_count": 8978
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

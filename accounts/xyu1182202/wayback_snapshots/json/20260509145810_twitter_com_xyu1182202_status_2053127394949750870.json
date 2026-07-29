@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2053097667157475372",
+    "created_at": "2026-05-09T14:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053127394949750870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044496192734666752",
+          "start": 0,
+          "username": "UWATCHLIFE"
+        },
+        {
+          "end": 24,
+          "id": "1820207828931424256",
+          "start": 12,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053127394949750870",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053107884482089311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWATCHLIFE @neko0202002 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2053097667157475372",
+        "created_at": "2026-05-09T14:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053127394949750870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 24,
+              "id": "1820207828931424256",
+              "start": 12,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053127394949750870",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053107884482089311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @neko0202002 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053097667157475372",
+        "created_at": "2026-05-09T13:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053107884482089311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053107884482089311",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053097667157475372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 当我想要依我的意愿离开这个世界，如何反制你们的开合与自杀干预"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 983,
+          "like_count": 4918,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5485
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 68,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 427
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 959,
+          "like_count": 1569,
+          "listed_count": 2,
+          "media_count": 1385,
+          "tweet_count": 3882
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

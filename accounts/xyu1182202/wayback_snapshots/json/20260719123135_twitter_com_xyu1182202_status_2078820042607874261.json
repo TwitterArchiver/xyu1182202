@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2078820042607874261",
+    "created_at": "2026-07-19T12:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078820042607874261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999862284500488192",
+          "start": 3,
+          "username": "Yume33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078820042607874261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078811316102549768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yume33550336: 不要再次形成自杀潮啊…\n我们不能接受有人在离开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2078820042607874261",
+        "created_at": "2026-07-19T12:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078820042607874261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999862284500488192",
+              "start": 3,
+              "username": "Yume33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078820042607874261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078811316102549768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yume33550336: 不要再次形成自杀潮啊…\n我们不能接受有人在离开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999862284500488192",
+        "conversation_id": "2078811316102549768",
+        "created_at": "2026-07-19T11:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078811316102549768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078811316102549768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要再次形成自杀潮啊…\n我们不能接受有人在离开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1059,
+          "like_count": 5354,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6575
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:21:50.000Z",
+        "description": "*dreamland system\n*inner world：@yumek496\n*lovers: @SarahAguil32516 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "yumek496"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "SarahAguil32516"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitashioyume.github.io",
+                "end": 23,
+                "expanded_url": "http://kitashioyume.github.io",
+                "start": 0,
+                "url": "https://t.co/n2vIYGSJ6k"
+              }
+            ]
+          }
+        },
+        "id": "1999862284500488192",
+        "name": "Kitashio Yume",
+        "pinned_tweet_id": "2071067138966831121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072896664104960/XV-dO9FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 438,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/n2vIYGSJ6k",
+        "username": "Yume33550336",
+        "verified": false
+      }
+    ]
+  }
+}

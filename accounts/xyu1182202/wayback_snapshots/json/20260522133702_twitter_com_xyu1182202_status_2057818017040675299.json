@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2057818017040675299",
+    "created_at": "2026-05-22T13:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057818017040675299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057818017040675299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057503117118439716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: 你对自己好点也他妈算帮助穷人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2057818017040675299",
+        "created_at": "2026-05-22T13:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057818017040675299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057818017040675299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057503117118439716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: 你对自己好点也他妈算帮助穷人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2057503117118439716",
+        "created_at": "2026-05-21T16:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057503117118439716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057503117118439716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 40833,
+          "like_count": 1606,
+          "quote_count": 15,
+          "reply_count": 137,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "你对自己好点也他妈算帮助穷人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1007,
+          "like_count": 5219,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5786
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7286,
+          "following_count": 275,
+          "like_count": 5896,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

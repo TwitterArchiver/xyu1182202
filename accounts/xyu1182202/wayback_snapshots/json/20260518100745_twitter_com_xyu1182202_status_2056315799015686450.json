@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2056315799015686450",
+    "created_at": "2026-05-18T10:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056315799015686450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056315799015686450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056001827305636247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 一切结束之后我想回去放羊😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2056315799015686450",
+        "created_at": "2026-05-18T10:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056315799015686450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056315799015686450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056001827305636247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 一切结束之后我想回去放羊😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056001827305636247",
+        "created_at": "2026-05-17T13:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056001827305636247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056001827305636247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1668,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一切结束之后我想回去放羊😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1002,
+          "like_count": 5142,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 5711
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5161,
+          "following_count": 2851,
+          "like_count": 2817,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2779
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

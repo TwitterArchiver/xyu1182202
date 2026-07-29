@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042481289593569663",
+    "created_at": "2026-04-10T06:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042494381127844290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HoroyoiBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042494381127844290",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042481289593569663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoroyoiBerry 你很棒👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042481280340889600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhZ5ycakAAx0UW.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042481280357711873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhZ5ygbQAE7yTl.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042481289593569663",
+        "created_at": "2026-04-10T06:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042494381127844290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HoroyoiBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042494381127844290",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042481289593569663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoroyoiBerry 你很棒👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042481280340889600",
+            "3_2042481280357711873"
+          ]
+        },
+        "author_id": "2021505488337416192",
+        "conversation_id": "2042481289593569663",
+        "created_at": "2026-04-10T05:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042481289593569663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZ482yGKYG",
+              "end": 49,
+              "expanded_url": "https://x.com/HoroyoiBerry/status/2042481289593569663/photo/1",
+              "media_key": "3_2042481280340889600",
+              "start": 26,
+              "url": "https://t.co/eZ482yGKYG"
+            },
+            {
+              "display_url": "pic.x.com/eZ482yGKYG",
+              "end": 49,
+              "expanded_url": "https://x.com/HoroyoiBerry/status/2042481289593569663/photo/1",
+              "media_key": "3_2042481280357711873",
+              "start": 26,
+              "url": "https://t.co/eZ482yGKYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042481289593569663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生中第一次打工、第一次收到工资。\n可以鼓励我嘛？ https://t.co/eZ482yGKYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 400,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "宝宝 @CyberKanjousen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "CyberKanjousen"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Kanagawa-ken, Japan",
+        "name": "微醺木莓アンアン",
+        "pinned_tweet_id": "2041914913158000654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042485159942111235/6RzcGbek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 436,
+          "like_count": 1694,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 293
+        },
+        "username": "HoroyoiBerry",
+        "verified": false
+      }
+    ]
+  }
+}

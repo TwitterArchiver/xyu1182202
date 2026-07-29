@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2040422373179240814",
+    "created_at": "2026-04-04T16:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040463823635906905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040463823635906905",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040422373179240814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 我赞同你的观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2040422373179240814",
+        "created_at": "2026-04-04T16:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040463823635906905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040463823635906905",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040422373179240814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 我赞同你的观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2040422373179240814",
+        "created_at": "2026-04-04T13:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040422373179240814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040422373179240814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国人，唯独是中国人，根本没有资格去说某种发型好，说某种发型有意义，劝别人剪某种头发，亦或者给别人灌输某种发型代表什么意义。因为在中国的平凡人都是从学校里出来的，这些学校在目前会高概率管人头发，并且赋予意义，你自己进了社会之后就算你给自己脸上贴再多进步标签，说的再天花乱坠，也是在所有人刚吃了整个青少年的屎又给别人塞新造社会屎"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 438,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国人，唯独是中国人，根本没有资格去说某种发型好，说某种发型有意义，劝别人剪某种头发，亦或者给别人灌输某种发型代表什么意义。因为在中国的平凡人都是从学校里出来的，这些学校在目前会高概率管人头发，并且赋予意义，你自己进了社会之后就算你给自己脸上贴再多进步标签，说的再天花乱坠，也是在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我，\n此号不用，请关注@xiyu1167103\n所有关注都会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "太阳系",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2039985954904297847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038925766503890944/0LIYHqpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 159,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 243,
+          "like_count": 2435,
+          "listed_count": 10,
+          "media_count": 3808,
+          "tweet_count": 12960
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

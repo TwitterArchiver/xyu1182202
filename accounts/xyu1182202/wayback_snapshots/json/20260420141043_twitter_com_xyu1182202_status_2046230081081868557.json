@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2046169020626354246",
+    "created_at": "2026-04-20T14:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046230081081868557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2024391303828754432",
+          "start": 0,
+          "username": "z4E2CNVy2c17576"
+        },
+        {
+          "end": 33,
+          "id": "1950548412140494848",
+          "start": 17,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046230081081868557",
+    "in_reply_to_user_id": "2024391303828754432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046184208746582250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z4E2CNVy2c17576 @K7qWcfzcdAPW5Y9 赢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2046184206469111808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWBsdObIAA1_aN.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046169020626354246",
+        "created_at": "2026-04-20T14:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046230081081868557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2024391303828754432",
+              "start": 0,
+              "username": "z4E2CNVy2c17576"
+            },
+            {
+              "end": 33,
+              "id": "1950548412140494848",
+              "start": 17,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046230081081868557",
+        "in_reply_to_user_id": "2024391303828754432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046184208746582250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z4E2CNVy2c17576 @K7qWcfzcdAPW5Y9 赢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046184206469111808"
+          ]
+        },
+        "author_id": "2024391303828754432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046169020626354246",
+        "created_at": "2026-04-20T11:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046184208746582250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apGXKUCFid",
+              "end": 69,
+              "expanded_url": "https://x.com/z4E2CNVy2c17576/status/2046184208746582250/photo/1",
+              "media_key": "3_2046184206469111808",
+              "start": 46,
+              "url": "https://t.co/apGXKUCFid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046184208746582250",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 38655,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046169020626354246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 我得赶紧准备出国了，等我出国后就可以狠狠嘲讽支那人了嘿嘿 https://t.co/apGXKUCFid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046223244907409655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 757,
+          "like_count": 2926,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T07:51:27.000Z",
+        "description": "支那猪不但要杀，而且要多杀、大杀、玩着杀！先慢慢折磨，再随意摆布，最后彻底屠光！现在有些同志面对支那猪，陷入右倾保守，不敢杀、不敢多杀、不敢玩弄，对支那猪的定义也总是犯迷糊，这正是革命不彻底、屠支不充分的恶劣体现！柬埔寨的经验就很好嘛！要我来说，只要说中文的，都是支那猪，都应该杀！杀十四亿——亚力山大.泽东",
+        "id": "2024391303828754432",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "经过七七四十九天交合炼化，习近平和毛泽东终于合体成为刃支究极体，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045519509822582784/L9utEEnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 78,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 622,
+          "tweet_count": 927
+        },
+        "username": "z4E2CNVy2c17576",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，小学学历，每天都看浪人新闻和跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23841,
+          "following_count": 314,
+          "like_count": 1743,
+          "listed_count": 67,
+          "media_count": 1464,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

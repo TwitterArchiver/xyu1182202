@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2051896895799488993",
+    "created_at": "2026-05-06T05:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051900658484490621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047617385851756544",
+          "start": 0,
+          "username": "mingfeilu0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051900658484490621",
+    "in_reply_to_user_id": "2047617385851756544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051896895799488993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingfeilu0427 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2051896895799488993",
+        "created_at": "2026-05-06T05:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051900658484490621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047617385851756544",
+              "start": 0,
+              "username": "mingfeilu0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051900658484490621",
+        "in_reply_to_user_id": "2047617385851756544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051896895799488993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingfeilu0427 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047617385851756544",
+        "conversation_id": "2051896895799488993",
+        "created_at": "2026-05-06T05:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051896895799488993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051896895799488993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条提前的讣告\n大概是在这个月或者下个月去死啦。\n大家好我是非非 因精神疾病困扰，所以我决定服用过量精神药品而结束生命。\n我从来没有抱着恶意去接触这个世界，\n我爱你们，18岁生日的时候，我许愿如果所有人都开心幸福的话，痛苦我一个人承受可以，很抱歉我还没有承载足够的痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "被窝",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 971,
+          "like_count": 4594,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 5182
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:03:41.000Z",
+        "description": "重度双相强迫焦虑/被害妄想/性别认知偏差/od自餐/文艺逼 长发男 4i/m/健全人勿扰",
+        "id": "2047617385851756544",
+        "location": "床",
+        "name": "明非路",
+        "pinned_tweet_id": "2050061289985384582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047620414290214912/sc3LavHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 56,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "mingfeilu0427",
+        "verified": false
+      }
+    ]
+  }
+}

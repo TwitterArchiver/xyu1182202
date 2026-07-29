@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2080835429746774026",
+    "created_at": "2026-07-26T03:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081215797129785796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081215797129785796",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080835429746774026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YongQuan 山寨版"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080674217297850369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAKLT9aMAEwAwZ.jpg",
+        "width": 581
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2080674217323036672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAKLUDagAAIRBN.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2080835429746774026",
+        "created_at": "2026-07-26T03:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081215797129785796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081215797129785796",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080835429746774026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 山寨版"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080674217297850369",
+            "3_2080674217323036672"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080835429746774026",
+        "created_at": "2026-07-25T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080835429746774026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iqjNosMTP",
+              "end": 28,
+              "expanded_url": "https://x.com/YongQuan/status/2080835429746774026/photo/1",
+              "media_key": "3_2080674217297850369",
+              "start": 5,
+              "url": "https://t.co/4iqjNosMTP"
+            },
+            {
+              "display_url": "pic.x.com/4iqjNosMTP",
+              "end": 28,
+              "expanded_url": "https://x.com/YongQuan/status/2080835429746774026/photo/1",
+              "media_key": "3_2080674217323036672",
+              "start": 5,
+              "url": "https://t.co/4iqjNosMTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080835429746774026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 303712,
+          "like_count": 984,
+          "quote_count": 3,
+          "reply_count": 272,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "相思了😂 https://t.co/4iqjNosMTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1055,
+          "like_count": 5362,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 6600
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11248,
+          "following_count": 4770,
+          "like_count": 52607,
+          "listed_count": 40,
+          "media_count": 5365,
+          "tweet_count": 16285
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

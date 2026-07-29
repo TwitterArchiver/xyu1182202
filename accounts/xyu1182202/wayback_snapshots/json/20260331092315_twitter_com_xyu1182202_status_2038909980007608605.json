@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2038647813429748047",
+    "created_at": "2026-03-31T09:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038909980007608605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "43252005",
+          "start": 0,
+          "username": "infiniteinte"
+        },
+        {
+          "end": 23,
+          "id": "857411155010101248",
+          "start": 14,
+          "username": "situ2oo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038909980007608605",
+    "in_reply_to_user_id": "43252005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038796077147824278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@infiniteinte @situ2oo1 真的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2038647813429748047",
+        "created_at": "2026-03-31T09:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038909980007608605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "43252005",
+              "start": 0,
+              "username": "infiniteinte"
+            },
+            {
+              "end": 23,
+              "id": "857411155010101248",
+              "start": 14,
+              "username": "situ2oo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038909980007608605",
+        "in_reply_to_user_id": "43252005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038796077147824278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@infiniteinte @situ2oo1 真的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "43252005",
+        "conversation_id": "2038647813429748047",
+        "created_at": "2026-03-31T01:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038796077147824278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "857411155010101248",
+              "start": 0,
+              "username": "situ2oo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038796077147824278",
+        "in_reply_to_user_id": "857411155010101248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12055,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038647813429748047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@situ2oo1 没写过Java，这文件路径真有这么深吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "",
+        "id": "2017878602164088832",
+        "name": "珑梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026933441640730624/oQA--18J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-29T02:27:56.000Z",
+        "description": "Player 1",
+        "id": "43252005",
+        "name": "Infiniteinte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032401241536659456/AG7WPhEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 452,
+          "like_count": 9441,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1776
+        },
+        "username": "infiniteinte",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-27T01:48:44.000Z",
+        "description": "💻 Developer | 📸 Photo | 💡 Psychology | 🔧 Tech | 🚆 Transit | Explore with curiosity. Build with empathy.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "situ2001.com",
+                "end": 23,
+                "expanded_url": "https://situ2001.com",
+                "start": 0,
+                "url": "https://t.co/VjhckAn8gQ"
+              }
+            ]
+          }
+        },
+        "id": "857411155010101248",
+        "name": "situ2001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515486578881495040/h-H91pDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 223,
+          "like_count": 5183,
+          "listed_count": 13,
+          "media_count": 538,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/VjhckAn8gQ",
+        "username": "situ2oo1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2047680351418601619",
+    "created_at": "2026-04-24T14:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047680351418601619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blingbling712/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/blingbling712/status/2047678619540189185",
+          "start": 7,
+          "url": "https://t.co/KFCIwhCtFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047680351418601619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047678619540189185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别走.... https://t.co/KFCIwhCtFl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2047680351418601619",
+        "created_at": "2026-04-24T14:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047680351418601619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blingbling712/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/blingbling712/status/2047678619540189185",
+              "start": 7,
+              "url": "https://t.co/KFCIwhCtFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047680351418601619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047678619540189185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别走.... https://t.co/KFCIwhCtFl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2047678619540189185",
+        "created_at": "2026-04-24T14:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047678619540189185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047678619540189185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "做噩梦了…\n梦到有朋友要紫砂，我就在面前，但不知道为什么我动不了，好像只能说话。\n我记得我说了好多好多，她只是安静的听着，最后直接在我面前喝盐了……好强的无力感和绝望感……迷迷糊糊醒来就一直在哭…\n你们都不许走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047518911265177698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 834,
+          "like_count": 3399,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4196
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 310,
+          "like_count": 7658,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1127
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

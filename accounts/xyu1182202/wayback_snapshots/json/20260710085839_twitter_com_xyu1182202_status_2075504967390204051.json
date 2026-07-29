@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2075223152716841370",
+    "created_at": "2026-07-10T08:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075504967390204051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075504967390204051",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075223152716841370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 神人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075223148870668288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMysdXoakAAaIoX.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075223149218758656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMysdY7aAAA7XNc.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075223149235564544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMysdY_acAAkqJ2.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2075223152716841370",
+        "created_at": "2026-07-10T08:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075504967390204051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075504967390204051",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075223152716841370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 神人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075223148870668288",
+            "3_2075223149218758656",
+            "3_2075223149235564544"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2075223152716841370",
+        "created_at": "2026-07-09T14:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075223152716841370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRwrA1MQvL",
+              "end": 115,
+              "expanded_url": "https://x.com/666666666ZT/status/2075223152716841370/photo/1",
+              "media_key": "3_2075223148870668288",
+              "start": 92,
+              "url": "https://t.co/FRwrA1MQvL"
+            },
+            {
+              "display_url": "pic.x.com/FRwrA1MQvL",
+              "end": 115,
+              "expanded_url": "https://x.com/666666666ZT/status/2075223152716841370/photo/1",
+              "media_key": "3_2075223149218758656",
+              "start": 92,
+              "url": "https://t.co/FRwrA1MQvL"
+            },
+            {
+              "display_url": "pic.x.com/FRwrA1MQvL",
+              "end": 115,
+              "expanded_url": "https://x.com/666666666ZT/status/2075223152716841370/photo/1",
+              "media_key": "3_2075223149235564544",
+              "start": 92,
+              "url": "https://t.co/FRwrA1MQvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075223152716841370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9037,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从这一刻起，我赚的钱永远是我自己的，整个家都对我不好，我就自己努力，自己奋斗，我一个人能吃苦，也能靠自己赚钱，明明什么没干，却天天被骂，唉，不知道他们在相亲相爱一家人的群里面在说什么 https://t.co/FRwrA1MQvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "遥不可及的梦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2049443590141530249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1056,
+          "like_count": 5334,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 6433
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 263,
+          "like_count": 29,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

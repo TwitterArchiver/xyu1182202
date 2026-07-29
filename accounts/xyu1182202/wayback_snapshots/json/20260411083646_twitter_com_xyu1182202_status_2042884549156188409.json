@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042825815541584388",
+    "created_at": "2026-04-11T08:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042884549156188409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945314547126185984",
+          "start": 0,
+          "username": "pysimpom"
+        },
+        {
+          "end": 21,
+          "id": "1621552410048237569",
+          "start": 10,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042884549156188409",
+    "in_reply_to_user_id": "1945314547126185984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042842534800695654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pysimpom @amecandy_x 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042825815541584388",
+        "created_at": "2026-04-11T08:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042884549156188409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945314547126185984",
+              "start": 0,
+              "username": "pysimpom"
+            },
+            {
+              "end": 21,
+              "id": "1621552410048237569",
+              "start": 10,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042884549156188409",
+        "in_reply_to_user_id": "1945314547126185984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042842534800695654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pysimpom @amecandy_x 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314547126185984",
+        "conversation_id": "2042825815541584388",
+        "created_at": "2026-04-11T05:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042842534800695654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042842534800695654",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042825815541584388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 广州禁毒的那条视频真的算客观的\n墙内互联网上几乎所有人都把od者与贩毒者划等号，几乎是「恶魔」的代名词\n广州禁毒是少数几条视频，还拿od者当公民，当孩子看待的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 459,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "Never give up until the last moment, make the impossible possible\n特摄厨，BA厨，美漫厨，误入理工科\ngithub: https://t.co/GbsMIU43kQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 115,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 92,
+                "url": "https://t.co/GbsMIU43kQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/hFP8V8t",
+                "end": 23,
+                "expanded_url": "https://b23.tv/hFP8V8t",
+                "start": 0,
+                "url": "https://t.co/9W4RGXWEkT"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "name": "fake sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042548764972564480/-U2cGKZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 779,
+          "like_count": 4736,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/9W4RGXWEkT",
+        "username": "pysimpom",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "Radical Leftist🚩/ LLM Engineer /  药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 2055,
+          "like_count": 26841,
+          "listed_count": 15,
+          "media_count": 1398,
+          "tweet_count": 9945
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

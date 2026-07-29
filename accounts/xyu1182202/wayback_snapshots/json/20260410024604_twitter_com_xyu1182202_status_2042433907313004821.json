@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2042342100071825413",
+    "created_at": "2026-04-10T02:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042433907313004821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1384487248184320002",
+          "start": 0,
+          "username": "chqx_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042433907313004821",
+    "in_reply_to_user_id": "1384487248184320002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042342100071825413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chqx_15 信息茧房"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2042342100071825413",
+        "created_at": "2026-04-10T02:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042433907313004821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1384487248184320002",
+              "start": 0,
+              "username": "chqx_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042433907313004821",
+        "in_reply_to_user_id": "1384487248184320002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042342100071825413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chqx_15 信息茧房"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384487248184320002",
+        "conversation_id": "2042342100071825413",
+        "created_at": "2026-04-09T20:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042342100071825413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042342100071825413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近怎么老是刷到几千年前的伊朗新闻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 389,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T12:41:03.000Z",
+        "description": "愿此行，终抵群星 | 生活号 @chsx_15 | © 原创头像，请勿使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "chsx_15"
+              }
+            ]
+          }
+        },
+        "id": "1384487248184320002",
+        "location": "🥥大椰子理工大学图书馆",
+        "name": "萤草 Йнцо ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964146124295671808/xrr-qOoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15465,
+          "following_count": 1095,
+          "like_count": 12113,
+          "listed_count": 32,
+          "media_count": 3313,
+          "tweet_count": 36065
+        },
+        "username": "chqx_15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2044351133649625393",
+    "created_at": "2026-04-16T09:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044713068069089690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044713068069089690",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044351133649625393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyronANNO 社会上更多..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2044351133649625393",
+        "created_at": "2026-04-16T09:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044713068069089690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044713068069089690",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044351133649625393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO 社会上更多..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "conversation_id": "2044351133649625393",
+        "created_at": "2026-04-15T09:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044351133649625393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044351133649625393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2173,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么到大学了还有形式主义😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 632,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 897,
+          "like_count": 189882,
+          "listed_count": 0,
+          "media_count": 4909,
+          "tweet_count": 20618
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 897,
+          "like_count": 189882,
+          "listed_count": 0,
+          "media_count": 4909,
+          "tweet_count": 20618
+        },
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

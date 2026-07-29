@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2043987177894490534",
+    "created_at": "2026-04-14T09:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043987177894490534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999504877337395200",
+          "start": 3,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043987177894490534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043728938103611541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuan_0123: 作为人类这种意识体而出生是幸福还是不幸呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2043987177894490534",
+        "created_at": "2026-04-14T09:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043987177894490534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999504877337395200",
+              "start": 3,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043987177894490534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043728938103611541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuan_0123: 作为人类这种意识体而出生是幸福还是不幸呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999504877337395200",
+        "conversation_id": "2043728938103611541",
+        "created_at": "2026-04-13T16:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043728938103611541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043728938103611541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "作为人类这种意识体而出生是幸福还是不幸呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n你是爱，是温暖，你是人间的四月天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxFQt9"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041490077160030236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 542,
+          "like_count": 1915,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/uLGrCxFQt9",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "20↑/無言フォロー失礼いたしました/我是川川/祝你以后都开心/回fo请私信/🚪888互关免费/有女友🥺我们很相爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 358,
+          "like_count": 11907,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 6400
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}
