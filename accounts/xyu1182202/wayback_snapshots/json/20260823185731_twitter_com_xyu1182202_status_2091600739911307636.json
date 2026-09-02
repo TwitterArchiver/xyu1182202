@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090821815010799616"
+      ],
+      "media_source_tweet_id": [
+        "2090936987481997799"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "conversation_id": "2091600739911307636",
+    "created_at": "2026-08-23T18:57:31.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T19:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091600739911307636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x3Ksih0H3n",
+          "end": 52,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2090936987481997799/photo/1",
+          "media_key": "3_2090821815010799616",
+          "start": 29,
+          "url": "https://t.co/x3Ksih0H3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091600739911307636",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090821815010799616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090936987481997799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 恒大建的房子： https://t.co/x3Ksih0H3n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2090821815010799616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQXXPRbMAAeox_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090821815010799616"
+          ],
+          "media_source_tweet_id": [
+            "2090936987481997799"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "conversation_id": "2091600739911307636",
+        "created_at": "2026-08-23T18:57:31.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091600739911307636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3Ksih0H3n",
+              "end": 52,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2090936987481997799/photo/1",
+              "media_key": "3_2090821815010799616",
+              "start": 29,
+              "url": "https://t.co/x3Ksih0H3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091600739911307636",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090821815010799616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090936987481997799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 恒大建的房子： https://t.co/x3Ksih0H3n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090821815010799616"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2090936987481997799",
+        "created_at": "2026-08-21T23:00:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090936987481997799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3Ksih0H3n",
+              "end": 31,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2090936987481997799/photo/1",
+              "media_key": "3_2090821815010799616",
+              "start": 8,
+              "url": "https://t.co/x3Ksih0H3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090936987481997799",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090821815010799616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 90018,
+          "like_count": 2582,
+          "quote_count": 7,
+          "reply_count": 119,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "恒大建的房子： https://t.co/x3Ksih0H3n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2091600739911307636",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085767956261433495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017878602164088832/1785947857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1073,
+          "like_count": 5403,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 6764
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2091592079453675580",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 1927,
+          "like_count": 3424,
+          "listed_count": 2,
+          "media_count": 1323,
+          "tweet_count": 8814
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

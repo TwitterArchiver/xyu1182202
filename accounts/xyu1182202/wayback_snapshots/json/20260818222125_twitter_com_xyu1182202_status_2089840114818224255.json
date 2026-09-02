@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2089428278998454638",
+    "created_at": "2026-08-18T22:21:25.000Z",
+    "display_text_range": [
+      23,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T23:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089840114818224255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047574499252453376",
+          "start": 0,
+          "username": "cnm7l64"
+        },
+        {
+          "end": 22,
+          "id": "2043219928149590016",
+          "start": 9,
+          "username": "JohnSmithuev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089840114818224255",
+    "in_reply_to_user_id": "2047574499252453376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089736424111382587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnm7l64 @JohnSmithuev 其实世界是一个巨大的傻逼?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2089428278998454638",
+        "created_at": "2026-08-18T22:21:25.000Z",
+        "display_text_range": [
+          23,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089840114818224255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047574499252453376",
+              "start": 0,
+              "username": "cnm7l64"
+            },
+            {
+              "end": 22,
+              "id": "2043219928149590016",
+              "start": 9,
+              "username": "JohnSmithuev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089840114818224255",
+        "in_reply_to_user_id": "2047574499252453376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089736424111382587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnm7l64 @JohnSmithuev 其实世界是一个巨大的傻逼?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047574499252453376",
+        "conversation_id": "2089428278998454638",
+        "created_at": "2026-08-18T15:29:23.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089736424111382587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043219928149590016",
+              "start": 0,
+              "username": "JohnSmithuev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089736424111382587",
+        "in_reply_to_user_id": "2043219928149590016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5349,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089428278998454638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnSmithuev 喊嘉豪的是傻逼，嘉豪也是傻逼，追嘉豪的也是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2089840114818224255",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085767956261433495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017878602164088832/1785947857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1033,
+          "like_count": 5395,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 6716
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T07:13:30.000Z",
+        "description": "",
+        "id": "2047574499252453376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089736424111382587",
+        "name": "cnm",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047577374015823872/OhkvBEch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "cnm7l64",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-12T06:51:07.000Z",
+        "description": "",
+        "id": "2043219928149590016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089750847240765669",
+        "name": "Jovan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043219928149590016/1776644615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043220495714463744/C9TDaf22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "JohnSmithuev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

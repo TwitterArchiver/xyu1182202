@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1494429461135396864"
+      ],
+      "media_source_tweet_id": [
+        "1494429548649541632"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085512836630053067",
+    "created_at": "2026-08-06T23:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T00:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085512836630053067"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "瀬谷駅"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "minmin"
+        },
+        {
+          "end": 44,
+          "start": 32,
+          "tag": "KkKk_____Mm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1339038213445283840",
+          "start": 3,
+          "username": "liliLliliRliY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P2kcnVR4t3",
+          "end": 68,
+          "expanded_url": "https://x.com/liliLliliRliY/status/1494429548649541632/video/1",
+          "media_key": "7_1494429461135396864",
+          "start": 45,
+          "url": "https://t.co/P2kcnVR4t3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085512836630053067",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1494429548649541632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liliLliliRliY: #瀬谷駅\n#minmin\n#KkKk_____Mm https://t.co/P2kcnVR4t3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29203,
+        "height": 720,
+        "media_key": "7_1494429461135396864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1494429461135396864/pu/img/XixvoXQFPM_nQEjC.jpg",
+        "public_metrics": {
+          "view_count": 2303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1494429461135396864/pu/vid/480x270/zezhcf6ckKiLQlWZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1494429461135396864/pu/vid/640x360/IfUKC8VD17wlV8DL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1494429461135396864/pu/vid/1280x720/8Kg-qEr34OYwmaKM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1494429461135396864/pu/pl/pnGx0jm1CIp-KjxG.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1494429461135396864"
+          ]
+        },
+        "author_id": "1339038213445283840",
+        "conversation_id": "1494429548649541632",
+        "created_at": "2022-02-17T21:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2022-02-17T22:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1494429548649541632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "瀬谷駅"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "minmin"
+            },
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "KkKk_____Mm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2kcnVR4t3",
+              "end": 49,
+              "expanded_url": "https://x.com/liliLliliRliY/status/1494429548649541632/video/1",
+              "media_key": "7_1494429461135396864",
+              "start": 26,
+              "url": "https://t.co/P2kcnVR4t3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1494429548649541632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#瀬谷駅\n#minmin\n#KkKk_____Mm https://t.co/P2kcnVR4t3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1494429461135396864"
+          ],
+          "media_source_tweet_id": [
+            "1494429548649541632"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085512836630053067",
+        "created_at": "2026-08-06T23:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085512836630053067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "瀬谷駅"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "minmin"
+            },
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "KkKk_____Mm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1339038213445283840",
+              "start": 3,
+              "username": "liliLliliRliY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2kcnVR4t3",
+              "end": 68,
+              "expanded_url": "https://x.com/liliLliliRliY/status/1494429548649541632/video/1",
+              "media_key": "7_1494429461135396864",
+              "start": 45,
+              "url": "https://t.co/P2kcnVR4t3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085512836630053067",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1494429548649541632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liliLliliRliY: #瀬谷駅\n#minmin\n#KkKk_____Mm https://t.co/P2kcnVR4t3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2084328621695812023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1043,
+          "like_count": 5389,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 6674
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-16T02:42:52.000Z",
+        "description": "KkKk_____Mm minmin忘れない 可能な年は現地に行きます。［20/21/22/23/24/25",
+        "id": "1339038213445283840",
+        "name": "⭐︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626654130952609792/QA-caGPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 2,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "liliLliliRliY",
+        "verified": false
+      }
+    ]
+  }
+}

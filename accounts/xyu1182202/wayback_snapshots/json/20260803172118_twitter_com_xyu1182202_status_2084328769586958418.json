@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2084241733228077452",
+    "created_at": "2026-08-03T17:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084328769586958418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954874019947384832",
+          "start": 0,
+          "username": "CuteCatGYH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084328769586958418",
+    "in_reply_to_user_id": "1954874019947384832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084241733228077452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteCatGYH 拉黑就行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2084241717969219585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy2zLma8AESwJ7.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2084241733228077452",
+        "created_at": "2026-08-03T17:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084328769586958418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954874019947384832",
+              "start": 0,
+              "username": "CuteCatGYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084328769586958418",
+        "in_reply_to_user_id": "1954874019947384832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084241733228077452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteCatGYH 拉黑就行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084241717969219585"
+          ]
+        },
+        "author_id": "1954874019947384832",
+        "conversation_id": "2084241733228077452",
+        "created_at": "2026-08-03T11:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084241733228077452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9wdbgsoaQ",
+              "end": 41,
+              "expanded_url": "https://x.com/CuteCatGYH/status/2084241733228077452/photo/1",
+              "media_key": "3_2084241717969219585",
+              "start": 18,
+              "url": "https://t.co/X9wdbgsoaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084241733228077452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是 hyw，香港那么多诈骗短信吗 https://t.co/X9wdbgsoaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1043,
+          "like_count": 5376,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 6649
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T11:54:33.000Z",
+        "description": "08 年小朋友 | 失业ing | 躺平 | 懒癌晚期患者 | 爱好航拍摄影和睡觉 | 喜欢做任何自己喜欢的事 | 住在青青的岛 |🏳️‍⚧️HRT:2025.09.05| 同类互 fo| 中度玉玉\n小朋友：@meow_huan 好朋友：@hry_xsu\n@RainEngine2024 前女友（？\n爱你们喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "meow_huan"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "hry_xsu"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1954874019947384832",
+        "location": "附近 2000km 内",
+        "name": "憧憬成为魔法少女🍥",
+        "pinned_tweet_id": "2055245713299349599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042964461594775552/XOsYSZFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 100,
+          "like_count": 3691,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "CuteCatGYH",
+        "verified": true
+      }
+    ]
+  }
+}

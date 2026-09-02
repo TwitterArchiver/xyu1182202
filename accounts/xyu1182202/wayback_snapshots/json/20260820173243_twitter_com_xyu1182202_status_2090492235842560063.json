@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2090262300586586162",
+    "created_at": "2026-08-20T17:32:43.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090492235842560063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684801916713484289",
+          "start": 0,
+          "username": "wangbennb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090492235842560063",
+    "in_reply_to_user_id": "1684801916713484289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090262300586586162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangbennb666 玩玩吧别真考上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2090262300586586162",
+        "created_at": "2026-08-20T17:32:43.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090492235842560063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684801916713484289",
+              "start": 0,
+              "username": "wangbennb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090492235842560063",
+        "in_reply_to_user_id": "1684801916713484289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090262300586586162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangbennb666 玩玩吧别真考上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684801916713484289",
+        "conversation_id": "2090262300586586162",
+        "created_at": "2026-08-20T02:19:02.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090262300586586162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090262300586586162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 29344,
+          "like_count": 139,
+          "quote_count": 4,
+          "reply_count": 246,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "第1次上高中需要注意什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2090492235842560063",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085767956261433495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017878602164088832/1785947857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1045,
+          "like_count": 5400,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 6735
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T05:44:43.000Z",
+        "description": "臭打codm的|中文🇨🇳 |互fo            \n如果什么都做不到的话至少你还能试试关注塔菲😋\n备用账号@ditie91",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "ditie91"
+              }
+            ]
+          }
+        },
+        "id": "1684801916713484289",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2090329088208851183",
+        "name": "诋铁（改邪归正）",
+        "pinned_tweet_id": "2090053439313346568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684801916713484289/1786393166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086909970172518400/8sKJAKXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 551,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "wangbennb666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

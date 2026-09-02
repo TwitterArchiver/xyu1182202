@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2089428278998454638",
+    "created_at": "2026-08-18T22:21:48.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T23:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089840210406416690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043219928149590016",
+          "start": 0,
+          "username": "JohnSmithuev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089840210406416690",
+    "in_reply_to_user_id": "2043219928149590016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089428278998454638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnSmithuev 还有海岛奇兵😱🤡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18626,
+        "height": 1280,
+        "media_key": "13_2089428227744030720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089428227744030720/img/_xraKhcKvSU29l_F.jpg",
+        "public_metrics": {
+          "view_count": 521337
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089428227744030720/vid/avc1/320x694/Cpa1U3kphLAUiA9D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089428227744030720/vid/avc1/480x1040/_Zoc4Kg7j7J_f5uA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089428227744030720/vid/avc1/590x1280/TE6COLESQXQQyhBK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089428227744030720/pl/AvnyFOXkpS5lGSoc.m3u8?v=c16"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2089428278998454638",
+        "created_at": "2026-08-18T22:21:48.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089840210406416690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043219928149590016",
+              "start": 0,
+              "username": "JohnSmithuev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089840210406416690",
+        "in_reply_to_user_id": "2043219928149590016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089428278998454638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnSmithuev 还有海岛奇兵😱🤡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089428227744030720"
+          ]
+        },
+        "author_id": "2043219928149590016",
+        "conversation_id": "2089428278998454638",
+        "created_at": "2026-08-17T19:04:56.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089428278998454638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxgxPWYIeo",
+              "end": 43,
+              "expanded_url": "https://x.com/JohnSmithuev/status/2089428278998454638/video/1",
+              "media_key": "13_2089428227744030720",
+              "start": 20,
+              "url": "https://t.co/yxgxPWYIeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089428278998454638",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089428227744030720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 1002419,
+          "like_count": 2677,
+          "quote_count": 5,
+          "reply_count": 589,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "时代峰峻直播中有人喊蒋介石导致直播封禁 https://t.co/yxgxPWYIeo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2089840210406416690",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085767956261433495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017878602164088832/1785947857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1033,
+          "like_count": 5396,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 6717
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-12T06:51:07.000Z",
+        "description": "",
+        "id": "2043219928149590016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089750847240765669",
+        "name": "Jovan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043219928149590016/1776644615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043220495714463744/C9TDaf22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "JohnSmithuev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

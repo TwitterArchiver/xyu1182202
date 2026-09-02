@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2082792189474775498",
+    "created_at": "2026-07-30T13:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082824375452266651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "yaniko_jp3401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082824375452266651",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082792189474775498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaniko_jp3401 笑死我。醉翁之意不在酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2082792181941833728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeQdFGakAASu7O.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2082792189474775498",
+        "created_at": "2026-07-30T13:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082824375452266651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "yaniko_jp3401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082824375452266651",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082792189474775498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaniko_jp3401 笑死我。醉翁之意不在酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082792181941833728"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "conversation_id": "2082792189474775498",
+        "created_at": "2026-07-30T11:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082792189474775498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrIDn0USFJ",
+              "end": 27,
+              "expanded_url": "https://x.com/yaniko_jp3401/status/2082792189474775498/photo/1",
+              "media_key": "3_2082792181941833728",
+              "start": 4,
+              "url": "https://t.co/YrIDn0USFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082792189474775498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍疯喽 https://t.co/YrIDn0USFJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1045,
+          "like_count": 5373,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 6628
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "日常、小逼话、里人格、张献忠@sukaretto_79\n无立场| 梗图每日分享 |｜蓝勾互fo｜友好讨论不好的留言会删\nIP属地：陕西富平",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "sukaretto_79"
+              }
+            ]
+          }
+        },
+        "id": "1920869622670393344",
+        "location": "富平县冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1082,
+          "like_count": 9373,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 725
+        },
+        "url": "",
+        "username": "yaniko_jp3401",
+        "verified": true
+      }
+    ]
+  }
+}

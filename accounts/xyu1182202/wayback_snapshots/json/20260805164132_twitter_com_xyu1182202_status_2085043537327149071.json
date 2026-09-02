@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2085043537327149071",
+    "created_at": "2026-08-05T16:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085043537327149071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ffynya/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ffynya/status/2084947404068192614",
+          "start": 9,
+          "url": "https://t.co/XtM7O9295v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085043537327149071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084947404068192614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有去验证一下的吗 https://t.co/XtM7O9295v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_2084947386011701248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO84md6bUAAY7-4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2085043537327149071",
+        "created_at": "2026-08-05T16:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085043537327149071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ffynya/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ffynya/status/2084947404068192614",
+              "start": 9,
+              "url": "https://t.co/XtM7O9295v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085043537327149071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084947404068192614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有去验证一下的吗 https://t.co/XtM7O9295v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084947386011701248"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2084947404068192614",
+        "created_at": "2026-08-05T10:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084947404068192614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/el5GgEMWkX",
+              "end": 29,
+              "expanded_url": "https://x.com/ffynya/status/2084947404068192614/photo/1",
+              "media_key": "3_2084947386011701248",
+              "start": 6,
+              "url": "https://t.co/el5GgEMWkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084947404068192614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 231626,
+          "like_count": 519,
+          "quote_count": 0,
+          "reply_count": 155,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这样吗🫪🫪 https://t.co/el5GgEMWkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2084328621695812023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1044,
+          "like_count": 5387,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 6668
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2083960464967696407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 798,
+          "like_count": 1725,
+          "listed_count": 2,
+          "media_count": 593,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

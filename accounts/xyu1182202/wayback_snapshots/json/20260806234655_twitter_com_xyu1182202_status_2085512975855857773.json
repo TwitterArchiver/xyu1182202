@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1229745723421253632",
+        "3_1229745725694603265",
+        "3_1229745724042006529"
+      ],
+      "media_source_tweet_id": [
+        "1229745735958007808",
+        "1229745735958007808",
+        "1229745735958007808"
+      ]
+    },
+    "author_id": "2017878602164088832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2085512975855857773",
+    "created_at": "2026-08-06T23:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T00:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085512975855857773"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "女子高生"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "人身事故"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "瀬谷駅"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "719172346691526656",
+          "start": 3,
+          "username": "kgm_zerosun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v73u4fV7CP",
+          "end": 139,
+          "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+          "media_key": "3_1229745723421253632",
+          "start": 116,
+          "url": "https://t.co/v73u4fV7CP"
+        },
+        {
+          "display_url": "pic.x.com/v73u4fV7CP",
+          "end": 139,
+          "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+          "media_key": "3_1229745725694603265",
+          "start": 116,
+          "url": "https://t.co/v73u4fV7CP"
+        },
+        {
+          "display_url": "pic.x.com/v73u4fV7CP",
+          "end": 139,
+          "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+          "media_key": "3_1229745724042006529",
+          "start": 116,
+          "url": "https://t.co/v73u4fV7CP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085512975855857773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1229745735958007808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kgm_zerosun: 瀬谷駅に行って手を合わせてきた。\nホームの椅子に飲み物とか供え物があったけど、おそらくここに録画状態のスマホを置いてたんだね。、\n来世は幸せでありますように。。。\n#女子高生 #人身事故 #瀬谷駅 https://t.co/v73u4fV7CP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_1229745723421253632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ERDvOFCUYAA1sXl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1824,
+        "media_key": "3_1229745725694603265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ERDvONgU8AE9UHF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1229745724042006529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ERDvOHWUUAEG3rX.jpg",
+        "width": 2033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1229745723421253632",
+            "3_1229745725694603265",
+            "3_1229745724042006529"
+          ]
+        },
+        "author_id": "719172346691526656",
+        "conversation_id": "1229745735958007808",
+        "created_at": "2020-02-18T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2020-02-18T13:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1229745735958007808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "女子高生"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "人身事故"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "瀬谷駅"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v73u4fV7CP",
+              "end": 122,
+              "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+              "media_key": "3_1229745723421253632",
+              "start": 99,
+              "url": "https://t.co/v73u4fV7CP"
+            },
+            {
+              "display_url": "pic.x.com/v73u4fV7CP",
+              "end": 122,
+              "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+              "media_key": "3_1229745725694603265",
+              "start": 99,
+              "url": "https://t.co/v73u4fV7CP"
+            },
+            {
+              "display_url": "pic.x.com/v73u4fV7CP",
+              "end": 122,
+              "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+              "media_key": "3_1229745724042006529",
+              "start": 99,
+              "url": "https://t.co/v73u4fV7CP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1229745735958007808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 0,
+          "like_count": 604,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "瀬谷駅に行って手を合わせてきた。\nホームの椅子に飲み物とか供え物があったけど、おそらくここに録画状態のスマホを置いてたんだね。、\n来世は幸せでありますように。。。\n#女子高生 #人身事故 #瀬谷駅 https://t.co/v73u4fV7CP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1229745723421253632",
+            "3_1229745725694603265",
+            "3_1229745724042006529"
+          ],
+          "media_source_tweet_id": [
+            "1229745735958007808",
+            "1229745735958007808",
+            "1229745735958007808"
+          ]
+        },
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2085512975855857773",
+        "created_at": "2026-08-06T23:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085512975855857773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "女子高生"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "人身事故"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "瀬谷駅"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "719172346691526656",
+              "start": 3,
+              "username": "kgm_zerosun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v73u4fV7CP",
+              "end": 139,
+              "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+              "media_key": "3_1229745723421253632",
+              "start": 116,
+              "url": "https://t.co/v73u4fV7CP"
+            },
+            {
+              "display_url": "pic.x.com/v73u4fV7CP",
+              "end": 139,
+              "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+              "media_key": "3_1229745725694603265",
+              "start": 116,
+              "url": "https://t.co/v73u4fV7CP"
+            },
+            {
+              "display_url": "pic.x.com/v73u4fV7CP",
+              "end": 139,
+              "expanded_url": "https://x.com/nogi_apple4256/status/1229745735958007808/photo/1",
+              "media_key": "3_1229745724042006529",
+              "start": 116,
+              "url": "https://t.co/v73u4fV7CP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085512975855857773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1229745735958007808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kgm_zerosun: 瀬谷駅に行って手を合わせてきた。\nホームの椅子に飲み物とか供え物があったけど、おそらくここに録画状態のスマホを置いてたんだね。、\n来世は幸せでありますように。。。\n#女子高生 #人身事故 #瀬谷駅 https://t.co/v73u4fV7CP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2084328621695812023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085042549358792705/7V7vfIvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1043,
+          "like_count": 5389,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 6677
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-10T14:37:03.000Z",
+        "description": "ヨジャドルとユニドルの雑食",
+        "id": "719172346691526656",
+        "location": "エクボは恋の落とし穴 🐈︎💕︎",
+        "name": "きー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608856372548108289/T8Fub9Q3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 579,
+          "like_count": 93045,
+          "listed_count": 8,
+          "media_count": 819,
+          "tweet_count": 37465
+        },
+        "url": "",
+        "username": "kgm_zerosun",
+        "verified": true
+      }
+    ]
+  }
+}

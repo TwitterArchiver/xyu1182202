@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2017878602164088832",
+    "conversation_id": "2084081819457126780",
+    "created_at": "2026-08-03T17:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084329069794193789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045693110869495808",
+          "start": 0,
+          "username": "rx8964114514"
+        },
+        {
+          "end": 23,
+          "id": "1465701247021838341",
+          "start": 14,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084329069794193789",
+    "in_reply_to_user_id": "2045693110869495808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084213558506909995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rx8964114514 @show5560 博士?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2084213555180793856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOydL5Ca8AAKWeQ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2084081819457126780",
+        "created_at": "2026-08-03T17:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084329069794193789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045693110869495808",
+              "start": 0,
+              "username": "rx8964114514"
+            },
+            {
+              "end": 23,
+              "id": "1465701247021838341",
+              "start": 14,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084329069794193789",
+        "in_reply_to_user_id": "2045693110869495808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084213558506909995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rx8964114514 @show5560 博士?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084213555180793856"
+          ]
+        },
+        "author_id": "2045693110869495808",
+        "conversation_id": "2084081819457126780",
+        "created_at": "2026-08-03T09:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084213558506909995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZGfPa4xT9",
+              "end": 33,
+              "expanded_url": "https://x.com/rx8964114514/status/2084213558506909995/photo/1",
+              "media_key": "3_2084213555180793856",
+              "start": 10,
+              "url": "https://t.co/1ZGfPa4xT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084213558506909995",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7170,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084081819457126780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 https://t.co/1ZGfPa4xT9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "你好喵?😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "乌托邦",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075515919426871308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1043,
+          "like_count": 5376,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 6651
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T02:37:20.000Z",
+        "description": "追悼 威尔逊·爱德华兹 Wilson Edwards （スイス生物学者）　\n＠2016vrscr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "2016vrscr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/2016vrscr?s=21…",
+                "end": 23,
+                "expanded_url": "https://x.com/2016vrscr?s=21&t=pPE-GzeWU9iSE6pTogZHJQ",
+                "start": 0,
+                "url": "https://t.co/TJzY7MBXl6"
+              }
+            ]
+          }
+        },
+        "id": "2045693110869495808",
+        "name": "RX8964プロパガンダム",
+        "pinned_tweet_id": "2046023567679394300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045693422649106432/KBNi-HbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 118,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 701,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/TJzY7MBXl6",
+        "username": "rx8964114514",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5890,
+          "following_count": 1735,
+          "like_count": 33593,
+          "listed_count": 14,
+          "media_count": 2748,
+          "tweet_count": 12728
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}
